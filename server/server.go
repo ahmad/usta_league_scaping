@@ -39,11 +39,6 @@ func main() {
 			panic(err)
 		}
 
-		// fmt.Println("SectionId:", SectionId)
-		// fmt.Println("DistrictId:", DistrictId)
-		// fmt.Println("AreaId:", AreaId)
-		// fmt.Println("Payload:", Payload)
-
 		filename := "players/" + t.SectionId + "_" + t.DistrictId + "_" + t.AreaId + ".json"
 		fmt.Println("Writing to file:", filename)
 
