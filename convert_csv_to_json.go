@@ -3,7 +3,6 @@ package main
 import (
 	"encoding/csv"
 	"encoding/json"
-	"io/ioutil"
 	"os"
 )
 
@@ -54,6 +53,6 @@ func main() {
 	}
 
 	j, _ := json.MarshalIndent(sections, "", "  ")
-	ioutil.WriteFile("sections.json", j, os.ModePerm)
+	os.WriteFile("sections.json", j, os.ModePerm)
 
 }
