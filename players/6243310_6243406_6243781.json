@@ -1,0 +1,4887 @@
+{
+  "sectionId": "6243310",
+  "districtId": "6243406",
+  "areaId": "6243781",
+  "players": [
+    {
+      "name": "Bhuvnesh Aggarwal",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/23/2024",
+      "usta_id": "HXtAh98BzzCOaMyLSG5pRQ=="
+    },
+    {
+      "name": "Lisa Ainsworth",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "kKaj7MCl8AxUM3J7iFCDIg=="
+    },
+    {
+      "name": "Shafkat Alam-khan",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "kfQj6dhDUQecRrzylyDw+Q=="
+    },
+    {
+      "name": "Alberto Albejjani",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/19/2025",
+      "usta_id": "RPWHjHI9vnwhI5lEpcN6Fw=="
+    },
+    {
+      "name": "Jason Aleman",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/18/2023",
+      "usta_id": "nTQZ0OHQxXTbrNn2PzHrmA=="
+    },
+    {
+      "name": "Muaz Altabbaa",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/31/2024",
+      "usta_id": "Na1+QqojDzRNTCV1aEowYw=="
+    },
+    {
+      "name": "Celeste Ames",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "SZvQo2G/u4n6GXT5oaJJcA=="
+    },
+    {
+      "name": "Louella Amos",
+      "gender": "Female",
+      "city": "Mequon",
+      "state": "WI",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eAtahndvTv+fzpAnmLojHg=="
+    },
+    {
+      "name": "Martha Amulraj",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "dtQ9qr42kVkJ7fqSmpHTUg=="
+    },
+    {
+      "name": "Chris Anderson",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IlmraSqsv+cC9ZgtosYwVQ=="
+    },
+    {
+      "name": "Alex Andreatta",
+      "gender": "Male",
+      "city": "Taylorville",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/4/2024",
+      "usta_id": "OpvDjrDhOjMAf0nT/yBDAQ=="
+    },
+    {
+      "name": "Melissa Aprahamian",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "nAhixUGV/I6NPdiDyTCKNQ=="
+    },
+    {
+      "name": "Shekar Arcot",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gshxpKUUBZ6LntXYheoLuQ=="
+    },
+    {
+      "name": "Amy Armstrong",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BgwiHy3KKAzg5Ludlv3lfg=="
+    },
+    {
+      "name": "Jeremy Arns",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s+Z0JzYTAdLVQCHBgDNlbw=="
+    },
+    {
+      "name": "Vijeyata Arora",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "35nlWQolKMQpudgx5Tw6vQ=="
+    },
+    {
+      "name": "Ignacio Arretche",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fadRmoKg6zS4rPsAurJW6Q=="
+    },
+    {
+      "name": "Dhruve Ashar",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/12/2023",
+      "usta_id": "d39ywjEJLHqPLojBDXPJFw=="
+    },
+    {
+      "name": "Mitch Aubert",
+      "gender": "Male",
+      "city": "Cerro Gordo",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cJ/AfrxTiSaCAwwIAaVIig=="
+    },
+    {
+      "name": "Marguerite Bailey",
+      "gender": "Female",
+      "city": "Rantoul",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fRQScxS9/5li3nEE4sRTgQ=="
+    },
+    {
+      "name": "Nicholas Baker",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "6/22/2025",
+      "usta_id": "YAywtmmzw09ulpgiRtC7iQ=="
+    },
+    {
+      "name": "Tenley Banik",
+      "gender": "Female",
+      "city": "NORMAL",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/25/2024",
+      "usta_id": "MbnU3/kPoP0zyteqTJkiqA=="
+    },
+    {
+      "name": "Brianna Barconi",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "10/9/2024",
+      "usta_id": "1FyDKKDlilOnGLiHzzFykQ=="
+    },
+    {
+      "name": "Wendy Barker",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bPfT6ul4WcqssIqw9FBfzg=="
+    },
+    {
+      "name": "Yuko Barnes",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TtLjROyFwwQCdZMXY7UA4g=="
+    },
+    {
+      "name": "Betina Basile",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "8HuU1Bukf+z5h1RARjQgtg=="
+    },
+    {
+      "name": "Satomi Baumgartner",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a3XXVAC59T/F/ZRXM1MTew=="
+    },
+    {
+      "name": "JONATHAN BECK",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/23/2024",
+      "usta_id": "ZoM9k1ezdIZmuCWxRvdrvw=="
+    },
+    {
+      "name": "Brian Becker",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/14/2025",
+      "usta_id": "0ju05qVb//0ydrStxWdutQ=="
+    },
+    {
+      "name": "John Becker",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "uyP5CCjN/ODWq62tRRH32Q=="
+    },
+    {
+      "name": "Kimberly Bellamy",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "66e230rrC4jBJbRj5xfAug=="
+    },
+    {
+      "name": "Sherrie Belletete",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/27/2024",
+      "usta_id": "aXSm0qXWFippnovSEnEmXA=="
+    },
+    {
+      "name": "Sarah Benevento",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uFEB1W3cmmTjixeHljEq4A=="
+    },
+    {
+      "name": "Lisa Bennett",
+      "gender": "Female",
+      "city": "MAQUON",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZKq37zZHzsleHDXldR96CA=="
+    },
+    {
+      "name": "Shelly Benson",
+      "gender": "Female",
+      "city": "Monticello",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X2ynM0Iafc6FuiE9iSEFoQ=="
+    },
+    {
+      "name": "Allison Bertsche",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oPL+2r7V+q7AgXfGLFIHzg=="
+    },
+    {
+      "name": "Adam Betz",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/3/2024",
+      "usta_id": "S49wdJ3pw+pWMMVoqyDIRg=="
+    },
+    {
+      "name": "Arpit Bhatia",
+      "gender": "Male",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/22/2024",
+      "usta_id": "MyaCixN8DKb6fNBq3doGGQ=="
+    },
+    {
+      "name": "Nicholas Biga",
+      "gender": "Male",
+      "city": "Pekin",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/25/2025",
+      "usta_id": "SmXmUXWrEDMey/kGsk+Umg=="
+    },
+    {
+      "name": "Dan Bishop",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/12/2025",
+      "usta_id": "OWHDoYqAqZkYDkP30lMNXg=="
+    },
+    {
+      "name": "Joann Blair",
+      "gender": "Female",
+      "city": "Pekin",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xodGQ3NxwFggHJj24+UQeQ=="
+    },
+    {
+      "name": "Carolyn Boblitt",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2EiaLFJ4WtgFaiisg0PtdQ=="
+    },
+    {
+      "name": "Cara Boester",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v7tPFOWSynW2RRixbPq6Cw=="
+    },
+    {
+      "name": "Ryan Bohlen",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/26/2024",
+      "usta_id": "oLsoozO+F1pjuS3RBXBOFA=="
+    },
+    {
+      "name": "Sally Boland",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qZqJWdZOhM565GO73T9dnw=="
+    },
+    {
+      "name": "Jon Borden",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gn7zrrV+t4YqLn3wgs5MAQ=="
+    },
+    {
+      "name": "Laura Boualavong",
+      "gender": "Female",
+      "city": "Chatham",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dtQ9qr42kVl/lnLzCDZOrQ=="
+    },
+    {
+      "name": "Sengla Boualavong",
+      "gender": "Male",
+      "city": "Chatham",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ShfcArF2YSOxTe0pk2N4Zg=="
+    },
+    {
+      "name": "Madison Brinkman",
+      "gender": "Female",
+      "city": "Metamora",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q1b2KjJDSeTCpt1IZvjstg=="
+    },
+    {
+      "name": "Chad Brooks",
+      "gender": "Male",
+      "city": "Germantown Hills",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "Mx24+U9/2K4xrErGglU30A=="
+    },
+    {
+      "name": "Natalie Brown",
+      "gender": "Female",
+      "city": "Washington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4n2tsm9ECE05A5rWvEdfAA=="
+    },
+    {
+      "name": "Renee Brown",
+      "gender": "Female",
+      "city": "Atwood",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0F8i7clciuMZupko1vhdCA=="
+    },
+    {
+      "name": "Darla Bruder-Goodlick",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s5njiWpdWr0q1ZVi3Ocv3A=="
+    },
+    {
+      "name": "Roger Bruere",
+      "gender": "Male",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ze92EmIZK76cy+azjFj7Yg=="
+    },
+    {
+      "name": "Madison Bruns",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "/aqJj10C4U6P03z9hZA70g=="
+    },
+    {
+      "name": "Jane Buckley",
+      "gender": "Female",
+      "city": "Canton",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/20/2024",
+      "usta_id": "Z3ywA3dRyY3urFjw+2Ub+Q=="
+    },
+    {
+      "name": "Kristen Burkard",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6YQWTTupaG/xwUsrRPJpQQ=="
+    },
+    {
+      "name": "Tracy Burr",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Qz8a3wLdJT28d3JOSJY6dQ=="
+    },
+    {
+      "name": "Carolyn Butterfield",
+      "gender": "Female",
+      "city": "Urbana",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mYirV7w6B8sPXZGgbkhwtA=="
+    },
+    {
+      "name": "Josh Cable",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "6/22/2025",
+      "usta_id": "YAywtmmzw0+rDioGeaPCeA=="
+    },
+    {
+      "name": "Agne Cade",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LNDMrgxAVbvZ/ivjihmZqA=="
+    },
+    {
+      "name": "Amanda Campbell",
+      "gender": "Female",
+      "city": "Danville",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "FZkilQ25gdKM3wBmNIFLcA=="
+    },
+    {
+      "name": "Collin Carlier",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FLSIwpSe3hkMYYKEUZm+2Q=="
+    },
+    {
+      "name": "Debra Carlson",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/3/2024",
+      "usta_id": "BCHExLny8tyEj6lKgBovRg=="
+    },
+    {
+      "name": "Linda Louise Carps",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mLD8t9EaMe0w2yJZfxeMqw=="
+    },
+    {
+      "name": "Peggy Caslow",
+      "gender": "Female",
+      "city": "Hudson",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "STqnFZJ6en0Bi4J7OL1n7w=="
+    },
+    {
+      "name": "Noel Castro",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6GTx2DAVs+CXTEg4TtxFHQ=="
+    },
+    {
+      "name": "Paul Chakraborty",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/17/2024",
+      "usta_id": "de4hQ24JgMpFXUF8vsHmxw=="
+    },
+    {
+      "name": "Asad Cheema",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/1/2024",
+      "usta_id": "PgoXDw+ZytfZzIqutUr4fQ=="
+    },
+    {
+      "name": "Sue Chelikas",
+      "gender": "Female",
+      "city": "Morton",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "oTeMK3MaMHtqAvV6HKfEsA=="
+    },
+    {
+      "name": "Paul Cheung",
+      "gender": "Male",
+      "city": "Urbana",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5yPlmUOA8x8IDmCmpvdPlQ=="
+    },
+    {
+      "name": "Sae Rome Choi",
+      "gender": "Female",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Eu+qD7ZDoO+y4tvAa+CAnQ=="
+    },
+    {
+      "name": "Su Yeon Choi",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h/tMNtFJdix5szhtVUYQeg=="
+    },
+    {
+      "name": "Useon Choi",
+      "gender": "Male",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/2/2024",
+      "usta_id": "sFf3BfGHPBXL2tvpbwXEww=="
+    },
+    {
+      "name": "Amy Christianson",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "tXY+oGxoG9fXzU2qOHm4Cg=="
+    },
+    {
+      "name": "Patrick Chun",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9nq+8UVfqNvKZFmLUBhhYQ=="
+    },
+    {
+      "name": "Bob Clay",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zYDhhuVu7KrrPFJn36V3wg=="
+    },
+    {
+      "name": "Brian Cleary",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/27/2023",
+      "usta_id": "N6sgTlToIHd45Mx232kKeA=="
+    },
+    {
+      "name": "Cassie Collins",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DYweedhetG2k3mXjlAWqhQ=="
+    },
+    {
+      "name": "Jason Collins",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KGmfS+dpgH3BsDYbIauF0A=="
+    },
+    {
+      "name": "Megan Comerford",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DoCY+Www7VrG9+6OZtG5gA=="
+    },
+    {
+      "name": "D Comte",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5EC1dQVO+zDPj+It3XFY5A=="
+    },
+    {
+      "name": "Lance Conklin",
+      "gender": "Male",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3BZXzsncle1S9LiTvdNWWw=="
+    },
+    {
+      "name": "Craig Conway",
+      "gender": "Male",
+      "city": "Minier",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oxRWwPwgzp+u3EaSPnIhQw=="
+    },
+    {
+      "name": "Allison Cooper",
+      "gender": "Female",
+      "city": "Goodfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pj+vya+YbuRnu4Hj3+Nikw=="
+    },
+    {
+      "name": "Amy Cortese",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/23/2024",
+      "usta_id": "EKq0utzcBWdy96kQwNYYtA=="
+    },
+    {
+      "name": "Caroline Cox",
+      "gender": "Female",
+      "city": "MAHOMET",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nem6m7ND/ZToxmphUAz5Hw=="
+    },
+    {
+      "name": "Soonok Cramer",
+      "gender": "Female",
+      "city": "CHAMPAIGN",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "criEgYSAtRSZANUfNCaY4g=="
+    },
+    {
+      "name": "Charles Crawmer",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "UoBFMKI96ls0xCCVaF4Igg=="
+    },
+    {
+      "name": "Cindy Crist",
+      "gender": "Female",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GsFTNA87XlkaRFKMELhfaA=="
+    },
+    {
+      "name": "Ignacio Cuevas",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7z5SEc7NIomLRcbyfTkliw=="
+    },
+    {
+      "name": "Colleen Curran",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j0BdQgI1zPo="
+    },
+    {
+      "name": "Kim Cusack",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "IrI9t5qjvIH5Sgl8WHmXiA=="
+    },
+    {
+      "name": "Ashley Dallapiazza",
+      "gender": "Female",
+      "city": "Morton",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "I+BcnxU9pmmRbZwGLisspg=="
+    },
+    {
+      "name": "Steven Damm",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5COFhWhEW48yhbGNrF0onQ=="
+    },
+    {
+      "name": "Karen Dangerfield",
+      "gender": "Female",
+      "city": "Georgetown",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "raCmBz+HEDEwOGi8omwtUg=="
+    },
+    {
+      "name": "Mrinal Das",
+      "gender": "Male",
+      "city": "Flower Mound",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "xiG/UXhr0o1YNaira8EqIA=="
+    },
+    {
+      "name": "Randy DAVIS",
+      "gender": "Male",
+      "city": "Fort Madison",
+      "state": "IA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l+fT6DQbL9KwI/h023k5Hg=="
+    },
+    {
+      "name": "Susan Davis",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k8oTkA5M7YUECwE9ylte/Q=="
+    },
+    {
+      "name": "Travis Davis",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gbllvQ5F4nCHmTIaoXEFnA=="
+    },
+    {
+      "name": "Jared Dawson",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/5/2024",
+      "usta_id": "wXQ1XakmgS/NrIJUlZ8zDw=="
+    },
+    {
+      "name": "Grant Day",
+      "gender": "Male",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2024",
+      "usta_id": "MpyLPjWlJzsXlJsx9tnUkA=="
+    },
+    {
+      "name": "Hans Dee",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rnz8vCTCAkPyv2rHnKckSg=="
+    },
+    {
+      "name": "John Delanois",
+      "gender": "Male",
+      "city": "BLOOMINGTON",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qyOxLUqkOJ5M9fnLnm1THA=="
+    },
+    {
+      "name": "Abby Delgado",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "yjDH35ngkDAzxyZExXt1vg=="
+    },
+    {
+      "name": "Joseph Demirjian",
+      "gender": "Male",
+      "city": "MT Zion",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aUsX0KBHXsRQB/kVAJ+H4w=="
+    },
+    {
+      "name": "Tatyana Deryugina",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EFvbkUafQcIUilcLV5gU5g=="
+    },
+    {
+      "name": "Dorothy Deschler",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/HPxW9uVQJLb6RJ8+GyuzA=="
+    },
+    {
+      "name": "Paige Dibkey",
+      "gender": "Female",
+      "city": "Delavan",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "fzdnTRFcs/yVYpR5P44s5g=="
+    },
+    {
+      "name": "Jan Dickerson",
+      "gender": "Female",
+      "city": "Lincoln",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O4/gawye4H6ylata7KlDZw=="
+    },
+    {
+      "name": "Andrew Diep",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ckdgY1aRQbjr02rZbSM+3g=="
+    },
+    {
+      "name": "David Diep",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CyuUGL7NGSuSSHdNUx8gGA=="
+    },
+    {
+      "name": "Yifan Ding",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/4/2025",
+      "usta_id": "ToMDDoKtDnHimjOZXkUS/A=="
+    },
+    {
+      "name": "Shen Dirkes",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3SeXmxNPK3NIgB6O9sYX7A=="
+    },
+    {
+      "name": "Dmitry Dmitriev",
+      "gender": "Male",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/25/2025",
+      "usta_id": "szmYysqKVzu6ZArTRonzPA=="
+    },
+    {
+      "name": "Lynnette Dodds",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7vy7w67qzQXlW+ciVeNI8g=="
+    },
+    {
+      "name": "Todd Donalson",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2022",
+      "usta_id": "sHpOj93vS1xOauhRkZcvoQ=="
+    },
+    {
+      "name": "Diane Donnelly",
+      "gender": "Female",
+      "city": "Metamora",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aNqiXVm/r11oM2hyMr7OGA=="
+    },
+    {
+      "name": "Michael Dorr",
+      "gender": "Male",
+      "city": "Morris",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5HiEJUpf8ZpNyDeDWbv2TQ=="
+    },
+    {
+      "name": "Chris Doscotch",
+      "gender": "Male",
+      "city": "Princeville",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "0IMwgh23O4PtOaszwJlPwQ=="
+    },
+    {
+      "name": "Shawn Doscotch",
+      "gender": "Female",
+      "city": "Princeville",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DvBGb/r+RVT4ekt5dH1Njw=="
+    },
+    {
+      "name": "Maribeth Dura",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y+Wa5uTtBL6FVlqAjUjTKA=="
+    },
+    {
+      "name": "Tina Dutton",
+      "gender": "Female",
+      "city": "Catlin",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "3oHIEwrWg1jkVZskjbGhXg=="
+    },
+    {
+      "name": "Amber Ehrlich",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "It43Tk8PK+Eqi5uTXb69CA=="
+    },
+    {
+      "name": "Chris Ehrlich",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "fsPzrc1aPsUNtzZx5xOIFg=="
+    },
+    {
+      "name": "William Ehrlich",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/21/2024",
+      "usta_id": "CZbog1PP/a2nW2EcxHwKfg=="
+    },
+    {
+      "name": "Cheryl Ellis",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tzgSW8qGQ4Ydp5/nRNt/aw=="
+    },
+    {
+      "name": "Timothy Ellis",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DNH3lOLfJYfQfZLUfHS4uA=="
+    },
+    {
+      "name": "David Engstrom",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/30/2023",
+      "usta_id": "XCwk6xtsNdgRJsomY035Rg=="
+    },
+    {
+      "name": "Michelle Erickson",
+      "gender": "Female",
+      "city": "Danville",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IlSCibKddBpTOUF2OwuRlg=="
+    },
+    {
+      "name": "Cay Ernst",
+      "gender": "Female",
+      "city": "Washington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5NF7LJebDz5Pw71qbB5/ng=="
+    },
+    {
+      "name": "Bryan Fasano",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qx8NOp81sJqIwnacr8JIKg=="
+    },
+    {
+      "name": "Nancy Fay",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ezp8iD1+XbpolPX0/5fJ3A=="
+    },
+    {
+      "name": "Jodi Ferguson",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jRvXPEbSCTZ1Ybn9nmJFFg=="
+    },
+    {
+      "name": "Ron Ferris",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lzgf6M1BUb9UZchfZsbQIw=="
+    },
+    {
+      "name": "Brian Flattery",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/3/2025",
+      "usta_id": "owqOYQb0x5U3HuG8R0tqCQ=="
+    },
+    {
+      "name": "Andrew Flores",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/24/2024",
+      "usta_id": "ihpZwd4cxCRHZeRJCo37/Q=="
+    },
+    {
+      "name": "Jamie Frey",
+      "gender": "Female",
+      "city": "METAMORA",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "htRwQnyaPYAj3XoF80zDXQ=="
+    },
+    {
+      "name": "Lisa Fritscher",
+      "gender": "Female",
+      "city": "Dieterich",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "L97JNmHPDv9uaCcUGmNocQ=="
+    },
+    {
+      "name": "Travis Friye",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8hGdDWInXGnB2t06KE+vlA=="
+    },
+    {
+      "name": "Nona Fulk",
+      "gender": "Female",
+      "city": "OLNEY",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ElUadrHQthI8H4qSvvt91A=="
+    },
+    {
+      "name": "Emerick Fulton",
+      "gender": "Male",
+      "city": "Hanna City",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "tH62Yu9FpeOkRl/8HTnUfA=="
+    },
+    {
+      "name": "Maureen Fulton",
+      "gender": "Female",
+      "city": "Hanna City",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "tH62Yu9FpeMcz12UrhGMTw=="
+    },
+    {
+      "name": "Ranjit Gadicherla",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/5/2024",
+      "usta_id": "eVl4XEaCQy/iljvinSAGHQ=="
+    },
+    {
+      "name": "Destiny Galvan",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zkdPErYPGEqoYHfb+z5tCA=="
+    },
+    {
+      "name": "Huan Giap",
+      "gender": "Male",
+      "city": "PEORIA",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "1KBFOAGAELtPrp630XOmvA=="
+    },
+    {
+      "name": "Sabari Giri",
+      "gender": "Male",
+      "city": "Edwards",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "YoXcfV4rZj+LgyA2beYKvw=="
+    },
+    {
+      "name": "Marla Golden",
+      "gender": "Female",
+      "city": "Danville",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j+oIUrwqNgt7CHBp7Q3ooA=="
+    },
+    {
+      "name": "Christopher Golick",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "eVuMNPgxHpyg3skiRAt6Fw=="
+    },
+    {
+      "name": "Jose Gonzalez",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/19/2024",
+      "usta_id": "hvcNQZ63Zy1cK7UfSXR4DA=="
+    },
+    {
+      "name": "Aditya Gopalan",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fQQLbKrEmBLmlO2Hl09Kmg=="
+    },
+    {
+      "name": "Steve Grady",
+      "gender": "Male",
+      "city": "Clinton",
+      "state": "IA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PMGXmotmMNRdFkgzCXnKTQ=="
+    },
+    {
+      "name": "Marcia Gregory",
+      "gender": "Female",
+      "city": "Pekin",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/lAK+OPzGJW1DahPxZHocg=="
+    },
+    {
+      "name": "Isabella Griffiths",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/20/2025",
+      "usta_id": "mk5a434u44zbWEv5LtKfRQ=="
+    },
+    {
+      "name": "Carl Guo",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UlAsZLeCT8+NMjQTtho7dg=="
+    },
+    {
+      "name": "Amit Gupta",
+      "gender": "Male",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/5/2025",
+      "usta_id": "Ad58spHqPAfC0YNfAV33wA=="
+    },
+    {
+      "name": "Marissa Hagler",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/1/2024",
+      "usta_id": "DE71VlJy296V4Ui9tWqquQ=="
+    },
+    {
+      "name": "Deanna Hahn",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "89lmJ/4lICwuRqo9fZr32g=="
+    },
+    {
+      "name": "Dale Hall",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/6/2025",
+      "usta_id": "nrBPQJInjOdkmcMpayBpuA=="
+    },
+    {
+      "name": "Margaret Hall",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2FrCQv2nADV9tuMFPFttwA=="
+    },
+    {
+      "name": "Catherine Hallett",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oq5R3etbHmvWBi2uf2X0Iw=="
+    },
+    {
+      "name": "Nathan Hamler",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/18/2025",
+      "usta_id": "Xy1k4XbdQtqGHyXB15SGgw=="
+    },
+    {
+      "name": "Patrick Hammie",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BXAiM4bRnMy7UpXlzbEU2w=="
+    },
+    {
+      "name": "Suejung Han",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qwKEt6yTXcMXV4Q27Asw0A=="
+    },
+    {
+      "name": "Joe Hankins",
+      "gender": "Male",
+      "city": "Jacksonville",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/30/2024",
+      "usta_id": "8KDDlTKsdrLthngZ9+DfZQ=="
+    },
+    {
+      "name": "Christopher Hardy",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/21/2024",
+      "usta_id": "7/cQdH8TxK8LG1QX1kVoIw=="
+    },
+    {
+      "name": "Elaine Hardy",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ffng+W25oaRRyE+cgbZ5GA=="
+    },
+    {
+      "name": "Deborah Harmon",
+      "gender": "Female",
+      "city": "Metamora",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rqsWr+Lb2TO6whYZs97OZw=="
+    },
+    {
+      "name": "SUSAN HARRINGTON",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hlW3QHQiTcBCsyTfqq0PAg=="
+    },
+    {
+      "name": "Jan Harrison",
+      "gender": "Female",
+      "city": "Pekin",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9sqxqI4dUtVZ74YECyXY+Q=="
+    },
+    {
+      "name": "Glen Hartman",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/18/2025",
+      "usta_id": "X/4yKbiER/QJqtlmvnaY5w=="
+    },
+    {
+      "name": "Zayn Hashmi",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "3rmtKtpWUfO7THKyNx8pdg=="
+    },
+    {
+      "name": "Jennifer Hawkins",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H1304JREE+tnrGsCBS51gQ=="
+    },
+    {
+      "name": "Steven Hayden",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GLuff3TOwYpplFP52EPLgQ=="
+    },
+    {
+      "name": "Matt Heimstead",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "0CgnVLcZXmbtq515mmNosQ=="
+    },
+    {
+      "name": "Brianna Helm",
+      "gender": "Female",
+      "city": "Highland",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "/yMXkvT304yLHtA2G6j1yA=="
+    },
+    {
+      "name": "Glenda Henderson",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BL0jHJq2QCsE8k5ZXJq8TQ=="
+    },
+    {
+      "name": "Monica Hendrickson",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/27/2024",
+      "usta_id": "vvqRpS5e79CwE4VU4zGIWw=="
+    },
+    {
+      "name": "Tece Hendrickson",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JZ1uAyMdHUN1SuDfMjLXjw=="
+    },
+    {
+      "name": "Brett Henneberg",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Jwif6QvYF0+eqyHxzEHDQ=="
+    },
+    {
+      "name": "Luis Felipe Hernandez",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "WAp//bi80ZxcNfUKpmcEew=="
+    },
+    {
+      "name": "Roberto Hernandez",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PSUCFc6DpXEQhjoygEdFYw=="
+    },
+    {
+      "name": "Michael Herzog",
+      "gender": "Male",
+      "city": "East Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "JalTZjK59fMnMfWOxv8EbQ=="
+    },
+    {
+      "name": "Ronald Hidalgo",
+      "gender": "Male",
+      "city": "Chatham",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a+xO+czSqyT8HpePIXwc5A=="
+    },
+    {
+      "name": "Linda Hill",
+      "gender": "Female",
+      "city": "El Paso",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3LOiuuXmqe8nQUCUqipEyA=="
+    },
+    {
+      "name": "Thomas Hill",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "yKEb8IB2LZf5ZqUkFok2kA=="
+    },
+    {
+      "name": "Beth Hoag",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hfS+QbsKkOQy1FtgQ+4AQQ=="
+    },
+    {
+      "name": "Brianna Hoerr",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3rKGW3T6h1qq6dw0RkEwdA=="
+    },
+    {
+      "name": "Janet Hogan",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gc7iodIn5gj0Os88i58vNw=="
+    },
+    {
+      "name": "Heidi Holzgrafe",
+      "gender": "Female",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/18/2025",
+      "usta_id": "WlO2+fgQ/hkcWBC08FDNzA=="
+    },
+    {
+      "name": "Rachel Honegger",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/5/2023",
+      "usta_id": "kP+LRrMhfBoOMDd06JX6Aw=="
+    },
+    {
+      "name": "Huixian Hong",
+      "gender": "Male",
+      "city": "Forsyth",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "uN3xmPWngU2oGwa9CQ+nVg=="
+    },
+    {
+      "name": "Pete Hoppin",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dc5Ox7EaLIUs8fyntYy+NQ=="
+    },
+    {
+      "name": "Susie Howe",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vTW7LdlAhCfTFXWqBJJx7g=="
+    },
+    {
+      "name": "Lynda Hruska",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "m04+mBYgeW2X4Y0GnT4NHA=="
+    },
+    {
+      "name": "Alejandro Hug",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VkbKLCOybEEAiQeQ4H2nkw=="
+    },
+    {
+      "name": "Adam Huls",
+      "gender": "Male",
+      "city": "DEWEY",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pi3tT8Mbx/MNV9jD3+dMeQ=="
+    },
+    {
+      "name": "Bob Humbles",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uKsGVldDk2HSkLxPsiw+jQ=="
+    },
+    {
+      "name": "Douglas Hundman",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vNxtJh3y4yeqtrzzTnv1aw=="
+    },
+    {
+      "name": "Andy Hur",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D8mriequeXOZdifj6RfxBA=="
+    },
+    {
+      "name": "Mark Huss",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "i7a9apDwxe7EePSyd4bgPw=="
+    },
+    {
+      "name": "Carol Hutmacher",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/17/2025",
+      "usta_id": "sTkN10dnT0y+ajxnrYiJjQ=="
+    },
+    {
+      "name": "Sharon Jackson",
+      "gender": "Female",
+      "city": "Hindsboro",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WtyXpeG6H/DOYcrHwLWNPQ=="
+    },
+    {
+      "name": "Andrew Janetzke",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2024",
+      "usta_id": "mM2uj38l8SEVT2LoKm5nxg=="
+    },
+    {
+      "name": "Hyeonseok Jee",
+      "gender": "Male",
+      "city": "Urbana",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zli20pmtYPJ2hj3HmI7bdA=="
+    },
+    {
+      "name": "Zlatka Jeliazkova",
+      "gender": "Female",
+      "city": "Danville",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RGiXpDfoD/W2epJ8fOIdYQ=="
+    },
+    {
+      "name": "Lino Jo",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3OOi+udRJxSb/LfsnP1Nxw=="
+    },
+    {
+      "name": "Zeno Jo",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3OOi+udRJxQ8HneKZFwS/Q=="
+    },
+    {
+      "name": "Micah Jordan",
+      "gender": "Male",
+      "city": "Palatine",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LWi0AkFcM0W2KGZgs4kj0Q=="
+    },
+    {
+      "name": "Issia Judeh",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "4LJeJ4TDLiqdFFy7vwHLQQ=="
+    },
+    {
+      "name": "Cymbria Jung",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/25/2024",
+      "usta_id": "RXa1/u0ktvCUFkw9oMBULw=="
+    },
+    {
+      "name": "Jaehoon Jung",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E1lFo3TFF+UMH8ubpLX/AA=="
+    },
+    {
+      "name": "Youngjoo Jung",
+      "gender": "Male",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RWLEGfkM3988bZLPIoj5Tg=="
+    },
+    {
+      "name": "Kim Junghyun",
+      "gender": "Male",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5NR9Es8twSVpP/cwxuq/qA=="
+    },
+    {
+      "name": "Hamed Kadiani",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/18/2025",
+      "usta_id": "VZkIuLftqk8tDf6MaWX7TQ=="
+    },
+    {
+      "name": "Stuart Kamrath",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JtqFhl6fyWg33YPj5qZNDA=="
+    },
+    {
+      "name": "Shaan Kashyap",
+      "gender": "Male",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "9oWgLHsjOcJYoJO2TMhTDQ=="
+    },
+    {
+      "name": "Clair Kaye",
+      "gender": "Female",
+      "city": "Toledo",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uBbKxbxHgQVNfnGHdTMORQ=="
+    },
+    {
+      "name": "Dena Keenan",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ar0vZD2qeg8U6K9JcyrmAw=="
+    },
+    {
+      "name": "Felina Kelly",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CNVstj0f/Kq4dUo2wjLvsg=="
+    },
+    {
+      "name": "Sara Kemp",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/22/2024",
+      "usta_id": "GYqLPmxQmv1DfwujEVZzjg=="
+    },
+    {
+      "name": "Carter Kendall",
+      "gender": "Male",
+      "city": "Morton",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "BJvYqetC0jLo9Ceh6ve4ng=="
+    },
+    {
+      "name": "Kevin Kendall",
+      "gender": "Male",
+      "city": "Morton",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/15/2024",
+      "usta_id": "SBO6FBq5lq9MWdZQ0VnVWA=="
+    },
+    {
+      "name": "Michele Kendall",
+      "gender": "Female",
+      "city": "Morton",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SBO6FBq5lq9cyZ9rZ2phtg=="
+    },
+    {
+      "name": "Roberta Kendzierski",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o2GWIHAANdprih9DWwdBxA=="
+    },
+    {
+      "name": "Ginny Kerwin",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nYyKZmGn14C4IljcYLIqGA=="
+    },
+    {
+      "name": "Todd Kettering",
+      "gender": "Male",
+      "city": "Mc Lean",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IbJw92cDyUrWBULtIxwShg=="
+    },
+    {
+      "name": "Lindsay Kiefer",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ElKmPsnvxFkvKd7XQwEPRg=="
+    },
+    {
+      "name": "Mark Killick",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jAhjfNAuisehGqa0bnls1g=="
+    },
+    {
+      "name": "JOOYEN KIM",
+      "gender": "Female",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bfZSz8Lpy6ccDp1wxwMKZA=="
+    },
+    {
+      "name": "Minsun Kim",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VI9+Vfc9X7dNJ1O7yElM/g=="
+    },
+    {
+      "name": "Sarah Kim",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+4rjaGfaC6+1jqHt5HTciw=="
+    },
+    {
+      "name": "Yongbin Kim",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6pyzYjDtQ0Z/BoEiz2pLcQ=="
+    },
+    {
+      "name": "Young Kim",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WsFFVj/m0KUSHAVg4PuT1w=="
+    },
+    {
+      "name": "Kaye Kimpling",
+      "gender": "Female",
+      "city": "Effingham",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dIJol0FoyrqjImTcWUSX+g=="
+    },
+    {
+      "name": "Douglas Kinas",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TTN+FwZ5l7YG3jEOeAnJbQ=="
+    },
+    {
+      "name": "Ian King",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iWd6WDFu1W470jrWBglXxQ=="
+    },
+    {
+      "name": "Meredith King",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/14/2024",
+      "usta_id": "l8NtneBMMZbtqYGv5h9onQ=="
+    },
+    {
+      "name": "Sven Klauss",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "zrm7j48uub7a2JXLUuzraA=="
+    },
+    {
+      "name": "Mark Kline",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "/atXO9ZrUcwqh/LxQSPZeA=="
+    },
+    {
+      "name": "Jason Klinner",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vfMpG+N2NDy2j+Z4G4ZPpw=="
+    },
+    {
+      "name": "Yannick Kluch",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/21/2024",
+      "usta_id": "5iIjXo7n/O1Yh40vs8tJcQ=="
+    },
+    {
+      "name": "Kara Knepp",
+      "gender": "Female",
+      "city": "Morton",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q44BAe8j335BtLrbm9hdQw=="
+    },
+    {
+      "name": "Chris Knight",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "cDDO3ucx+8djGR4L5+U2hw=="
+    },
+    {
+      "name": "Janelle Knight",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "duluzRGWGJODzPb682stjw=="
+    },
+    {
+      "name": "Mary Knight",
+      "gender": "Female",
+      "city": "Mahomet",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iblr8HnyQVF7cqdhkLmyVA=="
+    },
+    {
+      "name": "Linda Kopp",
+      "gender": "Female",
+      "city": "Mahomet",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zmc88FoilSTDkO0ATr4pfQ=="
+    },
+    {
+      "name": "Gerald Korb",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xZ3Qirjm12RXADweH8UQoA=="
+    },
+    {
+      "name": "Blake Krager",
+      "gender": "Male",
+      "city": "Raymond",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/7/2024",
+      "usta_id": "NEQ4W2Z2j77Y2pMeD/yMCw=="
+    },
+    {
+      "name": "Amalia Krecik",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j7tDu555wRueq+wR3stFSA=="
+    },
+    {
+      "name": "Christopher Kuehn",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PqQV8BJADbmV0ONFyFTjUQ=="
+    },
+    {
+      "name": "Chuck Kuhle",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "7/8/2024",
+      "usta_id": "0vZIWq5xDDQ="
+    },
+    {
+      "name": "Sendhil Kumaran",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j/hWLlWyb8ERc3u+Y/kZ+w=="
+    },
+    {
+      "name": "Eric Kuo",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/1/2025",
+      "usta_id": "TkZ2XjW+W3Wl+NHlCEHKXg=="
+    },
+    {
+      "name": "Mehdi Lahjouji",
+      "gender": "Male",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tmiB2ZG/GXjqZv9RzC7vUA=="
+    },
+    {
+      "name": "Nancy Lamb",
+      "gender": "Female",
+      "city": "LAKELAND",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/28/2025",
+      "usta_id": "+RRcjcOHoVdF6bbS/Bl2rA=="
+    },
+    {
+      "name": "Alex Lamprecht",
+      "gender": "Female",
+      "city": "Groveland",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NrQJLXcRvx3SlC4Um0NjkQ=="
+    },
+    {
+      "name": "Colleen Larry",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2024",
+      "usta_id": "9aTihjVs6VpQeAgkNgYvDA=="
+    },
+    {
+      "name": "Anne Larson",
+      "gender": "Female",
+      "city": "CHAMPAIGN",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qp++OGFw9RT57kbtuQ2JiQ=="
+    },
+    {
+      "name": "Mimi Latronico",
+      "gender": "Female",
+      "city": "Marquette Heights",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "t0lPn9sWh6x5+lOnod4BCw=="
+    },
+    {
+      "name": "Timmy Latronico",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t0lPn9sWh6yYwNezwfaU1A=="
+    },
+    {
+      "name": "Amanda Lawler",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J3WT2MaNdbryJzgzDfDFVA=="
+    },
+    {
+      "name": "Joseph Laws",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ag0ynCS7j/zM2Z4zEUCl8w=="
+    },
+    {
+      "name": "Kara Leak",
+      "gender": "Female",
+      "city": "Downs",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AixnPWhlTgGqyfQqv04vXg=="
+    },
+    {
+      "name": "Ben Lee",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4QZ9wnvH3PxbmTDPLfw0bA=="
+    },
+    {
+      "name": "John Lee",
+      "gender": "Male",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/28/2024",
+      "usta_id": "+ejR84YaKA2wZ4BpjgNi+A=="
+    },
+    {
+      "name": "Su A Lee",
+      "gender": "Female",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "unnxIeBHFhK8OSqpEbmbpw=="
+    },
+    {
+      "name": "Joseph Lehman",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "XoU7a9j0rNRa6goCww7HkQ=="
+    },
+    {
+      "name": "Paul Lenzen",
+      "gender": "Male",
+      "city": "WASHINGTON",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/9/2025",
+      "usta_id": "GvWh/Q4Vq367txShgH4xQA=="
+    },
+    {
+      "name": "Ryan Leo",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "h1Fnjy09c5PoC9y1SCvlWg=="
+    },
+    {
+      "name": "Paul Leonardo",
+      "gender": "Male",
+      "city": "Kenilworth",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JS+hDf7IMf4+iBDIlj2TfA=="
+    },
+    {
+      "name": "Nicholas LeVanti",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7GebB2l1GIDXh4xlZMDQdA=="
+    },
+    {
+      "name": "Rhoda Lewis",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9GHtfz/ueZyBgDNUqJqSeA=="
+    },
+    {
+      "name": "Kay Lindsay",
+      "gender": "Female",
+      "city": "Monticello",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pxICvZYfQPin0sOWBweO5w=="
+    },
+    {
+      "name": "Matt Lollar",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JnsUdQupLgaM1tKp4BP9Pg=="
+    },
+    {
+      "name": "Marialin Lomongo",
+      "gender": "Female",
+      "city": "Prospect Heights",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qhpN9b+Iep8ujQgAXabRtw=="
+    },
+    {
+      "name": "Carl Long",
+      "gender": "Male",
+      "city": "Glenarm",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "8X6wmdvzaL9qCVFPFXCBvA=="
+    },
+    {
+      "name": "Kortnie Lovell",
+      "gender": "Female",
+      "city": "Morton",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BOGdfHcu2E/51lyeuEO9ng=="
+    },
+    {
+      "name": "JeanPierre Lucas",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ggDLCIFx/KKe7vUU7t/Xfg=="
+    },
+    {
+      "name": "Stephanie Madix",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DcTXj8IenYM7vTJk6exhqQ=="
+    },
+    {
+      "name": "Karen Magers",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ulTU5sPrYzFwclpqwQ781w=="
+    },
+    {
+      "name": "Catherine Malin",
+      "gender": "Female",
+      "city": "Towanda",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZSe38uR4omMmevJz3d+5Vw=="
+    },
+    {
+      "name": "Natalie Malinowski",
+      "gender": "Female",
+      "city": "Alvin",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/27/2024",
+      "usta_id": "HZEauUwv+TIbd1rJEF1itg=="
+    },
+    {
+      "name": "Douglas Mallett",
+      "gender": "Male",
+      "city": "LA Grange",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xOSfNEi3/EguXUU7cKrMGg=="
+    },
+    {
+      "name": "Kym Man",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HtV2IS8YPYGsRG+pkCmwLw=="
+    },
+    {
+      "name": "Sally Mangina",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w9UPs71QG4qaKqegcc6f0Q=="
+    },
+    {
+      "name": "Vinny Mangina",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/1/2024",
+      "usta_id": "/3aLUIbWS2sK16YobBnucw=="
+    },
+    {
+      "name": "Dan Martin",
+      "gender": "Male",
+      "city": "Morton",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DdHZu30n3+DxBmou/vHV5A=="
+    },
+    {
+      "name": "Haley Martin",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/8/2024",
+      "usta_id": "Jjg7b1TSQtN5Y66v22Mllg=="
+    },
+    {
+      "name": "Joe Martin",
+      "gender": "Male",
+      "city": "Morton",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2024",
+      "usta_id": "kiX3d6v8Qs7DAr8bI+m2YA=="
+    },
+    {
+      "name": "Matteo Martinelli",
+      "gender": "Male",
+      "city": "Urbana",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/10/2025",
+      "usta_id": "hf5NwLnUvYKIDdArdvvq3w=="
+    },
+    {
+      "name": "Paul Mathes",
+      "gender": "Male",
+      "city": "PEORIA",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jHk0lTzG0DK2KH/IbJMP4Q=="
+    },
+    {
+      "name": "Anna Mayes",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wSDD6pwQrnZG+9lMllKG3w=="
+    },
+    {
+      "name": "Walter Mcallister",
+      "gender": "Male",
+      "city": "Galesburg",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "cQCOJd1cwahTJhmZjo0DYQ=="
+    },
+    {
+      "name": "Gary McCandless",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "kKUrAgc/x9P1kPXQi5PI/w=="
+    },
+    {
+      "name": "Joseph McCarron",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JI7liEcRnYqldRvrH1fOhQ=="
+    },
+    {
+      "name": "Martin McCarthy",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yc7n2162qfT6OEq1DRDlmw=="
+    },
+    {
+      "name": "Ryan McCoy",
+      "gender": "Male",
+      "city": "Arlington Heights",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "BRTrDPcgXQ/A2BHPsV4UTw=="
+    },
+    {
+      "name": "Annaliese McDermott",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/9/2024",
+      "usta_id": "PZRQ1SA3BzFoL0FTv6b4ZA=="
+    },
+    {
+      "name": "Dusty McEwen",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P7CZ+7SVViF7n7Dlij9i7Q=="
+    },
+    {
+      "name": "Kari McGhee",
+      "gender": "Female",
+      "city": "Downs",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/19/2025",
+      "usta_id": "6rUSqDQLHmHyQ1ZAgrU8qw=="
+    },
+    {
+      "name": "Kimberly McHenry",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/19/2025",
+      "usta_id": "ZIGX50k+1/cqo3c1g5+//A=="
+    },
+    {
+      "name": "Diana McKinney",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CjhjN0C425umeyi+VmDxMg=="
+    },
+    {
+      "name": "Rick McKirahan",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/28/2024",
+      "usta_id": "BHtBs2IaBOrT6uuBOE92IQ=="
+    },
+    {
+      "name": "Molly McMahon",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jac6J2sf0yvk3nS1yk9nXw=="
+    },
+    {
+      "name": "Paige McNamara",
+      "gender": "Female",
+      "city": "BLOOMINGTON",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x16WiuhTb/NjJnfcjzrInQ=="
+    },
+    {
+      "name": "Stephen McRaven",
+      "gender": "Male",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "aE634ihITLke7LsIy88iFQ=="
+    },
+    {
+      "name": "Christopher Mecherle",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vz8xbcfgwWhL8/180CPydw=="
+    },
+    {
+      "name": "Angad Mehta",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FQVrrzyGctKXAGjBd7bsCg=="
+    },
+    {
+      "name": "Andrew Merluzzi",
+      "gender": "Male",
+      "city": "Pekin",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/10/2024",
+      "usta_id": "zJqrpkp9akAMpUennE2R4w=="
+    },
+    {
+      "name": "Anne Meysenburg",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fw7y8i2Cn9g53vP32hlKmA=="
+    },
+    {
+      "name": "Maria Miguens",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fadRmoKg6zTM+kcOwrk4Pg=="
+    },
+    {
+      "name": "Mihai Mihailescu",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yt8aI/TtQmhZMAVVy5Ug3w=="
+    },
+    {
+      "name": "Ashley Miller",
+      "gender": "Female",
+      "city": "DUNLAP",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Se/ZcCrampwu1KY02Ax9AQ=="
+    },
+    {
+      "name": "Donald Miller",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "uJQpVClsI8oZW1MI2M44Vw=="
+    },
+    {
+      "name": "Kevin Miller",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "XwYBXaQm1mdBOQ7CkkUH4A=="
+    },
+    {
+      "name": "Mark Miller",
+      "gender": "Male",
+      "city": "Goodfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BLElvNSGD5lh7d7VoynBjA=="
+    },
+    {
+      "name": "Naveen Miller",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qmh58mvrk5yU+k/hQi6cyw=="
+    },
+    {
+      "name": "Scott Miller",
+      "gender": "Male",
+      "city": "Bethel",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GnHE8iVXfHZhQYszVL76wA=="
+    },
+    {
+      "name": "Sean Miller",
+      "gender": "Male",
+      "city": "Arthur",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cbW2/nIPF4pBjouLZPE6Eg=="
+    },
+    {
+      "name": "Lynn Milton",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kfFSobD5YVc/ctGncaoK0A=="
+    },
+    {
+      "name": "Michelle Minor",
+      "gender": "Female",
+      "city": "NAPLES",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cqFJL9N2rR1NjU+qObJWRQ=="
+    },
+    {
+      "name": "Dana Miyat",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "687Y6gnEazVFH1QQWGkY2g=="
+    },
+    {
+      "name": "Matt Modrusic",
+      "gender": "Male",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iMHPcv8EAUWDyh3IxiuXFA=="
+    },
+    {
+      "name": "SUSANTA MOHAPATRA",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2024",
+      "usta_id": "oBZ+d3xnpLtKTlrSsJogQw=="
+    },
+    {
+      "name": "Cristhian Molina",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/4/2024",
+      "usta_id": "O9d92ZMKNbBE7ucCx/NnXQ=="
+    },
+    {
+      "name": "David Molitor",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "wcR2ejNGnFa/TwY0iC0w+w=="
+    },
+    {
+      "name": "Terry Montgomery",
+      "gender": "Male",
+      "city": "Auburn",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "mrBgVUcLCAAgq4qrzEvhjg=="
+    },
+    {
+      "name": "Sung Min Moon",
+      "gender": "Male",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "J0OJLyAbeDKil5vuwTTLrQ=="
+    },
+    {
+      "name": "Jack Morgan",
+      "gender": "Male",
+      "city": "Urbana",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uBgQktJfrjLA0cwDv9GcnA=="
+    },
+    {
+      "name": "Joe Mulcahey",
+      "gender": "Male",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "N6aifgjObZ0yalgxLdyYaQ=="
+    },
+    {
+      "name": "Vickie Murphy",
+      "gender": "Female",
+      "city": "Effingham",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CPWkfhQ/nwdgS5scyCOfOQ=="
+    },
+    {
+      "name": "Erin Murray",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lZCFFdG7278FDVMKtwXrDA=="
+    },
+    {
+      "name": "Kyo Nakanishi",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "y76rnOR+35GCejXXo6Dx/Q=="
+    },
+    {
+      "name": "Naveen Nambiar",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/12/2025",
+      "usta_id": "QOMD6w1YebHAzAEK5QfLLg=="
+    },
+    {
+      "name": "Gopala Krishna Narava",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/9/2025",
+      "usta_id": "/atXO9ZrUcwE4cpQS+wSfQ=="
+    },
+    {
+      "name": "Susan Naschert",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2nwzq4vktadi/Tm4vhvn6Q=="
+    },
+    {
+      "name": "Taylor Nave",
+      "gender": "Male",
+      "city": "East Peoria",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "yk6fNHPA2sXH/WdLcmYWyg=="
+    },
+    {
+      "name": "Nathaniel Neal",
+      "gender": "Male",
+      "city": "Lincoln",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/j5v5icbkiTeBxD1YNe1tA=="
+    },
+    {
+      "name": "Angelia Neeley",
+      "gender": "Female",
+      "city": "Morton",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ViJnCcIA78Ltrye8+Z0Odg=="
+    },
+    {
+      "name": "Leslie Neitzel",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fOxqw5qOBbztTsW3pc/NRg=="
+    },
+    {
+      "name": "Thao Nguyen",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0h1inxPXkdwIP1WLp6Lyxg=="
+    },
+    {
+      "name": "Cindy Ni",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/8/2024",
+      "usta_id": "YWZ8AlzJP4UH7MKLOcvkaA=="
+    },
+    {
+      "name": "Susan Novitsky",
+      "gender": "Female",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lTCxQNV7gWiT6Bn49MmOkw=="
+    },
+    {
+      "name": "David Oakley",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/11/2025",
+      "usta_id": "58PLn5zKkz5zly6fgWVn3w=="
+    },
+    {
+      "name": "Mike ONeal",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "B+GlUFNxzsiMr7lVCoB73g=="
+    },
+    {
+      "name": "Andrew O'Neall",
+      "gender": "Male",
+      "city": "Downs",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "h8J1FU6t2z3a/ICdiR9oFA=="
+    },
+    {
+      "name": "Sampa Ostrem",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5RK8/6HAX+MKEf/BdZRv9Q=="
+    },
+    {
+      "name": "Cynthia Ottemann",
+      "gender": "Female",
+      "city": "CHAMPAIGN",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MQpqdEjqMCZOmBAMZo9jTw=="
+    },
+    {
+      "name": "Karen Owen",
+      "gender": "Female",
+      "city": "Clinton",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eXP8zvScKxnQdil2qX6o7w=="
+    },
+    {
+      "name": "Shishir Pandey",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kUeDSfWydvYQg5aFqjXCzw=="
+    },
+    {
+      "name": "Sangwon Park",
+      "gender": "Male",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "go16Uzwv+Hg1Z1WGEILE/A=="
+    },
+    {
+      "name": "Steven Peckins",
+      "gender": "Male",
+      "city": "Mahomet",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xGlr7mySK8uxEZyV9FftAQ=="
+    },
+    {
+      "name": "Diane Pelafos",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uWw/4M93+Z6esGJcPdGCww=="
+    },
+    {
+      "name": "Anthony Pepe",
+      "gender": "Male",
+      "city": "DECATUR",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x6rEfQQt2cmpFaBD6tHYYQ=="
+    },
+    {
+      "name": "Michael Pershing",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O+K76U3X9Sqlr2kzckH6vw=="
+    },
+    {
+      "name": "Donald Petersen",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MnWDx4REnYK+KAR7qmL1Tw=="
+    },
+    {
+      "name": "James Peterson",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "aGc2ZXP1oX9DQIa1W27bsA=="
+    },
+    {
+      "name": "Bonnie Petty",
+      "gender": "Female",
+      "city": "Arcola",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/20/2025",
+      "usta_id": "JBtvOLL7vG0NL34uzd7Sxw=="
+    },
+    {
+      "name": "Zak Takhon Phyo",
+      "gender": "Male",
+      "city": "Forsyth",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/11/2025",
+      "usta_id": "2JE0TKaGTqSNxkHrU2o/Yg=="
+    },
+    {
+      "name": "JASON DARCY PINOTE",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/13/2025",
+      "usta_id": "IgUzFmf+hF+b6kZ4nHiQqQ=="
+    },
+    {
+      "name": "Stephanie Plautz",
+      "gender": "Female",
+      "city": "Big Bend",
+      "state": "WI",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qE0iKt9ADTRD7VMb63iCog=="
+    },
+    {
+      "name": "Laura Podeschi",
+      "gender": "Female",
+      "city": "URBANA",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WXTP6WXB9LCZQUfM1IspwA=="
+    },
+    {
+      "name": "Bill Poorman",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "m6TUrf4w2kIADcJJvi6vYA=="
+    },
+    {
+      "name": "Margaret Poorman",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "1RHqzqLj+169wVaX2Njtow=="
+    },
+    {
+      "name": "Pat Prosser",
+      "gender": "Female",
+      "city": "El Paso",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "asbYypfIQE+Gkm5KdXvbSw=="
+    },
+    {
+      "name": "Anna Pucilowski",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UB1UkHndv8/hheKbidQhHQ=="
+    },
+    {
+      "name": "Michelle Pulce-Flynn",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PMnpLovbYunGdS06s9835w=="
+    },
+    {
+      "name": "Jay Rafi",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jjA0SP0CXsuiWp7GUeQDpg=="
+    },
+    {
+      "name": "Dixie Raines",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "YoSUJzKydJpBswhVKmS2yg=="
+    },
+    {
+      "name": "Vinod Ramakrishnan",
+      "gender": "Male",
+      "city": "Urbana",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/3/2024",
+      "usta_id": "zTY1SgOgOZSWzMvlzh1h4w=="
+    },
+    {
+      "name": "Aasheesh Randeo",
+      "gender": "Male",
+      "city": "Urbana",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/26/2025",
+      "usta_id": "ojF3N0WWLS7N0Bm+Yy/9FQ=="
+    },
+    {
+      "name": "Aaron Rapp",
+      "gender": "Male",
+      "city": "NORMAL",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vilXbccEkNA+25sDoA6Szg=="
+    },
+    {
+      "name": "Doug Rasmussen",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "pD+xjRfiUhWscIm/FCr76w=="
+    },
+    {
+      "name": "Lori Rebholz",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dk6FVgojVT3RRHS65LeJtQ=="
+    },
+    {
+      "name": "Janet Reckard",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fStiwISHYYZDDYpb5Cz87A=="
+    },
+    {
+      "name": "Harshavardhan Reddy",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "o0T/XJhsyP7jmrmsEkMY+A=="
+    },
+    {
+      "name": "Madhu Reddy",
+      "gender": "Male",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hFxe5qc2rhgeVGiYWlAx1Q=="
+    },
+    {
+      "name": "Jill Reynen",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h1nZkq1zv8e7OmdRXWmyfQ=="
+    },
+    {
+      "name": "Elaina Rhoades",
+      "gender": "Female",
+      "city": "PEORIA",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d1mbDk955FOLEiFJsbLMaA=="
+    },
+    {
+      "name": "Joshua Risinger",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C+uWjAFs3WwDSUFMomBOvQ=="
+    },
+    {
+      "name": "Ryan Roach",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "UMvbd+0LE3+MwPr1xhbwnw=="
+    },
+    {
+      "name": "Christine Rodeghero",
+      "gender": "Female",
+      "city": "NORMAL",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sgFZOm4qY0vHXNcjUwLj8g=="
+    },
+    {
+      "name": "Aaron Roemer",
+      "gender": "Male",
+      "city": "Lincoln",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aBiCevU6ffTuCzFJGGE0rA=="
+    },
+    {
+      "name": "Belinda Rohn",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ALVVdjDYtCqjO2qeoQ6XYw=="
+    },
+    {
+      "name": "Megan Rozboril",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "q05Q47rNr0NxEoofSQ0fMg=="
+    },
+    {
+      "name": "Jake Rundall",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JIff2TrJdDifM1JPCZHVtg=="
+    },
+    {
+      "name": "Jihwab Ryu",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CG6NguwiVmajunkWZrP+5g=="
+    },
+    {
+      "name": "Rolando Salazar",
+      "gender": "Male",
+      "city": "STONINGTON",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8yeGqvYx+9Nzv8ZGP7+QEw=="
+    },
+    {
+      "name": "Charbel Saliba",
+      "gender": "Male",
+      "city": "NORMAL",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/1/2024",
+      "usta_id": "c9UQDU0Lm099+A6fcqElZQ=="
+    },
+    {
+      "name": "Ariel Santamaria",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "NPIbF93HN0llpJ5iDPwD/w=="
+    },
+    {
+      "name": "Chris Sarol",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xOxy+fus2PTiKNWDSvAXXA=="
+    },
+    {
+      "name": "Teri Scaggs",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "5XC2th+iu6zBXU4Vj/7bCg=="
+    },
+    {
+      "name": "Jodi Scott",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O+kF1wXXJ5SAj8QgqI9sgA=="
+    },
+    {
+      "name": "Steve Scott",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/12/2025",
+      "usta_id": "1RsAYFjWfwcnBFAxLwQ2dA=="
+    },
+    {
+      "name": "Brett Scroggins",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "I9UvTejWrvnXqXWs0lFGdA=="
+    },
+    {
+      "name": "Laura Sedory",
+      "gender": "Female",
+      "city": "Sherman",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2024",
+      "usta_id": "QDNumu5iPBh6obHRdgCcwg=="
+    },
+    {
+      "name": "Stephanie Seiler",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P7CZ+7SVViF2D9wo047pPQ=="
+    },
+    {
+      "name": "Arjun Shah",
+      "gender": "Male",
+      "city": "Naperville",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2j5DEViqI8LWQFcUZcDrhA=="
+    },
+    {
+      "name": "Chandra Shanklin",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a6yfANrGcJaicFNexicWRg=="
+    },
+    {
+      "name": "Chansun Shin",
+      "gender": "Male",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "o9mgimu6yY4Q6hPHmBYQcg=="
+    },
+    {
+      "name": "Jim Shumake",
+      "gender": "Male",
+      "city": "Fowler",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d9p7wOXpyJ0p5HLz8HoPNQ=="
+    },
+    {
+      "name": "Erik Siembab",
+      "gender": "Male",
+      "city": "Tiskilwa",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "F2x8m9JZOnI7O6GmMYoYMw=="
+    },
+    {
+      "name": "Kathleen Sigle",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ji07G2yAOa6vmNjU0878Ew=="
+    },
+    {
+      "name": "Charles Sikora",
+      "gender": "Male",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6rvsHgOyg/4PcF0vhTmEvA=="
+    },
+    {
+      "name": "Ravi Singhal",
+      "gender": "Male",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gai5P6iqVGbw8Qdjw+cEUg=="
+    },
+    {
+      "name": "Christopher Sisson",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6WNL9uXvlZ+qFF1XX62Tww=="
+    },
+    {
+      "name": "Shelley Siuts",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eSrhi9+UtKRJVHrGWzdrYA=="
+    },
+    {
+      "name": "Dantzler Smith",
+      "gender": "Male",
+      "city": "Urbana",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "APTIxmRzUHhTwY2DF10QaA=="
+    },
+    {
+      "name": "Karolyn Smith",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w6HswfZ/utB4I/VMe5jkYQ=="
+    },
+    {
+      "name": "Ryan Smith",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "de4hQ24JgMo2dABOwEKpvw=="
+    },
+    {
+      "name": "Thomas Smith",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tErxi0TUBEujLip1QLIbqA=="
+    },
+    {
+      "name": "Nancy Snook",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eSrhi9+UtKQKu2mMYfSvFw=="
+    },
+    {
+      "name": "Carol Snyder",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/11/2025",
+      "usta_id": "HHvrAI8oYe+WVwxDsjvKBA=="
+    },
+    {
+      "name": "Bob Soltys",
+      "gender": "Male",
+      "city": "Quincy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "jOu/oV4Z/Op5wHHLSrD/5A=="
+    },
+    {
+      "name": "Cynthia Somers",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "wPIbqeZW8MyqVc/EMW9MuQ=="
+    },
+    {
+      "name": "Laura Sonnichsen",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oTaVGFxHWN3/97AEIUZEZw=="
+    },
+    {
+      "name": "Susie Sorenson",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "jiRnnu2wjdrvX0Jyc/ivDg=="
+    },
+    {
+      "name": "Jane Spektor",
+      "gender": "Female",
+      "city": "EDWARDS",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "CQ6GFyIJFEldEMNfDtdzFw=="
+    },
+    {
+      "name": "Letitia Spirek-Algrain",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+m4iuSZU+Dy8KY6Ycz0hhw=="
+    },
+    {
+      "name": "A Spitalny",
+      "gender": "Male",
+      "city": "Metamora",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "8s1c/z/iMGdXW1Ml4qicrA=="
+    },
+    {
+      "name": "Gordon Steffen",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "FcZp/2U8H85nkz3o5esCCg=="
+    },
+    {
+      "name": "Jamie Steinkamp",
+      "gender": "Female",
+      "city": "Edwardsville",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "Itpp/I+sgsUMkQQTg5PEig=="
+    },
+    {
+      "name": "Reed Stoewer",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/8/2025",
+      "usta_id": "PovZC5HPFaysZHo4NL5HqA=="
+    },
+    {
+      "name": "Rini Stoltz",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ICssoY6U8SRihV3J0OWGTw=="
+    },
+    {
+      "name": "Donald Stone",
+      "gender": "Male",
+      "city": "El Paso",
+      "state": "IL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Lv8XEEHtLlKinuy2dgppDw=="
+    },
+    {
+      "name": "Dawson Strauch",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ku7H7ANaKQG8gp+CO14ktQ=="
+    },
+    {
+      "name": "Leah Stroebel",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s1JZ1T/VAgXuqzCuQFw4Sg=="
+    },
+    {
+      "name": "Gaston Suardiaz",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bfVrynJ39IoYgzbEE9OzYw=="
+    },
+    {
+      "name": "Jenny Sun",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VEAo/PBsDjiFiawcL4fIhg=="
+    },
+    {
+      "name": "Varun Suryan",
+      "gender": "Male",
+      "city": "PEORIA",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ywcfZlXpLqwqoFoIOc8mlA=="
+    },
+    {
+      "name": "Jon Sutter",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "SfAs9lYukR9Mtk97sDhs2g=="
+    },
+    {
+      "name": "Hillary Tennant",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aDNAruHUsFJbiS0PJiwbjw=="
+    },
+    {
+      "name": "Erin Thomas",
+      "gender": "Female",
+      "city": "Germantown Hills",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/10/2025",
+      "usta_id": "25KwpRYrRCSmS+r0b+KOJg=="
+    },
+    {
+      "name": "Sonthana Thongsithavong",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HAiK4KNiKUitmltGoJe2Bw=="
+    },
+    {
+      "name": "Lesha Threewit",
+      "gender": "Female",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6Uylj4K1LQJ+T+wlza3ilg=="
+    },
+    {
+      "name": "Krishna Tiwari",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/29/2024",
+      "usta_id": "lhTGWHF3xkZWY2uWQnudVA=="
+    },
+    {
+      "name": "Patty Tobiasz",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m2WeziQBKjc6qKSpYLmO9Q=="
+    },
+    {
+      "name": "Joe Totten",
+      "gender": "Male",
+      "city": "Normal",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "fATXbPeTR8dyyyX6rcaUsQ=="
+    },
+    {
+      "name": "Molly Tracy",
+      "gender": "Female",
+      "city": "Bement",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q138qVc+ureq/XiVNrsitQ=="
+    },
+    {
+      "name": "Susan Tretter",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6BXxEwv/5NXhl8C0m+Mhsg=="
+    },
+    {
+      "name": "Nicholas Troehler",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NEtt5i9uEtPAdPxlnUchfQ=="
+    },
+    {
+      "name": "Courtney Turnbull",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/20/2025",
+      "usta_id": "KKCbRXoYEetgSQwAmJaTHg=="
+    },
+    {
+      "name": "Amy Ulrich",
+      "gender": "Female",
+      "city": "Brimfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DS+i0quWlCfNyaWesG2T0g=="
+    },
+    {
+      "name": "Lucinda Uphoff",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wvSEvJmtPVT3VVBCD3Rpow=="
+    },
+    {
+      "name": "Robert Vanhootegem",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "U26tg0vy3R4LT6qpmRZrVQ=="
+    },
+    {
+      "name": "Rebecca Vanmeter",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rvgMpiz8hOaDGnXNYyAJvw=="
+    },
+    {
+      "name": "Lorenzo Vergari",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CZd+zHiWPDXzerKRu1Bt8A=="
+    },
+    {
+      "name": "Tracey Vincent",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cf9lxGCC0q8vjsveSRW06Q=="
+    },
+    {
+      "name": "Stephen Vollmer",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "sObQms8WfUijIgwEHC/bBA=="
+    },
+    {
+      "name": "Mark Voskoboynikov",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/23/2024",
+      "usta_id": "ZPUJh9NO+XlR/MKJziaMNA=="
+    },
+    {
+      "name": "Mike W",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/2/2024",
+      "usta_id": "2wcCQMM3i1EPYRAjeNpyCw=="
+    },
+    {
+      "name": "Bryan Wagler",
+      "gender": "Male",
+      "city": "Pekin",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/3/2025",
+      "usta_id": "PjMwNpQV8Zp1nG+ck2+0lQ=="
+    },
+    {
+      "name": "Karen Waibel",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/4/2024",
+      "usta_id": "rCRFMAHAn1+pOlIJM/1aog=="
+    },
+    {
+      "name": "Andrew Wallen",
+      "gender": "Male",
+      "city": "Mapleton",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "+Niya1iYHXShdbTbUwqqhA=="
+    },
+    {
+      "name": "Mike Walz",
+      "gender": "Male",
+      "city": "East Peoria",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/29/2024",
+      "usta_id": "EFHkoKelTEEzlbM6ko8yqg=="
+    },
+    {
+      "name": "Jack Wang",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "559VvGakq/HtWdcaTBecKA=="
+    },
+    {
+      "name": "Kai Wang",
+      "gender": "Male",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jY96/flaztaUK06zZV7kPw=="
+    },
+    {
+      "name": "Kathleen Watts",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R8UPTFdeR6q5d3OJjGdGvQ=="
+    },
+    {
+      "name": "John Webb",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7BMciC5vAZpRLWMTKEer1g=="
+    },
+    {
+      "name": "Lisa Wegner",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1ikok7akFFaVsyA/tT79EA=="
+    },
+    {
+      "name": "Elizabeth Weldon",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/UvVLaUVxV9CxFWdQW+9Wg=="
+    },
+    {
+      "name": "Jason Werner",
+      "gender": "Male",
+      "city": "East Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/17/2025",
+      "usta_id": "P9Zt5Z1fE6jY9xoWiHFP+Q=="
+    },
+    {
+      "name": "Kris Wertz",
+      "gender": "Female",
+      "city": "Pekin",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rlLWKLSHx0/ZK79t/PLY0g=="
+    },
+    {
+      "name": "Rena Weyrauch",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HBsNaioBnY+0cOKU7pFA/A=="
+    },
+    {
+      "name": "Zariah Wherry",
+      "gender": "Female",
+      "city": "Pekin",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/12/2025",
+      "usta_id": "TbRQk0GdAGe6Mm76dsM3UQ=="
+    },
+    {
+      "name": "Laurie Whitmore",
+      "gender": "Female",
+      "city": "Hanna City",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dl42U/aR0+4j+/mvTuNI5g=="
+    },
+    {
+      "name": "Becky Wiese",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DCFdtcmORQAGI7bJtWGI5Q=="
+    },
+    {
+      "name": "Andy Wilke",
+      "gender": "Male",
+      "city": "CHAMPAIGN",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VbWnnQE8KHL0x0e+COKlAQ=="
+    },
+    {
+      "name": "Noah Williams",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/24/2025",
+      "usta_id": "2I9pgu4Jkc6LVWOQjrRNfg=="
+    },
+    {
+      "name": "THOMAS WILSON",
+      "gender": "Male",
+      "city": "Urbana",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UPLu4vLEo1J2yI5Oe4sJKg=="
+    },
+    {
+      "name": "Diane Winder",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T+e8GnxecXgVQHl1eXb6OQ=="
+    },
+    {
+      "name": "Kyle Wineinger",
+      "gender": "Male",
+      "city": "Chillicothe",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/10/2023",
+      "usta_id": "9MAZQOnU40jSSXUq1dnSuw=="
+    },
+    {
+      "name": "Patricia Wombacher",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FErfdQtNRs1f2ioN+XHp+A=="
+    },
+    {
+      "name": "Mike Wood",
+      "gender": "Male",
+      "city": "Hannibal",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gmKcOrC5MeYmgCKy3IBPzg=="
+    },
+    {
+      "name": "Philip Woodrum",
+      "gender": "Male",
+      "city": "Bloomington",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9duJXJ2cpFWWcBVUmOM8SA=="
+    },
+    {
+      "name": "Angela Woods",
+      "gender": "Female",
+      "city": "Effingham",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "jDD/iy+C+Ufo5Unf7uBSjQ=="
+    },
+    {
+      "name": "Ben Wyckoff",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2024",
+      "usta_id": "5tCAYPEhEUP8SRHPHdd9mA=="
+    },
+    {
+      "name": "Jaemin Yang",
+      "gender": "Male",
+      "city": "Savoy",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XiZTOmUTjyzZQ2sc1+kcOg=="
+    },
+    {
+      "name": "Wendy Yang",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ry/OXyGoTN7XYaC8CwBrEQ=="
+    },
+    {
+      "name": "Chandra Yedavalli",
+      "gender": "Male",
+      "city": "PEORIA",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/27/2024",
+      "usta_id": "UqUBIp9uU9Kj1qJVMpSZyQ=="
+    },
+    {
+      "name": "Lois Yoches",
+      "gender": "Female",
+      "city": "Dunlap",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lh7aik/4xXSpr6GrQa2xQg=="
+    },
+    {
+      "name": "Kurt Yonke",
+      "gender": "Male",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/4/2024",
+      "usta_id": "jFT6wpKsXSKItbGP02jo4w=="
+    },
+    {
+      "name": "Hae Yoon Yoon",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FYSldw76yOVl0mz33syCFA=="
+    },
+    {
+      "name": "Jamie Young",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h8fB85+rm1/QQnkmZG29Yg=="
+    },
+    {
+      "name": "Eun Yun",
+      "gender": "Female",
+      "city": "Champaign",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3OOi+udRJxT6UKOjw956mA=="
+    },
+    {
+      "name": "Kenneth Yun",
+      "gender": "Male",
+      "city": "Cape Girardeau",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/29/2024",
+      "usta_id": "xhdN7eESQrjHcxF7+Eu90Q=="
+    },
+    {
+      "name": "Janice Zagardo",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XJl6t6z2OT+QKNLenv2SmQ=="
+    }
+  ]
+}

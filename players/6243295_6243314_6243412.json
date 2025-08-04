@@ -1,0 +1,717 @@
+{
+  "sectionId": "6243295",
+  "districtId": "6243314",
+  "areaId": "6243412",
+  "players": [
+    {
+      "name": "Beth Ahner",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "ctOuI/qhCmKymmeFCWxuDQ=="
+    },
+    {
+      "name": "You Soon Baek",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i9VZ3bFfdjb2D+rQzdfnvQ=="
+    },
+    {
+      "name": "Sharon Baliker",
+      "gender": "Female",
+      "city": "Romulus",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4n2cCIKhwWGIBg3IqmckQQ=="
+    },
+    {
+      "name": "Jenny Barnett",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q4A4MmXolPFpvRmkT/WdJg=="
+    },
+    {
+      "name": "Douglas Bennett",
+      "gender": "Male",
+      "city": "CORNING",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "YUH/+phWESM/TXRYT2iARQ=="
+    },
+    {
+      "name": "Kaiya Bercow",
+      "gender": "Male",
+      "city": "Spencer",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/18/2024",
+      "usta_id": "L/lC1F3pY2/mqPS0jgFCVg=="
+    },
+    {
+      "name": "Galib Braschler",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2o5nyammDha+OvYvVRrOfQ=="
+    },
+    {
+      "name": "Michelle Cannon",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yj+9kWwoR098oC4reL/WQQ=="
+    },
+    {
+      "name": "Julieta Caunedo",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wY0VhCmmaRrtE3aa1Ql3VA=="
+    },
+    {
+      "name": "Carol Cohen",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9Xqt1JRUBm5CXQUXg1lMEw=="
+    },
+    {
+      "name": "Susan Cole",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H4BlxIDDF5b5sm33CykiJw=="
+    },
+    {
+      "name": "Will Davies",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "rbLlN3Fia6GZ4ws/hygZkQ=="
+    },
+    {
+      "name": "Laura Falk",
+      "gender": "Female",
+      "city": "Lansing",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fVFhyWvXO61Rcyr4LM/MfA=="
+    },
+    {
+      "name": "Susannah Fine",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "BgwiHy3KKAxlUA+7g+y9sA=="
+    },
+    {
+      "name": "Ben Frahm",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ky7qwSVTBWET/5GBoI648A=="
+    },
+    {
+      "name": "Robert Frank",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/27/2025",
+      "usta_id": "CUOCOuz7Qb7f4uDR9/Cuqw=="
+    },
+    {
+      "name": "Sarah Galbreath",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/22/2024",
+      "usta_id": "n4XMYKSpzKTEddVXE7R16Q=="
+    },
+    {
+      "name": "Heather Harrick",
+      "gender": "Female",
+      "city": "New York",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yFXi8mrH32rIQhA6VvlGQA=="
+    },
+    {
+      "name": "Anna Hill",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Niya1iYHXQknxeeP6qxSw=="
+    },
+    {
+      "name": "Meredith Holgerson",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/31/2024",
+      "usta_id": "/xFCLQs7YDtL1znQCqrIBA=="
+    },
+    {
+      "name": "Kathleen Jordan",
+      "gender": "Female",
+      "city": "Trumansburg",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YpC+tWwRYuqBVXky654XdA=="
+    },
+    {
+      "name": "Jennifer Kagan",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2JFyfqdvILNNXg/wh5vVsw=="
+    },
+    {
+      "name": "Doorim Kim",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/15/2025",
+      "usta_id": "ZwwKisCiO4DCGcqgjmxN4A=="
+    },
+    {
+      "name": "Nam-Jung Kim",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vjgILaC/OvseINLSOedplw=="
+    },
+    {
+      "name": "Amy Kohut",
+      "gender": "Female",
+      "city": "Brooktondale",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FMlXPysIipiUzk9O0CjtFw=="
+    },
+    {
+      "name": "Kyoungsoo Lee",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pcIAquRKEYvzB7k7KefPZA=="
+    },
+    {
+      "name": "Minseok Lee",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "sgaxhC6g1aDFmybA4WIZKA=="
+    },
+    {
+      "name": "Aija Leiponen",
+      "gender": "Female",
+      "city": "Brooktondale",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bj6QEzSNRWfpfxKoyYb1gQ=="
+    },
+    {
+      "name": "Emily Madan",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XAmOOhViMKthHfOzlpHMiQ=="
+    },
+    {
+      "name": "Sanchay Madan",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "XAmOOhViMKtVQY25dh7g5A=="
+    },
+    {
+      "name": "Madi Maley",
+      "gender": "Female",
+      "city": "Groton",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rulDCp39XrJKuIdLv/R63w=="
+    },
+    {
+      "name": "Natasha Mariano",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VTiTSXKG2UGPOl0MmBo26w=="
+    },
+    {
+      "name": "Patricia McClary",
+      "gender": "Female",
+      "city": "Newfield",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M7jZ4W4K50eMOKIDB/sa0Q=="
+    },
+    {
+      "name": "Chris Milner",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FLlgeZLXky7wFnl+ieg1+Q=="
+    },
+    {
+      "name": "Jon Minikes",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "RSHo/i7KaczVQapVusjdRw=="
+    },
+    {
+      "name": "Frank Naples",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/24/2024",
+      "usta_id": "KQym988nHpPrU3/v4kQwYQ=="
+    },
+    {
+      "name": "Dimitri Naydich",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/23/2025",
+      "usta_id": "sEZGv5e47VKcJIk+wqjISg=="
+    },
+    {
+      "name": "Irina Naydich",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vav1bcX4IiwvKFJcKZOZ6Q=="
+    },
+    {
+      "name": "Kuniko Okada",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "92NEIRIFZMC+Vgrdo+LuLg=="
+    },
+    {
+      "name": "Mizuho Okada",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/1/2025",
+      "usta_id": "61NAaShVawM6Vb+tBrykmw=="
+    },
+    {
+      "name": "Felipe Ortiz",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "a8MNO6rdE7P0iSXModSNnQ=="
+    },
+    {
+      "name": "Ashley Paolangeli",
+      "gender": "Female",
+      "city": "Trumansburg",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QM8tBAP4Mqfn/JV5mtiGng=="
+    },
+    {
+      "name": "Sungjoon Park",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ZvLyo8wyObX/I7nQJy3ySg=="
+    },
+    {
+      "name": "Barry Passer",
+      "gender": "Male",
+      "city": "Newfield",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2024",
+      "usta_id": "tXfAkhdUF8nXCLmUlsxPQg=="
+    },
+    {
+      "name": "Kelsey Pierce",
+      "gender": "Female",
+      "city": "Spencer",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cLz8OzYVGX1Opmq5nfQSPA=="
+    },
+    {
+      "name": "Bettina Podkaminer",
+      "gender": "Female",
+      "city": "Trumansburg",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/3/2024",
+      "usta_id": "vLt/GVkWhiu3f0yNnvo3/A=="
+    },
+    {
+      "name": "Joel Podkaminer",
+      "gender": "Male",
+      "city": "Trumansburg",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bwz/mx7Bk9CYSytU7bFlFQ=="
+    },
+    {
+      "name": "Mark Poor",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/5/2024",
+      "usta_id": "Z4fGmwcVUwcZJnlVVLlhOA=="
+    },
+    {
+      "name": "Jarrell Puryear",
+      "gender": "Male",
+      "city": "Trumansburg",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/13/2024",
+      "usta_id": "cpp91c5xowqNHGryWcWl4w=="
+    },
+    {
+      "name": "Dewi Rainey",
+      "gender": "Female",
+      "city": "Trumansburg",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/31/2024",
+      "usta_id": "WlLDuzseMb2se+U4NVPrbg=="
+    },
+    {
+      "name": "Elliot Shapiro",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "U4rKOavk4RcIarzDTVc2Gg=="
+    },
+    {
+      "name": "J Shermeta",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "ntfPZpaSGN0SViUCl23gdg=="
+    },
+    {
+      "name": "David Smith",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rn7sw8W3iu9lC1nhR2BYBA=="
+    },
+    {
+      "name": "Marcus Smolka",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vJg8nHyqQC1jRnu5h7bGqw=="
+    },
+    {
+      "name": "James Sorrentino",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/7/2023",
+      "usta_id": "upTYnsxvyYeTj/Vje4Jp9Q=="
+    },
+    {
+      "name": "Lester Sowell",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/25/2025",
+      "usta_id": "aqMPOrWCbv+pgaNkPLgs2Q=="
+    },
+    {
+      "name": "Halli Sparks",
+      "gender": "Female",
+      "city": "Burdett",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jmQmvTrZ95pKVpY9koSrtg=="
+    },
+    {
+      "name": "Vivek Srikrishnan",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/14/2024",
+      "usta_id": "EBafDEqRY2S86D55IQgn+A=="
+    },
+    {
+      "name": "Karin Suskin",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7GWWOVJXViAeIihoZtUIfQ=="
+    },
+    {
+      "name": "Seneca Thomas",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/25/2024",
+      "usta_id": "itBmKiHtbjUttAA3GCCuyA=="
+    },
+    {
+      "name": "John Tilitz",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AfLSWi+U5QhOMF8v7PlAHQ=="
+    },
+    {
+      "name": "Sally True",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zub6v42JNZSDk9y4dMM3UA=="
+    },
+    {
+      "name": "Jim van Leer",
+      "gender": "Male",
+      "city": "Brooktondale",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uEgJ2k2vRxbrUY2yvSaUqg=="
+    },
+    {
+      "name": "Robert Vanderlan",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "SKDEb0aldlSqKhLijpTvWw=="
+    },
+    {
+      "name": "Larisa Vygran",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jS9XZqMuSZfbJYBk9kJ3PQ=="
+    },
+    {
+      "name": "Andrew Wallenstein",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xf4aZRf3E/VFxkueMfOkLA=="
+    },
+    {
+      "name": "Jenna Wentzel",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8462g7t7oIdgYxERtSEXkQ=="
+    },
+    {
+      "name": "Robyn Wishna",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eNGzHk4CVFFzq5KTjNYrUw=="
+    },
+    {
+      "name": "Haiyuan Yu",
+      "gender": "Male",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ARPVG8taq2CfLJyPilHxug=="
+    },
+    {
+      "name": "Vivian Zayas",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2j5dX+OuhvRrSCCTm3z/wA=="
+    },
+    {
+      "name": "Irina Zhankov",
+      "gender": "Female",
+      "city": "Ithaca",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MzmZ/zJNB4bm6gkgzOHMrQ=="
+    }
+  ]
+}

@@ -1,0 +1,1407 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243382",
+  "areaId": "6243671",
+  "players": [
+    {
+      "name": "Lee Ainsworth",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rtgkyQB7waLG/x9xeY6eEQ=="
+    },
+    {
+      "name": "Ashley Allen",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dMhYDDbITv9i3M6uehPY1A=="
+    },
+    {
+      "name": "Chandler Ashworth",
+      "gender": "Male",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/6/2024",
+      "usta_id": "N8Mbj+8Sg1FcbsZ/quzp2Q=="
+    },
+    {
+      "name": "Anapaula Balestrazzi",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "7N0S/uQYicB/SOTO5twPLA=="
+    },
+    {
+      "name": "Andrew Barnes",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KHPE3Za2fFZSErNmU2VizQ=="
+    },
+    {
+      "name": "Anna Bates",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "jmo0ZWvmdfrYRC0gX2Ga+A=="
+    },
+    {
+      "name": "Chloe Batterton",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/15/2024",
+      "usta_id": "UovDNW2d9QI2Da1m/wz+Xg=="
+    },
+    {
+      "name": "Gage Batterton",
+      "gender": "Male",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "LysIT4n3gcOn4W2HtW4QxA=="
+    },
+    {
+      "name": "Krystal Bearden",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jktf7RRb4MJrNlJ4C7/JCg=="
+    },
+    {
+      "name": "John Boone",
+      "gender": "Male",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "017tH8LaWN0hxHC83i4CdA=="
+    },
+    {
+      "name": "Susan Boothe",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SLej3r2aWJBG0aGF+5yMOA=="
+    },
+    {
+      "name": "Emma Bowman",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oWiqlNWNOwVU83jzlV+iLg=="
+    },
+    {
+      "name": "Madeline Bridges",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/10/2023",
+      "usta_id": "f6p4QkHuis+iHvuCXN+nhg=="
+    },
+    {
+      "name": "Lauryn Brooks",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nR/BKR5VwM4Cnd1b2tiu5Q=="
+    },
+    {
+      "name": "Ben Browning",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JnckmaIdhwI4iPKjptLplA=="
+    },
+    {
+      "name": "Sutton Cart",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "i1bO5JGT+A71lq9g9KqmeA=="
+    },
+    {
+      "name": "Carla Carter",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/gPBJJigFetI6IOx/wypmg=="
+    },
+    {
+      "name": "Chad Carter",
+      "gender": "Male",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "PL0BhleBMH4h5KAC89TtUA=="
+    },
+    {
+      "name": "Linda Causey",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fxbDMibRj7pupmzouRvarA=="
+    },
+    {
+      "name": "Robert Chappell",
+      "gender": "Male",
+      "city": "MONROE",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "To6OzFL2e9farE+r5KWdmQ=="
+    },
+    {
+      "name": "Elizabeth Clark",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1MRM9seq0q4QdCS6pQhgug=="
+    },
+    {
+      "name": "Clara Cobb",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/15/2025",
+      "usta_id": "UXq8HCDjHk1BxkemPlr+YA=="
+    },
+    {
+      "name": "Krystal Corbett",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "KIUFXF6KKOj4LfCmfDIn+g=="
+    },
+    {
+      "name": "Katie Cracraft",
+      "gender": "Female",
+      "city": "Summerfield",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/22/2024",
+      "usta_id": "uI4ZqsqFljEd6XOZ/wOzcw=="
+    },
+    {
+      "name": "Belinda Crymes",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "3bgPAS4Q5NxkhRd8SpYuUg=="
+    },
+    {
+      "name": "Kennedi Darr",
+      "gender": "Female",
+      "city": "Covington",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/26/2025",
+      "usta_id": "iLQ/yYEptSLsnl32KhrMZw=="
+    },
+    {
+      "name": "Shelby Daum",
+      "gender": "Female",
+      "city": "Chillicothe",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XRW3NlREDXhbd8IAUYK47w=="
+    },
+    {
+      "name": "Sarah Davison",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "14G3VBOL3QpuaVXVB2CDVA=="
+    },
+    {
+      "name": "Rachael Deere",
+      "gender": "Female",
+      "city": "Haughton",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ztGO+rcom2pCa+Egso6KUw=="
+    },
+    {
+      "name": "Marcia Dickerson",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "At0MEMf6q/SJouO1jxGHNA=="
+    },
+    {
+      "name": "Teena Doxey",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "rV2tw06IMUBFsAIsHEFogA=="
+    },
+    {
+      "name": "April Easley",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "02CbMNTq+STRi4hol6IAMw=="
+    },
+    {
+      "name": "Cindy Eaton",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sf8bzBIw+iWe7fqCpC6O4A=="
+    },
+    {
+      "name": "Susan Ewing",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/27/2025",
+      "usta_id": "m6e89TtDkt0TWi05LgRS8g=="
+    },
+    {
+      "name": "Mary Fendley",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ux+i6xsbucswNrAuAllxiQ=="
+    },
+    {
+      "name": "Ryan Fendley",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "w3l0kHHRM0Ci0AvmX9I0lg=="
+    },
+    {
+      "name": "Noah Ferguson",
+      "gender": "Male",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/17/2025",
+      "usta_id": "RxiRTGIQ8BQAh1id9lDlow=="
+    },
+    {
+      "name": "Laura Flynn",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+6RJW192ZLBFNto7iUMLKg=="
+    },
+    {
+      "name": "Anna Garmon",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tUzkxIQNHgYwP6S8PnpcTA=="
+    },
+    {
+      "name": "Jennifer Garriga",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JJvXjOhxqhuXn8y2IaYWoQ=="
+    },
+    {
+      "name": "Cindy Gordon",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cl3YbquM3N835kdDBTVp+g=="
+    },
+    {
+      "name": "Sandra Haley",
+      "gender": "Female",
+      "city": "Haughton",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ooP4OphRgPWkI0OD5dYuQQ=="
+    },
+    {
+      "name": "Kelly Hammett",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "llH1Gm95OZMwZmORTTqNZw=="
+    },
+    {
+      "name": "Jennifer Hanson",
+      "gender": "Female",
+      "city": "Manhattan",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KULPBgl03ZsXJ+H1fCXgJw=="
+    },
+    {
+      "name": "Laura Hartt",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7U5gbSIgu6A4+N+0GVurWw=="
+    },
+    {
+      "name": "Nick Hawkland",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BSV2EF47aaqGs3r/K4wnGg=="
+    },
+    {
+      "name": "Blake Hobbs",
+      "gender": "Male",
+      "city": "BROOKHAVEN",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/5/2025",
+      "usta_id": "U07fqippPUgf9KY5O9h4DA=="
+    },
+    {
+      "name": "Dannah Holtzclaw",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6uShEeRQLdhI+SLlwDLO7A=="
+    },
+    {
+      "name": "Wen Huang",
+      "gender": "Male",
+      "city": "El Dorado",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/30/2023",
+      "usta_id": "fBIViDaQAT6fQXt7looMCw=="
+    },
+    {
+      "name": "Penny Humphries",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "x7LUkaAAs+pUWuNLByC2mg=="
+    },
+    {
+      "name": "Cassandra Huneycutt",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TRzaOPBRPjXkkK3s7g6sHw=="
+    },
+    {
+      "name": "Megan Hunt",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/gPBJJigFeswkZa2sDFeDQ=="
+    },
+    {
+      "name": "Nancy Hunt",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "//Z56feQm1oC5w2j4AZx0Q=="
+    },
+    {
+      "name": "Kelley Ivey",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/21/2025",
+      "usta_id": "JkdDuh1FKYIhy62sMh0Jpw=="
+    },
+    {
+      "name": "Barbara Johnson",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P/dty/lFaw+cbdQZH9+4/A=="
+    },
+    {
+      "name": "Clint Johnson",
+      "gender": "Male",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5HiEJUpf8ZoNHPygDeKA7A=="
+    },
+    {
+      "name": "Jessica Johnson",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wEQIq57xVLE8UotnCA5eKA=="
+    },
+    {
+      "name": "Wesley Johnson",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QBq/CUxXFT0E3Vc1JcGgEA=="
+    },
+    {
+      "name": "Eva Johnston",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M5RVtOb29pCHgOILhIQs4w=="
+    },
+    {
+      "name": "Lamar Johnston",
+      "gender": "Male",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/14/2024",
+      "usta_id": "Tinpuq8f8SD9uOrhgdztMA=="
+    },
+    {
+      "name": "Tami Johnston",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "n70nLbEx8Gwzt8YNDUMi7A=="
+    },
+    {
+      "name": "Tish Jowers",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IAES0XFJ8WLxAbJ8Rt6LQQ=="
+    },
+    {
+      "name": "Jennifer Juneau",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "b70Fy3vOrz/S8HIXDU52bg=="
+    },
+    {
+      "name": "Sarah Keyes Jeffords",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "cT9bpmlqFn2YvGguQDM5Sw=="
+    },
+    {
+      "name": "Michelle Landry",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cB6bo8gJL9UkIBKl1oKCWw=="
+    },
+    {
+      "name": "Anh Le",
+      "gender": "Female",
+      "city": "El Dorado",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2024",
+      "usta_id": "ui0jK3eJxn15W5uBqgG7nw=="
+    },
+    {
+      "name": "Son Le",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Uy2o8b+ukh1h8X1bqANd2Q=="
+    },
+    {
+      "name": "Graham Lemoine",
+      "gender": "Male",
+      "city": "Minden",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "MEXb5/k4ciupbSrZBtUNqw=="
+    },
+    {
+      "name": "Chris Long",
+      "gender": "Male",
+      "city": "Farmerville",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "VQ/9QwZs7YPXhLXmJW96RQ=="
+    },
+    {
+      "name": "David Long",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oJjBir7iJNARlyr9xd51MQ=="
+    },
+    {
+      "name": "Jodi Marvin",
+      "gender": "Female",
+      "city": "Minden",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WgyZ3JgvjiKwWgpcZBwUFw=="
+    },
+    {
+      "name": "Jackson Matthews",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8v+ByU/gIqXI9n7rhFWbQw=="
+    },
+    {
+      "name": "Tiphanie Maxwell",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HV2rkzcQoFPmMBnLRQ9UcA=="
+    },
+    {
+      "name": "Tonya McCulloch",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iehafFVOp92lR5UY9n4SzA=="
+    },
+    {
+      "name": "Mary-Kyle McDonald",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7j76f7gtgTMYvGA3kQrPEg=="
+    },
+    {
+      "name": "Kane McGuire",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "UgEaQbfsU4GujSB5QG5hNw=="
+    },
+    {
+      "name": "Kari McGuire",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TalUPtQ/j4EGh+jyn4SdrA=="
+    },
+    {
+      "name": "Joan McMaster",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cB6bo8gJL9VTqpB9/6TnjA=="
+    },
+    {
+      "name": "Regina McNeill",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ENgB+OgkQnOfzufqS1RThw=="
+    },
+    {
+      "name": "Bynum Miller",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pwkBy8S3NuPcM88ePo8xPA=="
+    },
+    {
+      "name": "Tatum Mitchell",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/26/2025",
+      "usta_id": "Joa6SHp7OVfyg4DJ/Qa2Cg=="
+    },
+    {
+      "name": "Mary Moore",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1QUDbTuRkWEANrKI1udZjw=="
+    },
+    {
+      "name": "Randy Morgan",
+      "gender": "Male",
+      "city": "Tallulah",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yNr7DXPQ+90mLwiobDWVMw=="
+    },
+    {
+      "name": "Tabitha Nankya",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2024",
+      "usta_id": "8o6muP/j2G542q8pyhtq+Q=="
+    },
+    {
+      "name": "Elise Nichols",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/29/2025",
+      "usta_id": "5ygXtCX5AUAKKKugWrfe2w=="
+    },
+    {
+      "name": "Niruban Nirthananthan",
+      "gender": "Male",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eOA2XK0wHjNPc7eSZ+tzIA=="
+    },
+    {
+      "name": "Dionne Nolan",
+      "gender": "Female",
+      "city": "Dubach",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "14G3VBOL3Qq1M/lJwQbFNw=="
+    },
+    {
+      "name": "Erica Norris",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EbgpxG2hHpuwPGIRFinlBg=="
+    },
+    {
+      "name": "Lane Odom",
+      "gender": "Male",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FkSByCIHazJr8Dslmvr0Zw=="
+    },
+    {
+      "name": "Tina Otwell",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ZXXhkLXKdpLynZNuGu4dJw=="
+    },
+    {
+      "name": "Shelley Parker",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r98o9pDaYctbF/GCEnxSkw=="
+    },
+    {
+      "name": "Jessica Phillips",
+      "gender": "Female",
+      "city": "CHOUDRANT",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aAc3Sm7731e2fRh3Yw0tbw=="
+    },
+    {
+      "name": "Ashlea Price",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/gPBJJigFetlmLcLzMg00g=="
+    },
+    {
+      "name": "Lasques Prudhomme",
+      "gender": "Male",
+      "city": "MONROE",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/8/2024",
+      "usta_id": "K94X6kthDcseUC9vy4LnYg=="
+    },
+    {
+      "name": "Ellie Puckett",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r98o9pDaYcvpgDCMgppCLA=="
+    },
+    {
+      "name": "Taylor Pyles",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gOfT12cNkFrZM8sF357n2g=="
+    },
+    {
+      "name": "Robert Ransom",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "yiS/h4U2JqBdGktcfoqI9A=="
+    },
+    {
+      "name": "Dorothy Reece",
+      "gender": "Female",
+      "city": "Homer",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "inonqCVZOZ0myJ9Hx+NzWQ=="
+    },
+    {
+      "name": "Taylor Richardson Burt",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/24/2024",
+      "usta_id": "5AiSfn3dnDLSBbg8ojQUNA=="
+    },
+    {
+      "name": "Susan Richardson",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Jwif6QvYF3zM6rZgCbdZA=="
+    },
+    {
+      "name": "Mollie Robbins",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/3Yi69WJdNJ4WVkxEZBh4w=="
+    },
+    {
+      "name": "Brandy Roberson",
+      "gender": "Female",
+      "city": "Dubach",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yoll6hnwN6uMEHvpj/C9qg=="
+    },
+    {
+      "name": "Tammy Roberts",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/gPBJJigFetOmtGjRmtvaQ=="
+    },
+    {
+      "name": "Thomas Rodsuwan",
+      "gender": "Male",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mWfIhp2wRww6GQuyk60tbQ=="
+    },
+    {
+      "name": "Karen Rogers",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Ac13LsLPfBEQmaO+/0ang=="
+    },
+    {
+      "name": "Johnson Sadiq",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bph/ud5u3Ayp0i9JgbHUPA=="
+    },
+    {
+      "name": "Angie Saldana",
+      "gender": "Female",
+      "city": "Magnolia",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/13/2024",
+      "usta_id": "YJUtm83RWfUo6fL9kCasRQ=="
+    },
+    {
+      "name": "Jean Sanders",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/10/2025",
+      "usta_id": "gWwJJtuOYeAcpCX+6Em5uA=="
+    },
+    {
+      "name": "Jennifer Sanderson",
+      "gender": "Female",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nhvEyYwTKDGN9gay9Aajsw=="
+    },
+    {
+      "name": "Ronnie Sanderson",
+      "gender": "Male",
+      "city": "Choudrant",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/24/2023",
+      "usta_id": "usiNUXrsXetrodAGsnKvYQ=="
+    },
+    {
+      "name": "Will Scott",
+      "gender": "Male",
+      "city": "Prairieville",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/4/2023",
+      "usta_id": "0lqXOv+Osjk85UbSDgSHHA=="
+    },
+    {
+      "name": "George Seacrist",
+      "gender": "Male",
+      "city": "Dubach",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/15/2024",
+      "usta_id": "kW9YGOLfy5o0mHu0AcsJNw=="
+    },
+    {
+      "name": "Jennifer Sexton",
+      "gender": "Female",
+      "city": "Dubach",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fIXrSYdhsqjuUhPp/qtkxg=="
+    },
+    {
+      "name": "Brittany Sheets",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3rx08On3iAy5IVoKjeC8lQ=="
+    },
+    {
+      "name": "Julie Shirley",
+      "gender": "Female",
+      "city": "CHOUDRANT",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cB6bo8gJL9U6ZsdnWWYbww=="
+    },
+    {
+      "name": "Brad Simpson",
+      "gender": "Male",
+      "city": "RUSTON",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "pK4D/ZAoCfVpW55Kh9YbkA=="
+    },
+    {
+      "name": "Stefanie Simpson",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OSB/EncmCwpqNx31URVYzw=="
+    },
+    {
+      "name": "Vijaydeep Singh",
+      "gender": "Male",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1B6fh5iuT35m1EJ8SnduCQ=="
+    },
+    {
+      "name": "Alan Smith",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "N4WsfbDSd0yTS/FCINvZtg=="
+    },
+    {
+      "name": "Lori Spence",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aasCIiDw5iE/o9AK0kuECA=="
+    },
+    {
+      "name": "Keith Sternitzky",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AskRbAs90y13owpVehVE5g=="
+    },
+    {
+      "name": "Samuel Stewart",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lqaWs8uXGYcf2hGFw5qzQg=="
+    },
+    {
+      "name": "Dee Streetman",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S2ouUwtVFYe0FZDOMiDdIw=="
+    },
+    {
+      "name": "Connie Stuckey",
+      "gender": "Female",
+      "city": "CHOUDRANT",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xdzgt4lr5UCiRj617rES5A=="
+    },
+    {
+      "name": "Amanda Sutherland",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k5vKW9QCgAwRaapodsnrtQ=="
+    },
+    {
+      "name": "Kathy Sutton",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZdfSVmQJaM2l+dUpLQVnrw=="
+    },
+    {
+      "name": "Christopher Taylor",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kJ7r0abeifYP0lSoambvzQ=="
+    },
+    {
+      "name": "Noah Taylor",
+      "gender": "Male",
+      "city": "Vicksburg",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "AFOyx/PTLr/TJsoKFRU6LQ=="
+    },
+    {
+      "name": "Glenn Theis",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/HSFXtsChAAD2E7xT0/DfA=="
+    },
+    {
+      "name": "Lori Theis",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lyzMNSUlbMrLYBIRtGJqfw=="
+    },
+    {
+      "name": "Ashton Thomas",
+      "gender": "Female",
+      "city": "Quitman",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nvy6o23EzQFqf8I8seV2ag=="
+    },
+    {
+      "name": "Emilie Tomlin",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fz6kX8TORMVi1nTPAlMH1A=="
+    },
+    {
+      "name": "Matt Tyler",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1wsRPRlsNk8g22NZf2cShg=="
+    },
+    {
+      "name": "John Wakeman",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l3LITeBvxDxhRUWqp+zSzA=="
+    },
+    {
+      "name": "Taylor Weeks",
+      "gender": "Female",
+      "city": "WEST MONROE",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T7Fvj6x9ip3Z0ipg1LtC9g=="
+    },
+    {
+      "name": "Collin Wick",
+      "gender": "Male",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IMjrHhwym7BDt43MD4k1oQ=="
+    },
+    {
+      "name": "DeEtte Wick",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tYJc0HC0KhmjrkDbKO8PcA=="
+    },
+    {
+      "name": "Amanda Williams",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SARJkmj8v241RpZCReXkFg=="
+    },
+    {
+      "name": "Kristi Williams",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VLoMVbcZ1zuj6Lx3OB/GQg=="
+    },
+    {
+      "name": "Misty Wren",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "tKfe4TQgw/cHX/ZoGpztlQ=="
+    }
+  ]
+}

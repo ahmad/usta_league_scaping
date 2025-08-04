@@ -1,0 +1,587 @@
+{
+  "sectionId": "6243304",
+  "districtId": "6243367",
+  "areaId": "6243560",
+  "players": [
+    {
+      "name": "Luke Anderson",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "STdDtv35sWOV2RzjVYIaHQ=="
+    },
+    {
+      "name": "Alicia Andre",
+      "gender": "Female",
+      "city": "Edina",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ru3Djn2Y4HLIBEOHOxtUdA=="
+    },
+    {
+      "name": "Lester Batistiana",
+      "gender": "Male",
+      "city": "Salinas",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ozxRZptOxuT0tMW+6f9LYA=="
+    },
+    {
+      "name": "Aashish Bharath",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lmCpsRum2tg8iSyTRyK6SQ=="
+    },
+    {
+      "name": "Mary Bhavsar",
+      "gender": "Female",
+      "city": "Hamel",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PxH5XzqjdSRVnVvRpMrVOg=="
+    },
+    {
+      "name": "Ellen Boss Krohn",
+      "gender": "Female",
+      "city": "EXCELSIOR",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2uR8yS365uWVLkfg+GRQ1A=="
+    },
+    {
+      "name": "Adam Boyle",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "10/9/2024",
+      "usta_id": "EAp/b26DkArxXuJTkIHpsA=="
+    },
+    {
+      "name": "Lauren Bralski",
+      "gender": "Female",
+      "city": "MINNEAPOLIS",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/9/2024",
+      "usta_id": "kqS52jIUqLBm7KiE2qnKow=="
+    },
+    {
+      "name": "Florina Brown",
+      "gender": "Female",
+      "city": "Westlake",
+      "state": "OH",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5eb7MaOwKFGYBJYm3HyoUQ=="
+    },
+    {
+      "name": "Margaret Christopher",
+      "gender": "Female",
+      "city": "Burnsville",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "uy6wAVZOGijJMWLGAxhyIQ=="
+    },
+    {
+      "name": "Robert Conway",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aIiBKHWzzXmjvr8gBwyiug=="
+    },
+    {
+      "name": "Nathan Cuellar",
+      "gender": "Male",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/12/2024",
+      "usta_id": "NzMJpJHf3qLcCFFW4mSdrg=="
+    },
+    {
+      "name": "Devie Erickson",
+      "gender": "Female",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L8+G/+bDzrFQ1yYv6NdQEw=="
+    },
+    {
+      "name": "Jeanne Ewen",
+      "gender": "Female",
+      "city": "Apple Valley",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uCZRqkXIF8dcslDQiiIdxg=="
+    },
+    {
+      "name": "Kirsten Galloway",
+      "gender": "Female",
+      "city": "Victoria",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lal/G+U9WWBrG1X7XVdcWQ=="
+    },
+    {
+      "name": "Greg Garritty",
+      "gender": "Male",
+      "city": "Burnsville",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dZFVo6VNOqfuCYFpU/Wa1A=="
+    },
+    {
+      "name": "Kathleen Geherin",
+      "gender": "Female",
+      "city": "Eden Prairie",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2ctIgOM2WHq+ezQ1Ps4ffA=="
+    },
+    {
+      "name": "Ryan Haddorff",
+      "gender": "Male",
+      "city": "Eagan",
+      "state": "MN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J4ne7AQHTNPIBHPceyybHA=="
+    },
+    {
+      "name": "Kerrie Hecker",
+      "gender": "Female",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+/1Sp6z2IEFCcT1VoN/21w=="
+    },
+    {
+      "name": "Kristin Heywood",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "MN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HhMcEsid1ir33aI/bfd/5w=="
+    },
+    {
+      "name": "Edwin Hodder",
+      "gender": "Male",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/k4kjfvTnQATC+c5zBk9JA=="
+    },
+    {
+      "name": "Charles House",
+      "gender": "Male",
+      "city": "MINNEAPOLIS",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wDAymloeh7jsDtrCbzFN/Q=="
+    },
+    {
+      "name": "Heather Hoyt",
+      "gender": "Female",
+      "city": "Eden Prairie",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xwArhX6DeFfndZ6RvlYbzQ=="
+    },
+    {
+      "name": "Elizabeth Kruse",
+      "gender": "Female",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nnmTviGvFSr5POin7yxEZw=="
+    },
+    {
+      "name": "Angela Lockhart",
+      "gender": "Female",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NEtt5i9uEtO0T0KgvWivqg=="
+    },
+    {
+      "name": "Jessica Loftus",
+      "gender": "Female",
+      "city": "Wayzata",
+      "state": "MN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4xyUYAxXAfwFoPUKCNX4ow=="
+    },
+    {
+      "name": "Howard Louthan",
+      "gender": "Male",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/1/2024",
+      "usta_id": "x5ms/hInEyoekJmHOUeimg=="
+    },
+    {
+      "name": "Kathy Lynch",
+      "gender": "Female",
+      "city": "Chanhassen",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uiKwNQc4r9YatRjsvjpVMg=="
+    },
+    {
+      "name": "Michael Malloy",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "enQknnRL2C9UQ6s/4cpAcA=="
+    },
+    {
+      "name": "Jennifer Miller",
+      "gender": "Female",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kGiZUI1x0GX+pWtHVafkMg=="
+    },
+    {
+      "name": "Nissrine Nakib",
+      "gender": "Female",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sTzD+mMWOzaAroC+NbtrCA=="
+    },
+    {
+      "name": "Eric Narvaez",
+      "gender": "Male",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W1EfJ5slHXrzHLYddOsmxw=="
+    },
+    {
+      "name": "Nicolei Nasrabadi",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t52Ygvxx6rG8jEHA8+ms+g=="
+    },
+    {
+      "name": "Thor Nelson",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nTpM/kW8u0FyUB6EjzMwDA=="
+    },
+    {
+      "name": "Ryan Nguyen",
+      "gender": "Male",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HquoOtvDWSOJhYHskyiieg=="
+    },
+    {
+      "name": "Lisa Ogren",
+      "gender": "Female",
+      "city": "Mound",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pAAyzy1efVbGBCLtD8ZrSQ=="
+    },
+    {
+      "name": "Julie Opfer",
+      "gender": "Female",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AeuMjSzreWRpX+ejVO+sHA=="
+    },
+    {
+      "name": "Per Ostlund",
+      "gender": "Male",
+      "city": "Minnetonka",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m8e9L4lHOdz1xVOr2qX0Eg=="
+    },
+    {
+      "name": "Craig Partridge",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "S0rPIz8VAN4LkBU9GYLXsA=="
+    },
+    {
+      "name": "Gail Puzak",
+      "gender": "Female",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3dMU/gM203IpuZZgXs73Cg=="
+    },
+    {
+      "name": "Kerry Reiling",
+      "gender": "Female",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0mLbaGr4F+wsYve7wqlvcA=="
+    },
+    {
+      "name": "Aaron Rosenbery",
+      "gender": "Male",
+      "city": "Lakeville",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dOFpp2CmI5CwiA9zcf9q1Q=="
+    },
+    {
+      "name": "Susan Sajevic",
+      "gender": "Female",
+      "city": "Maplewood",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yr9fv86VC2PY+CLP12l/Sw=="
+    },
+    {
+      "name": "Madeleine Schneider",
+      "gender": "Female",
+      "city": "Chaska",
+      "state": "MN",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "7/23/2024",
+      "usta_id": "WOcYcEYPffK1JyIlhIqqUQ=="
+    },
+    {
+      "name": "Eddie Shin",
+      "gender": "Male",
+      "city": "Wilmington",
+      "state": "DE",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "wU2GiYE60B9ClY9igcNaAg=="
+    },
+    {
+      "name": "Aiden N Stasek",
+      "gender": "Male",
+      "city": "Bay Village",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KGxdNfUzPjwUtpszrJ6iUA=="
+    },
+    {
+      "name": "Andrea Sterk",
+      "gender": "Female",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x5ms/hInEypfD+ewEuxxAg=="
+    },
+    {
+      "name": "Wendi Stern",
+      "gender": "Female",
+      "city": "Plymouth",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OKIvkh9HndwzsacAhwdm0Q=="
+    },
+    {
+      "name": "Ger Thao",
+      "gender": "Male",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "oEWdgDPbFwEkPNNv7lokQw=="
+    },
+    {
+      "name": "Katelyn Thomas",
+      "gender": "Female",
+      "city": "Granbury",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "ln4k8uAF9/gSSMSf927crw=="
+    },
+    {
+      "name": "Michael Trangle",
+      "gender": "Male",
+      "city": "Hopkins",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FyNWOM22sW4Km4KSOAoj0Q=="
+    },
+    {
+      "name": "Madeline Ulrich",
+      "gender": "Female",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/25/2024",
+      "usta_id": "GBhfvjF4LvftPTqQL+/00Q=="
+    },
+    {
+      "name": "Carl Vaughan",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wWuJk3eAcN68QVpK7wVgWQ=="
+    },
+    {
+      "name": "Peter Vujovich",
+      "gender": "Male",
+      "city": "Afton",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rMmrf4wKB2cjhq2ldjaNaA=="
+    },
+    {
+      "name": "Richard Weinberg",
+      "gender": "Male",
+      "city": "SAINT PAUL",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VUs3SCIpG/Xiw/Np+nliSw=="
+    },
+    {
+      "name": "William Wight",
+      "gender": "Male",
+      "city": "Saint Paul",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rkFa8VOYMz9NN4Bg7eo0yA=="
+    },
+    {
+      "name": "Christopher Wu",
+      "gender": "Male",
+      "city": "Hillsborough",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C6ZfdFv5/vr8XJ+uZRV+Fw=="
+    },
+    {
+      "name": "Cha Lee Yang",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "1RHqzqLj+16xTVaLCPyEFg=="
+    }
+  ]
+}

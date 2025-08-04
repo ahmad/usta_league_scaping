@@ -1,0 +1,3787 @@
+{
+  "sectionId": "6243309",
+  "districtId": "6243393",
+  "areaId": "6243739",
+  "players": [
+    {
+      "name": "Michael Akins",
+      "gender": "Male",
+      "city": "Idalou",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/10/2024",
+      "usta_id": "KY8M3bVhGp3xbIqg9xPDEw=="
+    },
+    {
+      "name": "Saskia Allen",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "rxyT5bcsB5Ww1e+TAmZ5HQ=="
+    },
+    {
+      "name": "Vania Alva",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/5/2024",
+      "usta_id": "O425PXdj1rVMvIdjm/C+Zg=="
+    },
+    {
+      "name": "Aidan Alvarez",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2Fg113bNB0+MtSAUweDs3w=="
+    },
+    {
+      "name": "Joe Alvarez",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4hW/I6X78m6uuPJiSRaX5Q=="
+    },
+    {
+      "name": "Caleb Anderson",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "ay7U6YSOrITpE7sC4cBPSw=="
+    },
+    {
+      "name": "Gracelyn Anderson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NqcKgc1an9V2bBmYtI5G/Q=="
+    },
+    {
+      "name": "Rachel Anthony",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "En3eDe/22OY43PgIq/URqw=="
+    },
+    {
+      "name": "Chrystal Nickol Aranda",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "10/9/2024",
+      "usta_id": "e4JfeskgY0Ens4lUqXyYKA=="
+    },
+    {
+      "name": "Jacob Arguellez",
+      "gender": "Male",
+      "city": "Wolfforth",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "2Zm6JAeu+ikbN3pqF5rBIg=="
+    },
+    {
+      "name": "Eugenio Aulisa",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ar6BQlUlCXQWu5rgZeYIhg=="
+    },
+    {
+      "name": "Mary Axelrud",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q7aw6xwl1efbDRynhxGRsg=="
+    },
+    {
+      "name": "Jaime Ayala",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cFuUDzsES1NMmEl675DPRA=="
+    },
+    {
+      "name": "Rachel Aycock",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mVXbydo4PjH6USw+JXIGKw=="
+    },
+    {
+      "name": "MacEe Balka",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OR7QDNimOunIKHNuPKNF3g=="
+    },
+    {
+      "name": "Jacqueline Ballou",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E1cWGrEQUGL1nWbCmuRdYQ=="
+    },
+    {
+      "name": "Michael Ballou",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/17/2024",
+      "usta_id": "HTzFzg75Ppcl7R87wRKBAQ=="
+    },
+    {
+      "name": "Teofilo Bancaso",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ua2ZrIOsQlVcOkIuivDsQg=="
+    },
+    {
+      "name": "Casey Barnes",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/13/2025",
+      "usta_id": "99LDxYgKoixDsXlT+Beccw=="
+    },
+    {
+      "name": "Victoria Barnes",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "nIqCmAT+6SYYqrsNBcm9Qg=="
+    },
+    {
+      "name": "Dustin Baucom",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/19/2024",
+      "usta_id": "WLPYN0X4+/cB5xRfzDfL+w=="
+    },
+    {
+      "name": "Jayla Bazan",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/20/2025",
+      "usta_id": "2Zm6JAeu+im9A3DBxQN/Hg=="
+    },
+    {
+      "name": "Kacy Bednarz",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6ywAO9ELvSF6zheM6CZfAw=="
+    },
+    {
+      "name": "Marqui Benavides",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/18/2025",
+      "usta_id": "y7VetWckUMfDEgT2W+TCMw=="
+    },
+    {
+      "name": "Alan Berry",
+      "gender": "Male",
+      "city": "Hale Center",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xGUdFqspR5/KAdnEjNTbEQ=="
+    },
+    {
+      "name": "Aron Berry",
+      "gender": "Male",
+      "city": "Hale Center",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OlcLFD2dHp/xQnRLSTAIGw=="
+    },
+    {
+      "name": "Seth Berry",
+      "gender": "Male",
+      "city": "Hale Center",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Uj/v6AJAlztKap/jVJdefA=="
+    },
+    {
+      "name": "Sarah Bevers",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "jhZhzClemK6QamIq1GM4bw=="
+    },
+    {
+      "name": "Aimee Blake",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1mIOIpMpmupncEzRSvRejg=="
+    },
+    {
+      "name": "Alexander Blake",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/16/2025",
+      "usta_id": "CWG5FaQFS8oWX+6KzoC38g=="
+    },
+    {
+      "name": "Cody Boggs",
+      "gender": "Female",
+      "city": "Levelland",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kevsEIbO5DzshMstBi1JOA=="
+    },
+    {
+      "name": "Nathanael Boles",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/15/2025",
+      "usta_id": "v/H7S1g+At7as5aICXf41Q=="
+    },
+    {
+      "name": "Carson Bolton",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+/9ni+80BoCmxmrJEEXZ2Q=="
+    },
+    {
+      "name": "Amy Boren",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bj2xfCdFxfRkewofBfW5+A=="
+    },
+    {
+      "name": "Raegan Boren",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pEcm3rONKrla1ymZtBaOZw=="
+    },
+    {
+      "name": "Claudia Bradley",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zTibrZPd4ZOd8nLR5G1U3w=="
+    },
+    {
+      "name": "Rachael Bradley",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EL/bKmFabdutdkruMaohQA=="
+    },
+    {
+      "name": "Heather Bragg",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BPPdYEMhVs6CxyxkiTjzxw=="
+    },
+    {
+      "name": "Lana Branam",
+      "gender": "Female",
+      "city": "Plainview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mCGjZfJqv2ZkHxiRX9T8MQ=="
+    },
+    {
+      "name": "Stanley Brewer",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J5Vs62CKlVMFoWvigR/ybw=="
+    },
+    {
+      "name": "Kevin Bruington",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "Hbmf99h4vt4ogZ/kSGHhpw=="
+    },
+    {
+      "name": "Eric Burrell",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3ZUe6qmnY5sC+xRDHXFTLw=="
+    },
+    {
+      "name": "Garry Burson",
+      "gender": "Male",
+      "city": "Lockney",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v94UV/nUubX51Tes50mzTQ=="
+    },
+    {
+      "name": "Kylie Burt",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "AjwrTxnKsQgXxzJVAWd6CA=="
+    },
+    {
+      "name": "Lisa Busby",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2024",
+      "usta_id": "kcMlpZ6x5XdSpbgCtIReaA=="
+    },
+    {
+      "name": "Jennifer Bustamante",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HX0R2qafoFJR9Co/NlA8WQ=="
+    },
+    {
+      "name": "Natalie Butler",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7dXUjADKFnDxbzphYYTlTg=="
+    },
+    {
+      "name": "Matt Byars",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "F1MczVKVTNSOXKtc5LmxiQ=="
+    },
+    {
+      "name": "Timothy Byars",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/14/2024",
+      "usta_id": "Js/YCpEqkV7yZgNOqrR/ZA=="
+    },
+    {
+      "name": "Lisa Caldwell",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UTxKjMsaEjgZ4vV4yfbjZg=="
+    },
+    {
+      "name": "E J Cantu",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "PhXhHRIpMAdXYVtsTPjySA=="
+    },
+    {
+      "name": "Kaley Cantu",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5w+AKjS1JV3pTTPEDI/vEQ=="
+    },
+    {
+      "name": "Ellie Carson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/23/2024",
+      "usta_id": "oAm+HydfvTAdprUgjk4p4w=="
+    },
+    {
+      "name": "Parker Carson",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/23/2024",
+      "usta_id": "oAm+HydfvTCICwn0S3TsQQ=="
+    },
+    {
+      "name": "Cole Carter",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/28/2025",
+      "usta_id": "q28eERBdtOvBOQzyQ5SNgQ=="
+    },
+    {
+      "name": "Holly Carter",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EFKN9heRFtwGocowpOm0Dw=="
+    },
+    {
+      "name": "John Chad Carter",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BFqahwF4tKoDBIGfYk1NGA=="
+    },
+    {
+      "name": "Ty Carter",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q28eERBdtOubetwGGcgPEA=="
+    },
+    {
+      "name": "Linda Cartwright",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "885on2K18KTYDSy/oKNfyA=="
+    },
+    {
+      "name": "Amy Catlin",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sv8QKlmeIU/zUF8d8a/EMQ=="
+    },
+    {
+      "name": "Minnie Caudle",
+      "gender": "Female",
+      "city": "Shallowater",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "26UxBK+bf+b33nUlb1Yyeg=="
+    },
+    {
+      "name": "Eva Ceja",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JsX3r8e6krX98jY1yevjFA=="
+    },
+    {
+      "name": "Orville Cerna",
+      "gender": "Male",
+      "city": "Pecos",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/23/2024",
+      "usta_id": "HN2IC4J1yKl7IRAqsqJ0xA=="
+    },
+    {
+      "name": "Allison Childress",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/12/2025",
+      "usta_id": "QDzjrnCskx3kihzN/yOfgg=="
+    },
+    {
+      "name": "Blake Childress",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "da1Zid9YN8SDmytaPIhbCQ=="
+    },
+    {
+      "name": "Colton Chitsey",
+      "gender": "Male",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "excHiH0D5dPwNc/a4/fylQ=="
+    },
+    {
+      "name": "Samantha Chitsey",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/29/2025",
+      "usta_id": "1NsA5ONcCRD0rmsAaA/pqg=="
+    },
+    {
+      "name": "Jeasik Cho",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "huCA3L4DPOXo50IW/LWZGA=="
+    },
+    {
+      "name": "Keli Christy",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "0f/n/q4SaDtFyAwen2V68A=="
+    },
+    {
+      "name": "Marty Cleckler",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MFUE1ELPQLoQJosWOIcdnA=="
+    },
+    {
+      "name": "Amber Clifford",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zpwVNRCZDiHs41RcARJTpw=="
+    },
+    {
+      "name": "Kim Cone",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uaeEJbw+pKTP2hLLk3kdpQ=="
+    },
+    {
+      "name": "Gregory Cook",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qu9EESEn5a32t7pp/Zb8kw=="
+    },
+    {
+      "name": "Reese Cook",
+      "gender": "Male",
+      "city": "Tuscola",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "kSC4LCG8tI9/0HgLRR8MxQ=="
+    },
+    {
+      "name": "Renee Cook",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sgLYpALqf29DSHJi7NvDRQ=="
+    },
+    {
+      "name": "Ashley Copeland",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JMg+dvGdgf9V/hPzPp4waw=="
+    },
+    {
+      "name": "Trevor Copeland",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/8/2024",
+      "usta_id": "u47Pd5FRyhyVNr0BBi8wdA=="
+    },
+    {
+      "name": "Brent Cox",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "WLrDeaNft0JplXjTuT6BrQ=="
+    },
+    {
+      "name": "Caleb Cox",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "WLrDeaNft0LzoU0kkguwnw=="
+    },
+    {
+      "name": "Dawn Cox",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PI1Z+gezRBcQ1ggaMHD/+w=="
+    },
+    {
+      "name": "Shayda Craddick",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/18/2025",
+      "usta_id": "zutY7sq7CCCfXjFTQS23LQ=="
+    },
+    {
+      "name": "Anne Crago",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LtGuklYwyosLLkfRokobiA=="
+    },
+    {
+      "name": "Lindsey Craig",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qjtwQAMnAEcA01MWWzWFCQ=="
+    },
+    {
+      "name": "Robert Craig",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PgNZkpL/VJz+Wrts4c/Abg=="
+    },
+    {
+      "name": "Lauren Cranford",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n1rlkeyJag8C4sXtqCoacQ=="
+    },
+    {
+      "name": "Katie Crump",
+      "gender": "Female",
+      "city": "WOLFFORTH",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "HAkUzWfSSpshbNX47w4OGg=="
+    },
+    {
+      "name": "Camille Cruz",
+      "gender": "Female",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jX+CbvmOVzifwGubT41R/Q=="
+    },
+    {
+      "name": "Elvira Cruz",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xLHUgPKUoiIcOij0vrI9Og=="
+    },
+    {
+      "name": "Trevas Cruz",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WYF9MeDFkVLQihkYerO2ew=="
+    },
+    {
+      "name": "Bobby Dagnel",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "8O1A2aqNDQPHTjYwOxrC/w=="
+    },
+    {
+      "name": "Timmie DAgostino",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nq3VfPhJlCxrtQsl3rsIYg=="
+    },
+    {
+      "name": "Stephen Dalton",
+      "gender": "Male",
+      "city": "Afton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VdK2J9HGfyqiQiZ1pUtr+w=="
+    },
+    {
+      "name": "Paige Dane",
+      "gender": "Female",
+      "city": "Wolfforth",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zUaHQcnXPkUBCQuDI1pRFQ=="
+    },
+    {
+      "name": "Kathy Dannevik",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MI1nkJ6Ma4f0yKR6xxo/sQ=="
+    },
+    {
+      "name": "Anabella Dante",
+      "gender": "Female",
+      "city": "Katy",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/22/2025",
+      "usta_id": "eU2fPZ+kvBQoR5S7IUogzQ=="
+    },
+    {
+      "name": "Kim Davis",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "neY9H1s9cRoiVH5ChE1RjQ=="
+    },
+    {
+      "name": "Jordan DeBolt",
+      "gender": "Female",
+      "city": "Wolfforth",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/28/2024",
+      "usta_id": "bYiK7TBdY0Li3QOOssb53A=="
+    },
+    {
+      "name": "Lisa DeFriend",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aRvxiq15pYhceeFUsFiQ+Q=="
+    },
+    {
+      "name": "Katie DeGraaf",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M5pyvgk7Jb+Rq5wjnYva4Q=="
+    },
+    {
+      "name": "Erica Diamond",
+      "gender": "Female",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XtAJqZOm/bkWUSXWYgF+Qw=="
+    },
+    {
+      "name": "Keith Dixon",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cAQ6+zYqlIA1J1h4mToqKg=="
+    },
+    {
+      "name": "Anthony Durham",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/17/2024",
+      "usta_id": "f6svDMG4zZX3icyuhC+oAA=="
+    },
+    {
+      "name": "Sarah Durham",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2022",
+      "usta_id": "4V42bkjNloot74+6knjXFQ=="
+    },
+    {
+      "name": "Carson Dyess",
+      "gender": "Male",
+      "city": "Amarillo",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5Ur8z1IpGElKWx9eqIwoeA=="
+    },
+    {
+      "name": "Kristina Edwards",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/5/2025",
+      "usta_id": "gjbAQm/DW2SjRoQeSGaPKQ=="
+    },
+    {
+      "name": "Kathy Eubanks",
+      "gender": "Female",
+      "city": "Slaton",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/30/2024",
+      "usta_id": "m1ELLjZlwDmo7Q0QlmfKNQ=="
+    },
+    {
+      "name": "Alisha Evans",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tqiRoZgwHAnWsQY7WzWHWA=="
+    },
+    {
+      "name": "Hayden Everitt",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/23/2025",
+      "usta_id": "MUxGnSD4NooD7uV34rGZSA=="
+    },
+    {
+      "name": "Rebecca Fant",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+m5ADoHn/o75tvMbL8MqHA=="
+    },
+    {
+      "name": "Anna Fargason",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+OWFbgBjtbk8lDvyFTSFDw=="
+    },
+    {
+      "name": "Hayden Farquhar",
+      "gender": "Male",
+      "city": "Shallowater",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/22/2023",
+      "usta_id": "KImeW9tnZaXbLn7c5/3pZA=="
+    },
+    {
+      "name": "Sydney Farris",
+      "gender": "Female",
+      "city": "Floydada",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/5/2025",
+      "usta_id": "lTwnej35JlNdtk6OX3zjlg=="
+    },
+    {
+      "name": "Thomas Farris",
+      "gender": "Male",
+      "city": "Floydada",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/12/2025",
+      "usta_id": "DyL4VKo9qTiskmx+jByqQQ=="
+    },
+    {
+      "name": "Tiffany Fioroni",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zUaHQcnXPkU+xO682u4rRA=="
+    },
+    {
+      "name": "Michael Flores",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "TDipApm4osljrxXEzTH1sg=="
+    },
+    {
+      "name": "Noelle Flores",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XCTPm1JhXVmFzyW12FPvtQ=="
+    },
+    {
+      "name": "Trenton Flores",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/21/2024",
+      "usta_id": "W/WccswOeRm0nKhPnFfLDA=="
+    },
+    {
+      "name": "Jacque Fowler",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T6boppEzwQcjuN31Ob2Smg=="
+    },
+    {
+      "name": "Johnny Fowler",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "tdPrFz6zN44BeTVKahBiNg=="
+    },
+    {
+      "name": "Bladen Fuller",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/13/2025",
+      "usta_id": "GsGtCMyHyhjQGZGujZSYog=="
+    },
+    {
+      "name": "AJ Funk",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rbumenghGwkMi8VlGr+/tw=="
+    },
+    {
+      "name": "John Travis Funk",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/7/2024",
+      "usta_id": "G1PZKkyITrI0CfyW0s1EPA=="
+    },
+    {
+      "name": "Travis Funk",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/24/2025",
+      "usta_id": "3rKGW3T6h1rbFRMJkp1RYA=="
+    },
+    {
+      "name": "Amy Gandy",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g1ZjIZG1aL/6wVCdBC8/Mw=="
+    },
+    {
+      "name": "Robert Chon Garcia",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PFVb2iOukhrDbkwJLT+hyQ=="
+    },
+    {
+      "name": "John Gardner",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/8/2024",
+      "usta_id": "xKe1yvDn6htKKUvDt0NnuA=="
+    },
+    {
+      "name": "Kade Gaston",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y+4lWjp3LWc+pZj71gm5mw=="
+    },
+    {
+      "name": "Drue Gault",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/5/2024",
+      "usta_id": "/eCNrdW/2i1F0O/6h4SPQQ=="
+    },
+    {
+      "name": "Chase Gentry",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "IEyjZWJ5SbKWKOTZ1Iy7Zg=="
+    },
+    {
+      "name": "Jera Gentry",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "ZuLUiT3tjPFltvUSBr671Q=="
+    },
+    {
+      "name": "Maile Gentry",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QMAlnoKJoYXcK8lsguGCuw=="
+    },
+    {
+      "name": "Kaily Ghilea",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PXOrTg2gomRSkBFX38R/DQ=="
+    },
+    {
+      "name": "Paul Goode",
+      "gender": "Male",
+      "city": "ABILENE",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Y7CRVQ9hxTccqAKcm2Jjfg=="
+    },
+    {
+      "name": "Aaron Gray",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/ZXiKnFk0LPV/wBnbn8YKg=="
+    },
+    {
+      "name": "Jessica Gray",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/7/2025",
+      "usta_id": "t0KTvhZgCD3UsWH6N/gqkQ=="
+    },
+    {
+      "name": "John Greeson",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "bk1FPGERD9VHgCXDmDQwZg=="
+    },
+    {
+      "name": "Christopher Gregorcyk",
+      "gender": "Male",
+      "city": "Idalou",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/16/2025",
+      "usta_id": "TaptvAnz6IYDfjJ5T8g9Kg=="
+    },
+    {
+      "name": "Kaci Griffin",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7dCJOQHFITxh+duEEQ9ymg=="
+    },
+    {
+      "name": "Patrick Griffin",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/17/2024",
+      "usta_id": "zjwSFNaOUxV16piDdWqI4g=="
+    },
+    {
+      "name": "Brianna Guerra",
+      "gender": "Female",
+      "city": "Amarillo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZCtS/2RcngmVwREyjDbADA=="
+    },
+    {
+      "name": "Dain Guetersloh",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qjyt0ClejFrL6H7q9Eaqlg=="
+    },
+    {
+      "name": "Matt Hall",
+      "gender": "Male",
+      "city": "Shallowater",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lK6FYbjeh4+8PNSvxgYwEA=="
+    },
+    {
+      "name": "Ali Hamilton",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8//g+X9UGD0yxSRtI8wLxQ=="
+    },
+    {
+      "name": "Brandon Hamilton",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/9/2024",
+      "usta_id": "7+58ZW1umQDg5B8H9+s1Cw=="
+    },
+    {
+      "name": "Kourtney Hanslik",
+      "gender": "Female",
+      "city": "Wolfforth",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AI/b2Nk7hgzYL9yGFzsK5g=="
+    },
+    {
+      "name": "Cori Hanson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AGs49eA8IpRZY8Vv/+ZJbA=="
+    },
+    {
+      "name": "Ashley Harris",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AxxRtPx1wVWBhsw7kCaniw=="
+    },
+    {
+      "name": "Michael Hastings",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ei2U+pHst9pFOosKcveNrA=="
+    },
+    {
+      "name": "Mariana Hatch",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VzfIaPmXyeoJ/h8TBKDMlg=="
+    },
+    {
+      "name": "Torri Hatch",
+      "gender": "Female",
+      "city": "Plainview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "hlgMwNqlmO9GSagjYwkSgg=="
+    },
+    {
+      "name": "Hampton Hays",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/13/2025",
+      "usta_id": "GKJliYDOF7pvUJi/F7NyIQ=="
+    },
+    {
+      "name": "Heath Hays",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/11/2024",
+      "usta_id": "sDjHNdqTjSyk4DRLaS+mSQ=="
+    },
+    {
+      "name": "Kasey Heinrich",
+      "gender": "Female",
+      "city": "Wolfforth",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "prk7QYb8810F+rkKbw5KWg=="
+    },
+    {
+      "name": "JB Henderson",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "yFoSp1MecBeW2zC9yhjcWQ=="
+    },
+    {
+      "name": "Jessica Henderson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2sghf3nddq0TpGN4yMPJGw=="
+    },
+    {
+      "name": "Laura Henderson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4V42bkjNloqM+CvyTlehUg=="
+    },
+    {
+      "name": "Matthew Henderson",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "wbVhlxyP+U/GfdQ/eK9kCw=="
+    },
+    {
+      "name": "Averye Hicks",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Z/jl6EG4RFMFIBIwBVYdFQ=="
+    },
+    {
+      "name": "Sam Hill",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NQa+vHY6n/n9xLMVcZJD3g=="
+    },
+    {
+      "name": "Lauren Holloway",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AzfXUI4yy+OiqhD8Z+HepA=="
+    },
+    {
+      "name": "Paige Homen",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/5/2025",
+      "usta_id": "JBH1ELRyAqtusPfeo+qNJg=="
+    },
+    {
+      "name": "Erin Hornaday",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "N1wmiLGqvw8OEo7ccGMfSQ=="
+    },
+    {
+      "name": "Don Hosch",
+      "gender": "Male",
+      "city": "BIG SPRING",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mFkI39iel6ppIxHuWXdJWw=="
+    },
+    {
+      "name": "Haley Hughston",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kgPQrTzwlmRfaWfEyF57Rg=="
+    },
+    {
+      "name": "Linda Hutchins",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "m6jxTL1+k71qSlN77Ntn0w=="
+    },
+    {
+      "name": "Shannon Isom",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JSFLjlaPqcKRi1v3WSBGaA=="
+    },
+    {
+      "name": "Travis Isom",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "vc1nV+EJ4/DN1hPdBLXBXg=="
+    },
+    {
+      "name": "Kindahl Jackson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lRvd4lvh/mvMi/0zIR7Eow=="
+    },
+    {
+      "name": "Lynn Jackson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/23/2024",
+      "usta_id": "T1Q65XcTa9/2qdsd6BzI/w=="
+    },
+    {
+      "name": "Brad James",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/26/2024",
+      "usta_id": "1pk5W2sXCSA+HRXV+lC9Mw=="
+    },
+    {
+      "name": "Emily Jenkins",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+FZqEuFzVZeAgSOjKATqVA=="
+    },
+    {
+      "name": "Garrett Jenkins",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/22/2025",
+      "usta_id": "wtzcZepQ3qdsiJcQZE1UHg=="
+    },
+    {
+      "name": "Mark Jenkins",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/22/2025",
+      "usta_id": "aBYQxgyWprqmbltVAfXYRw=="
+    },
+    {
+      "name": "Shaunna Jensen",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iOmEUbpqYIf/r8GBObt4Xw=="
+    },
+    {
+      "name": "Jerry Jerabek",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "lqhEnbbmIiOo5Tanby+Xag=="
+    },
+    {
+      "name": "Larkin Johnson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "7d3sVvC33GHoHtxnSRVYMQ=="
+    },
+    {
+      "name": "Clair Jones",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oGChLTKpQpZpuEKYSQL27g=="
+    },
+    {
+      "name": "Michael Kacal",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fu6OzmsoBO7ZFob5s/ZIZg=="
+    },
+    {
+      "name": "Katie Kamper",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/6/2025",
+      "usta_id": "1V2c1R8UufI0GsggAMJO0Q=="
+    },
+    {
+      "name": "Becky Kerby",
+      "gender": "Female",
+      "city": "Wolfforth",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sCO0b0n3L3TfGc0T8ZBVSw=="
+    },
+    {
+      "name": "David Kerby",
+      "gender": "Male",
+      "city": "Wolfforth",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y7ePD+C7X3IsmNFmXxcZbw=="
+    },
+    {
+      "name": "Yooneui Kim",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/5/2025",
+      "usta_id": "lTwnej35JlPz7u6COaaqKg=="
+    },
+    {
+      "name": "Kate King",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "K7DU+SjiRIxqnI2/BcsJHQ=="
+    },
+    {
+      "name": "Mackenzie Kirkpatrick",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/14/2025",
+      "usta_id": "j8bcCeJL31iVpjda/5E26w=="
+    },
+    {
+      "name": "Laura Kopytkiewicz",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t4sD7BB6uKI2wfFp7kX7+A=="
+    },
+    {
+      "name": "Ashlyn Landrum",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "nBSbi91BpRw8sKYjS7hlDg=="
+    },
+    {
+      "name": "Cade Landrum",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4t2DIvyCJ8FzebZBN0zDXg=="
+    },
+    {
+      "name": "Chad Landrum",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KbY61s1OkcVAJIafOrWCcQ=="
+    },
+    {
+      "name": "Jin Lee",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/3/2024",
+      "usta_id": "9Ii+Y6MG1jCsiHvLh8Rb8g=="
+    },
+    {
+      "name": "Mark LeJeune",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/25/2024",
+      "usta_id": "oKrdqCpxc0hv1g/0aBVjKg=="
+    },
+    {
+      "name": "Ann Lent",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eSyCS7CWfrXMI+5e5N7z3g=="
+    },
+    {
+      "name": "Brent Leslie",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "fdTpxqeDAWhrMeCTIVkRnA=="
+    },
+    {
+      "name": "Kyleigh Leslie",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/18/2024",
+      "usta_id": "onqE6zVaVqM00Nh5D2b9UQ=="
+    },
+    {
+      "name": "Sharla Letbetter",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VC+PswwUDxwe4Je8vmfbcA=="
+    },
+    {
+      "name": "Casey Lewis",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "asZWxe5lNR3NEGWwK/Flow=="
+    },
+    {
+      "name": "Emily Liner",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/10/2025",
+      "usta_id": "od8Ed3BTy/aXzEx666Ty8Q=="
+    },
+    {
+      "name": "Brittany Llanas",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ypEEwtiW03TOx4JUnnjyFQ=="
+    },
+    {
+      "name": "Leigh Looney",
+      "gender": "Female",
+      "city": "WOLFFORTH",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m8fi7tJWurQm+y5EJ7yytg=="
+    },
+    {
+      "name": "Jaxon Lott",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/23/2025",
+      "usta_id": "I8fKmhfzpV2EaTUrrQ5Hqg=="
+    },
+    {
+      "name": "John Lott",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WbD+nRb+QRbCrEC4h62YRA=="
+    },
+    {
+      "name": "Kimberly Lott",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6qKJvTITS++Uv8LyxoqUdA=="
+    },
+    {
+      "name": "Zeke Lott",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/23/2025",
+      "usta_id": "I8fKmhfzpV1gBz7nc2O++g=="
+    },
+    {
+      "name": "Eila MacHado",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Sp45lAO5g+GYpCsTZqlrIQ=="
+    },
+    {
+      "name": "Vinicius MacHado",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h1FFaqvqNqWiJoS5m2LO0w=="
+    },
+    {
+      "name": "Lisa MacK",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e6B4HpFaaoV0aaZpwGa+XA=="
+    },
+    {
+      "name": "Marlowe Malouf Lawson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XXBd8yb9v/VGJlfhphqa6Q=="
+    },
+    {
+      "name": "Emily Manning",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iRDlwDhpBtxgW+1YP2b7TQ=="
+    },
+    {
+      "name": "Stephen Manning",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/17/2024",
+      "usta_id": "f6svDMG4zZWl9p1xUp6n6g=="
+    },
+    {
+      "name": "Harrison Marsh",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/2zNPIJLgDBBaU9DPPq5jA=="
+    },
+    {
+      "name": "Ella Martin",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/15/2025",
+      "usta_id": "/UiZ59fUzFch4jVGoRIJOw=="
+    },
+    {
+      "name": "Hector Martin",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/21/2024",
+      "usta_id": "wBT000SQt7kpdnq0tz7NQQ=="
+    },
+    {
+      "name": "Jerrod Martin",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "uN3xmPWngU3Dyx5WOghutg=="
+    },
+    {
+      "name": "Rene Martinez",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/22/2025",
+      "usta_id": "rLLB8qcSI7WqcV1++R7ydw=="
+    },
+    {
+      "name": "Brittany McClellan",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "jutiun12FKci1HIjUmIQvg=="
+    },
+    {
+      "name": "James Mccord",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/31/2025",
+      "usta_id": "SNuwSS8EcoCD/qNRYUL3Pg=="
+    },
+    {
+      "name": "James McCord",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "HEhhDJQ4kGPB/10DEYYDnw=="
+    },
+    {
+      "name": "Dayna McCutchin",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "35y1i90B+yJe5ZN9fAyFIw=="
+    },
+    {
+      "name": "Ian McDonald",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U/E0mW0ig2UQ4maQe907yA=="
+    },
+    {
+      "name": "Sarah McKoin",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/9/2025",
+      "usta_id": "Rql4PhLPI0isfz13ctoS5w=="
+    },
+    {
+      "name": "Alanna Mcneill",
+      "gender": "Female",
+      "city": "Wolfforth",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OTzmvWOQ6XeRtMWSkRfSeQ=="
+    },
+    {
+      "name": "Beau Mcneill",
+      "gender": "Male",
+      "city": "Wolfforth",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/19/2024",
+      "usta_id": "TqzMCf3upHGmrLaGrECWug=="
+    },
+    {
+      "name": "Stephanie Mcpherson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/9/2024",
+      "usta_id": "0aJHAYNO6vkCqsL+Odb2VA=="
+    },
+    {
+      "name": "Mel McRee",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "12/2/2024",
+      "usta_id": "gLCebXIXlP0ZvZPVGvf9Rw=="
+    },
+    {
+      "name": "Pennie McWhorter",
+      "gender": "Female",
+      "city": "Ropesville",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BxD9H5xZIUMt0Yj0luBTGg=="
+    },
+    {
+      "name": "Jason Medina",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/17/2024",
+      "usta_id": "f6svDMG4zZX+xL501M6thQ=="
+    },
+    {
+      "name": "Chamonix Mejia",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "71sOHLFp8NtdBAP2OtD/mw=="
+    },
+    {
+      "name": "Marc Jason Menez",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/25/2024",
+      "usta_id": "E5JeJRfMRtmnt7mCsYOCtQ=="
+    },
+    {
+      "name": "Vicki Mercer",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cEsE2Bh34OI0kxfsJhvDaQ=="
+    },
+    {
+      "name": "Jennifer Middleton",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oH79RKwYjob/Oi2/fMJ7wA=="
+    },
+    {
+      "name": "Patricia Middleton",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "juBGOGGgoGLvXN/nXHxSrg=="
+    },
+    {
+      "name": "Chris Miller",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DFI9etuxpZ/9r2BxbY5pog=="
+    },
+    {
+      "name": "Kate Miller",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W2U8xQB80nRJRrSMk7PEJg=="
+    },
+    {
+      "name": "Kay Miller",
+      "gender": "Female",
+      "city": "Abernathy",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UX7tknMzfEQgfEIEUYG3Mw=="
+    },
+    {
+      "name": "Shannon Miller",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uujKqM0HkWWYcXJox7dOPg=="
+    },
+    {
+      "name": "Jerry Montgomery",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Op4OkWa9aLozCF0a6+XPxg=="
+    },
+    {
+      "name": "Dalton Moore",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5Ctsq22BcFkWZ5MS7gcaBA=="
+    },
+    {
+      "name": "Jennifer Moore",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8/b99f8HYJADK1TlnP195g=="
+    },
+    {
+      "name": "Robert Moore",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oeQIo7rsM+AYpEhKDV4xjQ=="
+    },
+    {
+      "name": "Leslie Morgan",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ek9FzzFQ86MGeteQDaeajA=="
+    },
+    {
+      "name": "Charlotte Muennink",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "tqfuTW848G7Uj5fPtRXmDA=="
+    },
+    {
+      "name": "Ainsley Nelson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "tqiRoZgwHAnKt2hpFaxh6g=="
+    },
+    {
+      "name": "Natasha Newman",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5yQbCc/xLoG6jN71kq+84A=="
+    },
+    {
+      "name": "Jacky Nghiem",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+ktMVYZ5JIb/Sc15uCUcWQ=="
+    },
+    {
+      "name": "Jeni Nichols",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "uBlBhClVLhAVlUx0V1NURQ=="
+    },
+    {
+      "name": "Robin Nixon",
+      "gender": "Female",
+      "city": "Floydada",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t8zqCalWDMR3uqi8sWIT5A=="
+    },
+    {
+      "name": "Taylor Noseff",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "neY9H1s9cRqsOaM4WPGMUQ=="
+    },
+    {
+      "name": "Dan Odom",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/18/2024",
+      "usta_id": "ihTgun2XUwx++NxoJ1fBHg=="
+    },
+    {
+      "name": "Salomon Oliveros Parra",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+s8ze+zAVDlYdj1CONY56Q=="
+    },
+    {
+      "name": "Laurie Oltmans",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/17/2024",
+      "usta_id": "p6BFg0Uqn6C6CNYFISLD+w=="
+    },
+    {
+      "name": "Kathryn Orr",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "whYimtAKHJX72o08IorAAQ=="
+    },
+    {
+      "name": "Dylan Otts",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/17/2024",
+      "usta_id": "19ucD78bULEmW40YB0AJpg=="
+    },
+    {
+      "name": "Allison Pace",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mzw6C/4otkc9iI42f1OHPA=="
+    },
+    {
+      "name": "Brandon Painter",
+      "gender": "Male",
+      "city": "PHOENIX",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MMVqYGB2O36DIuBTVJiN+Q=="
+    },
+    {
+      "name": "Maritza Palmer",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/p3EWHzs0c083TjQPSTC0w=="
+    },
+    {
+      "name": "Adam Pardue",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "vMotMz7/8TzbWcEW4cB7+g=="
+    },
+    {
+      "name": "Lincon Parrott",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "1h9fe/qPracSgfRGxceDBA=="
+    },
+    {
+      "name": "Sara Parrott",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W+wNeIa3D1WFRAm/trbdwg=="
+    },
+    {
+      "name": "Jayme Pearson",
+      "gender": "Female",
+      "city": "Levelland",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/6/2025",
+      "usta_id": "lDqWngbkL0ZAshH8ZxIMlQ=="
+    },
+    {
+      "name": "Mike Peeples",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "pcdfM40r0kJj91pxYo1bjw=="
+    },
+    {
+      "name": "Robin Pennington",
+      "gender": "Female",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "INNWEpWIziV6uNWr3FYd8w=="
+    },
+    {
+      "name": "Lance Permenter",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D//jUCl1x9l8XYh+EeYo1Q=="
+    },
+    {
+      "name": "James Perrin",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "zjwSFNaOUxXHb/U/21u8rw=="
+    },
+    {
+      "name": "Robin Perrin",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r06A/Eb97HkwVwhclfc/Dg=="
+    },
+    {
+      "name": "Angie Petty",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5vMMJ8ppiLeLIutaVbFudw=="
+    },
+    {
+      "name": "Cassie Polk",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GR0u7hCtJe47Aqzdtx4k1g=="
+    },
+    {
+      "name": "Emily Pool",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/21/2025",
+      "usta_id": "iAffRRPOKFMs7Vcv5XWFng=="
+    },
+    {
+      "name": "Teresa Popp",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nYNgqPtjjE002tvwGVCj9w=="
+    },
+    {
+      "name": "Lynda Pouria",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ai5NhXDLYsf9HrKsm0nqPw=="
+    },
+    {
+      "name": "Anna Purdue",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/31/2024",
+      "usta_id": "UYF5hIXn0jtcj8iuHDKPSQ=="
+    },
+    {
+      "name": "Thomas Randers Jr",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uxAYCsIu53LaOBigkq3g0A=="
+    },
+    {
+      "name": "Thad Reid",
+      "gender": "Male",
+      "city": "Plainview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pkg11f0yDnraYNT+bMArlA=="
+    },
+    {
+      "name": "Jamie Rendon",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LsPKLu3tcmsn7g8Cdc+6rQ=="
+    },
+    {
+      "name": "Summer Richbourg",
+      "gender": "Female",
+      "city": "Arlington",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G9I/hHlTNBR1TLIil4rOFw=="
+    },
+    {
+      "name": "Rachel Riddle",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Niya1iYHXT5qhmdS0tdUA=="
+    },
+    {
+      "name": "Ginger Ritter",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VKxfTGCh+eV5JqYT0/Vn4A=="
+    },
+    {
+      "name": "Holly Robbins",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "EmzEPorN6ucbKaOJfP2RtA=="
+    },
+    {
+      "name": "Randy Robbins",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EmzEPorN6uebvTMe2xzcwA=="
+    },
+    {
+      "name": "John Roberts",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "qZqJWdZOhM7AJsp814vyaw=="
+    },
+    {
+      "name": "Lauren Roberts",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oKK3sD84cP0hfDl1k03SOQ=="
+    },
+    {
+      "name": "JASON ROBERTSON",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "7EI9qNoHv5hoz7oVCKejKg=="
+    },
+    {
+      "name": "Keith Robertson",
+      "gender": "Male",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+3FVDEZb7EVMVt9ZrLQ++g=="
+    },
+    {
+      "name": "Ryan Robertson",
+      "gender": "Male",
+      "city": "Tahoka",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N/2NPorLoPjJhgkm/FT5Yg=="
+    },
+    {
+      "name": "Jenni Rogers",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7V7HLOER227s6Koww1iGKg=="
+    },
+    {
+      "name": "Jill Rogers",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "eT9N32Xdn+KoRBvlCk5VlQ=="
+    },
+    {
+      "name": "Patty Rogers",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mwKEd1AxCBL7ftRRx3w9Ow=="
+    },
+    {
+      "name": "Renee Ross",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bN1NcWEGUBylZTUfAOzvAA=="
+    },
+    {
+      "name": "David Rowell",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6ZoUMsJryou8ImpRIPRAFA=="
+    },
+    {
+      "name": "Karstyn Salazar",
+      "gender": "Female",
+      "city": "Canyon",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/20/2023",
+      "usta_id": "q1nppJqheke21NllLuoq1g=="
+    },
+    {
+      "name": "Ann-Marie Saleh",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AnaB2amDa4zGI+HnkqS2/g=="
+    },
+    {
+      "name": "HT Sanchez",
+      "gender": "Male",
+      "city": "Plainview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "zgiCcFEE3WJmPvO3XuMCUg=="
+    },
+    {
+      "name": "Milon Sarker",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/8/2024",
+      "usta_id": "JxEKLvIqc3yawJBHnM6RuA=="
+    },
+    {
+      "name": "John Scarborough",
+      "gender": "Male",
+      "city": "Petersburg",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gDY0pJyfPSqGc/5/BIapvg=="
+    },
+    {
+      "name": "Sayler Scarborough",
+      "gender": "Female",
+      "city": "Petersburg",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/8/2024",
+      "usta_id": "HC9XVf9LQ7rtVN5IpkXxCA=="
+    },
+    {
+      "name": "Chelsea Schulz",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IgLoH6f6M4KnWbD26ZRyMw=="
+    },
+    {
+      "name": "Laura Seybert",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ORuAqKluefrNAbfwQwvaaw=="
+    },
+    {
+      "name": "Corey Shank",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZUeqAbhHSB8jaDpUPDgoog=="
+    },
+    {
+      "name": "Jennifer Shaw",
+      "gender": "Female",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "UOeoi93ktl9c8sxdf1m4Pg=="
+    },
+    {
+      "name": "Rusty Shaw",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S3cTgWmxow3pNj4wPul+2Q=="
+    },
+    {
+      "name": "DAVID SHEPHARD",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jntacrNfYenFxhWOsRKLVw=="
+    },
+    {
+      "name": "Melanie Shephard",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tbdWcyCLwopdsxEjPegBjg=="
+    },
+    {
+      "name": "Kim Shewmake",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oGChLTKpQpYOymXNYiXFYw=="
+    },
+    {
+      "name": "Stephen Shewmake",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zjwSFNaOUxXcP8gjlmz9sg=="
+    },
+    {
+      "name": "Charla Showalter",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MoQnJxlPriMyRmR3ibMXFQ=="
+    },
+    {
+      "name": "Levi Siebenlist",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iWuHEwBy5A4pYVYXGjQEuA=="
+    },
+    {
+      "name": "Paige Siege",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hLZ8Jgm8ddzg/90bfRiz2A=="
+    },
+    {
+      "name": "Luciano Silveria",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/22/2025",
+      "usta_id": "LZ1kUl9rq1/Vvais4bJ0gg=="
+    },
+    {
+      "name": "Kathy Sim",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/26/2024",
+      "usta_id": "c0FAY8JB4DzEZlq08QeBvg=="
+    },
+    {
+      "name": "Jill Simpson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+pSDKAT3UW5NkpRLE/5sEA=="
+    },
+    {
+      "name": "Alicia Smith",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/19/2024",
+      "usta_id": "1b9PjORekSUdQbjEzBUOoQ=="
+    },
+    {
+      "name": "Jessica Marie Smith",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "NTn7ayLQ5v75YLsh6FwblA=="
+    },
+    {
+      "name": "Laura Smith",
+      "gender": "Female",
+      "city": "Plano",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sBOiix7VF7Ow5GaERGDmew=="
+    },
+    {
+      "name": "Mark Smith",
+      "gender": "Male",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/2/2025",
+      "usta_id": "PEB3FKnj8TpA17eZMe8PUg=="
+    },
+    {
+      "name": "Mark Smith",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "TepArCVwPBE4dLQI9U77fQ=="
+    },
+    {
+      "name": "Holly Snodgrass",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tCXe9CI76Wp/7iIndIBmHg=="
+    },
+    {
+      "name": "Cari Sorrell",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HyBVOO8cEdpr4i/pNFUblQ=="
+    },
+    {
+      "name": "Anna Spangler",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cy2VrY84je6ajYxthE2o6Q=="
+    },
+    {
+      "name": "Kellye Sparkman",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1J5+W6cEajh+TIsd5cai9Q=="
+    },
+    {
+      "name": "Amy Sparks",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CN/XLfnhqPaQJmS1g4Cfew=="
+    },
+    {
+      "name": "Kirk Spears",
+      "gender": "Male",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/8/2025",
+      "usta_id": "x3VRt42Nn57czaZO4FKL8g=="
+    },
+    {
+      "name": "David Stalcup",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m6e1n0LaL49RfyeVm1I/ag=="
+    },
+    {
+      "name": "Daniel Steinbeck",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/28/2024",
+      "usta_id": "oOLk3cWPgTmqr/nS/KShag=="
+    },
+    {
+      "name": "Gene Stickney",
+      "gender": "Male",
+      "city": "Sweetwater",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7VXyxhK3PKY/HXWOLobPSA=="
+    },
+    {
+      "name": "Colton Street",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yFoSp1MecBdB0sSU+nZRdQ=="
+    },
+    {
+      "name": "Devin Street",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p8bUZ1c22C0Ec9b7vJ3QHw=="
+    },
+    {
+      "name": "Kristen Strefling",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "JG1KYWk6VB12TF61x2QHdw=="
+    },
+    {
+      "name": "Ashlen Sturdivant",
+      "gender": "Female",
+      "city": "SHALLOWATER",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U/iJjfe17/tmK4C0hL3ULw=="
+    },
+    {
+      "name": "Patrick Sturdivant",
+      "gender": "Male",
+      "city": "LUBBOCK",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "zLDmpQwOHP8eStMH2XHMUw=="
+    },
+    {
+      "name": "Paulette Sturdivant",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rjGn5OorS5lCFl/n1eNdrA=="
+    },
+    {
+      "name": "Tyler Sturdivant",
+      "gender": "Male",
+      "city": "Shallowater",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/29/2025",
+      "usta_id": "xo3L0mGwhfZf2Xe4JqUbfQ=="
+    },
+    {
+      "name": "Beth Sublett",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FGzXxbpfePz1WXlRUmQnUA=="
+    },
+    {
+      "name": "Tanner Taylor",
+      "gender": "Male",
+      "city": "Euless",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "NJQDoL2KMXuNjViAtBGoSQ=="
+    },
+    {
+      "name": "Rocco Testini",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cbr43zEIqYMy/VvwxROZWQ=="
+    },
+    {
+      "name": "Kerry Thompson",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "XwjTDRrjTSKyk4FNIDy8VA=="
+    },
+    {
+      "name": "Jonathan Thoms",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/21/2024",
+      "usta_id": "33ZUy+T0G5cuEU75VAbJ3w=="
+    },
+    {
+      "name": "Sandra Thoms",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cnmHSVpADXpmr9cUpB8+SA=="
+    },
+    {
+      "name": "Kristi Timmons",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/nD3HRHezq5X3qgodtY4tg=="
+    },
+    {
+      "name": "Brittany Todd",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4V42bkjNloqQMKsjUg2+QQ=="
+    },
+    {
+      "name": "Ryan Todd",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/25/2025",
+      "usta_id": "jSaY41XQ33/9xkPGyTacvw=="
+    },
+    {
+      "name": "Adrian Toledo",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/15/2025",
+      "usta_id": "at+iKm1bXdDuUVCu2ja+4A=="
+    },
+    {
+      "name": "Angela Trevithick",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hMo/j+2AOf7fu/OP2WUsAg=="
+    },
+    {
+      "name": "Kalina Trindade",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/9/2025",
+      "usta_id": "QoAowuo+6RzElqOSDeUJVw=="
+    },
+    {
+      "name": "Oneal Underwood",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eIIRRr3tYECsKLZh35sn7w=="
+    },
+    {
+      "name": "Dominique Ussery",
+      "gender": "Male",
+      "city": "Brownfield",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/18/2024",
+      "usta_id": "2Zm6JAeu+ikrEyHXaEvwzg=="
+    },
+    {
+      "name": "John Vasquez",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aNC8KhRdiVrv3FyOkSr9Nw=="
+    },
+    {
+      "name": "Emma Veld",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2SqaBhuiBVT9LOqq7oPptw=="
+    },
+    {
+      "name": "Nuria Villegas",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/9/2025",
+      "usta_id": "5N5bL3YXiAb/bzDr9K7b5w=="
+    },
+    {
+      "name": "Sarah Wakefield",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/23/2024",
+      "usta_id": "bryXb2NwLixlmeHnNMDiog=="
+    },
+    {
+      "name": "Jake Waldo",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/23/2024",
+      "usta_id": "x8j3yaqBB0RHCULCGWeWSw=="
+    },
+    {
+      "name": "Barbara Wallace",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yAuYGG9re9/Hx8WHR67Ybg=="
+    },
+    {
+      "name": "Mark Weaver",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "RqQ4TNeT8w4JtrvYPWrOxQ=="
+    },
+    {
+      "name": "Vickie Webb",
+      "gender": "Female",
+      "city": "PLAINVIEW",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "hJdHkNtqNd08ENuAzgGpAg=="
+    },
+    {
+      "name": "Gabrielle Weber",
+      "gender": "Female",
+      "city": "CRANE",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AK9/kbJFlxiBVDNrKN2Rsw=="
+    },
+    {
+      "name": "Joe Welborn",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gMhMNYhUeNE2SGT7WUrP5g=="
+    },
+    {
+      "name": "Kelly Welch",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lX6R1gsx4jAzzt6nB0OSZw=="
+    },
+    {
+      "name": "Mike Welch",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ijfFzMX9I5tHEbO0UKamMA=="
+    },
+    {
+      "name": "Tyler Welch",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2023",
+      "usta_id": "W1C+sf+lxHLHs/7NNZFb3A=="
+    },
+    {
+      "name": "Russell Weng",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/1/2024",
+      "usta_id": "hFM1lZijtG+84AduFPkZ6g=="
+    },
+    {
+      "name": "Dominika Whetzel",
+      "gender": "Female",
+      "city": "Ransom Canyon",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+MzofM8kRYoU5Su6op45FA=="
+    },
+    {
+      "name": "Amanda White",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kigjr/Ag2aDn4tWYwqJxcQ=="
+    },
+    {
+      "name": "Cody White",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mJVxN3pQ5HbpR17ccXDa0g=="
+    },
+    {
+      "name": "Elise White",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dmRahNSNdWiIrCj6n8vmMg=="
+    },
+    {
+      "name": "Rebecca White",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "md2QWnysOuJORi6G1uPIpw=="
+    },
+    {
+      "name": "Jack Williams",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "xL8LS0xWyMzTTa0lSOXZQw=="
+    },
+    {
+      "name": "Lonnie Williams",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "anwKitDoBPBQFD2ovvIQ3w=="
+    },
+    {
+      "name": "Lydia Williams",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M41p8YKUcO2N6Ea+p+yqWA=="
+    },
+    {
+      "name": "Simon Williams",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QsWCzKOUWZhOEVXwNAZ3eQ=="
+    },
+    {
+      "name": "Erin Wilson",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t9jJX0/SS/H8ay66515uUw=="
+    },
+    {
+      "name": "Amy Wimmers",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/2/2024",
+      "usta_id": "zZ0Y+7m0WmhGISkR2s3blw=="
+    },
+    {
+      "name": "Skylar Wisdom",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HCsI1QEBlLRYyQMrLxBZhA=="
+    },
+    {
+      "name": "Curtis Wong",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "VZZtZeUQzvttVbDENnlg5g=="
+    },
+    {
+      "name": "John Kyle Wooldridge",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GoibebJ5WzRdiODRvd2GIA=="
+    },
+    {
+      "name": "Randa Wrenn",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QWU4tc13YMOXlZblj7Nksg=="
+    },
+    {
+      "name": "Ryan Wulfjen",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4t2DIvyCJ8F22Olcaz+tjQ=="
+    },
+    {
+      "name": "Valerie Wynn",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6rFfF3WKaA6GZPOis+KFgw=="
+    },
+    {
+      "name": "Lingxi Xu",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/1/2025",
+      "usta_id": "0yagyMw9VjNvKdf1Mv1suw=="
+    },
+    {
+      "name": "Shannon Yarbrough",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/6/2025",
+      "usta_id": "CFUT9dhy5XbtxlEPL3gThg=="
+    },
+    {
+      "name": "Sunghwan Yoon",
+      "gender": "Male",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/29/2025",
+      "usta_id": "ya8dmDoH+WbyF55cCu68wA=="
+    },
+    {
+      "name": "Ivy Zepeda",
+      "gender": "Female",
+      "city": "Lubbock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dMAntxLay/DIovBFbQVZ9g=="
+    }
+  ]
+}

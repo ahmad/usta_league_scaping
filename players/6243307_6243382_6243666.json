@@ -1,0 +1,4007 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243382",
+  "areaId": "6243666",
+  "players": [
+    {
+      "name": "Holli Abate",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "Css5x71xZZ5McVhIqE0kLw=="
+    },
+    {
+      "name": "Deanne Abshire",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q7UE5oZxtDf5Vg3m9qDoBg=="
+    },
+    {
+      "name": "Michael Abshire",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XBBG4EntxifoQWIb2vucFg=="
+    },
+    {
+      "name": "Ruba Abu Shamat",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+BZctVwltHmBsuL+jLOD2Q=="
+    },
+    {
+      "name": "Michelle Aiken",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dNq1qEc9fWE7HbjNtKk6kg=="
+    },
+    {
+      "name": "Candice Alexander",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/31/2024",
+      "usta_id": "pFTjrk7u7S50jdg+5u5Veg=="
+    },
+    {
+      "name": "Melissa Alford",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/14/2024",
+      "usta_id": "gtgE1wHlDErsVNs7a/9Jmw=="
+    },
+    {
+      "name": "Daniel Allen",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "7H+AknqvH6rhS/n0OEB9XA=="
+    },
+    {
+      "name": "Erin Alley",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "lJZLGO/lZZxtnGPpSeEz3g=="
+    },
+    {
+      "name": "Christy Ammons",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zOO9UKfC6ds7x3EgeJBZ7A=="
+    },
+    {
+      "name": "Todd Ammons",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2024",
+      "usta_id": "DdJbHll5QBhYEGCWVic7kA=="
+    },
+    {
+      "name": "Vickie Anderson",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9bb40Q7wQWDMleNSxiCUWQ=="
+    },
+    {
+      "name": "Claire Angelle",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "kZncMZ2RDfyLZrcA7nKZJA=="
+    },
+    {
+      "name": "Jeffrey Arceneaux",
+      "gender": "Male",
+      "city": "Welsh",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/24/2025",
+      "usta_id": "SgC0fvoyMM2YVJNCgbzUvQ=="
+    },
+    {
+      "name": "Ian Augustine",
+      "gender": "Male",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jDK1zRetCgvasfd08QmMGw=="
+    },
+    {
+      "name": "Sydney Augustine",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nQSE8TYA19nFF2KABwbCKA=="
+    },
+    {
+      "name": "Casey Bargas",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tWctV5IEADV5BHr3zspVQQ=="
+    },
+    {
+      "name": "Rachel Bargas",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F2x8m9JZOnK1cSeGJ9wptw=="
+    },
+    {
+      "name": "Alina Barnett",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "repN8E38KOIrpKeoRalY1A=="
+    },
+    {
+      "name": "Mary Bayles",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1C7C0kshQxw2ydfRPlC6kw=="
+    },
+    {
+      "name": "Andrew Beasley",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KOrRg26s25eoWQcZztocqQ=="
+    },
+    {
+      "name": "Mallory Beasley",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/16/2024",
+      "usta_id": "Qbg1lowpt74IWNTOimP3pw=="
+    },
+    {
+      "name": "Brooke Beaugh",
+      "gender": "Female",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/14/2025",
+      "usta_id": "xpDm1pljM1JlvD8fz/hJ8w=="
+    },
+    {
+      "name": "Matt Beaugh",
+      "gender": "Male",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/28/2024",
+      "usta_id": "3lXN9GB8e1+WPx6nNc1RnA=="
+    },
+    {
+      "name": "Bonnie Beaullieu",
+      "gender": "Female",
+      "city": "Scott",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "90SuUXQHUgJUQ70c/9LmRw=="
+    },
+    {
+      "name": "Amber Belaire",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3cUMYGWR18EdLS5GxEKIuA=="
+    },
+    {
+      "name": "Amelie Bennett",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "qlUE6XcKiKuGyF4YCItinA=="
+    },
+    {
+      "name": "Braxton Benoit",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2024",
+      "usta_id": "jjA0SP0CXsuiH4+EHJBZng=="
+    },
+    {
+      "name": "Carol Benoit",
+      "gender": "Female",
+      "city": "Welsh",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l1vyHLH+KJUwFQmiG0qYzw=="
+    },
+    {
+      "name": "Katie Benoit",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "bfVrynJ39IpXJMlDrJAdMA=="
+    },
+    {
+      "name": "Katie Benoit",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2024",
+      "usta_id": "VtKO2qdDCCegmfjdi6ZbIA=="
+    },
+    {
+      "name": "Kim Benoit",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ssNuOCL1XCFUYULaoQXymg=="
+    },
+    {
+      "name": "Ryan Benoit",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t43+dMeGC6edwja+vE45oQ=="
+    },
+    {
+      "name": "Greg Bergstedt",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CcQyk0hTmPQ6yLdaRZ7rXg=="
+    },
+    {
+      "name": "Anthony Bertrand",
+      "gender": "Male",
+      "city": "Westlake",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JJtej6ZU2h6ZJ3ZM/pBdVQ=="
+    },
+    {
+      "name": "Ronald Bertrand",
+      "gender": "Male",
+      "city": "Westlake",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pzAKKp/0hExT72LTAELLdA=="
+    },
+    {
+      "name": "Tricia Bertrand",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h1IU1GbBDSTzxUEXU9vIOQ=="
+    },
+    {
+      "name": "Brittany Black",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0zj/t4plRlV1k4OIrXtNow=="
+    },
+    {
+      "name": "Jennifer Black",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ucTDzyf/SNSp/Pnf9Q609A=="
+    },
+    {
+      "name": "Tim Bloomfield",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/5/2024",
+      "usta_id": "HKg2qQAVVNF5OTK1gOd9vg=="
+    },
+    {
+      "name": "Mallory Bobo",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O5tm/nwCOFv+zGGXkY9bqg=="
+    },
+    {
+      "name": "Kaysie Bolton",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IpgvcKESPyUdLS0RcEpagA=="
+    },
+    {
+      "name": "Haley Bordelon",
+      "gender": "Female",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dibPVTLuFDNTEqqTQpVp/Q=="
+    },
+    {
+      "name": "Steven Bordelon",
+      "gender": "Male",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/29/2024",
+      "usta_id": "nUxTj5oISbyNt9tmQswqYg=="
+    },
+    {
+      "name": "Alexandru Boti",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Hmj1VVShzBzCqYSg89/Msg=="
+    },
+    {
+      "name": "Alina Boti",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NSg6M0Yushxjq7H2os/YAg=="
+    },
+    {
+      "name": "Toni Boudreaux",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UONzILdgMU6M+LK59wQwAw=="
+    },
+    {
+      "name": "Ashley Bourg",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "eVl4XEaCQy/6KhsUg5BExA=="
+    },
+    {
+      "name": "Cathleen Bourg",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/YUGlW56WFKcWrUzjqRIxQ=="
+    },
+    {
+      "name": "Charles Bourg",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/YUGlW56WFJifTJDRGcPNA=="
+    },
+    {
+      "name": "Alisa Braband",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NcvZ1mEDhVNEsE6NnuAUrQ=="
+    },
+    {
+      "name": "Boyd Bradley",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "524hYhaXGlXlx+eq51+cMw=="
+    },
+    {
+      "name": "Marcie Bradley",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I6OuDNJUEqUFSdhbOyxPtA=="
+    },
+    {
+      "name": "Linda Breaux",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AcOLfGMv16b0lNLtISiKvA=="
+    },
+    {
+      "name": "Shelly Brescher",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "prajYYUKkDm/gOBwyJ/PMQ=="
+    },
+    {
+      "name": "Amanda Brinkman",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1KdknIy1s6bxiPU+jlbGWw=="
+    },
+    {
+      "name": "Donald Brinkman",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Me90xmUEynQBUzalZJoeKg=="
+    },
+    {
+      "name": "Joey Brinkman",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wErBcDYsnSSshxa4czBCBw=="
+    },
+    {
+      "name": "Brandon Broussard",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2024",
+      "usta_id": "jjA0SP0CXstIIGGo5XCIrw=="
+    },
+    {
+      "name": "Christin Broussard",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nok7Y//tpOsBnvoXapkqjA=="
+    },
+    {
+      "name": "Hunter Broussard",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/30/2024",
+      "usta_id": "/JOIzGqoCO/SPpJCV7jqSA=="
+    },
+    {
+      "name": "Stephen Broussard",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M9qE7/pShganIxcYJIEMXg=="
+    },
+    {
+      "name": "Melissa Brown",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vncoP5N4TJpKDz7tBwX6vw=="
+    },
+    {
+      "name": "Tammy Brown",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "y412YVqtpKEwUWIAUsiUew=="
+    },
+    {
+      "name": "Tracey Brown",
+      "gender": "Female",
+      "city": "Eunice",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/16/2024",
+      "usta_id": "6S8eC+PMYgcp+KUkSDEq2g=="
+    },
+    {
+      "name": "Bailey Bruchhaus",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZmgJCwbydCRPsH0n7Hz+oQ=="
+    },
+    {
+      "name": "Karl Bruchhaus",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sDViJkRRH5eTxmoBDqNZ6w=="
+    },
+    {
+      "name": "Glenn Bruno",
+      "gender": "Male",
+      "city": "Lacassine",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5/WEFRW2L4X4zvIfBkQrOQ=="
+    },
+    {
+      "name": "Kay Bush",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eshM24W8v3RNhXuTKT3Adg=="
+    },
+    {
+      "name": "Jeff Butler",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O4+vanKu7kGBnlZHm2bASw=="
+    },
+    {
+      "name": "Laurie Callaba",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "TbGmSqBMpejcM1HGEs6rYg=="
+    },
+    {
+      "name": "Anthony M Camp Sr",
+      "gender": "Male",
+      "city": "Westlake",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OhQUmSyHiazkO0ihJJJPXA=="
+    },
+    {
+      "name": "Faith Camp",
+      "gender": "Female",
+      "city": "Westlake",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RREnuNJt1nemzWp1dvOU2Q=="
+    },
+    {
+      "name": "Robin Camp",
+      "gender": "Female",
+      "city": "Westlake",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+nLJuS76iAyOFW1vY1VO0A=="
+    },
+    {
+      "name": "Sarah Canup",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/11/2024",
+      "usta_id": "FEDBcD+pmo7n7omJClhlPQ=="
+    },
+    {
+      "name": "Brett Carlisle",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SopEYwm4fkW8GI4zEQLKYA=="
+    },
+    {
+      "name": "Erika Carlisle",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CvV3SiOodMUL3aIV6Tn9Cg=="
+    },
+    {
+      "name": "Theresa Carmont",
+      "gender": "Female",
+      "city": "Broussard",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y9RGKekOmVJbjbCHCcN1TQ=="
+    },
+    {
+      "name": "Susan Cart",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AFaQJ042PPeF+9j7UbgzaA=="
+    },
+    {
+      "name": "Donna Cassidy",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8xB/RDIQPSb3HopdSGKpig=="
+    },
+    {
+      "name": "Dominique Noel Chaisson",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5W8e86HKDVDxEh461usmDA=="
+    },
+    {
+      "name": "Cheree Nicole Chapman",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ws3Zmhw2Sv3duz/9nHcj3w=="
+    },
+    {
+      "name": "Brett Chase",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/27/2024",
+      "usta_id": "RE359byYxGJoTbZWRSernQ=="
+    },
+    {
+      "name": "Kevin Chaumont",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "7MUuUTJHvdkNbTYoIUQQ2Q=="
+    },
+    {
+      "name": "Susan Chenet",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o+SJNbhS2lhSt7hazGPVtg=="
+    },
+    {
+      "name": "Alicia Claudio",
+      "gender": "Female",
+      "city": "Westlake",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "yd84dDPrV6nbc+BgAsTZzQ=="
+    },
+    {
+      "name": "Nancy Clements",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7dnLVvq1QfOuCGHPrHqkRQ=="
+    },
+    {
+      "name": "Amber Comeaux",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y7bSCkDsZFtGDD2tm9fvnQ=="
+    },
+    {
+      "name": "Carl Comeaux",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hB9uwuocBTY5Jq9YaXH+Vw=="
+    },
+    {
+      "name": "Damian Comisso",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "xqq7liPrLON3OrkR2tvdGQ=="
+    },
+    {
+      "name": "Ashley Cooper",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "FOZZ11okRUzG4jaj1sLV+g=="
+    },
+    {
+      "name": "Cynthia Cormier",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zu2qUnhTUSRh6tMkyHeyiA=="
+    },
+    {
+      "name": "Cristi Cox",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1R/EPS/bVJen4YH5G8B2ng=="
+    },
+    {
+      "name": "Amelia Crawford",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZmgJCwbydCRAiNGwR49etA=="
+    },
+    {
+      "name": "Jaime Crawford",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "QW4zs41jgwmAYVdpnt6Mxg=="
+    },
+    {
+      "name": "Nikki Crooks",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xX2anxwq1XIJEbxaDASXFQ=="
+    },
+    {
+      "name": "Kimberly Crowe",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "gwP4SwLDNR55UcJ6oZButQ=="
+    },
+    {
+      "name": "Whitney Curole",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XCojokaS1R8Bf/jMG9BVig=="
+    },
+    {
+      "name": "Paige Daboval",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/29/2025",
+      "usta_id": "qgcwvf4xUW01uJ/OGTSQZA=="
+    },
+    {
+      "name": "Tyler Daigle",
+      "gender": "Male",
+      "city": "Welsh",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "DXAYVRmlC+tDCoyqmIuFXg=="
+    },
+    {
+      "name": "Allison David",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EvWEzv+qOvy7gha7lWsSxQ=="
+    },
+    {
+      "name": "Jeffrey Davis",
+      "gender": "Male",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4SN8k3/6pm3ve/o4HWnErw=="
+    },
+    {
+      "name": "Russell Deaver",
+      "gender": "Male",
+      "city": "Slidell",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "CeAsrwvenMZCVNuTzRElAg=="
+    },
+    {
+      "name": "Ana Denison",
+      "gender": "Female",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZOWRZF1o4++ihTxjxX6BdQ=="
+    },
+    {
+      "name": "Marty DeRouen",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o+elETcFKtB1NpF2QiX/6Q=="
+    },
+    {
+      "name": "Monique DeSantos",
+      "gender": "Female",
+      "city": "Westlake",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m3Q7JPmOw0TcbLOnz1RLFQ=="
+    },
+    {
+      "name": "Kaitlin Desselle",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/29/2024",
+      "usta_id": "uxg6m9fofW90e6fYaFFJzw=="
+    },
+    {
+      "name": "Ana Diaz Montes",
+      "gender": "Female",
+      "city": "Westlake",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IcVcB/LBU2DslsOJwP7O2Q=="
+    },
+    {
+      "name": "Mark DiGiglia",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "UKZMnoztKsJ/eqCY3Ryg7A=="
+    },
+    {
+      "name": "Craig Doland",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2lhURctr0nY1fJnc9NxY6Q=="
+    },
+    {
+      "name": "Elizabeth Doland",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "OoM6XI9hhD9U4IfeOOhX+A=="
+    },
+    {
+      "name": "Joelyn Doland",
+      "gender": "Female",
+      "city": "Lake Arthur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ec5AZRCTunvv9UNrwDhTIQ=="
+    },
+    {
+      "name": "Mike Doland",
+      "gender": "Male",
+      "city": "Lake Arthur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "sSQoh2HRUA2s8afJgcq/Ww=="
+    },
+    {
+      "name": "Pat Dow",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zur9R8kg7s4LVramxlg2Jw=="
+    },
+    {
+      "name": "Sylvia Downing",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "RU1oloXBZF13jO6ILncheg=="
+    },
+    {
+      "name": "Jack Drouilhet",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bk50NgSKnSNebYeP2zIACA=="
+    },
+    {
+      "name": "Kelsey Drouilhet",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/11/2025",
+      "usta_id": "iPTl/33pV1wCps2MPoCF2A=="
+    },
+    {
+      "name": "Monette Drouilhet",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BWYQ4xTWh3Urvu9TCtthUQ=="
+    },
+    {
+      "name": "Penny Duffy",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bz9pObjFhAoaY+dU2EwxJg=="
+    },
+    {
+      "name": "MacY Dulany",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HiCiYWFgQjrq2EXzDw1mpg=="
+    },
+    {
+      "name": "M Eastman",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bqEUl3xOo3RrwtaEcmFTlg=="
+    },
+    {
+      "name": "Mahala Ebarb",
+      "gender": "Female",
+      "city": "Kinder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "OYkZ+Qz5iLu29Kn65tDOtw=="
+    },
+    {
+      "name": "Yasser Elouri",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9BUalrjyCch0noOvhZKLOg=="
+    },
+    {
+      "name": "Chris Etherton",
+      "gender": "Male",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lGcuxf8QaHNzur7JM4gV+A=="
+    },
+    {
+      "name": "Kristie Evans",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AeaBD+HiSPwSSqyOq3Po8Q=="
+    },
+    {
+      "name": "Aaron Fast",
+      "gender": "Male",
+      "city": "Westlake",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7c5JVcEk6LTmqj9rWn/2ng=="
+    },
+    {
+      "name": "Beau James Faul",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IgLoH6f6M4LJ7F8+J66DSw=="
+    },
+    {
+      "name": "Maria Faul",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qx4HqmZi63HnnbkNKyFinA=="
+    },
+    {
+      "name": "Cynde Fetzer",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B8hmgV4nDuTOFcyEOVjvAQ=="
+    },
+    {
+      "name": "Maxwell Fetzer",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "hR0YjgYoioROdbminfZfgw=="
+    },
+    {
+      "name": "Casey Fitts",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GF1u4+4+OmTpsc3AhLnCHg=="
+    },
+    {
+      "name": "Matthew Fontenot",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O/NYxqDcgcxp1vS9XWU7ZQ=="
+    },
+    {
+      "name": "Matt Forest",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "7reFSjeNwkPl3XkbSpLYOQ=="
+    },
+    {
+      "name": "Corey Foster",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "oh590NHWwmu83vhEaODPgQ=="
+    },
+    {
+      "name": "Hannah Foster",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bPyDG5RjaMvugAYPV0xSNA=="
+    },
+    {
+      "name": "April Fox",
+      "gender": "Female",
+      "city": "Beaumont",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dkXfx60BULpgkPP7oQJnZg=="
+    },
+    {
+      "name": "Marsha Fruge",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2024",
+      "usta_id": "4Bb3H0nOtEt2u/HQAAgejQ=="
+    },
+    {
+      "name": "Taylor Gagneaux",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IhNp/jM8hBBxiI8xsaVg1g=="
+    },
+    {
+      "name": "Darcy Garcia",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/23/2024",
+      "usta_id": "uYrkbqYhVaZjWXbgRcgc1g=="
+    },
+    {
+      "name": "Rafael Garcia",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/7/2025",
+      "usta_id": "Joa6SHp7OVd/0+azgxDIkQ=="
+    },
+    {
+      "name": "Karen Gaskin",
+      "gender": "Female",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FJJGdEhbZXRygBB+aFzrnQ=="
+    },
+    {
+      "name": "Troy Gayle",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qWJ242p+lBjIN0CBMnH15Q=="
+    },
+    {
+      "name": "Desiree George",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Th/V1H0MUjQxdLWCAQvK8Q=="
+    },
+    {
+      "name": "Traci Gibson",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/18/2024",
+      "usta_id": "8S7eios5jYHjTh+tTQIb8Q=="
+    },
+    {
+      "name": "A GODEAUX",
+      "gender": "Female",
+      "city": "Crowley",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "zs/jy7DLwsj0cvlPAUNpMA=="
+    },
+    {
+      "name": "Wilson Gomez",
+      "gender": "Male",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/9/2025",
+      "usta_id": "IRIaF+Q6VaUPwEeFcOZmxw=="
+    },
+    {
+      "name": "Emmie Gonsoulin",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/16/2024",
+      "usta_id": "OBC3FMdeXnhzOp+IDN1PRA=="
+    },
+    {
+      "name": "Paul Gonsoulin",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "qOdI4ubUpks2GTvALJy9Uw=="
+    },
+    {
+      "name": "Elizabeth Goodwin",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/5/2025",
+      "usta_id": "Y9cDbPebzLWRIl9PK14t6Q=="
+    },
+    {
+      "name": "Peter Gover",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "5/21/2025",
+      "usta_id": "/foanXATlCnWFvDexBGnGA=="
+    },
+    {
+      "name": "Dustin Granger",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/25/2024",
+      "usta_id": "gjePr4uX80/ZlA7lX9s2Fw=="
+    },
+    {
+      "name": "Lauren Granger",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B1riyuBwd1CpzZWBXlrn0w=="
+    },
+    {
+      "name": "June Green",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "VN4esU0+9Ch2K8qm09sBRg=="
+    },
+    {
+      "name": "Megan Gregory",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kEVk6SLM46qPdWXeMsgzGg=="
+    },
+    {
+      "name": "Erin Guillory",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IhNp/jM8hBCdt+jKUnFLNg=="
+    },
+    {
+      "name": "Suzanne Guillory",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PIGMhasN2mj33EbD9b399w=="
+    },
+    {
+      "name": "Tristan Hager",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C+25X5SxEQy/F1dS9HTChQ=="
+    },
+    {
+      "name": "Lori Hale",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c/1EaV0s7+TMG/2aqmP7lg=="
+    },
+    {
+      "name": "Patrick Hale",
+      "gender": "Male",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/8/2024",
+      "usta_id": "7+58ZW1umQB4djypL56HVw=="
+    },
+    {
+      "name": "Taylor Hale",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "p6r7KPqZ3Fl9k6oxiyabPA=="
+    },
+    {
+      "name": "Susan Ham",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "CuRKWs2eZH8fGqw7z7923A=="
+    },
+    {
+      "name": "Aimee Hankin",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jNrvQD+lVAgsBpwZiukqMQ=="
+    },
+    {
+      "name": "Brad Hanks",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sT4VeqkhbAkKe+vOO5p6Ng=="
+    },
+    {
+      "name": "Wendy Harper",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iEURVuB3EwfVjnlbje7o0A=="
+    },
+    {
+      "name": "Dan Hastings",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "7DWJMMpav1r2cCsH1fAOJA=="
+    },
+    {
+      "name": "Mona Hastings",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5bEomRV8ofREZvz1NUjxSg=="
+    },
+    {
+      "name": "Jami Heard",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e0fskd+nIzOVm0hKacy0lw=="
+    },
+    {
+      "name": "Adrienne Hebert",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tVRsS3hBmnKTgOz+j89ygA=="
+    },
+    {
+      "name": "Joey Hebert",
+      "gender": "Male",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "Az2DDTC14Z7XKnkXNt8j6Q=="
+    },
+    {
+      "name": "Kayla Hebert",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+kVjS2rMYGN6nPyEvK8cxw=="
+    },
+    {
+      "name": "Samantha Hebert",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a1e6PMUTL/Q5UkGzGzLHqQ=="
+    },
+    {
+      "name": "Jackie Heinen",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z9cVQrDWdqhRDaMsES/a8A=="
+    },
+    {
+      "name": "Ben Herrera",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/16/2025",
+      "usta_id": "9VWfP8nIfXEnTru9Bpb6Dg=="
+    },
+    {
+      "name": "Laurie Herrera",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4cmxIi0VEodzrxHfz5AG1A=="
+    },
+    {
+      "name": "Mellisa Herrera",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jUYDrIA66dBqoUP3zEt8lA=="
+    },
+    {
+      "name": "Mindy Hetzel",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pHOMgUO76vIGUnx9K0/Lbg=="
+    },
+    {
+      "name": "Jacqueline Hippman",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "F9LcT1E7C3z35YC9CKd8rw=="
+    },
+    {
+      "name": "Paul Hippman",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EJwVGMM50lFSns+dzo9LcQ=="
+    },
+    {
+      "name": "Chad Hobgood",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T14/n1ao2fL2bouY0lOUuw=="
+    },
+    {
+      "name": "Drew Hoffpauir",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "wd9ZHSrbShaJ+TXInfns2A=="
+    },
+    {
+      "name": "Rachel Hoffpauir",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/27/2024",
+      "usta_id": "1m/p1hS7ISyzkXjNME2aqw=="
+    },
+    {
+      "name": "Kim Holleman",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l2scuE/NfcXQT+SxzxlD/g=="
+    },
+    {
+      "name": "Janine Hollier",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ZN5VJjkJ02HbBGi4OB1+DA=="
+    },
+    {
+      "name": "Debra Hollingsworth",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yo9nu5EETau2bI1hK6/UVw=="
+    },
+    {
+      "name": "Karen Howell",
+      "gender": "Female",
+      "city": "LAKE CHARLES",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/18/2024",
+      "usta_id": "HKxdhpgT3Y5dnwyNBjRPTQ=="
+    },
+    {
+      "name": "Andrea Hurst",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/g98q9msqlr7WxTDtvve1g=="
+    },
+    {
+      "name": "Betsy Hyde",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tabdUY3Fm2zCPxyd48IBgA=="
+    },
+    {
+      "name": "Ginger Ieyoub",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E14VoEy7C4/RSgHuStChPQ=="
+    },
+    {
+      "name": "Mark Ieyoub",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O/c2/M3fhUWvlc+mdkQpyw=="
+    },
+    {
+      "name": "Amanda Ihli",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jw6Mxnlk6I8Vfwur5QYCBg=="
+    },
+    {
+      "name": "JEN INMAN",
+      "gender": "Female",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/13/2023",
+      "usta_id": "Kfo+77vSVvHWWxNTe7oB6g=="
+    },
+    {
+      "name": "Garett Istre",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/10/2024",
+      "usta_id": "xFAv0JzpZpLHZX2Vk3osKw=="
+    },
+    {
+      "name": "Jennifer Istre",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HKwfJhXJFeEjLOjGlYchhw=="
+    },
+    {
+      "name": "Jeremy Istre",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "sgikaERwP0HhLqON1agUNA=="
+    },
+    {
+      "name": "Audra Jackson",
+      "gender": "Female",
+      "city": "LAKE CHARLES",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qdrbWqyGNQrvq0Oy8bNKqw=="
+    },
+    {
+      "name": "Donte Johnson",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e1jl4LPmLHKYXXNgX3MaXQ=="
+    },
+    {
+      "name": "Hannah Johnson",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "pq9oxMd/hnsJUMoUg+8y8g=="
+    },
+    {
+      "name": "Marcela Jones",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/26/2023",
+      "usta_id": "g4QxsawM1s0S60y3dUXZ8A=="
+    },
+    {
+      "name": "Kelly Juneau",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "mLgT7B2chxgDE5B5/nloOg=="
+    },
+    {
+      "name": "Amanda Keating",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bmyyjOBNnqw3MmNtY/WepA=="
+    },
+    {
+      "name": "Matthew Keating",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b0svI2Ml5OyC4NU117ok/g=="
+    },
+    {
+      "name": "Hunter Keller",
+      "gender": "Male",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qVk7ZArGrUmszmAdIWHOOw=="
+    },
+    {
+      "name": "Wendy Kennison",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N+68ZdduhrB9c3H+E8NGrQ=="
+    },
+    {
+      "name": "Suzie Kingsley",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4jlRJXjLYPe+9GOT7Yu+7A=="
+    },
+    {
+      "name": "Jamie Kirsch",
+      "gender": "Female",
+      "city": "Rayne",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "kgX2264lxR6vgnngKc3oiA=="
+    },
+    {
+      "name": "Leslie Knox",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "igAXa6zhWAQNXi42kdNPCQ=="
+    },
+    {
+      "name": "Andrew Kohler",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TSAejc1w85Ba7UAOizxRqA=="
+    },
+    {
+      "name": "Carrie Kuehn",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fr5FL7804AlaQjTSc7RhyQ=="
+    },
+    {
+      "name": "Chuck Kuehn",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fr5FL7804Al6t8OeCI0FJQ=="
+    },
+    {
+      "name": "Maggie Kuehn",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fr5FL7804AlViICDAr4ZPA=="
+    },
+    {
+      "name": "Anne Kuhne",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fkE7uQJIjVuFwubhAi2YpA=="
+    },
+    {
+      "name": "Patrick Laborde",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "B1fIk92ni/vXNDqZR7m3jg=="
+    },
+    {
+      "name": "Chrystal LaComb",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "37Mr7MU4TYfnhFmKOmUgYA=="
+    },
+    {
+      "name": "Michelle Lafleur",
+      "gender": "Female",
+      "city": "Eunice",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nvtLAKVaxB/meRtBK0Q1vA=="
+    },
+    {
+      "name": "Elisabeth LaMotte",
+      "gender": "Female",
+      "city": "Welsh",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3cyub2A+dWIGzyAQL78ssQ=="
+    },
+    {
+      "name": "Field LaMotte",
+      "gender": "Male",
+      "city": "Welsh",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/21/2024",
+      "usta_id": "3cyub2A+dWLzjFz+awsKAw=="
+    },
+    {
+      "name": "Brittany Landry",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BMUkQEBis1soujs8EPO05w=="
+    },
+    {
+      "name": "Cameron Landry",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YnfnZH1XtULYnfePOBAUow=="
+    },
+    {
+      "name": "Tyler Landry",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yt+DxSZXsnxMb/FLQE/Wgw=="
+    },
+    {
+      "name": "Lee Lanier",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bVUM49vhav/W74Dt8KB5ag=="
+    },
+    {
+      "name": "Connor Latour",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZGsgvljQNTePHv9CNGbsFg=="
+    },
+    {
+      "name": "Amy Laurent",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sYy9DGQqMZIsp3CMNdiUKA=="
+    },
+    {
+      "name": "Chelsea Laurent",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NFCBdHgeusU1syjCOTou1g=="
+    },
+    {
+      "name": "Sarah Lavergne",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/19/2024",
+      "usta_id": "edSOt6q1zbSho6UV8QotFA=="
+    },
+    {
+      "name": "Andrew LeBlanc",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/7/2024",
+      "usta_id": "BSUJPlw/PY1MuTPFUDuomw=="
+    },
+    {
+      "name": "Francis LeBlanc",
+      "gender": "Male",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "twglGigz+3rsOonYxcRZdw=="
+    },
+    {
+      "name": "MacK Leblanc",
+      "gender": "Male",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/14/2024",
+      "usta_id": "/RSHJFH/4rE8XRFJfo6YyQ=="
+    },
+    {
+      "name": "Sherry LeBleu",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "N7GKA3EqM34ZJvt08ebY0Q=="
+    },
+    {
+      "name": "Heather Lee",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "SnqjD8dmD5wGpi9LdAaCSg=="
+    },
+    {
+      "name": "Megan Lee",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "uzUfgSWkCLUE7csRGWSDuA=="
+    },
+    {
+      "name": "Michelle Lee",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QmRmIM3DfQUSNcBOHDwJcQ=="
+    },
+    {
+      "name": "Shelby Leger",
+      "gender": "Female",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/29/2024",
+      "usta_id": "6f+V3PiZLBNfWAzWFj6aSg=="
+    },
+    {
+      "name": "Steven Leger",
+      "gender": "Male",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/28/2024",
+      "usta_id": "3lXN9GB8e1/GAImwHU+T4A=="
+    },
+    {
+      "name": "Kayla LeJeune",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QJ6SH8V9JnSbAFGf3lWG/g=="
+    },
+    {
+      "name": "Melissa Lewis",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jbtewf79oN5lesHi8KSoGQ=="
+    },
+    {
+      "name": "Anna Liggio",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "euBNh4U4ILxA51A3BdKE6A=="
+    },
+    {
+      "name": "Jessica Liles",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/25/2025",
+      "usta_id": "pGqRbtHbw1N5/Q4WnncEPA=="
+    },
+    {
+      "name": "Rachel Lindgren",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sENyBk0Jz3FLu4CwVXGuhA=="
+    },
+    {
+      "name": "Graham Lindsay",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/19/2024",
+      "usta_id": "zZQeR58XxSSx420v59uKSQ=="
+    },
+    {
+      "name": "Daniel Losey",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xqt7VuMfyNngj7ypbMV4kQ=="
+    },
+    {
+      "name": "Melinda Losey",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Xqt7VuMfyNn37dTiw3wmhg=="
+    },
+    {
+      "name": "Jessica Lowery",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/27/2024",
+      "usta_id": "Qy5LbMyAz6eCEfpn+Ejwtw=="
+    },
+    {
+      "name": "Blair Lumpkin",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EmjK0d0JVPUuyaZSQtW54g=="
+    },
+    {
+      "name": "Blake Lumpkin",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/18/2024",
+      "usta_id": "Ut3QjmSlkwrbtH5huua/KA=="
+    },
+    {
+      "name": "Gina Macdonald",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/28/2025",
+      "usta_id": "hypKX64w/e5MgcQ9LsdUXg=="
+    },
+    {
+      "name": "Dana MacK",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E2nBXzUYaX5RBzYMfB2MTg=="
+    },
+    {
+      "name": "George MacK",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HAmxlBDla9+ccJdft7bLfg=="
+    },
+    {
+      "name": "Callie Maddox",
+      "gender": "Female",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/30/2024",
+      "usta_id": "XLyPtie6CSRTBnr+4tgVYQ=="
+    },
+    {
+      "name": "Rebecca Mahoney",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+NQ5E4Av/JEAIPK1UvChEQ=="
+    },
+    {
+      "name": "Patricia Manetsch",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/28/2024",
+      "usta_id": "lpKuofey5zhbUYl6A/d1Eg=="
+    },
+    {
+      "name": "Dean Manning",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nJg0RHaNmjiocv9jc01QbQ=="
+    },
+    {
+      "name": "Craig Manuel",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "7reFSjeNwkO9NTTCzBYqVA=="
+    },
+    {
+      "name": "Lillette Marceaux",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cdF5E+qJht2OGVXigp9xXw=="
+    },
+    {
+      "name": "Elizabeth Martel",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OpSNC76aDPQ1r9tx1fCcCA=="
+    },
+    {
+      "name": "Katelyn Matthews",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8xm+nPA0GsUJUYtRmgblMg=="
+    },
+    {
+      "name": "Hannah Mayeaux",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "OesNDQ26W7qylS403DLJpQ=="
+    },
+    {
+      "name": "Christopher McCall",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J5tt5ZPb+ngRSfFbgQBSCA=="
+    },
+    {
+      "name": "Liz McCutchen",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J+NIPPAohiT7GVWNK098VQ=="
+    },
+    {
+      "name": "Jared Meaux",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DPcUATYghS3fxzqr2vjUaQ=="
+    },
+    {
+      "name": "Todd Melton",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ao+tnqjuMN6S+20sLUJSYA=="
+    },
+    {
+      "name": "Nicolle Messina",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WCsBnD79ed+IEoK76kNLcw=="
+    },
+    {
+      "name": "Darla Meyer",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1KdknIy1s6YpxrKfrm71Ig=="
+    },
+    {
+      "name": "Julie Miller",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AmogQpyve6U2UHbAFuQ2rQ=="
+    },
+    {
+      "name": "Mary Theresa Miller",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fCz/8jR4fSA7AVRtSV5yxg=="
+    },
+    {
+      "name": "Monica Miller",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "stlxzlhRn5IX4DH2RlWhfQ=="
+    },
+    {
+      "name": "Philip Miller",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "U3DtlDyEdBfJpoudXTNgEg=="
+    },
+    {
+      "name": "David Misse",
+      "gender": "Male",
+      "city": "Prairieville",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1NsA5ONcCRDCeoJhPppdWA=="
+    },
+    {
+      "name": "Penny Misse",
+      "gender": "Female",
+      "city": "Prairieville",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Hd+y9IoWuiuLoSMeKcaEw=="
+    },
+    {
+      "name": "Beau Mixon",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vgBVIPrBD4Z2LatyqnOYow=="
+    },
+    {
+      "name": "Juan Molina Gonzalez",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l/Rs6/msVDTT+EAg0kscXA=="
+    },
+    {
+      "name": "Cindy Monroe",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "243jlj88fMlGwJ3aDB9VYg=="
+    },
+    {
+      "name": "Sheila Moody",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uiOqKX1wcy1qqaqnHI+YiA=="
+    },
+    {
+      "name": "Krissy Morris",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/10/2024",
+      "usta_id": "VlMyfyqEQYlE0JrwDRUnZw=="
+    },
+    {
+      "name": "Matthew Morris",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Mu4zojXf5CwReKCOEnVIA=="
+    },
+    {
+      "name": "Nathan Morrow",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8mIT9X50BUWg2U8HaO3q1A=="
+    },
+    {
+      "name": "Tabitha Morrow",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "uowSATRZUq+95/Ih64NXtA=="
+    },
+    {
+      "name": "Anitra Mouton",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YK3HtZ4iiDgBSUweO1hZ+Q=="
+    },
+    {
+      "name": "Megan Musso",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2024",
+      "usta_id": "VtKO2qdDCCdNSYvmu0F+iQ=="
+    },
+    {
+      "name": "Andres Nava",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2024",
+      "usta_id": "GoDvHzs3P/8eYavmczOPjA=="
+    },
+    {
+      "name": "Danielle Nava",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2024",
+      "usta_id": "pdGnlEC4WDxiPyzbyP9liw=="
+    },
+    {
+      "name": "Gail Neely",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/29/2025",
+      "usta_id": "VMOiVppSlmmfVwWZ/7PXlg=="
+    },
+    {
+      "name": "Stefanie Nixon",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2024",
+      "usta_id": "wex2Zso50c2drzPd5gyghQ=="
+    },
+    {
+      "name": "Scott Ogden",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+7cLFQi92e5qRZkLzg3AMA=="
+    },
+    {
+      "name": "Cammie Olney",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bxfzbddLZjj5r1l4ntI5uw=="
+    },
+    {
+      "name": "Lauren Olsen",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ADyiNXvFTsLfPsfEHTPPuA=="
+    },
+    {
+      "name": "Samantha Orduno",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "2Wyui25UAI12+gezw16a5w=="
+    },
+    {
+      "name": "Catherine Osbourn",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/9/2024",
+      "usta_id": "sxxPRLqGfATmdvSzYMSp2Q=="
+    },
+    {
+      "name": "Dean Padgett Jr",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1w2QzjUoMRlNQKC9cYZigw=="
+    },
+    {
+      "name": "Melissa Padgett",
+      "gender": "Female",
+      "city": "LAKE CHARLES",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0iEMd+70G/ENHc29bK2lnA=="
+    },
+    {
+      "name": "Crystal Pappion",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8xm+nPA0GsXPWL62imgwgg=="
+    },
+    {
+      "name": "Rachna Patel",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gyXHA1FrRM516z6CMorWzQ=="
+    },
+    {
+      "name": "Rahul Patel",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zS5+yi/g+20GNcaYhtkClg=="
+    },
+    {
+      "name": "Peyton Pawlicki",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/26/2024",
+      "usta_id": "I5Xg6lf+0y/aRD2RIwUx5w=="
+    },
+    {
+      "name": "Mathilda Perez",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H8ESKsoKvtUCI7YEDYqe7A=="
+    },
+    {
+      "name": "Steven Perez",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "GcS8yEEy3clTf0XHKAMwmw=="
+    },
+    {
+      "name": "Brianna Peterson",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o46qn5J+4BBTyc4FRzNFgw=="
+    },
+    {
+      "name": "Emily Pettaway",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "pyKf2ASV1nK+1H8Av0J+pA=="
+    },
+    {
+      "name": "Sherry Pfantz",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "kcFnnBHaGj+l/2oaPiibpw=="
+    },
+    {
+      "name": "Emily Pierce",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/21/2025",
+      "usta_id": "wW+ZpjEg5QI8R1oQipV8qw=="
+    },
+    {
+      "name": "Robert Piper",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/23/2025",
+      "usta_id": "s8WLxtPyqCVoJs7e9iVLNQ=="
+    },
+    {
+      "name": "Sarah Piper",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dQzqnvrsRxoQ5eHxnQMq6A=="
+    },
+    {
+      "name": "Lauren Pitre",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "8xm+nPA0GsVWdvCjOSZohw=="
+    },
+    {
+      "name": "Derek Poncho",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/6zRSngUd5bpLurwVAxCZA=="
+    },
+    {
+      "name": "Sonat Por",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sqt/VfzkfjMttBZEdXIrwQ=="
+    },
+    {
+      "name": "Philip Porche",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6qoa/QKE+uMzQWRaRvSrWw=="
+    },
+    {
+      "name": "Aileen Prevost",
+      "gender": "Female",
+      "city": "Crowley",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/13/2024",
+      "usta_id": "RAA3Vk8HcohtfBin1S4Qiw=="
+    },
+    {
+      "name": "Dwight Primeaux",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "il0ejp+Pj5+DClu9ta1mrA=="
+    },
+    {
+      "name": "Elisha Privat",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/19/2024",
+      "usta_id": "lNoQtmV6c3u3kYVtYv/K8g=="
+    },
+    {
+      "name": "Karen Proffitt",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SpuHvWMCEVxYFanLeb1Krg=="
+    },
+    {
+      "name": "Sara Prudhomme",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u2cYObJbXla+qWDg1jFFlQ=="
+    },
+    {
+      "name": "Layton Pryor",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wz1/JpsGx9gCIGY5sidTpw=="
+    },
+    {
+      "name": "Jandre Rademeyer",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/29/2024",
+      "usta_id": "6f+V3PiZLBMUkOyZKa9N/w=="
+    },
+    {
+      "name": "Liesl Rademeyer",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SViUZvbCdl8RV3gIv06yQQ=="
+    },
+    {
+      "name": "Scott Raley",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8DR6vZT/9z25C4D3WWizDQ=="
+    },
+    {
+      "name": "Andrew Redd",
+      "gender": "Male",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/1/2024",
+      "usta_id": "0nHhA+DlS8crT58Y9qLm6g=="
+    },
+    {
+      "name": "Dawn Redd",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/6/2024",
+      "usta_id": "TbGmSqBMpegQ9zUIItIHdg=="
+    },
+    {
+      "name": "Mitch Redd",
+      "gender": "Male",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R6ODiWWyXHoJehA4F/C+VQ=="
+    },
+    {
+      "name": "Jill Rice",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/12/2025",
+      "usta_id": "fYlRnLNS6Fx6VB3V9U7X0A=="
+    },
+    {
+      "name": "Joel Rimlinger",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2yrQxJ6flLSYMBV0drLy+Q=="
+    },
+    {
+      "name": "Heather Ritchie",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QJ6SH8V9JnS4iZHW5bs/TQ=="
+    },
+    {
+      "name": "CHARLOTTE ROAN",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EMFR0xSJAyNTXWaheN2dbA=="
+    },
+    {
+      "name": "Mari Roberts",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "wz1/JpsGx9iL5o6InRPQvA=="
+    },
+    {
+      "name": "Stephanie Robertson",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EZdJZtWODjsIFjdXTFL6Nw=="
+    },
+    {
+      "name": "Mila Robichaux",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/28/2025",
+      "usta_id": "OGthQX3wb2s5q94HZU0V/A=="
+    },
+    {
+      "name": "Alyssa Ross",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "D3vGTvnem94qz2wiotBeeA=="
+    },
+    {
+      "name": "Aubrey Ross",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "SfAHLkfy+vDFe8qC9p570g=="
+    },
+    {
+      "name": "Julie Roussel",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "HeIa5hHodYHcOClW/hinqQ=="
+    },
+    {
+      "name": "Jacquelyn Royer",
+      "gender": "Female",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/YF3MmS9xXv/qsHNAlgS3A=="
+    },
+    {
+      "name": "Hampton Rutland",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/21/2024",
+      "usta_id": "ALiYjIpB9Xdl6+Zr+1EMSA=="
+    },
+    {
+      "name": "Tiffany Rutland",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x6LwFfqc08oH0YQpHN3yeQ=="
+    },
+    {
+      "name": "Melanie Ryan",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u7aj775mfZV+jcfpoBGyKw=="
+    },
+    {
+      "name": "Allison Schnake",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "WSjvxqdd6sVy2ZSqVRP14Q=="
+    },
+    {
+      "name": "John Schnake",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "f4YrgT2+VoaA19IhcJQvMg=="
+    },
+    {
+      "name": "Joy Shearman",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2025",
+      "usta_id": "SgC0fvoyMM1vXYoOD2GPxw=="
+    },
+    {
+      "name": "Kennedee Sheeley",
+      "gender": "Female",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MoP4yteeEYFct330POi4YQ=="
+    },
+    {
+      "name": "Trisha Sheridan",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SLp6k4iQmVf/pvt8jK8fcQ=="
+    },
+    {
+      "name": "Kathryn Shirley",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "lnno3hVGJDrpYLuYADLkPA=="
+    },
+    {
+      "name": "Dee Dee Siebe",
+      "gender": "Female",
+      "city": "Evadale",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4BA1llZi18WL9BqlsnkrxQ=="
+    },
+    {
+      "name": "Daphne Simoneaux",
+      "gender": "Female",
+      "city": "Eunice",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zo8jUJQ8y8kNXaJvN1xQWg=="
+    },
+    {
+      "name": "Kaysha Sims",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/11/2023",
+      "usta_id": "1OQEUTplxUDA0KeEkSMeXg=="
+    },
+    {
+      "name": "Candice Skinner",
+      "gender": "Female",
+      "city": "Leesville",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "WPVRosPhPbVa3xpe2XwlGQ=="
+    },
+    {
+      "name": "Karen Skinner",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "18ghXxzw9LHH2enoLo780g=="
+    },
+    {
+      "name": "Jill Smith Maricle",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i20zgIZqkoz+0bIaOSYgtQ=="
+    },
+    {
+      "name": "Ashton Smith",
+      "gender": "Female",
+      "city": "Orange",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "8YfVkSxvPCqrrr4o0GXGfw=="
+    },
+    {
+      "name": "Sam Smith",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/30/2024",
+      "usta_id": "3Wn1ZU6CEEIW6gJ62EM2HA=="
+    },
+    {
+      "name": "Drew Soileau",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "ctOuI/qhCmJq/Cm7jE8mkg=="
+    },
+    {
+      "name": "Trena Soileau",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rm9oaHzWb/EV2a4hotZtpA=="
+    },
+    {
+      "name": "Hank Sonnier",
+      "gender": "Male",
+      "city": "Welsh",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/29/2024",
+      "usta_id": "xEWJ0KRignyuOcwhBfGpyg=="
+    },
+    {
+      "name": "Jennifer Sproles",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "MZYBVEvSQeeNyeP7bPR4dg=="
+    },
+    {
+      "name": "Genesis Standing",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "whH1OTyexzX+ATLu0zudGg=="
+    },
+    {
+      "name": "Gray Standing",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "1TzTXonoWKkn937E2L4Y9w=="
+    },
+    {
+      "name": "Elyse Stanley",
+      "gender": "Female",
+      "city": "Deridder",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "T9BT29QeZ0mWESiVbDruEA=="
+    },
+    {
+      "name": "Karen Stelly",
+      "gender": "Female",
+      "city": "Welsh",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Aqmag92ygWkR+X9rVDSHxw=="
+    },
+    {
+      "name": "Erin Stewart",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4U/YQyYp39P8bKfsR7Cz/g=="
+    },
+    {
+      "name": "Katherine Stewart",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2024",
+      "usta_id": "JEF/AQuUhphaIsKW26Sahw=="
+    },
+    {
+      "name": "Randy Stout",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oxOsx0teVCQa5VNwTVkAmA=="
+    },
+    {
+      "name": "Polly Strickland",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "slOQr7MekhxBv7+iXG5QxA=="
+    },
+    {
+      "name": "Kim Strong",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wAYIaUYdSmAU+66Q4fp6QA=="
+    },
+    {
+      "name": "Michael Stutes",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/5/2025",
+      "usta_id": "T479o5dtiEgEaLK3naFCOA=="
+    },
+    {
+      "name": "Francesco Tamburrino",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/14/2024",
+      "usta_id": "doNv6d4f0pgE1Ul4EDlEiA=="
+    },
+    {
+      "name": "Stephannie Tanner",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zBqMBNa7qj9CSOIpdrPT7Q=="
+    },
+    {
+      "name": "Autumn Taylor",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/26/2024",
+      "usta_id": "J+NIPPAohiQGxyJwwP4adw=="
+    },
+    {
+      "name": "Dusty Taylor",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/26/2024",
+      "usta_id": "gjePr4uX808PF2lmAaR0Tg=="
+    },
+    {
+      "name": "Kendrea Terrell",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "TAb8f9FLSdaQq3kMeD/z/w=="
+    },
+    {
+      "name": "Derrick Thibodeaux",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "lECVdiVFZO6jrTkxNaJmdg=="
+    },
+    {
+      "name": "Lance Thomas",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tiVcPmiLrrOJhYK0k9Uq7A=="
+    },
+    {
+      "name": "Casey Thompson",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sdUA4ZKnl5jmiuOuXFJOfA=="
+    },
+    {
+      "name": "Mary Ann Treme",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GBFGAqEcyk96lMzXtmjhxA=="
+    },
+    {
+      "name": "Tabitha Tyler",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/17/2024",
+      "usta_id": "J+NIPPAohiQaHoxs5Ldxtg=="
+    },
+    {
+      "name": "Carson Valentine",
+      "gender": "Male",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/24/2025",
+      "usta_id": "F+b3iUtHyzXwiw1fUWCGcQ=="
+    },
+    {
+      "name": "CHRISTY VALENTINE",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F+b3iUtHyzXQQAixI1B8rg=="
+    },
+    {
+      "name": "Mark Valentine",
+      "gender": "Male",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RQUw1crZEhSk2RJ6uWlZng=="
+    },
+    {
+      "name": "Camila Vallejo",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/16/2025",
+      "usta_id": "esKL1U1ZzaGupBJW8pix5Q=="
+    },
+    {
+      "name": "Charles Vanchiere",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/25/2024",
+      "usta_id": "KlxfiO1r6pajhT2GQ4owiQ=="
+    },
+    {
+      "name": "Jack Vanchiere",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "KlxfiO1r6pZJS6fUPZ90wQ=="
+    },
+    {
+      "name": "Lania Vanchiere",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KlxfiO1r6pYLor5+c/1Ouw=="
+    },
+    {
+      "name": "Schantel Viator",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/5/2024",
+      "usta_id": "CHzXspht8XUhnm20asXRbw=="
+    },
+    {
+      "name": "Darla Vincent",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/16/2024",
+      "usta_id": "DrV1xeVOkiDW4kznoC6L7w=="
+    },
+    {
+      "name": "Linsey Vincent",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iBY1NBejy3Zen4M3bWoiKA=="
+    },
+    {
+      "name": "Winn Vinson",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sYy9DGQqMZLmcUjgMXpc5g=="
+    },
+    {
+      "name": "Bridget Vita",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uQwwvlUK+wuqS5CmQgOPdQ=="
+    },
+    {
+      "name": "Jo Waite",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2024",
+      "usta_id": "YgTmA+Z4jmboeigR1plaDA=="
+    },
+    {
+      "name": "Adam Walker",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/25/2025",
+      "usta_id": "XKRLhtHEqbjvEelZube7nw=="
+    },
+    {
+      "name": "Andre Walker",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vr3vWWg0hLPtTQUKQeNM2w=="
+    },
+    {
+      "name": "Damon Walker",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LfgL8+rySgjG7C2fKlqUtA=="
+    },
+    {
+      "name": "Marlene Walker",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5eUNJ9SI0FsC95QbfmpQIA=="
+    },
+    {
+      "name": "Jeremy Ward",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8GdRXdqfEB4pXhM2JYyOmA=="
+    },
+    {
+      "name": "Patti Ward",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hI7JD/cwidSBdYRd5yBBTg=="
+    },
+    {
+      "name": "Nathanial Washington",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jp+U/LyaCCrQnUlD0UMuZg=="
+    },
+    {
+      "name": "Camden Watkins",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "EC0Y6s+jDPlmd6XaloiEmg=="
+    },
+    {
+      "name": "Carrie Watkins",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "28Oo899mi4ZOlF0XInl/Jw=="
+    },
+    {
+      "name": "Logan Watkins",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/3/2024",
+      "usta_id": "Fs2tG4Hw6TPV8NvQzl8pqQ=="
+    },
+    {
+      "name": "Andrea White",
+      "gender": "Female",
+      "city": "Jennings",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VZSa+arAuhjby4pNY4hXHg=="
+    },
+    {
+      "name": "Jessica Williamson",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6msmlB8fAaBxlnGMvUKGIw=="
+    },
+    {
+      "name": "Michael Williamson",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2024",
+      "usta_id": "6msmlB8fAaAfLUMdCPdkXg=="
+    },
+    {
+      "name": "Jeanne Wilson",
+      "gender": "Female",
+      "city": "Iowa",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/29/2023",
+      "usta_id": "tuXnld/ubPN2+MtLlE7lYA=="
+    },
+    {
+      "name": "Robert Wilson",
+      "gender": "Male",
+      "city": "LAKE CHARLES",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FcTh9HzyJDjx5A6zNmlHUA=="
+    },
+    {
+      "name": "Margaret Young",
+      "gender": "Female",
+      "city": "Eunice",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/7/2024",
+      "usta_id": "9YCBn5OZFUCbTfqppMLzZg=="
+    },
+    {
+      "name": "Hiren Zaveri",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "SWGN628cSaUSrrwBcgDG8A=="
+    },
+    {
+      "name": "Jiten Zaveri",
+      "gender": "Male",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "NAcF/3ii/EAJtWP4Hb9iuQ=="
+    }
+  ]
+}

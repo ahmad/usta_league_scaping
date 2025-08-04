@@ -1,0 +1,4927 @@
+{
+  "sectionId": "6243296",
+  "districtId": "6243320",
+  "areaId": "6243433",
+  "players": [
+    {
+      "name": "Christian Abbott",
+      "gender": "Male",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "QZBn+L/dTxgUQrMCvltoJA=="
+    },
+    {
+      "name": "Robert Abbott",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a6RK2npjYvY1rbJtgMan6g=="
+    },
+    {
+      "name": "Peter Albrecht",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "vxRS23nPfUPOSq7TWYx5RQ=="
+    },
+    {
+      "name": "Jacob Ament",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "q7EtUcHE2ptbcZXj8Ghiow=="
+    },
+    {
+      "name": "Charlotte Anderson",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "YBtoMu5B33XeayAQ2iatXQ=="
+    },
+    {
+      "name": "Erika Anderson",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "56g/GVUz3H9PmcSJXq2ZOw=="
+    },
+    {
+      "name": "Carter Andrews",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "lVFrVRuqECh9T+S5phVNzA=="
+    },
+    {
+      "name": "David Arciaga",
+      "gender": "Male",
+      "city": "FORT WALTON BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/2/2025",
+      "usta_id": "e6fAH8j/BKsCWrNZSxc05g=="
+    },
+    {
+      "name": "Michelle Asbell",
+      "gender": "Female",
+      "city": "Inlet",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AzAy4nrzpUPdUT4bOTBTmA=="
+    },
+    {
+      "name": "Brandon Bachman",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FfKTFM6jYY/n64kidkhWyg=="
+    },
+    {
+      "name": "Stephen Bachman",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "lfFOVHcQsVJd1p+7raO5WQ=="
+    },
+    {
+      "name": "Angie Baggett",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1a/LBKuyd7PL0gAomIEnTw=="
+    },
+    {
+      "name": "Victoria Bailey",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/8/2024",
+      "usta_id": "Vsr8/yUEn8w4MWEcZQUbtQ=="
+    },
+    {
+      "name": "Cynthia Baker",
+      "gender": "Female",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jqWK9voV8kfVEYacE2i+qQ=="
+    },
+    {
+      "name": "Heather Baker",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vqc2KgxfHcSQh66rpfRtfQ=="
+    },
+    {
+      "name": "Virginia Ballard",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EAULqs1qrr6MZhuda0MRRg=="
+    },
+    {
+      "name": "Wendy Barbary",
+      "gender": "Female",
+      "city": "NICEVILLE",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "i+i2r92+7BPXMgAdaV+XgA=="
+    },
+    {
+      "name": "Christy Barnett",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "Sx+V5F4nvtYgBaf0JL3zYA=="
+    },
+    {
+      "name": "Leslie Barron Schroeder",
+      "gender": "Female",
+      "city": "Austin",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BEXfdAIt17Ba1qc32ThZTw=="
+    },
+    {
+      "name": "Starr Barton",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fZFdwRnwOmWXG70sD6NohA=="
+    },
+    {
+      "name": "Kim Baynes",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2UVG7TkVL5i/EeF9J846pA=="
+    },
+    {
+      "name": "Laurel Beach",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z3niKcg6mwB21jCEt6ts6A=="
+    },
+    {
+      "name": "Cliffy Beal",
+      "gender": "Female",
+      "city": "Alys Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/18/2025",
+      "usta_id": "UnJkOKIE80Dc+V7NFSTB8Q=="
+    },
+    {
+      "name": "Kathyrn Beiswanger",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AzCo3t0foig8OiBimJHFVA=="
+    },
+    {
+      "name": "Jennifer Bekkers",
+      "gender": "Female",
+      "city": "Freeport",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aOq9yWtAZ9/VievtiPWiiQ=="
+    },
+    {
+      "name": "Gregory Bennett",
+      "gender": "Male",
+      "city": "Crestview",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lfv7HhKnvG7+ri7YBv1c2g=="
+    },
+    {
+      "name": "Danielle Bense",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "FSbhkZCBSBPTEQkpFfccwg=="
+    },
+    {
+      "name": "Braxton Bibb",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DX8GUAOiNjAnaWfWkyFEow=="
+    },
+    {
+      "name": "Michael Blackwell",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "7/1/2025",
+      "usta_id": "kymobM3QGzEInpgSJrAWDQ=="
+    },
+    {
+      "name": "Ella Blakey",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IeIcmT07vpasmYP+ohST1w=="
+    },
+    {
+      "name": "Carol Block",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DH/rEyBUTIj+Mm+AScNGWA=="
+    },
+    {
+      "name": "Robert Block",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DH/rEyBUTIiKMweOjuZ8Fg=="
+    },
+    {
+      "name": "Henry Bonar",
+      "gender": "Male",
+      "city": "Navarre",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gdRh4A1HY13dlb4dy0VssA=="
+    },
+    {
+      "name": "Garrett Bonham",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EcfhNvz6eNPH7IV9HNxDoQ=="
+    },
+    {
+      "name": "Mikhail Borkin",
+      "gender": "Male",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zIAg64QIv86EHz3bSC9FhQ=="
+    },
+    {
+      "name": "Chintana Boswell",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "csdTjcl8BmVqQceKiQ8HPw=="
+    },
+    {
+      "name": "Jacob Bouck",
+      "gender": "Male",
+      "city": "NICEVILLE",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "uAL3t0inr8xxMt/WbTIPPw=="
+    },
+    {
+      "name": "Ruthie Bouck",
+      "gender": "Female",
+      "city": "NICEVILLE",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/26/2025",
+      "usta_id": "uAL3t0inr8wbM/L57R4VTw=="
+    },
+    {
+      "name": "Jen Brady",
+      "gender": "Female",
+      "city": "Columbus",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jp4+MLyvJZQdlXUAT3w8/A=="
+    },
+    {
+      "name": "Liz Branch",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FdXzdG2goRtcJMd/V1S+Gg=="
+    },
+    {
+      "name": "Mary Brandman",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "68V7O1jyedS9k3phDQ7ZFQ=="
+    },
+    {
+      "name": "Brandi Bratek",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mZ/Jr9sKnCKumx5EzSp8FQ=="
+    },
+    {
+      "name": "Courtney Brennan",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/27/2025",
+      "usta_id": "/fqyHrFjceIH6GFORRIxlw=="
+    },
+    {
+      "name": "Amy Brown",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Z3cr4ZHpUTZoUvP/BRZEUA=="
+    },
+    {
+      "name": "Brad Brown",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nAJRxeDMrobD8Akvc6seQg=="
+    },
+    {
+      "name": "Cara Brown",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Up1r8FgYwFhDJG3XdhJSZw=="
+    },
+    {
+      "name": "Jennifer Brown",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "um1pEOzdTbCqeD1oPKq4aw=="
+    },
+    {
+      "name": "Jonathan Brown",
+      "gender": "Male",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/9/2024",
+      "usta_id": "4S13WPyePYtVLC9Vze0SUg=="
+    },
+    {
+      "name": "Laurie Brown",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "7QGOH5Ezb3prEb0t/gOhvA=="
+    },
+    {
+      "name": "Reed Bruce",
+      "gender": "Male",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "uL5YfrHV8AQGi4p9CeMS7w=="
+    },
+    {
+      "name": "Tessa Bryan",
+      "gender": "Female",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "18rEKFor6zmH7NnzxfMA/A=="
+    },
+    {
+      "name": "Erika Buchert",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DbMJfiviAIS1yqO3klr8jA=="
+    },
+    {
+      "name": "Daniel Buckner",
+      "gender": "Male",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Thzb/B/gV7v7UrnoLYNFog=="
+    },
+    {
+      "name": "Stephanie Buckner",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1QCwiLi6tIb99vsP4nn/MQ=="
+    },
+    {
+      "name": "Ashley Busch",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uogKSuPDGT8pdsZXu8qntA=="
+    },
+    {
+      "name": "Campbell Butcher",
+      "gender": "Female",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "hRyjFYRJy8XTP5Pt4wJH9Q=="
+    },
+    {
+      "name": "Christy Butcher",
+      "gender": "Female",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hRyjFYRJy8WBFZipjCqOkA=="
+    },
+    {
+      "name": "Madison Butcher",
+      "gender": "Female",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hRyjFYRJy8XstpUuVEzWRw=="
+    },
+    {
+      "name": "Rusty Butcher",
+      "gender": "Male",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hRyjFYRJy8Us/+DRmzEkIg=="
+    },
+    {
+      "name": "Katie Byrd-Huffnagle",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/26/2024",
+      "usta_id": "aF+rMsFO3Qq9Pj+UbOWszw=="
+    },
+    {
+      "name": "Julie Campbell",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/18/2025",
+      "usta_id": "gC1NSG5O6f2/gNoTuEOZrQ=="
+    },
+    {
+      "name": "Donna Capozzoli",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WiGbWYjFqrAor/D1Fn9n8w=="
+    },
+    {
+      "name": "Bridgette Caruso",
+      "gender": "Female",
+      "city": "Greenwell Springs",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "6/12/2025",
+      "usta_id": "WzEEfkQKcg3QhZVc1zA6gA=="
+    },
+    {
+      "name": "Steve Caruso",
+      "gender": "Male",
+      "city": "Greenwell Springs",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ydKVbr42etcoKmusTTRaTA=="
+    },
+    {
+      "name": "Lydia Casey",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/29/2024",
+      "usta_id": "4G9h5wruy6xXSaN3Zog3qw=="
+    },
+    {
+      "name": "Kayla Casiple",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Ckk+w5ZBsw+Ug4e/fOwG7w=="
+    },
+    {
+      "name": "Leslie Casiple",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tr/zUyniz8XkldXGvximAA=="
+    },
+    {
+      "name": "Casey Castleberry",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "Omec/hsIJwKbmI1GLGtxnw=="
+    },
+    {
+      "name": "Meg Castleberry",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E7iDmx6rhV4e2g5naU5B1Q=="
+    },
+    {
+      "name": "Dana Chamberlin",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IHo5AcEJ0uKdokttWGJPbA=="
+    },
+    {
+      "name": "Deanna Chapman",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OS44zjhl9Gmj4waEYrdmtg=="
+    },
+    {
+      "name": "Pamm Chapman",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ee9WmNwRoKkMQjLWv1Ttvw=="
+    },
+    {
+      "name": "Charles Clancy",
+      "gender": "Male",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/1/2024",
+      "usta_id": "m5/4Zq5sj+KQuMROwWpIDw=="
+    },
+    {
+      "name": "Sheri Clancy",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M/TaYSUVHC6YjIAGsM+veA=="
+    },
+    {
+      "name": "Erin Clayton",
+      "gender": "Female",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "glJuXcHHrLW9bWJvepYYSA=="
+    },
+    {
+      "name": "Kelly Cliett",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hZ7n4shjmm7OTlN3vnLrPA=="
+    },
+    {
+      "name": "Sophie Cohen",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F7z/q0mNk57t+PJucYVDCg=="
+    },
+    {
+      "name": "Kimberly Colley",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CyZctgjJEqZB3JpbwlFakQ=="
+    },
+    {
+      "name": "Helen Collias",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WaN8Q61QhXKwQFLgA9B8xg=="
+    },
+    {
+      "name": "Valerie Collier",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "75VlnVH3AWW1o47fCJITNg=="
+    },
+    {
+      "name": "Mimi Conjar",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vpVhsxm72KPaoHl49nNM0w=="
+    },
+    {
+      "name": "Anne Conklin",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VpTulzs+e3CAhNaAg4wczw=="
+    },
+    {
+      "name": "Heather Cooper",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "19nCspo3NdxtGBcH3uwFuQ=="
+    },
+    {
+      "name": "Mark Cooper",
+      "gender": "Male",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I+jSN4LFeOxcgrb5ObGNGg=="
+    },
+    {
+      "name": "Laurel Corbin",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Vwi7Ffzh1u+eomepe0B+w=="
+    },
+    {
+      "name": "Cheri Costello",
+      "gender": "Female",
+      "city": "Atlanta",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b2Salax45ykSL1SpnInCbQ=="
+    },
+    {
+      "name": "Byron Cotton",
+      "gender": "Male",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hdjiv6qEZ3uEjYI5nDDSCA=="
+    },
+    {
+      "name": "Julie Cotton",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4aauMPUhudHA7HBufBhX/A=="
+    },
+    {
+      "name": "Ann Marie Covington",
+      "gender": "Female",
+      "city": "Covington",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XfJKsIOsQRCEnudi9ue/DQ=="
+    },
+    {
+      "name": "Barbara Cowan",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "luUb4ioLc7pL4PZQpDLrxw=="
+    },
+    {
+      "name": "Kristine Cox",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "lECVdiVFZO6REpTc6VGUBA=="
+    },
+    {
+      "name": "Stephanie Cress",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "asuKAsLXM9w2/PaMn0xDKQ=="
+    },
+    {
+      "name": "Maricarmen Critides",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qmt7e9UC9BWLAdyy+x8mcA=="
+    },
+    {
+      "name": "Jolyn Curtis",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vv6v7zRXdh91eSL9R0Y6PA=="
+    },
+    {
+      "name": "Nora Cyr",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ci5fyboPjd0r9Zs9Iua7zA=="
+    },
+    {
+      "name": "Ethan D'Aleo",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "2d4XgzyEXYsdCYINMGZRzw=="
+    },
+    {
+      "name": "Christine Davidson",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/25/2024",
+      "usta_id": "TD5q7oS6ewvdgijycxNtRQ=="
+    },
+    {
+      "name": "Sarah Davis",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5n9nSunynTERTGpTugr/+A=="
+    },
+    {
+      "name": "Madeline Daws",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RE5adYldag55J8NI3Xk3lw=="
+    },
+    {
+      "name": "Flavia Elizabeth de Medeiros Cerny",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BCymngicax6d3pqCfd4x8g=="
+    },
+    {
+      "name": "Debbie Debartola",
+      "gender": "Female",
+      "city": "Alys Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/23/2023",
+      "usta_id": "dxDR43lMBWDyUy4mibx+qg=="
+    },
+    {
+      "name": "Michelle Decker",
+      "gender": "Female",
+      "city": "Chipley",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gfxkaKq1/XRhHYxJNJB18Q=="
+    },
+    {
+      "name": "Sarah Beth DeGenova",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/11/2025",
+      "usta_id": "9cB3ZyZRhFVXlhIEhuHO1w=="
+    },
+    {
+      "name": "Jessica DeLeon",
+      "gender": "Female",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EmpRHu7V/er03FtWlAaNXw=="
+    },
+    {
+      "name": "Mark Deleon",
+      "gender": "Male",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/17/2024",
+      "usta_id": "lq5hn0G4Vow++9vxIjItbQ=="
+    },
+    {
+      "name": "Robert DeMars",
+      "gender": "Male",
+      "city": "Rosemary Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Gh86yywbqvFEC1iFULKPA=="
+    },
+    {
+      "name": "Sherry Dennis",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rdNBGevQAkJcIcldmROq3g=="
+    },
+    {
+      "name": "Penny DeVenuto",
+      "gender": "Female",
+      "city": "EASTPOINT",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FWhzH9+91PhXQ2G0dRydOA=="
+    },
+    {
+      "name": "Roberto Diaz",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KaC+ff2XzSl6Ob8zu7CFtQ=="
+    },
+    {
+      "name": "Ridge Diffine",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "E9hLSvZWdrEBvoro3vKAMQ=="
+    },
+    {
+      "name": "Shawn Dishman",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "i/RKSOf9Xq9yGJMVz13Ddg=="
+    },
+    {
+      "name": "Gary Ditmore",
+      "gender": "Male",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FNht/kR+imZ0PL6mwJ9DNA=="
+    },
+    {
+      "name": "Peggy Ditmore",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BGtIOh0xMRM9cYshEHoNCQ=="
+    },
+    {
+      "name": "Noreen Dooney",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/11/2024",
+      "usta_id": "hc6PyS2vXlB+UkEguviqMQ=="
+    },
+    {
+      "name": "Catherine Dorgan",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ztz3+Fem0PO4BNkkPht4nQ=="
+    },
+    {
+      "name": "Randi Doris",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/27/2024",
+      "usta_id": "/v9QgH0A0Jm/V59I3eBQMA=="
+    },
+    {
+      "name": "Ashley Dubon Banegas",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/9/2025",
+      "usta_id": "E0bF3WS2zeZ0kUS3BgvXrA=="
+    },
+    {
+      "name": "Lauren Duke",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5c6E6bpUMu5y52LX2a7qgg=="
+    },
+    {
+      "name": "Charlotte Dunworth",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "XI3LNCgpcPIZwHDnVDLNpg=="
+    },
+    {
+      "name": "Kevin Dunworth",
+      "gender": "Male",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u0qL8SZv8nK5z+1S6cVWdA=="
+    },
+    {
+      "name": "Rob DuPree",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2024",
+      "usta_id": "JocsAGIdBMDTeDP4xYz/BA=="
+    },
+    {
+      "name": "Dianna Dylewski",
+      "gender": "Female",
+      "city": "Valparaiso",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KrlMNLAFn86TsHtIjPsShQ=="
+    },
+    {
+      "name": "Anne Banks Easter",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "qldL4BbzV3FzHXlDMl0j1g=="
+    },
+    {
+      "name": "Sterling Edison",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ppBGEWcsL+OEKhmMEzoGSw=="
+    },
+    {
+      "name": "Ashley Edmonds",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PGxftdw1S57jN5Jno77pBg=="
+    },
+    {
+      "name": "Amanda Edwards",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EH7m5MlYgIJL3khbY8eDoA=="
+    },
+    {
+      "name": "Kristie Edwards",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dkXfx60BULqaiLC1d2uHHg=="
+    },
+    {
+      "name": "Lisa Edwards",
+      "gender": "Female",
+      "city": "Clermont",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MlX6jqfqI5XpXZJlCzMngA=="
+    },
+    {
+      "name": "Karin Egan",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IwahFe0igZxpSS8VO4zDkg=="
+    },
+    {
+      "name": "Iman Elkomy",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nem6m7ND/ZSLhiyUXPuS6Q=="
+    },
+    {
+      "name": "Hoda Elzawahry",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/26/2025",
+      "usta_id": "Joa6SHp7OVfPezR6vOm78g=="
+    },
+    {
+      "name": "Amy Engleman",
+      "gender": "Female",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "PRIYtgFw73kFwew72erXbw=="
+    },
+    {
+      "name": "Geoffrey English",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "CSnPVADKTO0="
+    },
+    {
+      "name": "Alexis Ernst",
+      "gender": "Female",
+      "city": "HEADLAND",
+      "state": "AL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R9Gilwg+ZxxFNWWSwgzZhw=="
+    },
+    {
+      "name": "Billy Ernst",
+      "gender": "Male",
+      "city": "HEADLAND",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YNapovLam2NYu7rc2PLjnQ=="
+    },
+    {
+      "name": "Nicolas Farias",
+      "gender": "Male",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/24/2024",
+      "usta_id": "PFXIw4xCcFQKuUBcYxLbjQ=="
+    },
+    {
+      "name": "Cherie Favaro",
+      "gender": "Female",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4CalBNsJ3h5FzCX8yuGlNA=="
+    },
+    {
+      "name": "Jean Fernandez",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/10/2023",
+      "usta_id": "RLLMVBDocHnzGSuDJtDZUg=="
+    },
+    {
+      "name": "Kristin Ficery",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D9YoF4ZXXnGIugkDy0Kr4Q=="
+    },
+    {
+      "name": "Ellen Fitzgibbon",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y/Qu+sXREZYPWFWzqeENiQ=="
+    },
+    {
+      "name": "Linda Fitzhugh",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/19/2024",
+      "usta_id": "40mcPa1vmhH/uvWQpEUZHw=="
+    },
+    {
+      "name": "Davis Flowers",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/3/2025",
+      "usta_id": "YZcO7iBVTDTfVPpyU0Uq3A=="
+    },
+    {
+      "name": "Ray Forrester",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/26/2024",
+      "usta_id": "q5E4CH92IVSda/9bDFYHrQ=="
+    },
+    {
+      "name": "Tiffany Forrester",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/25/2024",
+      "usta_id": "fRUX/ZLNOt17zMYTOO0imA=="
+    },
+    {
+      "name": "Leslie Forstman",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/31/2024",
+      "usta_id": "GF1u4+4+OmQUe1fXNyE7Sg=="
+    },
+    {
+      "name": "Shelli Foster",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4sKTYudnEq37RnOlAqRMhw=="
+    },
+    {
+      "name": "Justin Fox",
+      "gender": "Male",
+      "city": "NAVARRE",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "p9o1xi7dYZVOMR6B+V3cHQ=="
+    },
+    {
+      "name": "Emily Foy",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "T+1clVc8uoxqwniJxBO5BA=="
+    },
+    {
+      "name": "Krista Franchi",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "ziGQ152I3NUCPHCE2sKt/Q=="
+    },
+    {
+      "name": "Allison Frankfurt",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tBwMC/hk/Mf6gSiRSjgT7w=="
+    },
+    {
+      "name": "Laurie Free",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/26/2025",
+      "usta_id": "gtgE1wHlDEr+R8Tm/R/vPw=="
+    },
+    {
+      "name": "Kristen Freeman",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/11/2024",
+      "usta_id": "5jw0V0IFLRuCgPFOkPhlng=="
+    },
+    {
+      "name": "Debbie Funkhouser",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HPn6TmLIhOaAW+V1iRfepA=="
+    },
+    {
+      "name": "Kassia Garfield",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8YNaIWlX5FcHmRVV8iKs5A=="
+    },
+    {
+      "name": "Mike Gavigan",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "GoDvHzs3P/94oSYEGPOBXg=="
+    },
+    {
+      "name": "Jennifer Geoghagan",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "uY2i/OG+xE/XCONc9kCNZQ=="
+    },
+    {
+      "name": "Angie Gibson",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OogPwaxJXtovbeOZ2CjZYQ=="
+    },
+    {
+      "name": "Amy Giles",
+      "gender": "Female",
+      "city": "Santa Rsa Bch",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "j8V6+/BTs6Fno0rHJlU96Q=="
+    },
+    {
+      "name": "Jenny Giles",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "/6/yhM+IHl+XUeijdYPshA=="
+    },
+    {
+      "name": "Matthew Giles",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/21/2024",
+      "usta_id": "atEKdGAkh0E3P6+ZNTxR8A=="
+    },
+    {
+      "name": "Paul Goldy",
+      "gender": "Male",
+      "city": "Freeport",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "+nl4EQYlJZIp8Yqmvk74kg=="
+    },
+    {
+      "name": "Griselda Gomez",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9GrSkkBLWcZ4XPMAbI1Gvg=="
+    },
+    {
+      "name": "Amanda Gordon",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5w+AKjS1JV1y43jA9n9GpQ=="
+    },
+    {
+      "name": "Ashley Goyne",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "27cNzImQTX1LNgHWPOcarg=="
+    },
+    {
+      "name": "Veronica Gray",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "TpTAL8XLu7PGaAHqajp+CQ=="
+    },
+    {
+      "name": "Susan Green",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1LlhJOJjlGDBl2ekcdxEKg=="
+    },
+    {
+      "name": "Delford Greggs",
+      "gender": "Male",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "pZZC+bEb5IPSRMIRilLssw=="
+    },
+    {
+      "name": "Glenn Griffin",
+      "gender": "Male",
+      "city": "PHENIX CITY",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iqCO99pmPhR2p5pzAQCYjw=="
+    },
+    {
+      "name": "William Grigsby",
+      "gender": "Male",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jkNU8cRkDClyEUmb3GWqJA=="
+    },
+    {
+      "name": "Janet Guehl",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/DInTY3O4tM4ZKwMXcFBHA=="
+    },
+    {
+      "name": "Michelle Gusmus",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Do3VSsEGixLyHlk7WtuRmA=="
+    },
+    {
+      "name": "Lauren Haack",
+      "gender": "Female",
+      "city": "Gulf Breeze",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xcl0lzpaHa3LoyDkwDgS7g=="
+    },
+    {
+      "name": "Michael Haack",
+      "gender": "Male",
+      "city": "Gulf Breeze",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+tbz44C9SJksuyABrIUSMg=="
+    },
+    {
+      "name": "Tricia Hafdahl",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y6uXf2nVMyLmWW8IEEcU2A=="
+    },
+    {
+      "name": "Brock Halstead",
+      "gender": "Male",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Y6nyDtA0HZbrJDFwJhkakw=="
+    },
+    {
+      "name": "Carrie Halstead",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JjuHB2sdVaKjM/hcZS8XGw=="
+    },
+    {
+      "name": "George Hambleton",
+      "gender": "Male",
+      "city": "Ft Walton Bch",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "hBmxtDrEwCSOkeI/c61/zw=="
+    },
+    {
+      "name": "Bobby Hannahan",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/18/2024",
+      "usta_id": "O7IKXMZQWSJHTc/Th9+iPQ=="
+    },
+    {
+      "name": "Melissa Hannahan",
+      "gender": "Female",
+      "city": "Mobile",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "H+wqniFvysHbFHHsFRsyLg=="
+    },
+    {
+      "name": "MISSY HANNAHAN",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yBIWLkE1xRzT7pPZk6b0Yw=="
+    },
+    {
+      "name": "Ella Harman",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/10/2025",
+      "usta_id": "P/+cCEwEYU8gsbtuHoqYCg=="
+    },
+    {
+      "name": "Suzanne Harman",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RHkLOvIvO2OvVEXYLhICLw=="
+    },
+    {
+      "name": "Lindsey Harp",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/1/2024",
+      "usta_id": "MvkgIDRzrFL5pQABg74psg=="
+    },
+    {
+      "name": "Mallorie Harper",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pzAKKp/0hEw+yvhVJmv2Uw=="
+    },
+    {
+      "name": "Tiffany Harran",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "LV6Bu0XF0KBuC8d5DQ+omA=="
+    },
+    {
+      "name": "Kathy Harres",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "36M8HdK5TagU9GgDNt/LrA=="
+    },
+    {
+      "name": "Lisa Harris",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C9e7GdcupJ3lqQ58tCiTrQ=="
+    },
+    {
+      "name": "Paul Harris",
+      "gender": "Male",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2U5J3OkUJz6j3cWEkiAx7w=="
+    },
+    {
+      "name": "Patricia Haywood",
+      "gender": "Female",
+      "city": "Duluth",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yzSzzrcO4M3C/oZQAPdyLA=="
+    },
+    {
+      "name": "Benjamin Hazelkorn",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iBAFHCVCgy7Y93bRRMQe1Q=="
+    },
+    {
+      "name": "Jennifer Heilmann",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gBaC1C3GzJw+5sYHT/mFJw=="
+    },
+    {
+      "name": "Laura Heitzmann",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pSOLzyugPRS0ZRqrCMFEeQ=="
+    },
+    {
+      "name": "Jamie Helms",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "svsq2k528Q0oe7QJgQ5b6w=="
+    },
+    {
+      "name": "Andy Hernandez",
+      "gender": "Male",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UnBX+lNUX6xNYZKoAIFWNw=="
+    },
+    {
+      "name": "Jennifer Hernandez",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/22/2024",
+      "usta_id": "PbscISItWCbunmwknT2YVg=="
+    },
+    {
+      "name": "Gregory Herr",
+      "gender": "Male",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "GYuOxs+CFXVdGEVPykbyEg=="
+    },
+    {
+      "name": "David Herschel",
+      "gender": "Male",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/14/2023",
+      "usta_id": "a36In2tSA1e4OIBsCmJYuA=="
+    },
+    {
+      "name": "Maureen Hess",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TS6/PMLp4zkobHGP13JGug=="
+    },
+    {
+      "name": "Deanna Hibbard",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JCFWApIm0k1ZphPoZCdH4Q=="
+    },
+    {
+      "name": "Kati Hill",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "yVAQc3+p/x1iEK0H7PBhZw=="
+    },
+    {
+      "name": "Michelle Hill",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/18/2024",
+      "usta_id": "dv9NfGgb/FW4UjXFfLdcjA=="
+    },
+    {
+      "name": "Laurie Hirshfield",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "YAywtmmzw09P9a2ahefzjw=="
+    },
+    {
+      "name": "Cheryl Hix",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B17MCMwO6z2KfP3MLNE9PQ=="
+    },
+    {
+      "name": "Cindy Holditch",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/16/2024",
+      "usta_id": "GviO2cS9BQYUEcjxV2mu1Q=="
+    },
+    {
+      "name": "Nancy Honeycutt",
+      "gender": "Female",
+      "city": "Hiawassee",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oXn0jKG6F25HnSjMzZJE2w=="
+    },
+    {
+      "name": "Emily Hooks",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2023",
+      "usta_id": "T6rhWUR6d27IQOQCsLzvtw=="
+    },
+    {
+      "name": "John Hooks",
+      "gender": "Male",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6SMy2JVEYP4kl7/w4yLmJw=="
+    },
+    {
+      "name": "Amy Howard",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "RiFeTHusPKfptFNJzml46w=="
+    },
+    {
+      "name": "Lisa Howard",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "WzVprZ2hK5cwthO2S0280Q=="
+    },
+    {
+      "name": "Tess Howard",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cT5utosgOXtdtMTINUcvzw=="
+    },
+    {
+      "name": "Peggy Hsu",
+      "gender": "Female",
+      "city": "Vestavia",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ugFBBf0fnEcdXqQv6lngYA=="
+    },
+    {
+      "name": "Joel Huddleston",
+      "gender": "Male",
+      "city": "FREEPORT",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WumTj6hD/lnDCA+LVqS+yg=="
+    },
+    {
+      "name": "Leslie Huff",
+      "gender": "Female",
+      "city": "Sugar Land",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "3R64rdwaMeZlgP2J6mrAkQ=="
+    },
+    {
+      "name": "Van Hughes",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vD3wpe3Hb1W6NQhExJuI8Q=="
+    },
+    {
+      "name": "Miles Humphreys",
+      "gender": "Male",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+hlvnDFAMZdek+cHulAwBQ=="
+    },
+    {
+      "name": "Stuart Hunt",
+      "gender": "Male",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "dfKVDnQnF2b57dVVtM0XrQ=="
+    },
+    {
+      "name": "Akiko Ichimasa",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Fv87z8JMuoS7HZpq8tWJ5A=="
+    },
+    {
+      "name": "Lisa Incaudo",
+      "gender": "Female",
+      "city": "Alys Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "iXI6fy8H52wSaDqv1m89HA=="
+    },
+    {
+      "name": "Cindy Jefcoat",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DLH5w0KQFcPMpvrmek6fUg=="
+    },
+    {
+      "name": "Doyle Jefcoat",
+      "gender": "Male",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/5/2024",
+      "usta_id": "pZKj/ISv18g2hreux31HfA=="
+    },
+    {
+      "name": "Deanna Jimison",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fyhi71d2j68uykAOv8Rs8Q=="
+    },
+    {
+      "name": "Michael Johns",
+      "gender": "Male",
+      "city": "Graceville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FOwtDwsVHVJNYauIL0Mk7g=="
+    },
+    {
+      "name": "Anne Johnson",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "kKEWbWvJQAjz1bogMu0zTA=="
+    },
+    {
+      "name": "Cecile Johnson",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IgUzFmf+hF/W7YeYNqmvgg=="
+    },
+    {
+      "name": "Courtney Johnson",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "htblD4Q1R0g/mZ0FGLIKFg=="
+    },
+    {
+      "name": "Madelaine Johnson",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/20/2024",
+      "usta_id": "yJdT6kBk0cy3ssZVzhcOmQ=="
+    },
+    {
+      "name": "Mark Johnson",
+      "gender": "Male",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/22/2024",
+      "usta_id": "c0JmMUI7eGvDtm73dycUmA=="
+    },
+    {
+      "name": "Lubomir Kaderjak",
+      "gender": "Male",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "PpBxz+lWCxM+g1KtAitCsw=="
+    },
+    {
+      "name": "Sherry Kaelin",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aJdJFOoqFPOU9nvzRrcaxw=="
+    },
+    {
+      "name": "Leisha Kelley",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/21/2024",
+      "usta_id": "aEn/P44ebCf48qdyhABDVA=="
+    },
+    {
+      "name": "Caleb Kembro",
+      "gender": "Male",
+      "city": "Apalachicola",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2krHoS7rj20T+62zCol1uA=="
+    },
+    {
+      "name": "Kristine Kenworthy",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h/pbqEMhaYk/jar1T7Pvhg=="
+    },
+    {
+      "name": "Julie Kerwin Cumby",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AEuorCFxO37KeN84kEC1+g=="
+    },
+    {
+      "name": "Issam Khouri",
+      "gender": "Male",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gp3BocVcFPMjEsyoikCQDA=="
+    },
+    {
+      "name": "Kendall Kilgore",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/18/2025",
+      "usta_id": "rQlQqdCXDG3Bybhn3KjYkQ=="
+    },
+    {
+      "name": "Beth Kimche",
+      "gender": "Female",
+      "city": "Atlanta",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a9XMej/ZGz1TpMRSjTfgiw=="
+    },
+    {
+      "name": "Summer King",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/FEi5UGPqGusO/l0IHi3kA=="
+    },
+    {
+      "name": "William Kingsbury",
+      "gender": "Male",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bmwalBCQno6ffRv54rux7w=="
+    },
+    {
+      "name": "Diana Kish",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "76nEZnKXzALxnsVkknyYDA=="
+    },
+    {
+      "name": "Marci Knauss",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yqkklyirGoARw7K8h5x5Uw=="
+    },
+    {
+      "name": "Ingrid Knight",
+      "gender": "Female",
+      "city": "PANAMA CITY",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uuI6Sct6JKNIc2pnA53EPQ=="
+    },
+    {
+      "name": "Mayumi Kosnosky",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TiU/4LNCWzMmMF/Blrr9Eg=="
+    },
+    {
+      "name": "Cindy Krutz",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nYyKZmGn14Ar+LUwFdwSUQ=="
+    },
+    {
+      "name": "Lynn Lamere",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ybf28BQVqeGvbkArHT89kw=="
+    },
+    {
+      "name": "Christina Langford",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e1JC6Uuvi+BT1Np9QyDWuQ=="
+    },
+    {
+      "name": "Owen Langlois",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GkC81CPPFkPz4Ie79Hvzfg=="
+    },
+    {
+      "name": "Julie Larsen",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MVBbR95znOBrivlyHuCv1g=="
+    },
+    {
+      "name": "Brett Latham",
+      "gender": "Male",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "W/14wN24JjBq21oBuVkIbw=="
+    },
+    {
+      "name": "Glenn Lattanze",
+      "gender": "Male",
+      "city": "Navarre",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cZXRjvZnmVQCYghf+pwSzQ=="
+    },
+    {
+      "name": "Kim Lepley",
+      "gender": "Female",
+      "city": "Mountain Brk",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AWb9ueXE/nFFXMgXCuCWrA=="
+    },
+    {
+      "name": "Makayla Lewis",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "q9WXKpmmbFplH1YTnx3zaA=="
+    },
+    {
+      "name": "Catherine Limekiller",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "3slUH9BT2qeGQekloNUSMQ=="
+    },
+    {
+      "name": "Brett Lindell",
+      "gender": "Male",
+      "city": "Point Washington",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/14/2024",
+      "usta_id": "0E9So8utCb35jYKCIQdolQ=="
+    },
+    {
+      "name": "Kelly Lindell",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/3/2025",
+      "usta_id": "ErAH8QkWzQ1hMR2A4Ca56g=="
+    },
+    {
+      "name": "Christy Liss",
+      "gender": "Female",
+      "city": "ATLANTA",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VMBfS44pJMd/iSBOpbr0nQ=="
+    },
+    {
+      "name": "Geeta Lochan",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ypwRyY2cmULC1facBQ8BUQ=="
+    },
+    {
+      "name": "Jennifer Loggins",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gys4tcVQ13TEYejqf7HUxA=="
+    },
+    {
+      "name": "Patricia Lohman",
+      "gender": "Female",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "bvRRNsMyvVe5l9zHb6Od4w=="
+    },
+    {
+      "name": "Mary Lostak",
+      "gender": "Female",
+      "city": "Rosemary Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VoLlDKzwW5xlriO+T3V4jQ=="
+    },
+    {
+      "name": "Caroline Loudenback",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "Qz3NSY+gF85ZiZEcYC/5jw=="
+    },
+    {
+      "name": "Jamie Lynn",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xef6mm1I/Yv2Wb4QrjGMtQ=="
+    },
+    {
+      "name": "Clark Mabry",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CR6r488BJ8Ra8ToLR3HlPQ=="
+    },
+    {
+      "name": "Kim Maddox",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AbHzg3p3rg2NX1LGPZfdnA=="
+    },
+    {
+      "name": "Silvia Madriaga",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/1/2024",
+      "usta_id": "223sM44ucE0Es8UgnOGlOA=="
+    },
+    {
+      "name": "Pete Mahawongnan",
+      "gender": "Male",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "4d2IM2fQJ+uoRjBcg2EYng=="
+    },
+    {
+      "name": "Suracha Mahawongsanun",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q+ybS5aml8+ncJiGQ0yZdQ=="
+    },
+    {
+      "name": "Ann Maier",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/18/2024",
+      "usta_id": "1MRM9seq0q5ES/CDVLqx+w=="
+    },
+    {
+      "name": "Fatima Malik",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "k89fY7NZd+/zGuwabbK9Mg=="
+    },
+    {
+      "name": "Stacey Marks",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "w/XmH9kms+NGQQ66q267og=="
+    },
+    {
+      "name": "Trudy Marlow",
+      "gender": "Female",
+      "city": "Frisco",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ql+WwpP5utGD4I7pMCJetA=="
+    },
+    {
+      "name": "Sherri Marsteller",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OogPwaxJXtrF1EpI2o3FtA=="
+    },
+    {
+      "name": "Julie Martin",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8M4c6zI4VZOV1tnOgU+hAg=="
+    },
+    {
+      "name": "Karen Martineau",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "akmF75JDPl79dAYFYvV+LQ=="
+    },
+    {
+      "name": "Angela Mathis",
+      "gender": "Female",
+      "city": "Nashville",
+      "state": "TN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/9/2025",
+      "usta_id": "Y50W8oUwyem+ClA4XjYlfA=="
+    },
+    {
+      "name": "Jenna Mathis",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "nFysfe+UcwEnv+gmq3Alng=="
+    },
+    {
+      "name": "Amy Mausert",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "jf5BFhdp9kiT54dh85/dUg=="
+    },
+    {
+      "name": "Lawrence McCaskill",
+      "gender": "Male",
+      "city": "THE VILLAGES",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8Al62lUHkoCMvHNf0oNx7g=="
+    },
+    {
+      "name": "Christine McCoy",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oMfLCNJkr6KNAGvQ7K9FNg=="
+    },
+    {
+      "name": "Ken McCurdy",
+      "gender": "Male",
+      "city": "GULF BREEZE",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/SrrPOV/oiBkK3zpGJpewg=="
+    },
+    {
+      "name": "Laura McDaniel",
+      "gender": "Female",
+      "city": "Atlanta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "P+mMBJTZCmioPbTnchY0xA=="
+    },
+    {
+      "name": "Caitlin Mcginty",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "MusMDTgZBj/NC7cCCIFA6A=="
+    },
+    {
+      "name": "Tracey McGuire",
+      "gender": "Female",
+      "city": "Westerville",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "Q+K3Awu81066hFZubKGCJg=="
+    },
+    {
+      "name": "Sean McKeague",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CBtrrNotTXfi0LU5Z+HC1g=="
+    },
+    {
+      "name": "Jason McLemore",
+      "gender": "Male",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yGcxBlM6SkGoRDaenfKluw=="
+    },
+    {
+      "name": "Mikaela McManus",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3rcV39QR1DOfqrAc/9v1jA=="
+    },
+    {
+      "name": "Austin McNeil",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EcfhNvz6eNOVaVfCJM/BbA=="
+    },
+    {
+      "name": "Mendy Melancon",
+      "gender": "Female",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gcEgJWVOWtZne2weaCTwiw=="
+    },
+    {
+      "name": "Sandor Mester",
+      "gender": "Male",
+      "city": "Oakmont",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/9/2025",
+      "usta_id": "cu98d4quCQ4ZHWYtmNGWWA=="
+    },
+    {
+      "name": "Mark Metz",
+      "gender": "Male",
+      "city": "Norcross",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F5EeiL5wuGL7JBCH4rU1AA=="
+    },
+    {
+      "name": "Vera Michailidis",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E2+mHHA++yBNRgINyErhjQ=="
+    },
+    {
+      "name": "Juju Milam",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "GHQldBDg34FwGBnWTa5hQw=="
+    },
+    {
+      "name": "Sharon Miles",
+      "gender": "Female",
+      "city": "DESTIN",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "vg1fkxRGgax3ETaydUrraQ=="
+    },
+    {
+      "name": "Joanie Miller",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "4bREhAzLDPzVlPlEGcfK2w=="
+    },
+    {
+      "name": "Sherri Miller",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/31/2024",
+      "usta_id": "k61xMxx00G71K1tOdWG/Yg=="
+    },
+    {
+      "name": "McKenna Mills",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/19/2023",
+      "usta_id": "rMaal7K2s1kJ9GCfuu5dWA=="
+    },
+    {
+      "name": "Christina Mitchell",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mgPePKp747tgK7rfLyy4Sg=="
+    },
+    {
+      "name": "Beth Molteni",
+      "gender": "Female",
+      "city": "Nashville",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nuTHtxB2cK2mAdk/o77lyQ=="
+    },
+    {
+      "name": "Andrea Moneymaker",
+      "gender": "Female",
+      "city": "Valparaiso",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DxB4gnsxLhfdN8g5BwM2dg=="
+    },
+    {
+      "name": "Brandon Montalto",
+      "gender": "Male",
+      "city": "Freeport",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YlLe2xfmZnS6JGQJXpsAsA=="
+    },
+    {
+      "name": "Chris Moore",
+      "gender": "Male",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "12ySAb4zD8LIgVNgqkTJvw=="
+    },
+    {
+      "name": "Catherine Morgan",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r4ws6prLqHZSaUBj0BVVCQ=="
+    },
+    {
+      "name": "Yana Morgan",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "vh3kueeo4MtTMfmPCFN2Nw=="
+    },
+    {
+      "name": "Emily Morris",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "WORmdXT0/CQwwglQCy8zhA=="
+    },
+    {
+      "name": "Emily Moss",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/jdhURrevhk46Kirl92rrQ=="
+    },
+    {
+      "name": "Eric Mull",
+      "gender": "Male",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ELTWAaNc0bVT9Bnvk90XnA=="
+    },
+    {
+      "name": "Tania Muraro",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NIScg9VFcM1wfVcOd2XKww=="
+    },
+    {
+      "name": "Stacy Murphy",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VYjqKerH5qEVpgCakdC7zw=="
+    },
+    {
+      "name": "Cheryll Myers",
+      "gender": "Female",
+      "city": "FORT WALTON BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "71mlTba3SMPJWbwCw5YNrA=="
+    },
+    {
+      "name": "Rita Myler",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "h8PH8vUrVIskJdurLm6luw=="
+    },
+    {
+      "name": "Mia Nadeau",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "wiw19lR3v8bOqUQET+eVdw=="
+    },
+    {
+      "name": "Toni Nadler",
+      "gender": "Female",
+      "city": "Ladson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/5/2023",
+      "usta_id": "ZshQgpLYcuO9qkl8xKeIXA=="
+    },
+    {
+      "name": "Zoltan Nagy",
+      "gender": "Male",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DHsgOKhUhGgdE9A0L+Uv1w=="
+    },
+    {
+      "name": "Kristi Neale",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/2/2025",
+      "usta_id": "iAffRRPOKFN2Vm+faAoXDQ=="
+    },
+    {
+      "name": "Edina Nicoloff",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RE2X9kvW9Xqjv8s0H449PA=="
+    },
+    {
+      "name": "Amanda Nielsen",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nbY+3dknTDh3j8g2TuklTQ=="
+    },
+    {
+      "name": "Ken Nielsen",
+      "gender": "Male",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/3/2025",
+      "usta_id": "hs6NkDqL2XCFz8cj6JVrFQ=="
+    },
+    {
+      "name": "Brenda Nyberg",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g96ldjYyQDZbXTG3C0Ogvg=="
+    },
+    {
+      "name": "Casey Ojdana",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KxOGENitRfYMw+5VEJxS9A=="
+    },
+    {
+      "name": "Brandi O'Kelley",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "wuHHqIOXnkNLSMmFizy9mw=="
+    },
+    {
+      "name": "Lori O'Laughlin",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MnXdOi1nOXrr4x0kf/Di4g=="
+    },
+    {
+      "name": "Jenni Oneal",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "FySvGHe/15Da0PAmpleTQw=="
+    },
+    {
+      "name": "Michelle Oneill",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E2c9J10AhVJ2AvBBEFk6uQ=="
+    },
+    {
+      "name": "Kendal Orwick",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "17K2SEJMGeMRebZBN4j9vw=="
+    },
+    {
+      "name": "Jeffrey Osborne",
+      "gender": "Male",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/16/2025",
+      "usta_id": "+LziSF70jHC4GN7BihooQw=="
+    },
+    {
+      "name": "Victor Otero",
+      "gender": "Male",
+      "city": "FORT WALTON BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "26ULA3xuWq4TcDld12jijQ=="
+    },
+    {
+      "name": "Hillary Owen",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/18/2025",
+      "usta_id": "nc4F6t/Kxh4O7FDDxp30zg=="
+    },
+    {
+      "name": "Allison Page",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J8GDRXWBbFuyQlg6yrdlqg=="
+    },
+    {
+      "name": "Steven Palmer",
+      "gender": "Male",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/29/2024",
+      "usta_id": "s6XYuch7/q0pi6V3sUvgmg=="
+    },
+    {
+      "name": "Joy Paradise",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Sam2aWksq59QxM65BBwng=="
+    },
+    {
+      "name": "Janet Parfitt",
+      "gender": "Female",
+      "city": "Rosemary Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/3/2024",
+      "usta_id": "EOt8UKMJ1lgjP+uzM9X+Ug=="
+    },
+    {
+      "name": "Wendy Patterson",
+      "gender": "Female",
+      "city": "DALLAS",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/18/2025",
+      "usta_id": "tYXFdt/FviZeOmGPEklwbw=="
+    },
+    {
+      "name": "MacHelle Payne",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KN8e8u0v1JyboH7WOPXajw=="
+    },
+    {
+      "name": "Karen Pearson",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/25/2024",
+      "usta_id": "zrOlWOhj5IgIqvYUZS5K+w=="
+    },
+    {
+      "name": "Kaysha Pemberton",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ohjLkR9S/aHhYbJCjM9tzw=="
+    },
+    {
+      "name": "Kim Pennington",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iaVCozMss4Vl2jhfwqyCEA=="
+    },
+    {
+      "name": "Mark Pennington",
+      "gender": "Male",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/27/2025",
+      "usta_id": "8UOFSHpxRsdOZBF2cAUiPA=="
+    },
+    {
+      "name": "Nicole Perkins",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o7yPjdKu0j9vwpVgE5E0RQ=="
+    },
+    {
+      "name": "Holly Perry",
+      "gender": "Female",
+      "city": "Austin",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xiO7p4NDY/5yqP8EtUH6vA=="
+    },
+    {
+      "name": "Jennifer Petersen",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mP05wLytLJv0nq+tZ8B9qg=="
+    },
+    {
+      "name": "Brett Peterson",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "SKDEb0aldlRtAhg+SkcuNA=="
+    },
+    {
+      "name": "Allison Phillips",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ssgKCth4vCLIQWE5Sbg5+g=="
+    },
+    {
+      "name": "James Phillips",
+      "gender": "Male",
+      "city": "Marianna",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "79asuvHz77BU8UuKb27z8g=="
+    },
+    {
+      "name": "Jodie Phillips",
+      "gender": "Female",
+      "city": "Frederick",
+      "state": "MD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/R9E1O89CkWegQ7D7dmgIA=="
+    },
+    {
+      "name": "Natacha Phillips",
+      "gender": "Female",
+      "city": "Marianna",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LTZpoB6IocARK/aAIFRaCA=="
+    },
+    {
+      "name": "Tina Phillips",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lYZv8qnzZYwCMIqP+5o/Fw=="
+    },
+    {
+      "name": "Adam Pickos",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "MyRYpfLBK7tWmC74BsoiCw=="
+    },
+    {
+      "name": "Duane Piper",
+      "gender": "Male",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/28/2024",
+      "usta_id": "XeCeUjKzunlb+p10unwFjQ=="
+    },
+    {
+      "name": "Carrie Plasier",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "I5FwyjJ8jzg/RpT9WGLjVA=="
+    },
+    {
+      "name": "Travis Poole",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AVwd3ViPsvGNOYgLuQldAQ=="
+    },
+    {
+      "name": "Nick Prabhu",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/21/2024",
+      "usta_id": "10vTOWcI9LIPUBCTGbo6rQ=="
+    },
+    {
+      "name": "Hari Prasad",
+      "gender": "Male",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b7zSGXc/uHx6LBHa5/l/qA=="
+    },
+    {
+      "name": "Jodi Pratt",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "DPuP5D5WR4qFsVjl/8XI+g=="
+    },
+    {
+      "name": "Robyn Prince",
+      "gender": "Female",
+      "city": "Freeport",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BTGFm2CcWJkAssOCa4iM9g=="
+    },
+    {
+      "name": "Bryan Pritchett",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "8y+3AeyNpbmpSsw3GBAF5w=="
+    },
+    {
+      "name": "Sandra Putz",
+      "gender": "Female",
+      "city": "Montgomery",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AhaPhu+IbjrKLWtnNYVVnw=="
+    },
+    {
+      "name": "Laura Pyle",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iSV5icXE6YYm7MBB51KY+g=="
+    },
+    {
+      "name": "Gwen Pysh",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/16/2024",
+      "usta_id": "F9NFELOQIBEhWIBTfbiZIw=="
+    },
+    {
+      "name": "John Quarles",
+      "gender": "Male",
+      "city": "Navarre",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "27C5r8lfduTf+LvcbH5z2A=="
+    },
+    {
+      "name": "Bailey Quirk",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mDeOBy0TKiPd4hIvKQwTRQ=="
+    },
+    {
+      "name": "William Ragsdale",
+      "gender": "Male",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "tTbEKSu4AY71dIRZOAVhaA=="
+    },
+    {
+      "name": "Carrie Redd",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+llOK8r2RfdEexM2FzMNSg=="
+    },
+    {
+      "name": "Kristen Reed",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "7dbUjtsivuyZxOhJdul8qQ=="
+    },
+    {
+      "name": "Eli Rhodes",
+      "gender": "Male",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "hOySevXGWtzrmjCZ72j2NQ=="
+    },
+    {
+      "name": "Tanya Rhodes",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hOySevXGWtx7wMcrNwXLpQ=="
+    },
+    {
+      "name": "Kerry Richardson",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/18/2024",
+      "usta_id": "jdODXX6tgoanh2rkRQJjAQ=="
+    },
+    {
+      "name": "Sharon Richburg",
+      "gender": "Female",
+      "city": "ROSWELL",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2024",
+      "usta_id": "3WcNeR07T7RNlwMkzWXPHw=="
+    },
+    {
+      "name": "Tina Rickards-Fuller",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ETMTQpkM0Eebnw4f7GReRA=="
+    },
+    {
+      "name": "Tina Rigdon",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wgo1pDTErzNVEh7NcH5h/Q=="
+    },
+    {
+      "name": "Susan Riley",
+      "gender": "Female",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1kG7kIL3ZObgBeQ5kpVB6g=="
+    },
+    {
+      "name": "Alan Risher",
+      "gender": "Male",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/23/2024",
+      "usta_id": "OJyQmHNTWWR7GI1OlTjVcA=="
+    },
+    {
+      "name": "Teresa Risley",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n4uZ+YunJpBmdwn2nBzMAg=="
+    },
+    {
+      "name": "Angie Rissanen",
+      "gender": "Female",
+      "city": "Watersound",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "8VN8aYWHtgyZsPpyMiXAbQ=="
+    },
+    {
+      "name": "Alicia Roberson",
+      "gender": "Female",
+      "city": "Crestview",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dPQbgNQ6jCAZaV/V1/nIuw=="
+    },
+    {
+      "name": "Ryan Roberson",
+      "gender": "Male",
+      "city": "Crestview",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "EQx1MlxoGee8t9MXGhuVVA=="
+    },
+    {
+      "name": "Courtney Roberts",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DfSgk6HjZOWpD5h47MymNQ=="
+    },
+    {
+      "name": "Jenny Roberts",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f5lMli/bCtHnjee8AFgTng=="
+    },
+    {
+      "name": "Libby Roberts",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YZWmyNBsTYRgu97fJYVcyw=="
+    },
+    {
+      "name": "Shyann Robertson",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "/v9QgH0A0JkPYXoEq2KQOA=="
+    },
+    {
+      "name": "Katie Robinson",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "YX3EUBXw8Ratjrc8vbGDSw=="
+    },
+    {
+      "name": "Lindsey Rogers",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/3/2024",
+      "usta_id": "a/eKlWz3NCFjpfwLYiEp3Q=="
+    },
+    {
+      "name": "Nicole Rogers",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "md2QWnysOuKqkfCZU3sxMg=="
+    },
+    {
+      "name": "Melissa Rood",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oBYBvPZ3FkjQwwfXqUORRA=="
+    },
+    {
+      "name": "Shellie Rowe",
+      "gender": "Female",
+      "city": "Freeport",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "KdqX1s7PqlB/OOeBfLUCyA=="
+    },
+    {
+      "name": "Jason Rudd",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ek4R0/jCsggwugqN9t+l6Q=="
+    },
+    {
+      "name": "Bobbie Rushing",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "q5eQfaCwPzS6TDZ1YbRvNA=="
+    },
+    {
+      "name": "Bethany Russell",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+B1Cd/T+NvT9O8b8rIQWzg=="
+    },
+    {
+      "name": "Rhett Russell",
+      "gender": "Male",
+      "city": "Freeport",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "DQQp6p+WoJqpFORwGBm0bg=="
+    },
+    {
+      "name": "Jill Rutherford",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zsFubh2xT3O8YCXNo+D44g=="
+    },
+    {
+      "name": "Bart Salim",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "XqrN/sxCtAPik45fDcEi/Q=="
+    },
+    {
+      "name": "Victoria Santa Maria",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+4uqbIWkNH/Vqw39WdCGTg=="
+    },
+    {
+      "name": "Anne Sauber",
+      "gender": "Female",
+      "city": "HOLLAND",
+      "state": "MI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gp4yPEzIvuZBhToIqGEl4Q=="
+    },
+    {
+      "name": "Carly Schans",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VNk7wpYfOycFCRIELIUUlA=="
+    },
+    {
+      "name": "Kent Schillinger",
+      "gender": "Male",
+      "city": "Douglasville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/7/2024",
+      "usta_id": "yMjxHHxsEWpaBmb/t8lLlw=="
+    },
+    {
+      "name": "Maria Schneider",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6vrKX1BIoyteZz0CB27IIA=="
+    },
+    {
+      "name": "Ray Schneider",
+      "gender": "Male",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/19/2024",
+      "usta_id": "iehafFVOp93e38jelgphFg=="
+    },
+    {
+      "name": "William Schopke",
+      "gender": "Male",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rYUUnJmY2nbIPQHgxQ3cag=="
+    },
+    {
+      "name": "Gloria Schulz",
+      "gender": "Female",
+      "city": "ALPHARETTA",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OQ9ubWE+CrfNv9cmc8D+CQ=="
+    },
+    {
+      "name": "Jennifer Schweikert",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qRD7LGvE7pEGBIooxReUGQ=="
+    },
+    {
+      "name": "Melanie Schweizer",
+      "gender": "Female",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jEMcOO8q50uqAfFeCG8i9w=="
+    },
+    {
+      "name": "Ashley Scott",
+      "gender": "Female",
+      "city": "Dallas",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "57yhh5qNOHX4bNAd0nbEqQ=="
+    },
+    {
+      "name": "Madison Seiffert",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3QPBEi0QSKkdRG4CPAs4EQ=="
+    },
+    {
+      "name": "Laura Seybold",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "zw2/5BUrNTvX7F3eU4vkpw=="
+    },
+    {
+      "name": "Justin Shane",
+      "gender": "Male",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "pAW951UdeKI1nNysLSzpPw=="
+    },
+    {
+      "name": "Christina Sheringham",
+      "gender": "Female",
+      "city": "Knoxville",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XbUqLpttKtUh7Uc3h019xw=="
+    },
+    {
+      "name": "Megan Sherman",
+      "gender": "Female",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MtpLtKE4eZVuSKzAEqDhGQ=="
+    },
+    {
+      "name": "John Sherrod",
+      "gender": "Male",
+      "city": "Douglasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qp/U59HC8X8bseoJrb7u4g=="
+    },
+    {
+      "name": "Patricia Sherrod",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ueEw8RdV35gexQi351ljbQ=="
+    },
+    {
+      "name": "Michelle Shipley",
+      "gender": "Female",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c9XeeZv3wNcxbH6NQ/ThXw=="
+    },
+    {
+      "name": "Ted Sholar",
+      "gender": "Male",
+      "city": "PANAMA CITY BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "d4OcYRmNrk3eRsO1tlIKrA=="
+    },
+    {
+      "name": "Jamie Shrewsbury",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "99JosFSy8kSVzPylVCkrDg=="
+    },
+    {
+      "name": "Jason Shrewsbury",
+      "gender": "Male",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "s2pD1zK2W/4Zpq6JycgJng=="
+    },
+    {
+      "name": "LeAnne Shumate",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fA901HIK6RFknp9P09D+lQ=="
+    },
+    {
+      "name": "Amanda Sills",
+      "gender": "Female",
+      "city": "Destin",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F13DhSfJ2Ya5E7elUaNOFg=="
+    },
+    {
+      "name": "Daniel Silva",
+      "gender": "Male",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/16/2023",
+      "usta_id": "auvQf5G/zQJdaKsksSB3Tg=="
+    },
+    {
+      "name": "Mary Clare Silva",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "auvQf5G/zQJbJSF8Sl4M5A=="
+    },
+    {
+      "name": "Brenda Simo",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JNWWMwabrr3fVzyPzy3c5Q=="
+    },
+    {
+      "name": "Mandi Skinner",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ar4zIv4v1aGB2bmTDzxkig=="
+    },
+    {
+      "name": "Melissa Skowlund",
+      "gender": "Female",
+      "city": "WELLINGTON",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/26/2024",
+      "usta_id": "kCQWbwrx7T0pOtSIw5p5SA=="
+    },
+    {
+      "name": "Linda Sleeth",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yyUpM1N7cC8V219o0NJX9w=="
+    },
+    {
+      "name": "Gil Smith",
+      "gender": "Male",
+      "city": "FORT WALTON BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0bTvLkiy5LCr8vTbnnl8QQ=="
+    },
+    {
+      "name": "Bob Sombathy",
+      "gender": "Male",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vsCEjagGpISmXtb/gSjE5Q=="
+    },
+    {
+      "name": "Mary Sorrenti",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w0suyzSuRU8iChFdJgtc9A=="
+    },
+    {
+      "name": "Carol Southerland",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EZdrApJqq8XBDrggvaLnlw=="
+    },
+    {
+      "name": "Memori Spence",
+      "gender": "Female",
+      "city": "Rosemary Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LUTDq3VWdHaJYKi0zaFEOg=="
+    },
+    {
+      "name": "Kim Stafford",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4x3D+KOl/KX247uyVc6vsw=="
+    },
+    {
+      "name": "Elizabeth Stamps",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "01+hDQYrt/TkduxLu1zQFQ=="
+    },
+    {
+      "name": "Suzi Stanley",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CsbtNsrrQXjPb6mCkaYzcg=="
+    },
+    {
+      "name": "Ron Steiger",
+      "gender": "Male",
+      "city": "MIRAMAR BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/29/2025",
+      "usta_id": "CRRxl8nIB/xOK4PfUeemng=="
+    },
+    {
+      "name": "Shannyn Stevenson",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "W7u7TxBugNNiKJgrR4WQuw=="
+    },
+    {
+      "name": "TRACY STOWERS",
+      "gender": "Female",
+      "city": "NICEVILLE",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bZsDeXXk0shU5CuAylq+xw=="
+    },
+    {
+      "name": "Harrison Straley",
+      "gender": "Male",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kg6JryzcDpqiRHeeA0aYiQ=="
+    },
+    {
+      "name": "Shaun Streeter",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "aNZ/9uTWf153FwaOLDD7tQ=="
+    },
+    {
+      "name": "Amber Stubblefield",
+      "gender": "Female",
+      "city": "PANAMA CITY",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "EgP40c0iZ5dmFq48cpHWzw=="
+    },
+    {
+      "name": "Meredith Sullivan",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/14/2025",
+      "usta_id": "jVCQD2EE+BTjgos6YUPt9w=="
+    },
+    {
+      "name": "Timothy G Susanek",
+      "gender": "Male",
+      "city": "STOW",
+      "state": "OH",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "RRfYTjst6dxD5TMU6Kr47g=="
+    },
+    {
+      "name": "Emily Syfrett",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "Sn7nqfZ09cDfnLzYDRH32Q=="
+    },
+    {
+      "name": "Travis Sykes",
+      "gender": "Male",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vgi3oJ2+JSVCV7vzskDzmQ=="
+    },
+    {
+      "name": "Chuck Tapp",
+      "gender": "Male",
+      "city": "Brentwood",
+      "state": "TN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "gf/bg92dE0SS7C4rUCmGVA=="
+    },
+    {
+      "name": "Tawny Tapp",
+      "gender": "Female",
+      "city": "Brentwood",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iG7mMQ3WH8gFNjUqzLW4ww=="
+    },
+    {
+      "name": "Brittany Tarver",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bn2mE1PnAwT2Ng+JNlcBLQ=="
+    },
+    {
+      "name": "Ashley Tate",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/15/2024",
+      "usta_id": "ozcS8LoIlKT4gJIG6gq25A=="
+    },
+    {
+      "name": "John Taylor",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/2/2024",
+      "usta_id": "6TLpxwEGLUA7LkejbMfKig=="
+    },
+    {
+      "name": "Kent Taylor",
+      "gender": "Male",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "pvwMSF82m+0UdWn8XkdI4A=="
+    },
+    {
+      "name": "Chip Thomas",
+      "gender": "Male",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xwLqtVfwFwemc+80DJIjNQ=="
+    },
+    {
+      "name": "Denise Thompson",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Vwi7Ffzh1uBftgbc4rrEg=="
+    },
+    {
+      "name": "Gary Thrift",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cvrxvvB6SPk1x0KvEZ0YGw=="
+    },
+    {
+      "name": "Genevieve Torrey",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "s5OeC/jKl95lXWkAV1+uww=="
+    },
+    {
+      "name": "Byron Townsend",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R0CG0F7TFNuwT23rGlL8jQ=="
+    },
+    {
+      "name": "Travis Tressler",
+      "gender": "Male",
+      "city": "Fort Walton Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sfNgVamQgo720++hRs/nwQ=="
+    },
+    {
+      "name": "John Trotter",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d0KY/AqFEyeHtUi9nbNW5w=="
+    },
+    {
+      "name": "Khiem Truong-Von Garvisch",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ax+FMVHzQwCxsK/F12/0qw=="
+    },
+    {
+      "name": "Martin Turner",
+      "gender": "Male",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/9/2024",
+      "usta_id": "KzH6xnSXpVtykM1URU7xTg=="
+    },
+    {
+      "name": "Lizzy van Cleave",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vHuAR7Qg/5XjspNaG/0pfg=="
+    },
+    {
+      "name": "Julie van Kirk",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3dpcKWhZX2jChpqbQCZrqA=="
+    },
+    {
+      "name": "Mark Violette",
+      "gender": "Male",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Uj/v6AJAlzuNzPk5FTdMXg=="
+    },
+    {
+      "name": "Lance Waddy",
+      "gender": "Male",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "HFifDN97e3SQn55orWBq4g=="
+    },
+    {
+      "name": "Misty Waldrop",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hQu84iU1pmYnm8U5mClHaA=="
+    },
+    {
+      "name": "DARON WALTERS",
+      "gender": "Male",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "KCGVZvpWJLUy6+3e6+7toA=="
+    },
+    {
+      "name": "Karen Wangaard",
+      "gender": "Female",
+      "city": "FREEPORT",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xEx3ZK014zJ9fv6z6M+JPA=="
+    },
+    {
+      "name": "Jacqueline Ward",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "Wp5/VoiVln8WBdeHNyw+zg=="
+    },
+    {
+      "name": "Misty Ward",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pJOMh2+Q92wL5ARdDgmgXg=="
+    },
+    {
+      "name": "Devan Watkins",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "AJbWiGHesin6zrzwEn/Lqg=="
+    },
+    {
+      "name": "Debbie Watson",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nq4p+MMBHSA8IBhm6Z603g=="
+    },
+    {
+      "name": "Robert Watson",
+      "gender": "Male",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FqOsSQ8cVA2R/U5b+++GuA=="
+    },
+    {
+      "name": "Shellie Watson",
+      "gender": "Female",
+      "city": "SANTA ROSA BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/14/2023",
+      "usta_id": "PGDR87MnG+wN5OTME25Wxw=="
+    },
+    {
+      "name": "Tom Watson",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/2/2024",
+      "usta_id": "ERHRp+PClQHUBV7w0z/5+Q=="
+    },
+    {
+      "name": "Tomasue Weber",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ZkMC37FU/10UsY9HAgVsjg=="
+    },
+    {
+      "name": "Abigail Webster",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "uL5YfrHV8ATvvB5xISqaKA=="
+    },
+    {
+      "name": "Robert Weil",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/23/2023",
+      "usta_id": "cw6CYbUiPkDmjOo8lP0+UA=="
+    },
+    {
+      "name": "Kathy Weitekamp",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vw/zmYffF3KxbPVYeJLV2A=="
+    },
+    {
+      "name": "Stephanie Westbrook",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nCy+z9PXHu/cOwkOlNqW8Q=="
+    },
+    {
+      "name": "Ben White",
+      "gender": "Male",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vJnhkNxzCqqlserh7b1GbQ=="
+    },
+    {
+      "name": "Cindy White",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/18/2024",
+      "usta_id": "9SAhiTw0dQRgF0O8XiFBXg=="
+    },
+    {
+      "name": "Kim Whiting",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/29/2024",
+      "usta_id": "uv3p/KWyQh7ZQ751Z/z7BA=="
+    },
+    {
+      "name": "Craig Whittle",
+      "gender": "Male",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1v5bg+ZBJ+NYCD90jPBhPw=="
+    },
+    {
+      "name": "Garrett Whittle",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "5viep3v9xxSkMTmNIxxcbw=="
+    },
+    {
+      "name": "Jennifer Whittle",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1v5bg+ZBJ+PC2/z+KMFTCA=="
+    },
+    {
+      "name": "Shannon Widman",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k4nnBlDCzCPRMO0ap/0MCQ=="
+    },
+    {
+      "name": "Stephanie Wiesel",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/EaOFnejUUXePoc7V/QhXw=="
+    },
+    {
+      "name": "Courtney Wiggins",
+      "gender": "Female",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/28/2025",
+      "usta_id": "VaMkDGzcoXeH95wMSh50og=="
+    },
+    {
+      "name": "Belinda Williams",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RF0l3RDgAXXVvCJ4ImFxDg=="
+    },
+    {
+      "name": "Keith Williams",
+      "gender": "Male",
+      "city": "Shalimar",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kpr9PFo4GSdBCokxkQSBZA=="
+    },
+    {
+      "name": "Maria Williams",
+      "gender": "Female",
+      "city": "PANAMA CITY",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j5FQ6gZlmnB3K5LBKdQpGw=="
+    },
+    {
+      "name": "Carly Wilson",
+      "gender": "Female",
+      "city": "FORT WALTON BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QqPtwXqhMNCGkbDM2D0rzQ=="
+    },
+    {
+      "name": "John Winkle",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "PbVDWWo1K0PRbxmvwsVjfg=="
+    },
+    {
+      "name": "Katie Wolter",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "wZJRdko/Yks1sOODPW+CFw=="
+    },
+    {
+      "name": "Lindy Wood",
+      "gender": "Female",
+      "city": "Freeport",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L+LzRJR0e4x4AsudSgvv6g=="
+    },
+    {
+      "name": "Jamie Wrobleski",
+      "gender": "Female",
+      "city": "Miramar Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ctey5Slivg0ysmNVCa4ESw=="
+    },
+    {
+      "name": "Paige Young",
+      "gender": "Female",
+      "city": "NICEVILLE",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "7v3ACYZG7PnfZaLYmwga/Q=="
+    },
+    {
+      "name": "Carlye Zaborski",
+      "gender": "Female",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8CtirDWvJVtcmAtMyaZnHQ=="
+    },
+    {
+      "name": "Todd Zaborski",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8CtirDWvJVtizgqMD+g5gw=="
+    },
+    {
+      "name": "Tommy Zaner",
+      "gender": "Male",
+      "city": "INLET BEACH",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XHXy2kOZ+hdd5KywI4fH7w=="
+    }
+  ]
+}

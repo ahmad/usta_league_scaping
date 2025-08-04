@@ -1,0 +1,3827 @@
+{
+  "sectionId": "6243310",
+  "districtId": "6243401",
+  "areaId": "6243762",
+  "players": [
+    {
+      "name": "Mary Adams",
+      "gender": "Female",
+      "city": "Barboursville",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/+uv5sUrxZwJbPxXu//x6Q=="
+    },
+    {
+      "name": "Pamela Akers",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/26/2024",
+      "usta_id": "xang4NU5XcSRU/DY9/55QA=="
+    },
+    {
+      "name": "Alexander Anderson",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/9/2025",
+      "usta_id": "blRZmyjoGSiErywMGGLZ/w=="
+    },
+    {
+      "name": "Gus Andrews",
+      "gender": "Male",
+      "city": "Saint Albans",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g0npCIuzWauRP6/Y90rxHA=="
+    },
+    {
+      "name": "Thomas Apperson",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T6boppEzwQfyzMICbWXMMg=="
+    },
+    {
+      "name": "Susan Arbogast",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "yV5TITlB6ltj+YL/cnUB1Q=="
+    },
+    {
+      "name": "Sarah Artese",
+      "gender": "Female",
+      "city": "Gates Mills",
+      "state": "OH",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JoIs1ummiYvF1QHCX1vgZw=="
+    },
+    {
+      "name": "Judy Arthur",
+      "gender": "Female",
+      "city": "Saint Albans",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LIkmJK9H8rrQpUv1R0Pirw=="
+    },
+    {
+      "name": "Kelly Babiak",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RWZsW/KlsGai5Du/tbjVag=="
+    },
+    {
+      "name": "Dustin Bach",
+      "gender": "Male",
+      "city": "Point Pleasant",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sFKVgXPKU/i1hgf1B4iwYw=="
+    },
+    {
+      "name": "Ashley Bailey",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "56g/GVUz3H/wkt54PiNObQ=="
+    },
+    {
+      "name": "Reid Bailey",
+      "gender": "Male",
+      "city": "HURRICANE",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fu7AlU2YME6Z4fu1IwVDxw=="
+    },
+    {
+      "name": "Jimmie Baker",
+      "gender": "Female",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s495xQzLkULFCy7ThLeU4g=="
+    },
+    {
+      "name": "Jonah Ball",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/23/2025",
+      "usta_id": "PsKRhvFNLeiJ6lRrpr2V/w=="
+    },
+    {
+      "name": "Laken Ball",
+      "gender": "Female",
+      "city": "Beckley",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "kzCRvrX8Cbs+QzcQCeiEZQ=="
+    },
+    {
+      "name": "Shawn Ball",
+      "gender": "Male",
+      "city": "Beckley",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/17/2025",
+      "usta_id": "/2sWcXIVtwEBqWdRNfz52w=="
+    },
+    {
+      "name": "Allison Ballard",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3rv8wWTLo8bU9kBtOuBGMQ=="
+    },
+    {
+      "name": "George Barker",
+      "gender": "Male",
+      "city": "South Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ANX5mY6P2PevvbXVUa5iwg=="
+    },
+    {
+      "name": "Tracy Barnes",
+      "gender": "Female",
+      "city": "Vienna",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hA85wcCSyLyhfptIzSMfhg=="
+    },
+    {
+      "name": "Andrew Barr",
+      "gender": "Male",
+      "city": "Nitro",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BynWg3UbQIlZW/PkFmGpvA=="
+    },
+    {
+      "name": "Katheryn Barr",
+      "gender": "Female",
+      "city": "Nitro",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oywonjJkcPzek3f4JJRdwA=="
+    },
+    {
+      "name": "Crystal Bastin",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7y+33KFGownIB22hrwIevA=="
+    },
+    {
+      "name": "Ethan Bastin",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "tA6BFdR7lhx1fjCjsM+rtw=="
+    },
+    {
+      "name": "Shawn Bastin",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VAYO8Ejq+FsFDpiYUjOMBg=="
+    },
+    {
+      "name": "Eric Beeson",
+      "gender": "Male",
+      "city": "Davisville",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/28/2024",
+      "usta_id": "QYzMTtmAg6kzRsfIQkk5cg=="
+    },
+    {
+      "name": "Brennan Bish",
+      "gender": "Male",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cyi4x2RwymAUFPgKv8Axww=="
+    },
+    {
+      "name": "Anita Bjorkelo",
+      "gender": "Female",
+      "city": "ASHLAND",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c0UoIUbyNocYws1od5FEKA=="
+    },
+    {
+      "name": "Stephen Blackwell",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PGxftdw1S54eQ+E5y5FRNw=="
+    },
+    {
+      "name": "Gloria Blair",
+      "gender": "Female",
+      "city": "Ashford",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u3S7DzItshqpRuxeVdRDaA=="
+    },
+    {
+      "name": "Judy Blake",
+      "gender": "Female",
+      "city": "WILLIAMSTOWN",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aZZuPfwzfXBvkDYgJVOsVg=="
+    },
+    {
+      "name": "Eli Blount",
+      "gender": "Male",
+      "city": "Elkview",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/1/2025",
+      "usta_id": "e0fskd+nIzNJvyE73j3CLQ=="
+    },
+    {
+      "name": "Shad Blount",
+      "gender": "Male",
+      "city": "Elkview",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TCuiIYiUP0FUT96rJ6+Olg=="
+    },
+    {
+      "name": "Ted Boettner",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kp6Z0Xe21a6Zv/IxqqZREw=="
+    },
+    {
+      "name": "JoMarie Bohn",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z31qETxmoJbA6VWzRLt4pQ=="
+    },
+    {
+      "name": "Matthew Bowles",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/c1aMZQzIAIpdpznMqV2mQ=="
+    },
+    {
+      "name": "Samuel Bowman",
+      "gender": "Male",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "9/18/2024",
+      "usta_id": "lJSCwgoQ/nlOdkNIeKLapw=="
+    },
+    {
+      "name": "Terry Boyle",
+      "gender": "Female",
+      "city": "Vienna",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RFzDqrzsTx6xxTtj974WJQ=="
+    },
+    {
+      "name": "Amy Brabbin",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OTqX6EtTPT5YJjfNpZBPjg=="
+    },
+    {
+      "name": "William Brabbin",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R2JVtzess+NG20yHH7f1QQ=="
+    },
+    {
+      "name": "Nancy Braley",
+      "gender": "Female",
+      "city": "Saint Albans",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kxSEfw+C1rk/92pQNgkmmQ=="
+    },
+    {
+      "name": "Anna Broverman",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/5/2024",
+      "usta_id": "/QfEvIplNmNGWLeJGUxDjQ=="
+    },
+    {
+      "name": "Beth Buchman",
+      "gender": "Female",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/19/2025",
+      "usta_id": "PbVDWWo1K0O4BZUTT5ylzg=="
+    },
+    {
+      "name": "Mary Bulriss",
+      "gender": "Female",
+      "city": "Saint Albans",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FwLSuV3/nfXzxxxE029iPA=="
+    },
+    {
+      "name": "Eric Bunting",
+      "gender": "Male",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "7/26/2025",
+      "usta_id": "iWd6WDFu1W5rWMFyQdqeJg=="
+    },
+    {
+      "name": "Melanie Burdette",
+      "gender": "Female",
+      "city": "Nitro",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "shCTbsYhwLkv8wBOX5moew=="
+    },
+    {
+      "name": "Bryanna Button",
+      "gender": "Female",
+      "city": "Washington",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ess7W2nt/286OVg/qReeVQ=="
+    },
+    {
+      "name": "Anna Cafoncelli",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5xLaVcKBnbBTxaQ1YJcRnw=="
+    },
+    {
+      "name": "Amanda Campbell",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BQuJRiVqqO0telEumI6Sog=="
+    },
+    {
+      "name": "Clark Campbell",
+      "gender": "Male",
+      "city": "Rockville",
+      "state": "MD",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t8xQxpidX3Oh8lZCF1UkJA=="
+    },
+    {
+      "name": "John Caponiti",
+      "gender": "Male",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ebLPLKrboD/YDnxLKGgYnQ=="
+    },
+    {
+      "name": "Megan Carney",
+      "gender": "Female",
+      "city": "Davisville",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xBqUgUqDQTqfAM60LSKIDQ=="
+    },
+    {
+      "name": "Daniel Carter",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "AlpMPqAVYLhigK1uhg22ng=="
+    },
+    {
+      "name": "Rita Casingal",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lnKW1qBQ66mKubMYRN7ITA=="
+    },
+    {
+      "name": "Elizabeth Castle",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mZ+l7FqHUFJVqZvdfFo7yg=="
+    },
+    {
+      "name": "Jason Castle",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M4XSvDXReeLe4Zqw82LnwA=="
+    },
+    {
+      "name": "JJ Casto",
+      "gender": "Male",
+      "city": "Nitro",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fn+h6YwOeDJPZuFBKkUKnQ=="
+    },
+    {
+      "name": "Christopher Cendana",
+      "gender": "Male",
+      "city": "HUNTINGTON",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qwKEt6yTXcMd5a3/PjFYXQ=="
+    },
+    {
+      "name": "Christina Centofanti",
+      "gender": "Female",
+      "city": "Saint Albans",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aMLaPpS/KteKDMq0etSGdA=="
+    },
+    {
+      "name": "Dominick Centofanti",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "PO2vGXYcCeXbIl6IuRFREA=="
+    },
+    {
+      "name": "Julia Chambers",
+      "gender": "Female",
+      "city": "Winfield",
+      "state": "WV",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "NRsB3+2vUvUY8waTrq6ZYg=="
+    },
+    {
+      "name": "Randy Christian",
+      "gender": "Male",
+      "city": "Gallipolis",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/20/2025",
+      "usta_id": "nAoLopg1urCHkVDVNG/Q8w=="
+    },
+    {
+      "name": "Alison Christie",
+      "gender": "Female",
+      "city": "Ashland",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T7PcrR4xDQAeDjqTBWc1xw=="
+    },
+    {
+      "name": "Karen Cochran",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7C5QryStcMEvrhZv1r5RDw=="
+    },
+    {
+      "name": "L Cochran",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uHozpAMrmhxDio5pjHJEDw=="
+    },
+    {
+      "name": "Ethan Coleman",
+      "gender": "Male",
+      "city": "Winfield",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/27/2025",
+      "usta_id": "/jJQoSVSK1QAqI+azpwxAw=="
+    },
+    {
+      "name": "Jene Collins",
+      "gender": "Female",
+      "city": "South Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X9nS0Pa3cQWOCN0LuIIdZQ=="
+    },
+    {
+      "name": "Joshua Collins",
+      "gender": "Male",
+      "city": "South Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "325gg4qDRNlIZIhdMHEFsQ=="
+    },
+    {
+      "name": "Mary Cook",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CK5IR8F3IiBNxzO3unAViw=="
+    },
+    {
+      "name": "Summer Cook",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/eYO+NDD0alydC1VPVvbUA=="
+    },
+    {
+      "name": "Andrew Cooke",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/22/2025",
+      "usta_id": "OHxrttB0YglYa8ikndujUw=="
+    },
+    {
+      "name": "Angela Cooke",
+      "gender": "Female",
+      "city": "Saint Albans",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6i75rFY7U1s0971tC0m5QQ=="
+    },
+    {
+      "name": "Ashlee Cooke",
+      "gender": "Female",
+      "city": "Cedar Grove",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QJQh7uDWV2g3/ZXETarNUA=="
+    },
+    {
+      "name": "Jay Cooke",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cWePblGss9CqFmyJ0HYHbA=="
+    },
+    {
+      "name": "Roger Cooke",
+      "gender": "Male",
+      "city": "Cedar Grove",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fDJyJCBOK5doWhUSp+MlGA=="
+    },
+    {
+      "name": "Tammie Cooper",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DYSE2/87TYQgsE1JCP7K4g=="
+    },
+    {
+      "name": "Scott Creel",
+      "gender": "Male",
+      "city": "PARKERSBURG",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rCLXBHUTyKNn5l7CgYn0eg=="
+    },
+    {
+      "name": "Susan Creswell",
+      "gender": "Female",
+      "city": "Catlettsburg",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Amt3j1GyLkfRF4PeeFvBbQ=="
+    },
+    {
+      "name": "Catherine Cross",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AjZtL5uCfEyGvep+wmg4Xg=="
+    },
+    {
+      "name": "Jared Cross",
+      "gender": "Male",
+      "city": "Vienna",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/19/2025",
+      "usta_id": "cqHUM9d51hHC6RD4VmBCpg=="
+    },
+    {
+      "name": "Andre Cunningham",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ex7Hx5aJ3IyaIuXGOl0CmA=="
+    },
+    {
+      "name": "Diana Curry",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/23/2025",
+      "usta_id": "HnD2ESFbi+InCUfoHtKcww=="
+    },
+    {
+      "name": "Loretta Dailey",
+      "gender": "Female",
+      "city": "Gassaway",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A9QuQaaVpi1TZ7EsbLG8qw=="
+    },
+    {
+      "name": "Lisa Dalporto",
+      "gender": "Female",
+      "city": "SOUTH CHARLESTON",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pX0vxmN4YNHaGk5GwTs0hw=="
+    },
+    {
+      "name": "Amy Davis",
+      "gender": "Female",
+      "city": "SOUTH SHORE",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jWITrYKtcYRV/fLUN2MZ5w=="
+    },
+    {
+      "name": "Greg Davis",
+      "gender": "Male",
+      "city": "Saint Marys",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S0xHyu6sGNjtqexBrxKZjA=="
+    },
+    {
+      "name": "Matthew Davis",
+      "gender": "Male",
+      "city": "CHARLESTON",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k68uhZLmrczmWUx3zMzW9Q=="
+    },
+    {
+      "name": "Tondrea Davis-Powell",
+      "gender": "Female",
+      "city": "Dunbar",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e1kWmyY5fmUgR1sHA1k3hw=="
+    },
+    {
+      "name": "Leighton Dean",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vHKl9ViHRLzGvXl7JM71wA=="
+    },
+    {
+      "name": "Mike Deardorff",
+      "gender": "Male",
+      "city": "South Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qfakQYgmmnDc/2ABbVhO4g=="
+    },
+    {
+      "name": "Brian Delcotto",
+      "gender": "Male",
+      "city": "Barboursville",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zyIGTvxAGne+zVopfjNv8w=="
+    },
+    {
+      "name": "Cleef Desir",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "AmWJoINCdKwy4+cJLVKAfw=="
+    },
+    {
+      "name": "Ana Diaz",
+      "gender": "Female",
+      "city": "Piketon",
+      "state": "OH",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "56CXLr7XdMwYoMcxtU+7jw=="
+    },
+    {
+      "name": "Jennifer Dickerson",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/24/2025",
+      "usta_id": "l+ZfylIGMErpIz2L94n5MQ=="
+    },
+    {
+      "name": "Heath Diehl",
+      "gender": "Male",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "EJnBqXE2H8tkdO7VMEeVPQ=="
+    },
+    {
+      "name": "Dante DiTrapano",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "97maGD8ApVfUY/A+oxW4Iw=="
+    },
+    {
+      "name": "Julie Dragovich",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/23/2024",
+      "usta_id": "OTzmvWOQ6Xc4VbU2zxD0fw=="
+    },
+    {
+      "name": "Julie Dubs",
+      "gender": "Female",
+      "city": "Washington",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2AY2lhrmeno+v5RZCn56Kg=="
+    },
+    {
+      "name": "Mary Elisabeth Eckerson",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4NcZ0FNiCta2P3N5cVir3w=="
+    },
+    {
+      "name": "Dana Eddy",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/UPZVmG+PAuD2cQuNCbRpQ=="
+    },
+    {
+      "name": "Michael Edens",
+      "gender": "Male",
+      "city": "Elkview",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bnzZVUUgbjHoT9nCbCWIWg=="
+    },
+    {
+      "name": "Casey Edwards",
+      "gender": "Male",
+      "city": "Saint Marys",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ft8rNL+6PI7pa8SnVbUNrA=="
+    },
+    {
+      "name": "Andrew Elliot",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tNxwHDuTJEEXZ0Hhq9L+nQ=="
+    },
+    {
+      "name": "Andy Elliot",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nH8xkHmd553RK1UhYxdB6w=="
+    },
+    {
+      "name": "Shannon Elliot",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bh8to/NzfvKtYoajtSgzeQ=="
+    },
+    {
+      "name": "Kevin Ellison",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7dXUjADKFnC7T/cGtOBJyg=="
+    },
+    {
+      "name": "Otmer Elmore",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uRLUg8TeAfV9DPFMujNPzQ=="
+    },
+    {
+      "name": "Erik Engle",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "56g/GVUz3H+JqB0ApCK2qg=="
+    },
+    {
+      "name": "Carrie Erlewine",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UudeqwZrY//4iEzu8u90aA=="
+    },
+    {
+      "name": "Christopher Erlewine",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V8TukY665xWH/t6njqsjmQ=="
+    },
+    {
+      "name": "Lia Fairless",
+      "gender": "Female",
+      "city": "South Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ElFnD5Xq2ze7ZjtUfvaQhw=="
+    },
+    {
+      "name": "Caitlin Farmer",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/15/2025",
+      "usta_id": "IhEkuxvPIRyaVnZQlTWKcg=="
+    },
+    {
+      "name": "Shawn Feeman",
+      "gender": "Male",
+      "city": "Vinton",
+      "state": "OH",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fhX/zgUPuHD1tIMiCfucuA=="
+    },
+    {
+      "name": "George Ferrell",
+      "gender": "Male",
+      "city": "NITRO",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RLWoCNvUpy4fDretLG+YVg=="
+    },
+    {
+      "name": "Dianne Fleming",
+      "gender": "Female",
+      "city": "Belpre",
+      "state": "OH",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FC5aa5tTwtJg0P851PH30g=="
+    },
+    {
+      "name": "Kevin Fowler",
+      "gender": "Male",
+      "city": "MILTON",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GJ7BMtG8BY9JS+w+cVN/Ew=="
+    },
+    {
+      "name": "James Fox",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "71ANyavgHK5ttnVnFrayrA=="
+    },
+    {
+      "name": "Noah Fulks",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xy1k4XbdQtrYBhHZ3E0ZyA=="
+    },
+    {
+      "name": "Greg Geremia",
+      "gender": "Male",
+      "city": "Ashland",
+      "state": "KY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0mhYd4s/L17jk7MeHFP2wQ=="
+    },
+    {
+      "name": "Katherine Germann",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/8/2025",
+      "usta_id": "1v7gIDw8lK1YgiM/8zGN7w=="
+    },
+    {
+      "name": "William Gessel",
+      "gender": "Male",
+      "city": "Saint Albans",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q9DeuBedT+qerO1NxiUaZQ=="
+    },
+    {
+      "name": "Jed Gibbs",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RJnIkIPYzrxhQKANLAaPoA=="
+    },
+    {
+      "name": "Adam Gilkeson",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/22/2025",
+      "usta_id": "YZJ04O01C4nNUwgu43B31A=="
+    },
+    {
+      "name": "Sidney Gillis",
+      "gender": "Male",
+      "city": "CHARLESTON",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LKLGJgKZAyGifrK3rv5Ufw=="
+    },
+    {
+      "name": "Cynthia Gissy",
+      "gender": "Female",
+      "city": "Vienna",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3BPJZOS7jcYoY4dCkGA4Hw=="
+    },
+    {
+      "name": "Jamie Goetz",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "kOTeWWg1cuk4WBDy6v+kBA=="
+    },
+    {
+      "name": "Jeffrey Goins",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GEm5Ltw9Q2dFK/4DvQdv0g=="
+    },
+    {
+      "name": "Debbie Goodwin",
+      "gender": "Female",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xrm/WUe03xli5eghpKfolQ=="
+    },
+    {
+      "name": "Paige Gracin",
+      "gender": "Female",
+      "city": "Jeffersonville",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Iv2FMZuPpBlW9mULS8a1Rw=="
+    },
+    {
+      "name": "Scott Graham",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P66naa4rZj8h7mivOlabNQ=="
+    },
+    {
+      "name": "Allison Grassie",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ML1YLcTrOY9liti5o9DsAA=="
+    },
+    {
+      "name": "Caroline Green",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+4hR0wqpxUOJCJCIaDtUeQ=="
+    },
+    {
+      "name": "Mary Green",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/21/2024",
+      "usta_id": "jHABlMEHh+ZXOkTGPh+iKQ=="
+    },
+    {
+      "name": "Melisa Greene",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "azgpwbj5gBd16dr96nbQhg=="
+    },
+    {
+      "name": "Morgan Griffis",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PaYBVnZHWKkq5sxVRqawsg=="
+    },
+    {
+      "name": "Cheryl Griffith",
+      "gender": "Female",
+      "city": "Saint Albans",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bKXoYFDeNqsofhchP1uzxQ=="
+    },
+    {
+      "name": "Brandon Gwinn",
+      "gender": "Male",
+      "city": "SAINT ALBANS",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "ZlorBIkIQcZeMX0rCM8/OQ=="
+    },
+    {
+      "name": "Jaymes Haggerty",
+      "gender": "Male",
+      "city": "Gallipolis",
+      "state": "OH",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yTxa12hh9K1ESF5dY4jBvw=="
+    },
+    {
+      "name": "H Jason Hall",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "+ejR84YaKA1Cv+14Q82bJA=="
+    },
+    {
+      "name": "Jennifer Hall",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cna4wFM4biIh+pdBDLYMtg=="
+    },
+    {
+      "name": "Doris Hamm",
+      "gender": "Female",
+      "city": "Flatwoods",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3xeN3ob/3GK0EylEGXzvUg=="
+    },
+    {
+      "name": "Lisa Hammonds",
+      "gender": "Female",
+      "city": "Saint Albans",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XJKqYbcJVX2Lyc6MyB0igQ=="
+    },
+    {
+      "name": "David Hanna",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3w/ByKybKwYEcj8pUvYn8g=="
+    },
+    {
+      "name": "Ramanath Haricharan",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rXDMCzRDhI3RaBcXNjWVcw=="
+    },
+    {
+      "name": "Michelle Harman",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s0FlaiDDKfYeaNzAKavumA=="
+    },
+    {
+      "name": "Brad Hatcher",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uChch0uXvva4ZeZurepfQg=="
+    },
+    {
+      "name": "Erin Haughey",
+      "gender": "Female",
+      "city": "Barboursville",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0+1Ua9s5GH+oB0raS0sNjQ=="
+    },
+    {
+      "name": "Ben Hedges",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/4/2025",
+      "usta_id": "59i6HWaHJfkA5xIJ9+hcUA=="
+    },
+    {
+      "name": "Bryce Helmick",
+      "gender": "Male",
+      "city": "CHARLOTTE",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0KtjyiUfedgQR33b1JNGCg=="
+    },
+    {
+      "name": "Whitney Hess",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fUVWWLxE9pXAOgl83vufjQ=="
+    },
+    {
+      "name": "Sam Hilton",
+      "gender": "Male",
+      "city": "Morgantown",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1uoBB+1l1D1++/e1laf1Cw=="
+    },
+    {
+      "name": "Kelli Hinkle Mabe",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VMqOkU3oChAx8U6JSapULw=="
+    },
+    {
+      "name": "Carla Hively",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W7E0Tdsq661U53KyzVJprw=="
+    },
+    {
+      "name": "Jon Hoh",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "tb/geRHXj9U5GnkAfifIqw=="
+    },
+    {
+      "name": "Rebekah Hoh",
+      "gender": "Female",
+      "city": "CHARLESTON",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0ePbyU/M9gkNtrcSqqo7AA=="
+    },
+    {
+      "name": "Lisa Hughes",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Vo3oHybPgHV6RoSDVLvDA=="
+    },
+    {
+      "name": "Ryan Hunt",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xl7oycYSWXcBReLut0wQ4g=="
+    },
+    {
+      "name": "Jason Hunter",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K24Kq5+xrya7fceUcUoCyQ=="
+    },
+    {
+      "name": "Lisa Hunter",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fgbazL5YCf6Ce1D4W15DAA=="
+    },
+    {
+      "name": "Miri Hunter",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "otE8y7G1QKwAbQ9+3F/imw=="
+    },
+    {
+      "name": "John Hussell",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KnQX92DSvdYeZcH3j0Y1Kw=="
+    },
+    {
+      "name": "Shelly Hussell",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6XEQfL6tc38LcGXrTdHMhA=="
+    },
+    {
+      "name": "Christin Husson",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MH0aB/3yQ1RIqeQhgYJ0Zw=="
+    },
+    {
+      "name": "Shane Hutton",
+      "gender": "Male",
+      "city": "Nashville",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "25egDxFRZnsvOc2OVYCxTw=="
+    },
+    {
+      "name": "Christopher Istfan",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/9/2024",
+      "usta_id": "0KtjyiUfedhzBO6vxw6vxg=="
+    },
+    {
+      "name": "Mark Jacobs",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "idM5MR8QRS1GKe0YuFcJkw=="
+    },
+    {
+      "name": "Janet James",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L4NK2XUDsELNENJMwqfWXw=="
+    },
+    {
+      "name": "Scott Jarrell",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F9QAjb2YQ6de6DS+EQ0NIg=="
+    },
+    {
+      "name": "Julie Jarrett",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YNigjJtgVho6Vme3f1N8Ow=="
+    },
+    {
+      "name": "Michael Jarrett",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V3EoIWiq383QE3UnfFrWUw=="
+    },
+    {
+      "name": "Catherine Jarvis",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ym07v1LjowBXQLu0qpwEBA=="
+    },
+    {
+      "name": "Susan Jarvis",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L0EIWa8GewA/jlFk8tgEFw=="
+    },
+    {
+      "name": "Danielle Johnson",
+      "gender": "Female",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xP8qS+UlI7eigr5Z2c3j9w=="
+    },
+    {
+      "name": "David Johnson",
+      "gender": "Male",
+      "city": "South Point",
+      "state": "OH",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GIGnr4meuHyzHEZ5fmx0PA=="
+    },
+    {
+      "name": "Vida Johnson",
+      "gender": "Female",
+      "city": "South Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "jqrhnXGRDlv4UM3w00icUQ=="
+    },
+    {
+      "name": "Ellen Johnstone",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aTNhdOdKhmAFxWwm8RSCcQ=="
+    },
+    {
+      "name": "Timothy Jones",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G/FG4Jrb2N6i7tI5lH+6Ug=="
+    },
+    {
+      "name": "Felice Joseph",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QEMhW5W64tQnc8YZyoxuMA=="
+    },
+    {
+      "name": "Sun Kang",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tHlN/hfN/UDUFn+wYRPENw=="
+    },
+    {
+      "name": "Michael Kawash",
+      "gender": "Male",
+      "city": "South Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yfPtdEXqtA3oMc69Ag3J0g=="
+    },
+    {
+      "name": "Susan Keener",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x72hEbpl7U6XXp26rQIiOA=="
+    },
+    {
+      "name": "Kate Kephart",
+      "gender": "Female",
+      "city": "FLEMING",
+      "state": "OH",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WmLJn698yl094TkcajiCMA=="
+    },
+    {
+      "name": "Samuel King II",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/28/2025",
+      "usta_id": "J6/d9IxVj/XozPnXewiiHg=="
+    },
+    {
+      "name": "Michael King",
+      "gender": "Male",
+      "city": "Lewisburg",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EMj2JvvrkOJPzEHuok5knQ=="
+    },
+    {
+      "name": "Shelby King",
+      "gender": "Female",
+      "city": "Dunbar",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BKrEnp1QEIURPGZ/ZKvkuA=="
+    },
+    {
+      "name": "Jim Kirk",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R/FdpAC7Nz/Jdbu1D0U4Kg=="
+    },
+    {
+      "name": "Lora Kirk",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R/FdpAC7Nz9uR/qYOUmXQA=="
+    },
+    {
+      "name": "Trudy Kline",
+      "gender": "Female",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bSliheHz38ervRmrQAtjFg=="
+    },
+    {
+      "name": "Anthony Knell",
+      "gender": "Male",
+      "city": "Vienna",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/19/2025",
+      "usta_id": "cv0wQQaqHBJQi0wA7BiNaA=="
+    },
+    {
+      "name": "Amanda Knopp",
+      "gender": "Female",
+      "city": "Washington",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hT6cwwL4QyYXxMZrtPO7sA=="
+    },
+    {
+      "name": "B J Knoth",
+      "gender": "Female",
+      "city": "Nitro",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2KbQIOmo00By5WdgQoSUXg=="
+    },
+    {
+      "name": "Sarah Korwan",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CebOhkQjAL00bUoA0o8t/g=="
+    },
+    {
+      "name": "Amanda Kupfner",
+      "gender": "Female",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6DSRGj0QUFmWCWVITVixUw=="
+    },
+    {
+      "name": "Judy Lamanca",
+      "gender": "Female",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/27/2024",
+      "usta_id": "8+96HDh5g0Tub4pkTu9rJA=="
+    },
+    {
+      "name": "Thomas Lane",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/24/2025",
+      "usta_id": "DzAFTju3oQV2YTd6EcQNXg=="
+    },
+    {
+      "name": "Joshua Lawson",
+      "gender": "Male",
+      "city": "Ashland",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ahgHAkyxSqWxJDu/4aSE8g=="
+    },
+    {
+      "name": "Margaret Lee",
+      "gender": "Female",
+      "city": "Beverly",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jaScw24Zx/FWJ9rYiQA7cg=="
+    },
+    {
+      "name": "Kelly Levy",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w7he3D0wC/GFAjZcCT3OWw=="
+    },
+    {
+      "name": "MICHELLE LITZ",
+      "gender": "Female",
+      "city": "Portsmouth",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "llpWS1TsyT5m4L/JiaB5sg=="
+    },
+    {
+      "name": "Elizabeth Lord",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/18/2024",
+      "usta_id": "ZF13wE/MJKD5+hU992Fi9Q=="
+    },
+    {
+      "name": "James Lord",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rrxL1s5gshZF1q2Ud6824A=="
+    },
+    {
+      "name": "John Lukens",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ESk2Y7xfZP75LPQf+WVkig=="
+    },
+    {
+      "name": "Bryan Mabe",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DybxzaPx7mf81n2hOuM4kw=="
+    },
+    {
+      "name": "Jeffery MacE",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FsQls3X+2cpmdI+Y94Bthw=="
+    },
+    {
+      "name": "Aric Margolis",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oAs8MQrGLHn1oa62UXrtTQ=="
+    },
+    {
+      "name": "Melissa Mathis",
+      "gender": "Female",
+      "city": "Chapmanville",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7QiP5xd8AkefeUWGX1IpvQ=="
+    },
+    {
+      "name": "Melanie McClellan",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dYZXpmFjV4GW/lUkw1wLHw=="
+    },
+    {
+      "name": "Michael McClellan",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5y8jNbq/gtDwyE943ODxPw=="
+    },
+    {
+      "name": "Brian McCutcheon",
+      "gender": "Male",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/23/2024",
+      "usta_id": "jFsmAS8wOU7w0pKVA35q4Q=="
+    },
+    {
+      "name": "Dale McEwuen",
+      "gender": "Male",
+      "city": "Vienna",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1rQ5yUBGjePCugBhAtGFfA=="
+    },
+    {
+      "name": "Lisa McEwuen",
+      "gender": "Female",
+      "city": "Vienna",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UmHSpC22WIbwi9odXrgdVw=="
+    },
+    {
+      "name": "James Mcintosh",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ueogm9tvZTGcd8tJtRtOmQ=="
+    },
+    {
+      "name": "Jennifer McIntosh",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wvv8NlyZwehd6oD28GaR8g=="
+    },
+    {
+      "name": "Mary McJunkin",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8SBU906dmSVek+hNYltAdQ=="
+    },
+    {
+      "name": "Chris McNeely",
+      "gender": "Male",
+      "city": "ONA",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9/DipzvkBGd4Av+ZLYPEKg=="
+    },
+    {
+      "name": "Morgan Meeks",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "roMSXDZVgt8ERFbyPoUysg=="
+    },
+    {
+      "name": "Edna Meisel",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ACAtOY1zPn5QkttqVpakxg=="
+    },
+    {
+      "name": "Steve Melton",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xz2vdHdl2ekPNqOQU4AxQw=="
+    },
+    {
+      "name": "Lilah Michael",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c+mxBPyxPAqUDMje7rDtgQ=="
+    },
+    {
+      "name": "McKay Mignault",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "czItPTJdiifbRwr0PQ7C+w=="
+    },
+    {
+      "name": "Grayson Millette",
+      "gender": "Male",
+      "city": "South Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "9/6/2024",
+      "usta_id": "wXT08Z8mrH1wAULlsa/kmA=="
+    },
+    {
+      "name": "Christine Minardi",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cHDbaj3Sv8StGRzql/dsSw=="
+    },
+    {
+      "name": "Linda Miracle",
+      "gender": "Female",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4L3h229/vVbXElr3hnKYRA=="
+    },
+    {
+      "name": "Paige Missler",
+      "gender": "Female",
+      "city": "Portsmouth",
+      "state": "OH",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uZ+EfKu4EflubozEO/h/gg=="
+    },
+    {
+      "name": "Abraham Mitias",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1nNSvISF6GtiKK6YVZwJ8A=="
+    },
+    {
+      "name": "Andrea Mitias",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8EtbVCWVgFcfsaceUelybA=="
+    },
+    {
+      "name": "David Mongilio",
+      "gender": "Male",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "thgpb19JiYeWdHYANhHRUw=="
+    },
+    {
+      "name": "Peyton Montgomery",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EtSwu68qsNwvKvM8c0K0Kw=="
+    },
+    {
+      "name": "Donna Mooney",
+      "gender": "Female",
+      "city": "Saint Albans",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iXhGL3GdjkUnIP9NcrukDQ=="
+    },
+    {
+      "name": "Ack Morgan",
+      "gender": "Male",
+      "city": "Sistersville",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oWiqlNWNOwW1DzudoEtU+A=="
+    },
+    {
+      "name": "Kirsten Mork",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/16/2025",
+      "usta_id": "mVBbz9XnL8YLBkQaS4Owfg=="
+    },
+    {
+      "name": "Amanda Morris",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dpRWSFja6INOySQclfCwdg=="
+    },
+    {
+      "name": "Kimberly Morris",
+      "gender": "Female",
+      "city": "Belpre",
+      "state": "OH",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JDI69P/GMU5uY9W9CEEOXw=="
+    },
+    {
+      "name": "Marilyn Moses",
+      "gender": "Female",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EJwVGMM50lH/u96DClRXWg=="
+    },
+    {
+      "name": "Tanner Moy",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/26/2024",
+      "usta_id": "+sFmSfGLBheZ1gOjJT9t4g=="
+    },
+    {
+      "name": "Ryan Mullins",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7T8zTYn6QLuaxeBcRaxeOQ=="
+    },
+    {
+      "name": "Lynette Muncy",
+      "gender": "Female",
+      "city": "Ashland",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CEh4rkpyuCDzxAFlX54QIw=="
+    },
+    {
+      "name": "Susan Murad",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9/VB7QvhK3+pInI2HmMPkQ=="
+    },
+    {
+      "name": "Michael Murphy",
+      "gender": "Male",
+      "city": "Cross Lanes",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9c6i4l+CpKQIdszHLm9/uQ=="
+    },
+    {
+      "name": "Christopher Muto",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/3/2025",
+      "usta_id": "XEiBx0DDydi4y2Lf5phE4A=="
+    },
+    {
+      "name": "Joseph Nassif",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jgo8FFoQA/WaUF56p6zlMA=="
+    },
+    {
+      "name": "Mary Neenan",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DsBTYRnuyPJbk9dvktVdfQ=="
+    },
+    {
+      "name": "David Nelson",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lds8bN+uUySRAImtZte7bw=="
+    },
+    {
+      "name": "Kimberly Nelson",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B5al6OROIMG+SqZsEel4Fg=="
+    },
+    {
+      "name": "Jeffrey Nesler",
+      "gender": "Male",
+      "city": "Flatwoods",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZMqSoxMcWYJcXyVO2Vinjg=="
+    },
+    {
+      "name": "Lorie Nolan",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j+Yf6qbzhcKSlxORV7wRjg=="
+    },
+    {
+      "name": "Nadia Orcutt",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "4cm8vvdv5DaiBM5Q9ZEu0Q=="
+    },
+    {
+      "name": "Thomas Orcutt",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GeHVQcxZm3JCNfZCb7y6qQ=="
+    },
+    {
+      "name": "Melissa Osborne",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qtKpdA1WzitI8l0+UiYuhA=="
+    },
+    {
+      "name": "Gwyneth Owen",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NwQt8ZVtfErIXZTDqrQh2A=="
+    },
+    {
+      "name": "Rosalia Pacifico",
+      "gender": "Female",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9ckZVLYkv3mTOOEHLFbsPA=="
+    },
+    {
+      "name": "Diana Panucci",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GI6l94TcpbGYHFOPGiIqlg=="
+    },
+    {
+      "name": "Elizabeth Parker",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Uiy/KMVYqMyGn3Kxpp4aXA=="
+    },
+    {
+      "name": "Dee Payne",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LA5hAOPZBhSNZzhkIpMtmQ=="
+    },
+    {
+      "name": "Howard Persinger",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U1DK3m0Z7BF7GV6w6x5bGQ=="
+    },
+    {
+      "name": "Jennifer Peters",
+      "gender": "Female",
+      "city": "CHARLESTON",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/15/2025",
+      "usta_id": "k7oFc5FM5xyCTXMYiTePXw=="
+    },
+    {
+      "name": "Martin Peters",
+      "gender": "Male",
+      "city": "CHARLESTON",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z5fdv9tFeMtzJ9XQoQLNwA=="
+    },
+    {
+      "name": "Ella Peterson",
+      "gender": "Female",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/15/2024",
+      "usta_id": "X3OnJm4znqaSRMMVjU11QA=="
+    },
+    {
+      "name": "Mark Peterson",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X3OnJm4znqZnZXGWTalZ1g=="
+    },
+    {
+      "name": "Sheri Pfalzgraf",
+      "gender": "Female",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/4/2025",
+      "usta_id": "Nh5oqr+P6qzXrtE/B4bAcQ=="
+    },
+    {
+      "name": "Ailene Phillips",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/22/2025",
+      "usta_id": "NHKO2oc8b7ioKyGf6e7Wkw=="
+    },
+    {
+      "name": "Michael Phillips",
+      "gender": "Male",
+      "city": "Barboursville",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Y6pAIDTBJCJPGJp/T1Dong=="
+    },
+    {
+      "name": "Robin Phipps",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8Ijw8ddWlugcncdwV9eojQ=="
+    },
+    {
+      "name": "Richard Pickens",
+      "gender": "Male",
+      "city": "S Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SMquwetWIXNz34HIMnxyBg=="
+    },
+    {
+      "name": "Jeanene Plata",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/3/2024",
+      "usta_id": "OpvDjrDhOjMtusdJtpZJsg=="
+    },
+    {
+      "name": "Michael Politz",
+      "gender": "Male",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rUtYgngbyNPIDyEjMKLqZg=="
+    },
+    {
+      "name": "Carol Porter",
+      "gender": "Female",
+      "city": "Barboursville",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8FfbJlbNZUNqZFVY0W1oTQ=="
+    },
+    {
+      "name": "Maddy Pratt",
+      "gender": "Female",
+      "city": "Ona",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "s8K29eJgPJlkP+B0qfrOMg=="
+    },
+    {
+      "name": "Jason Prince",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rY8klJwsjiNW/teTJ1UEOQ=="
+    },
+    {
+      "name": "RICK PRINCE",
+      "gender": "Male",
+      "city": "Crown City",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ACrmDMt6Cfgo1jTSQenexA=="
+    },
+    {
+      "name": "Samantha Prince",
+      "gender": "Female",
+      "city": "Catlettsburg",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "a0sQT/R9cZWyLluvd/zoIA=="
+    },
+    {
+      "name": "Sydney Prince",
+      "gender": "Female",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FNZkFbaM8PRPOEq3gQ7hjQ=="
+    },
+    {
+      "name": "Gina Ratrie",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n4OoEcDcocotl2J0/rm6RQ=="
+    },
+    {
+      "name": "Amanda Ream",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4sz21E0yakAL7RpaPJan9Q=="
+    },
+    {
+      "name": "Christopher Ritchie",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IaOjUplOytPyYV8GYRB60w=="
+    },
+    {
+      "name": "Lisa Roberts",
+      "gender": "Female",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1IWkQeVfYoq3J38vN7IOew=="
+    },
+    {
+      "name": "Casey Robinson",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l7FLk6jpl/UYZFwRaaEyuw=="
+    },
+    {
+      "name": "Tammy Robinson",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OEJfTJ04AGtWkOrwkmJhXg=="
+    },
+    {
+      "name": "Russell Rollyson",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iEeIF00MkgtUonQ0Dzwizw=="
+    },
+    {
+      "name": "Taylor Rose",
+      "gender": "Female",
+      "city": "South Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "0evUNe31f2kC/Y7HbBd/cw=="
+    },
+    {
+      "name": "Lynn Roth",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/znID5KI2OO8LI6X9qs0PQ=="
+    },
+    {
+      "name": "Gale Rubrecht",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G3Y4GZOlSHw2YHx9akTj9g=="
+    },
+    {
+      "name": "Victoria Russo",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XcWvAJLXG3vpWQ5sF5cFfw=="
+    },
+    {
+      "name": "Edward Ryan",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QW9RyqQmmMjHArvMmKSSFA=="
+    },
+    {
+      "name": "David Sadd",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/4/2024",
+      "usta_id": "ZcdlZbcfom/Qx6FHTWgAWg=="
+    },
+    {
+      "name": "Howard Salisbury",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/23/2025",
+      "usta_id": "Yf9atz41NxxnOwbsdc4o/g=="
+    },
+    {
+      "name": "Susie Salisbury",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fZX/kg1QKKhQa+wpC5ac4A=="
+    },
+    {
+      "name": "Raveena Saluja",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vIssnu+w0ejJsQOK9ASKvw=="
+    },
+    {
+      "name": "Brenda Samples",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v7s4yGY/efqseSnNDi2nLg=="
+    },
+    {
+      "name": "Matthew Santen",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "NAdA3SLqmVs3Q7dL6Am9yA=="
+    },
+    {
+      "name": "Geoffrey Saunders",
+      "gender": "Male",
+      "city": "Chapmanville",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u/Wbu9e803G+v16XCrkHBA=="
+    },
+    {
+      "name": "Shane Saunders",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f0MdluxRrLk/PHp7i7LhYQ=="
+    },
+    {
+      "name": "Priscilla Schade",
+      "gender": "Female",
+      "city": "Mineral Wells",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1OspGHwxtOxowK157f7V2A=="
+    },
+    {
+      "name": "Jamie Schmidt",
+      "gender": "Female",
+      "city": "Wheelersburg",
+      "state": "OH",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1aXDKEqkP4hUdjNPPHqJhQ=="
+    },
+    {
+      "name": "Hannah Schoolfield",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tRPxcFnhG0VdGTvLqbNW2w=="
+    },
+    {
+      "name": "Mychal Schulz",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ozhtQOqF3ogIB4GX32Oicg=="
+    },
+    {
+      "name": "Leo Segal",
+      "gender": "Male",
+      "city": "WINFIELD",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/27/2024",
+      "usta_id": "9MAZQOnU40iC4IgUZtYpbg=="
+    },
+    {
+      "name": "Sharon Seidler",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8l/DoUu86Pxq6m1QiqIJdQ=="
+    },
+    {
+      "name": "Lauren Shah",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/20/2025",
+      "usta_id": "KpVoNR99JR731aMBGDJqdg=="
+    },
+    {
+      "name": "Robin Shamblen",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cj6Rbpev7mBRR2g7/UAPqA=="
+    },
+    {
+      "name": "Ethan Shepard",
+      "gender": "Male",
+      "city": "Beckley",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/5/2024",
+      "usta_id": "rk8KDw9kA+Drr1+IOtctXg=="
+    },
+    {
+      "name": "Kandas Siegler",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3vkTLWKXI3dAm2GYglO54A=="
+    },
+    {
+      "name": "Lonnie Simmons",
+      "gender": "Male",
+      "city": "Dunbar",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0BANzflsTW/OgoLzeltDUQ=="
+    },
+    {
+      "name": "Joseph Sinclair",
+      "gender": "Male",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UTXxkAN0ZqKJMAiN67BAgw=="
+    },
+    {
+      "name": "Anita Smith",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7WL9mK5RbcNjhPIbr2JgNw=="
+    },
+    {
+      "name": "Candace Smith",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/8/2024",
+      "usta_id": "WTg52I4iE02Hifox7zY/Sg=="
+    },
+    {
+      "name": "Christian V Smith",
+      "gender": "Male",
+      "city": "Winfield",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "923dS7i3gtmWtingG7IHaQ=="
+    },
+    {
+      "name": "Nick Smith",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E6rNdsdM83+xmBKi+0c0VQ=="
+    },
+    {
+      "name": "Stacey Smith",
+      "gender": "Female",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "elehEKITC5VSYxmZzDSZzA=="
+    },
+    {
+      "name": "Tom Smith",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "reSUxOUIM/bcw09KiU67Pg=="
+    },
+    {
+      "name": "Reagan Smolder",
+      "gender": "Female",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/26/2024",
+      "usta_id": "bf9SWmOgTGjvxW/uX2Jf3Q=="
+    },
+    {
+      "name": "Linda Sneed",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Du1wT4F4HDDMvgIau0ob0Q=="
+    },
+    {
+      "name": "Cheryl Spriggs",
+      "gender": "Female",
+      "city": "Madison",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0XvzZBReAqXn55uAv8FRkg=="
+    },
+    {
+      "name": "Mark Spriggs",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/11/2025",
+      "usta_id": "FcPBpfHodY61oRwOCvX2pQ=="
+    },
+    {
+      "name": "Joan St Clair",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v8djA5+mWeq5VuRjoPchMw=="
+    },
+    {
+      "name": "Aileen Stacy",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mzEYBRddBGiD23KgZmobFQ=="
+    },
+    {
+      "name": "David Stacy",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "oSxlI5BnCdBGJG5gnIm+kw=="
+    },
+    {
+      "name": "John Stapleton",
+      "gender": "Male",
+      "city": "Lavalette",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3FvnaEHd58k+hvrgFdPB4Q=="
+    },
+    {
+      "name": "Caleb Starkey",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wWSqS/KliYnUPkfF9gutlg=="
+    },
+    {
+      "name": "Karen Stauffer",
+      "gender": "Female",
+      "city": "Vincent",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cCZBs3YyNu+eE1FAr2pB6A=="
+    },
+    {
+      "name": "Brandon Steele",
+      "gender": "Male",
+      "city": "South Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oBMegAgO0RFun6P/bztTJA=="
+    },
+    {
+      "name": "Michelle Steele",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "74i030ys+xYbZEUs42voIQ=="
+    },
+    {
+      "name": "Hal Stewart",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7/cQdH8TxK/siiiP+9NEPA=="
+    },
+    {
+      "name": "Carol Sticklen",
+      "gender": "Female",
+      "city": "Winfield",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sB/wG5qyjxHMg47b9FaXLg=="
+    },
+    {
+      "name": "John Stone",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/25/2025",
+      "usta_id": "Zz0jeA3lJEfaiqQ/pX6Ntg=="
+    },
+    {
+      "name": "Tyler Strong",
+      "gender": "Male",
+      "city": "Nashville",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S951deg1gPxUqxe19sSYnA=="
+    },
+    {
+      "name": "Mary Summers",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tUKCvH99RzjT0A4b4IUqCA=="
+    },
+    {
+      "name": "Mark Sundstrom",
+      "gender": "Male",
+      "city": "Fayetteville",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1/2/LqPZXw6Kd1OaltwJIQ=="
+    },
+    {
+      "name": "Ursula Suson",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q3eKjqbHmj1FgTfYU6MnkQ=="
+    },
+    {
+      "name": "Lauren Sutphin",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "bj8Ftbti1QqbMkq87IA8Fg=="
+    },
+    {
+      "name": "Matthew Sutton",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I1RdXO2Ts1u/Q1dh6tjDMQ=="
+    },
+    {
+      "name": "JL Swecker",
+      "gender": "Male",
+      "city": "Clendenin",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E+vuvT4riqqRwMJrmdgAMw=="
+    },
+    {
+      "name": "Marjorie Swecker",
+      "gender": "Female",
+      "city": "Clendenin",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "02LKb2vbxU5UJ5JwyOztQA=="
+    },
+    {
+      "name": "LaDonna Tackett",
+      "gender": "Female",
+      "city": "SCOTT DEPOT",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zf7fcwoukeffCsE+nsTS6w=="
+    },
+    {
+      "name": "Leila Tarakji",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/24/2025",
+      "usta_id": "LyJ5SEItc5ZSO0zV6KFodA=="
+    },
+    {
+      "name": "Jason Tate",
+      "gender": "Male",
+      "city": "CHARLESTON",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E22q/Y7G0kb5NjPgtHSP9w=="
+    },
+    {
+      "name": "Kevin Tate",
+      "gender": "Male",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "5TzveOjpkHSRXLYLA9xGRw=="
+    },
+    {
+      "name": "Meredith Tate",
+      "gender": "Female",
+      "city": "Scott Depot",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/15/2024",
+      "usta_id": "bUenB/TKyp/tHQFdSJhRLA=="
+    },
+    {
+      "name": "Dylan Tayengco",
+      "gender": "Male",
+      "city": "Point Pleasant",
+      "state": "WV",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "IswYpE/zCHDR4iT6KyXSpQ=="
+    },
+    {
+      "name": "Emily Thayer",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U7n309RdOuMP4prCqJ1Hrg=="
+    },
+    {
+      "name": "Vicki Thornburg",
+      "gender": "Female",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sz9smoC6YROo8zEo4GX9aA=="
+    },
+    {
+      "name": "Steven Thorne",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x+I7/m3stZaYRIQL70kbRA=="
+    },
+    {
+      "name": "Edward Tiffey",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ndkJdqHMwtY6LMblevq+zg=="
+    },
+    {
+      "name": "Nancy Tiffey",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KpvCPCv5ExXAKd3OJ/suzQ=="
+    },
+    {
+      "name": "Patrick Tiffey",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t6x//OqP/0rGIzQjIUTBPg=="
+    },
+    {
+      "name": "Douglas Toliver",
+      "gender": "Male",
+      "city": "CHARLESTON",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "xCU75zrCt8Dt7b1/pxJZtA=="
+    },
+    {
+      "name": "Jamie Tridico",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DoFZV5ogHUDBZrGOE2lxEg=="
+    },
+    {
+      "name": "Brooke Tucker",
+      "gender": "Female",
+      "city": "Vincent",
+      "state": "OH",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IxufiUPXQb22UYjr4RMIFg=="
+    },
+    {
+      "name": "Susan van Zant",
+      "gender": "Female",
+      "city": "Barboursville",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AjoAey1nRGI0uk+tbLZLxA=="
+    },
+    {
+      "name": "Glenn Varney",
+      "gender": "Male",
+      "city": "Ravenswood",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "igE+yvJpvruvadcNz22r4w=="
+    },
+    {
+      "name": "Dixie Vaughan",
+      "gender": "Female",
+      "city": "Davisville",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hAiFrGhYUeIWcKUxN5y/ew=="
+    },
+    {
+      "name": "Mary Veloso",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "20Tha0nkHjVYdJir4qiNMA=="
+    },
+    {
+      "name": "NUVIA VILLAMIZAR",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wymax7gKfgvLVq/aLBmg8g=="
+    },
+    {
+      "name": "Vinutha Vishnu",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fx2u5AJ6gWwB6kyZh0mAww=="
+    },
+    {
+      "name": "Kristin Warner",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yei9FMOWW8WP+V66L8ZqVg=="
+    },
+    {
+      "name": "Eric Wasserman",
+      "gender": "Male",
+      "city": "Coolville",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jY5AG70fJg55GVcuFU0Kxg=="
+    },
+    {
+      "name": "Joan Waugh",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "HY2j5udAe9Pr0MiKGvFDig=="
+    },
+    {
+      "name": "Ashley Waybright",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LvQ+yMZ5IZ6LXlYfrkww7A=="
+    },
+    {
+      "name": "Jason Waybright",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I/zJJD9dkNkkyqha5j7FCw=="
+    },
+    {
+      "name": "David Wells",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Iv6tGtBspf+cT/SdbQAKbQ=="
+    },
+    {
+      "name": "Kevin Whipkey",
+      "gender": "Male",
+      "city": "Nitro",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DQo+A6DNZD+6NjKDw7HKDA=="
+    },
+    {
+      "name": "Tanner Whipkey",
+      "gender": "Male",
+      "city": "Nitro",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q50umnq59D3ch/fbjENMjA=="
+    },
+    {
+      "name": "Ashley White",
+      "gender": "Female",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2Xm1kYTi2jUITUXCEw+DtA=="
+    },
+    {
+      "name": "Darin White",
+      "gender": "Male",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VhhFjXRwW3M47ztjfnd65Q=="
+    },
+    {
+      "name": "Melinda White",
+      "gender": "Female",
+      "city": "Hurricane",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qWfJ3GZmq7VbFhv2YRbd8A=="
+    },
+    {
+      "name": "Sam White",
+      "gender": "Male",
+      "city": "Beckley",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gsldo+27AXe8OHe6GAnRKQ=="
+    },
+    {
+      "name": "David Williams",
+      "gender": "Male",
+      "city": "Dunbar",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yXZWsNZnIaZ4cI2Y0Pg8Sw=="
+    },
+    {
+      "name": "Melissa Williams",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UG/nCgsnUIFN93oVWckchw=="
+    },
+    {
+      "name": "Nickolas Williams",
+      "gender": "Male",
+      "city": "Ceredo",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1+00lm7DYRC3rtGSco0O7g=="
+    },
+    {
+      "name": "Rico Williams",
+      "gender": "Male",
+      "city": "Cincinnati",
+      "state": "OH",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/16/2025",
+      "usta_id": "VinUvISA691iLeRrzQ8nGQ=="
+    },
+    {
+      "name": "Sam Willson",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/26/2025",
+      "usta_id": "eLl0RjvqBiwoQBp4Lu8rGw=="
+    },
+    {
+      "name": "Holly Wilson",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GXDioKo7O4igG/Pzdhc9zw=="
+    },
+    {
+      "name": "Kathy Wilson",
+      "gender": "Female",
+      "city": "Vienna",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ob7X9Fj1+p94R6B664qZFw=="
+    },
+    {
+      "name": "John Wirts",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tir60tHNpn4hNe3lN4APKw=="
+    },
+    {
+      "name": "Tom Wirts",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/14/2024",
+      "usta_id": "TQRv8Xl2XUNEkQ5pY1/fRw=="
+    },
+    {
+      "name": "Ian Woods",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AERKOtp2SBE7CgQmzWUzTw=="
+    },
+    {
+      "name": "Barbara Wright",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wMA/WAB2xvQ51zpXcoRMLA=="
+    },
+    {
+      "name": "Cindy Yeager",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qthe9N9BzfQSLzmB+2wX2Q=="
+    },
+    {
+      "name": "Chance Young",
+      "gender": "Male",
+      "city": "Parkersburg",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/22/2025",
+      "usta_id": "OvPPxbEJ5zT4R714nXMXAQ=="
+    },
+    {
+      "name": "Deborah Younis",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/30/2024",
+      "usta_id": "EErcMDRfg30RhVVhDO/KvQ=="
+    },
+    {
+      "name": "Ryon Zent",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3hqGGXbLaK11cMU/gguWPA=="
+    },
+    {
+      "name": "Scott Zent",
+      "gender": "Male",
+      "city": "Charleston",
+      "state": "WV",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FXL7oL1twkZU9vtdSLrM1w=="
+    },
+    {
+      "name": "Meagan Zentner",
+      "gender": "Female",
+      "city": "Barboursville",
+      "state": "WV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uDRKtXlD7qLMEKDNfkJVew=="
+    }
+  ]
+}

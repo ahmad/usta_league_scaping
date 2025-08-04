@@ -1,0 +1,1557 @@
+{
+  "sectionId": "6243309",
+  "districtId": "6243393",
+  "areaId": "6243731",
+  "players": [
+    {
+      "name": "Suzanne Alexander",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/11/2025",
+      "usta_id": "voLG7aLNMSqowDNx5JnzWw=="
+    },
+    {
+      "name": "Mitch Aston",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/20/2025",
+      "usta_id": "0QqQ38zLE+ggJxgg/qTfAA=="
+    },
+    {
+      "name": "Robyn Beard",
+      "gender": "Female",
+      "city": "Ovalo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/30/2025",
+      "usta_id": "DxxBVs9XHqwCGhyewoXt9A=="
+    },
+    {
+      "name": "Rachael Bein",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I6ptFBwoBbCIh9nWtMEq3g=="
+    },
+    {
+      "name": "David Bennett",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2022",
+      "usta_id": "WnEuPeqzRc7DXmwbWWBGLg=="
+    },
+    {
+      "name": "Julie Berry",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "266VSZNfIbTPOZpddFddMg=="
+    },
+    {
+      "name": "Mindy Bible",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oPYH6rQSNDoSTj3Z0ZR6Gg=="
+    },
+    {
+      "name": "Alan Biel",
+      "gender": "Male",
+      "city": "Midland",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xcBWormUdKYmQu6VDhls4g=="
+    },
+    {
+      "name": "Mittie Blackburn",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ps3GXDPA3bogSLHCSXaYLg=="
+    },
+    {
+      "name": "Lana Bland",
+      "gender": "Female",
+      "city": "Merkel",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lLjKXsMJbnFL78P6+kTu1A=="
+    },
+    {
+      "name": "Morgan Blanton",
+      "gender": "Female",
+      "city": "Anson",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/20/2024",
+      "usta_id": "zwRt/Iu4BuIm6T+mFIQcSQ=="
+    },
+    {
+      "name": "Megan Bontke",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/18/2025",
+      "usta_id": "mzRJZ368E12Vi/3uvP8arQ=="
+    },
+    {
+      "name": "Susan Bowles",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vVGJTMIg6v79eVmD5+yiuQ=="
+    },
+    {
+      "name": "Christopher Breaux",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "jL3X6KREYYOMSbIqo3wB+A=="
+    },
+    {
+      "name": "Rose Bristow",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R9ZyXpwlTK9Wgi297fphqw=="
+    },
+    {
+      "name": "Nancy Brown",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dvPxQZSJSyPw0Hh5zXnqMQ=="
+    },
+    {
+      "name": "Scott Brown",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n/yw9D5fdXjDpUNrWspqQw=="
+    },
+    {
+      "name": "Rich Bryan",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1GQh//HMBZKZLEXWYvQXSg=="
+    },
+    {
+      "name": "Cassidy Caddell",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uYI9A7IcV8za11OM/snyvg=="
+    },
+    {
+      "name": "Celeny Cano",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/9/2025",
+      "usta_id": "o2+rplwLX6bPaSvLjpDzNQ=="
+    },
+    {
+      "name": "Ashley Caperton",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "9/18/2024",
+      "usta_id": "3/uKyGF9uAQCjDB8NMlt7w=="
+    },
+    {
+      "name": "Sabra Carlton",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YrJsArfpGjfGPverBTd5lQ=="
+    },
+    {
+      "name": "Stephanie Carroll",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "lPdWidOIKl5fm06iEGwJGw=="
+    },
+    {
+      "name": "Tiffany Casey",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ozm/bJzRyJiRjTEny6y0pg=="
+    },
+    {
+      "name": "Robert Casselman",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "PFXIw4xCcFSqDn7sBmj13g=="
+    },
+    {
+      "name": "Christopher Causer",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LldhfA9d3Oa6lyDYrLGg2A=="
+    },
+    {
+      "name": "Casey Chapa",
+      "gender": "Female",
+      "city": "CLYDE",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m6gkWFOmd50TWR0eQM4+1Q=="
+    },
+    {
+      "name": "Meredith Churchill",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1WuhqfA+GlfOqm8anvm70Q=="
+    },
+    {
+      "name": "Clayton Coker",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sEMBycZWvjq1Cmt5NYQNtg=="
+    },
+    {
+      "name": "Andrew Cole",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gy/qtnC9zqlmifDT3TouAg=="
+    },
+    {
+      "name": "James Cole",
+      "gender": "Male",
+      "city": "Aledo",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u2co5LV6Boo="
+    },
+    {
+      "name": "John Cole",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zv6lvyhtdN+40WH6+wJf9Q=="
+    },
+    {
+      "name": "Aimee Colley",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R4pL63wStdc2lxYYtsEwwg=="
+    },
+    {
+      "name": "Christina Colwell",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9ypCm2kcyD/oOMBVw/Bf1Q=="
+    },
+    {
+      "name": "Denise Connolly",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oEx3cUF+HOAn+ZdfDtpsUQ=="
+    },
+    {
+      "name": "Mary Corn",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "njMjlQRHYOYpdshFwNSZGQ=="
+    },
+    {
+      "name": "Caitlin Cramer",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9WDCyceHGN8TK5t+Yq9QYw=="
+    },
+    {
+      "name": "Courtney Cramer",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bl3+ro5o6fIY9cEnNF6Fvw=="
+    },
+    {
+      "name": "Felipe Cruz",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Mmt+PhwlAltbRG2AYiNS3A=="
+    },
+    {
+      "name": "Cherokee Cumpton",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "4rxywzBIfDPW1ozBQsafPQ=="
+    },
+    {
+      "name": "Geanna Cutbirth",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "YAqYTHYUWzsrEUZfpJZNAg=="
+    },
+    {
+      "name": "Connor Dale",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/25/2024",
+      "usta_id": "86Jd8pAiIaB4unghWGRRNg=="
+    },
+    {
+      "name": "Chase Daniell",
+      "gender": "Male",
+      "city": "Wills Point",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lwtwPONfx2tBvrN1KziQ2A=="
+    },
+    {
+      "name": "Gil Deshazo",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h7NHec9+4myWM6ACLPSMGw=="
+    },
+    {
+      "name": "Holly Deshazo",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z1RX6meEPOB2Et2dsYTkOA=="
+    },
+    {
+      "name": "Julie Deshler",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "R3/XWah4qbjjfyY/G3EzKw=="
+    },
+    {
+      "name": "LeAnn Doby",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i/hpeb5z4yiqSAsCO0OGog=="
+    },
+    {
+      "name": "Ty Edwards",
+      "gender": "Male",
+      "city": "Brackettville",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZtXE9w1/wYlNTE0jKOjlqA=="
+    },
+    {
+      "name": "Allison Emmett",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/1/2025",
+      "usta_id": "AskRbAs90y0F2EhT1C9+Rw=="
+    },
+    {
+      "name": "Laura Evans",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eBz9rCnGHCkLVKavUIvaaw=="
+    },
+    {
+      "name": "Elizabeth Everett",
+      "gender": "Female",
+      "city": "ABILENE",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "acz64GV9/0twI61Gonr2og=="
+    },
+    {
+      "name": "Corby Flanagan",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tl+FmxLY2XBZ/KsWReLX3Q=="
+    },
+    {
+      "name": "Bryan Fowlkes",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xBwx9l8sls2Yp6CAVaYoYg=="
+    },
+    {
+      "name": "Jill Christen Frizzell",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aE4i6lMGLCUMvefXbZ8/fw=="
+    },
+    {
+      "name": "Kristen Gil",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/27/2023",
+      "usta_id": "DfEZnflMM2HZS7hV/MH20g=="
+    },
+    {
+      "name": "Valerie Giles",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TcLPLEKz1Jgn/Ia+rZBUIg=="
+    },
+    {
+      "name": "Ryan Gillen",
+      "gender": "Male",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TcrSj+MUMeYhLyGods4k7Q=="
+    },
+    {
+      "name": "Katie Gloyna",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eawnVGakL8CA0YcNSfjQWA=="
+    },
+    {
+      "name": "Paul Goode",
+      "gender": "Male",
+      "city": "ABILENE",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Y7CRVQ9hxTccqAKcm2Jjfg=="
+    },
+    {
+      "name": "Nicole Grant",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8ppKC+mGYH73wKhfPfvmyg=="
+    },
+    {
+      "name": "Benjamin Gutierrez",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f8qespo+n0Sd31jAXbwXcg=="
+    },
+    {
+      "name": "Gavin Hail",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "7/14/2025",
+      "usta_id": "FEE9+6snQfLmFRP+hYXCkw=="
+    },
+    {
+      "name": "Ashley Hall",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zBLszyT9bBLOCjPxPdqc6A=="
+    },
+    {
+      "name": "Kent Harris",
+      "gender": "Male",
+      "city": "Hurst",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oQNIWu/9Tm4aJKV063OLxQ=="
+    },
+    {
+      "name": "Rhonda Hatchett",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "69u8iybmsChcJmf0X+tD2A=="
+    },
+    {
+      "name": "Cali Hellums",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w93GPssTNiU4Bo3AQhpxfA=="
+    },
+    {
+      "name": "Gretchen Henson",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "L9MSVEctkYgah+ix2gDNxQ=="
+    },
+    {
+      "name": "Avaree Hernandez",
+      "gender": "Female",
+      "city": "Tuscola",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XVcfRZO/nafaajKosXvt5g=="
+    },
+    {
+      "name": "Bailey Hoke",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5L7VwM8MflibO18Y7pGKLg=="
+    },
+    {
+      "name": "Cassie Hughes",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AMhkPqEtMTs/emXGAlTM9A=="
+    },
+    {
+      "name": "Randy Ivey",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a5/N7JQRDUu58TsevfS6vA=="
+    },
+    {
+      "name": "Cheryl Johnston",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CweJi6LRa+IE+hhuQXNU0Q=="
+    },
+    {
+      "name": "David Jones",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6QoHvrVocElaVkbhhnE7qA=="
+    },
+    {
+      "name": "Roy Jones",
+      "gender": "Male",
+      "city": "Early",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/14/2023",
+      "usta_id": "2zsCGcRSOlEhlpxnL1AThQ=="
+    },
+    {
+      "name": "Hayden Jordan",
+      "gender": "Female",
+      "city": "ABILENE",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WEdzzRfGzjBX51IjzGwsqg=="
+    },
+    {
+      "name": "Sheryl Kendrick",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "y3XUxktM1qwUywpNvQhgvQ=="
+    },
+    {
+      "name": "Terri Kinard",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7hr83yvFgoq765ZlQnrleA=="
+    },
+    {
+      "name": "Carolyn Landess",
+      "gender": "Female",
+      "city": "Tuscola",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mk+0RFRoeDMQVAmKn3ukRA=="
+    },
+    {
+      "name": "James Landess",
+      "gender": "Male",
+      "city": "Tuscola",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X5vpEA66EPFv6xkQqiAguQ=="
+    },
+    {
+      "name": "Laura Lopez Velez",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "8vGi1ry6lW7ZfrygnSs04Q=="
+    },
+    {
+      "name": "Adam Luther",
+      "gender": "Male",
+      "city": "Tuscola",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z8Rpm8KJm8KCoEFBFRiuJA=="
+    },
+    {
+      "name": "Patty Manawes",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eS1j6gkPUTCFjo2McV+rYA=="
+    },
+    {
+      "name": "Ellen Massey",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JnsxFgpZ/8CPF1MY9bxcww=="
+    },
+    {
+      "name": "Doug Mauldin",
+      "gender": "Male",
+      "city": "ABILENE",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IfGpu/mwVS/8Me5Hszd2aw=="
+    },
+    {
+      "name": "Kenneth Mauldin",
+      "gender": "Male",
+      "city": "Clyde",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aOWSSfedVb9SUcBdgInUFw=="
+    },
+    {
+      "name": "Tracie Mauldin",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t58kOWm5x6vsmlFiEFNGtw=="
+    },
+    {
+      "name": "Amy McAdams",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "Rxneg//o2va+yHC2dBWfMg=="
+    },
+    {
+      "name": "Mike McClure",
+      "gender": "Male",
+      "city": "Tuscola",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Qwz6AqEhaGYSQv6LHmzpA=="
+    },
+    {
+      "name": "Amy McLane",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RHA/dQjlp2Hqsht/V/G8cg=="
+    },
+    {
+      "name": "Sandy McNair",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "6Lyllash+h31cAi3GWAj+w=="
+    },
+    {
+      "name": "Elizabeth Miller",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/LLfTHOm18/Nq3T5qsaViA=="
+    },
+    {
+      "name": "Storey Moore",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "qqA8+xwC3g9dbnAsZ7G6fw=="
+    },
+    {
+      "name": "Benny Morentin",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WNeAQZIPK1uCCZfORfo6eA=="
+    },
+    {
+      "name": "Ron Morrison",
+      "gender": "Male",
+      "city": "Irving",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g2uxRN9JixcsgsKOTqvQAQ=="
+    },
+    {
+      "name": "Stephanie Murray",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/zXk8a1bVpOE+IRiFt9TKA=="
+    },
+    {
+      "name": "Emmanuel Navejas",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0ms934n/TW9cIxpxtbei5g=="
+    },
+    {
+      "name": "Stephen Osborn",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9IuCHGBssL9Sw4tfW4f2JA=="
+    },
+    {
+      "name": "Melissa Patterson",
+      "gender": "Female",
+      "city": "ABILENE",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LS8NdG6dJT/tWRP1duhF1Q=="
+    },
+    {
+      "name": "Audrey Peterson",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "4LLG9rlbZltzIiQtbnw0kg=="
+    },
+    {
+      "name": "Shawn Phelan",
+      "gender": "Male",
+      "city": "Irving",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MBvnDNo107/eoGCSCQGDGg=="
+    },
+    {
+      "name": "Kelly Pointer",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tqb+QtkNEs+WiKAEGuCHqw=="
+    },
+    {
+      "name": "Chris Proctor",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Rl+8Hg9MJMfbIx301ZwXQ=="
+    },
+    {
+      "name": "Bryan Rainwater",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tmGds/1Gukc7VTOP/+hkKA=="
+    },
+    {
+      "name": "Gary Range",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "ByPHcvSEWwNTr8XIySRwcA=="
+    },
+    {
+      "name": "Thomas Rapson",
+      "gender": "Male",
+      "city": "Montgomery",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4OXGuCVzQhu5KSjAs9sNOQ=="
+    },
+    {
+      "name": "Ketrin Rector",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "ZKB5tRPSLHe0BOILE7QWTg=="
+    },
+    {
+      "name": "Chris Redman",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q3Kz4rSxE3W/PuR0xnhMKA=="
+    },
+    {
+      "name": "Lauren Renner Cruz",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7jCbcEH/2ABnYkjrz1Afyg=="
+    },
+    {
+      "name": "Melinda Roberson",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/27/2024",
+      "usta_id": "m8jGLZC7mfAWuyu/pIDvIA=="
+    },
+    {
+      "name": "David Robinett",
+      "gender": "Male",
+      "city": "Santa Anna",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SJM9r8+HXttWwmUe1GGQlw=="
+    },
+    {
+      "name": "Victoria Rogers",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/3/2024",
+      "usta_id": "MApqJbmIPNQzu4TWOWivKQ=="
+    },
+    {
+      "name": "Trance Rosenquist",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q7p/fETL9BphY7+34Bmrsg=="
+    },
+    {
+      "name": "Karen Rude",
+      "gender": "Female",
+      "city": "Midland",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "40+g+otMrJ063vUsJq1GsQ=="
+    },
+    {
+      "name": "Tara Ruff",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "BO3T1CQKTVYeLvsklW9pRg=="
+    },
+    {
+      "name": "Kelly Runyan",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sHVsRzJVDH8KnIxoP/Gr+Q=="
+    },
+    {
+      "name": "Lisa Russell",
+      "gender": "Female",
+      "city": "Breckenridge",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "CtgFIdRNKXmu74dTH2biFQ=="
+    },
+    {
+      "name": "Madison Salmon",
+      "gender": "Female",
+      "city": "ABILENE",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t9rUZIXzrlo3Wy+p3dkLTQ=="
+    },
+    {
+      "name": "Leanne Scott",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WwzRAkX6JtW2G4o0K+L2EQ=="
+    },
+    {
+      "name": "Tarah Scott",
+      "gender": "Female",
+      "city": "Tuscola",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/1/2025",
+      "usta_id": "DxxBVs9XHqy6c2uJR/qXjw=="
+    },
+    {
+      "name": "Gail Scruggs",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "WDQv5Yf17B+uCiJxAPGMzA=="
+    },
+    {
+      "name": "Erin Shack",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uA2MnoUPpxWBvraBJqBifg=="
+    },
+    {
+      "name": "Trevor Short",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mt1OjGvngwioOgbU1jpQWw=="
+    },
+    {
+      "name": "Jill Simon",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sa/1CNAvmC0UFounXJKlaA=="
+    },
+    {
+      "name": "Gwen Sitton",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Y1bOvZamwNi9AJQDjSrt2Q=="
+    },
+    {
+      "name": "Nadene Smith",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u7ZBJkDjIlmMe3Fk2L8knw=="
+    },
+    {
+      "name": "Reid Smith",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qW3nXGdX+Enb6j9zDnlNUA=="
+    },
+    {
+      "name": "Ashley Smyser",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mlqyekREoi/wqAlawipplw=="
+    },
+    {
+      "name": "Shellie Smyser",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KXObyzYIt6X5SiyX8+zHnA=="
+    },
+    {
+      "name": "Sofia Solorzano",
+      "gender": "Female",
+      "city": "Dyess AFB",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4aDP56QavPXHlXm1w2elhg=="
+    },
+    {
+      "name": "Barbara Starnes",
+      "gender": "Female",
+      "city": "Gardendale",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y3g9gDY0934="
+    },
+    {
+      "name": "Sherry Stewart",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B3SEKI12ibbmA5ZO3PUdqg=="
+    },
+    {
+      "name": "Rebecca Strauser",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "0fwneMYo3BYPYZAy3zUWVQ=="
+    },
+    {
+      "name": "Haley Tabor",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mPn1Ud4rHz1TM6ltZcb75Q=="
+    },
+    {
+      "name": "Cindy Taylor",
+      "gender": "Female",
+      "city": "ABILENE",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2024",
+      "usta_id": "4MlFf2A20LMgeCJHSUsJ0w=="
+    },
+    {
+      "name": "Linda Taylor",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/11/2025",
+      "usta_id": "oVXZNnMmQbRuyOsOloLJJw=="
+    },
+    {
+      "name": "Gaylene Templeton",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A1Vb7GpUzaJA7oDb7pJUOQ=="
+    },
+    {
+      "name": "Kaci Thomas",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "deKHhm0NsStH0S6LG8//bA=="
+    },
+    {
+      "name": "Sherri Tompkins",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/4/2024",
+      "usta_id": "TnqSYQe1Crl3ZLDQCXX9jg=="
+    },
+    {
+      "name": "Traci Townsend",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0ohUxthgBmByOhPIZ4iWvw=="
+    },
+    {
+      "name": "Tamara Trail",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "y/vm2sE03n2p0PJB34HNzQ=="
+    },
+    {
+      "name": "Linda Ueckert",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cCCKUAm13jUen/iJ1048LA=="
+    },
+    {
+      "name": "John Vasquez",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aNC8KhRdiVrv3FyOkSr9Nw=="
+    },
+    {
+      "name": "Jenna Vincent",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "skM5lvrUgFNehoAnlWNyuA=="
+    },
+    {
+      "name": "Lucy Vinson",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gxHFhF1fd3y3LILKrnDzoQ=="
+    },
+    {
+      "name": "Judy Voelter",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6cuELD71KGO2K2n0gtpBqw=="
+    },
+    {
+      "name": "Megan Waagner",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/13/2025",
+      "usta_id": "/r8eKxTvTc1Ti7xIn92kug=="
+    },
+    {
+      "name": "Cindy Walsh",
+      "gender": "Female",
+      "city": "Ovalo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LYD+UlBy+R10N1bJPsBSug=="
+    },
+    {
+      "name": "Meredith Ware",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/10/2023",
+      "usta_id": "XkxCS/074gGQ7p3sWIsgmw=="
+    },
+    {
+      "name": "Tami Welch",
+      "gender": "Female",
+      "city": "Clyde",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "wx110Si9mH4dG+NFfHx3QQ=="
+    },
+    {
+      "name": "Karen Wilkins",
+      "gender": "Female",
+      "city": "Leander",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3ERPVGlZU7SqmMvTRazQLg=="
+    },
+    {
+      "name": "Catherine Wilson",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zd/lAOTY0r4sb81KGLCwlA=="
+    },
+    {
+      "name": "Cheryl Wolverton",
+      "gender": "Female",
+      "city": "CONROE",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TQOXVvnvuINybHqs3SDxXA=="
+    },
+    {
+      "name": "Mike Wolverton",
+      "gender": "Male",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Zo1tsG8lMyLbiQIGH15fNQ=="
+    },
+    {
+      "name": "Rebecca Yates",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/24/2024",
+      "usta_id": "bcXHyH82ssWCvMcvPt274A=="
+    },
+    {
+      "name": "Stacey Yates",
+      "gender": "Female",
+      "city": "Abilene",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "22TLJ6GVqNiNKV2ZBzotSg=="
+    }
+  ]
+}

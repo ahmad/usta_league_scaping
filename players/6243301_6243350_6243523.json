@@ -1,0 +1,3717 @@
+{
+  "sectionId": "6243301",
+  "districtId": "6243350",
+  "areaId": "6243523",
+  "players": [
+    {
+      "name": "Ronnie Acebo",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "mT7cx9YPiaUEvUmwuI192g=="
+    },
+    {
+      "name": "David Ackerman",
+      "gender": "Male",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8FnoTIlGGr14he+e7yWHqQ=="
+    },
+    {
+      "name": "Vickie Adkins",
+      "gender": "Female",
+      "city": "Joplin",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C//UezZh5DNoUXtvwqRTAg=="
+    },
+    {
+      "name": "Susan Akins",
+      "gender": "Female",
+      "city": "Fayetteville",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h/DYrVQb1cB86rU/ykZHdw=="
+    },
+    {
+      "name": "Peter Albrecht",
+      "gender": "Male",
+      "city": "O Fallon",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q7kZch2HIfAeCJQziBjBmQ=="
+    },
+    {
+      "name": "Rose Albrecht",
+      "gender": "Female",
+      "city": "O Fallon",
+      "state": "MO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J21sWRMG5YFhVKhvaorTHw=="
+    },
+    {
+      "name": "Thomas Alexander",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7nWH6H13MG4OYp4k1spgNg=="
+    },
+    {
+      "name": "Roy Allen",
+      "gender": "Male",
+      "city": "Lees Summit",
+      "state": "MO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pUV275dgG+ERA9pVF6kzZQ=="
+    },
+    {
+      "name": "Will Allen",
+      "gender": "Male",
+      "city": "Mustang",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EAk193F6jqHzF+dDDTEKtQ=="
+    },
+    {
+      "name": "Lori Ambroske",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PRa9z9p2mZQygM1mhvCaXA=="
+    },
+    {
+      "name": "Joanne Ames",
+      "gender": "Female",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vbffy4o/g7aC/lRt4Xba4Q=="
+    },
+    {
+      "name": "Stephen Arnstein",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hY2OY+pf100cwbT73sgWmQ=="
+    },
+    {
+      "name": "Henry Arst",
+      "gender": "Male",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "twu13/6u5tqkRQmgsMEkEA=="
+    },
+    {
+      "name": "Richard Atterbury",
+      "gender": "Male",
+      "city": "Windsor Heights",
+      "state": "IA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oI3KKH9iLZAjg7TaNAdzAA=="
+    },
+    {
+      "name": "Deborah Austin Johnson",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3UBqRrHnRiY6pqk2puLjlQ=="
+    },
+    {
+      "name": "Kathleen Bagwell",
+      "gender": "Female",
+      "city": "Wichita",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tOCWrbNZUGjTM5/z82Wtxg=="
+    },
+    {
+      "name": "Linda Bahan",
+      "gender": "Female",
+      "city": "Norman",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fshXIwIS4sQFpL7Ee0X2ew=="
+    },
+    {
+      "name": "Lisa Bajema",
+      "gender": "Female",
+      "city": "Norman",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y2srqoYB1J0yIGM1tao4fw=="
+    },
+    {
+      "name": "James Barenkamp",
+      "gender": "Male",
+      "city": "Belleville",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J3wk4gd3z+5xIc8DgTSVXA=="
+    },
+    {
+      "name": "David Barkes",
+      "gender": "Male",
+      "city": "Tecumseh",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "phRT5tT5JDjK4ckuSJaZOQ=="
+    },
+    {
+      "name": "Kathy Barkes",
+      "gender": "Female",
+      "city": "Tecumseh",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "c3qAMjnCi1WOf3qQe/d9Ng=="
+    },
+    {
+      "name": "Susy Barr",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uBPv9Rj+IKixeJnXA61HgQ=="
+    },
+    {
+      "name": "Allen Barrow",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GS+ez608kSVt/mhwAcWKxw=="
+    },
+    {
+      "name": "Blake Bastien",
+      "gender": "Male",
+      "city": "Chesterfield",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nE2TKFhOxmdf73U7GiVdWg=="
+    },
+    {
+      "name": "Jim Bauersfeld",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GQZHHW6E/ISsQdlF1OX7nw=="
+    },
+    {
+      "name": "William Bealke",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gtm2oU9+6ycBLoQHimoYHw=="
+    },
+    {
+      "name": "Mark Beiting",
+      "gender": "Male",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HyvHHe2Z/UeasOZe/LPPng=="
+    },
+    {
+      "name": "Sylvia Bell",
+      "gender": "Female",
+      "city": "Edwardsville",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2ilaaFWC+KSW5XCmG1xsxg=="
+    },
+    {
+      "name": "Paul Bemore",
+      "gender": "Male",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "usDYtaW4hbspMKljETpkqA=="
+    },
+    {
+      "name": "Michelle Berlin",
+      "gender": "Female",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "z4LbcYeEgXAWXGEUXEkzzA=="
+    },
+    {
+      "name": "Gary Bicknell",
+      "gender": "Male",
+      "city": "Bonner Springs",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kYdQSYJFUPutNBlp7LGofQ=="
+    },
+    {
+      "name": "James Billingsley",
+      "gender": "Male",
+      "city": "Edmond",
+      "state": "OK",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BZhDH2ybf/A="
+    },
+    {
+      "name": "Brett Blair",
+      "gender": "Male",
+      "city": "Keller",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "PBRJXxgJf+4MqsEmbaacGA=="
+    },
+    {
+      "name": "Jodi Blair",
+      "gender": "Female",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BEZ7e7k81M73OPRgdjPFDQ=="
+    },
+    {
+      "name": "Kenneth Blair",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D5RRDbFBinHoFDY37e86Vw=="
+    },
+    {
+      "name": "Rodney Bleich",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "VJdfgbOq6Sm9YnK5lGvNvw=="
+    },
+    {
+      "name": "David Bluford",
+      "gender": "Male",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UE7sOLANw6gpbveFhOnLPw=="
+    },
+    {
+      "name": "Cindy Bluml",
+      "gender": "Female",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "POU5Kpt7vy5QMOUbQcjKGw=="
+    },
+    {
+      "name": "Georgina Bodine",
+      "gender": "Female",
+      "city": "Webb City",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8heK4SgaVJtzd6LeqiRTYg=="
+    },
+    {
+      "name": "Mary Kimberly Bohnenkamp",
+      "gender": "Female",
+      "city": "Farmington",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UJ3hRfYQjAYM2b8sIOPnBA=="
+    },
+    {
+      "name": "Michael Bohnenkamp",
+      "gender": "Male",
+      "city": "Woodward",
+      "state": "IA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jmF6speulmjQ3Z+Yw44FTA=="
+    },
+    {
+      "name": "Charles Bonebrake",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "raoi7BWd0YysTknxFGLA1A=="
+    },
+    {
+      "name": "James Boone",
+      "gender": "Male",
+      "city": "Bridgeton",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7Rc3TpMTeMQ="
+    },
+    {
+      "name": "Joseph Borders",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LeArr53WKVKTdL1BMBap9g=="
+    },
+    {
+      "name": "Tim Bowling",
+      "gender": "Male",
+      "city": "Elkhorn",
+      "state": "NE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8i22HoyQ3PWu+aAChPRnEw=="
+    },
+    {
+      "name": "Ronald Bradfield",
+      "gender": "Male",
+      "city": "Fairfield",
+      "state": "IA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iVHUt6oRZLz21YHB/KVnZw=="
+    },
+    {
+      "name": "James Bradley",
+      "gender": "Male",
+      "city": "Muskogee",
+      "state": "OK",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FjyYX1etKeIHrD/7D4XcWQ=="
+    },
+    {
+      "name": "Steve Breit",
+      "gender": "Male",
+      "city": "Clarksdale",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tHPatr0c+YIXB+j4hNO+kw=="
+    },
+    {
+      "name": "Marilyn Brickson",
+      "gender": "Female",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "d34klzrJDAidw2lGm3dMbA=="
+    },
+    {
+      "name": "Gary Bryant",
+      "gender": "Male",
+      "city": "Norman",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Eyy+fRM1pPNPSVlK4/hisA=="
+    },
+    {
+      "name": "Walter Bryce",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MacsKw5C81FpehBZwsJkGQ=="
+    },
+    {
+      "name": "David Buckley",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/29/2025",
+      "usta_id": "dkIAXS05ITmhzqkFUy2ONg=="
+    },
+    {
+      "name": "Wayne Burnham",
+      "gender": "Male",
+      "city": "Claremore",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RJq5XzKv94cv1XgTlPeAUg=="
+    },
+    {
+      "name": "Yvonne Bussmann",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mR95LyIULvZhsRYv9YqE8A=="
+    },
+    {
+      "name": "Kelly Callahan",
+      "gender": "Female",
+      "city": "Norman",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YL88v8uU+ccr4AMe2pIPLw=="
+    },
+    {
+      "name": "Jay Campbell",
+      "gender": "Male",
+      "city": "Fenton",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6zf3B/DFhRJJT8YhHUdvXw=="
+    },
+    {
+      "name": "Byron Canfield",
+      "gender": "Male",
+      "city": "JENKS",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HMVin1CouZAsdljUFRm/vw=="
+    },
+    {
+      "name": "William Canon",
+      "gender": "Male",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KFRnFGG9SrBeUNW37UJPTQ=="
+    },
+    {
+      "name": "Leroy Cantrell",
+      "gender": "Male",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ISAq3wHUYoKBuCfGDy3pTw=="
+    },
+    {
+      "name": "Christine Carle",
+      "gender": "Female",
+      "city": "Leawood",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XDmnXAWKQQ5wN4nsJ+QRDA=="
+    },
+    {
+      "name": "Curt Carmichael",
+      "gender": "Male",
+      "city": "Bixby",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k/FTPNHwO/uz5v6cojlJjQ=="
+    },
+    {
+      "name": "Dean Carr",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UM17IIIV2oEMOyisJlUxYw=="
+    },
+    {
+      "name": "Jack Castle",
+      "gender": "Male",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xekR6B6ECsecSWL+X9bYAw=="
+    },
+    {
+      "name": "Atsuko Christensen",
+      "gender": "Female",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "rl8j2ZpEjiohJhYVktxnmw=="
+    },
+    {
+      "name": "Dale Christian",
+      "gender": "Male",
+      "city": "Tucson",
+      "state": "AZ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2O3CsO6GMrH/Cj0QLbxhfQ=="
+    },
+    {
+      "name": "Carolyn Clark",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wqmHhpFKmN8="
+    },
+    {
+      "name": "Diane Cline",
+      "gender": "Female",
+      "city": "Norman",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WDCrEi8hbg2Z977ZLzzPuQ=="
+    },
+    {
+      "name": "Michael Clutter",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "HZl+qjW0PHn8FYlLcxAB2w=="
+    },
+    {
+      "name": "Michael Colbert",
+      "gender": "Male",
+      "city": "Olathe",
+      "state": "KS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "u/aEPc45c8Np3ZY8IhvjbA=="
+    },
+    {
+      "name": "Kenneth Collins",
+      "gender": "Male",
+      "city": "Mission Hills",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IHDqc1n2NYmRYo6qYKMjhQ=="
+    },
+    {
+      "name": "Michael Comens",
+      "gender": "Male",
+      "city": "Chesterfield",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "+p+jEUhpUsTa9aQUd2uaiA=="
+    },
+    {
+      "name": "Gregory Compton",
+      "gender": "Male",
+      "city": "Saint Peters",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "sMhi7HlANAt/816QShZ2hg=="
+    },
+    {
+      "name": "Patrick Costigan",
+      "gender": "Male",
+      "city": "Maryland Heights",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5hDlgqkU6NmP6X1wK0LlPQ=="
+    },
+    {
+      "name": "Chris Cox",
+      "gender": "Male",
+      "city": "Lenexa",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "36ZJ1SmdjFjK5z9xcmRV3w=="
+    },
+    {
+      "name": "Ann Crampton",
+      "gender": "Female",
+      "city": "Mission Hills",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wWXl739094zrV0ow0yLesg=="
+    },
+    {
+      "name": "Janet Crawford",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8+JPyub8EH3mdtNVK4Ducw=="
+    },
+    {
+      "name": "Barbara Criner",
+      "gender": "Female",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zfWr0py6kwrae33YW76wbg=="
+    },
+    {
+      "name": "Ann Cronkhite",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8VuLudxBCFVT4y4HBHFcAw=="
+    },
+    {
+      "name": "John Crook",
+      "gender": "Male",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ksDlNt3SkU45xrAZLrnuvg=="
+    },
+    {
+      "name": "Richard Crossley",
+      "gender": "Male",
+      "city": "Blair",
+      "state": "NE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8zFE3ifjxCC79sXLZbLI4Q=="
+    },
+    {
+      "name": "Patsy Crystal",
+      "gender": "Female",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lqzaNbU6N0bl5+ydFWd5Uw=="
+    },
+    {
+      "name": "Tuck Curren",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0XwUTVqTIucvdm1dx3qotQ=="
+    },
+    {
+      "name": "Deb Danaher",
+      "gender": "Female",
+      "city": "Lees Summit",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yn/5uFzzjcEbV76Be/pqCg=="
+    },
+    {
+      "name": "Charles Davis",
+      "gender": "Male",
+      "city": "Lenexa",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "97j/g/gjVHA79doiKBCcRg=="
+    },
+    {
+      "name": "Derek Davis",
+      "gender": "Male",
+      "city": "Edmond",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rej3TABVTIhAqwaeAM6jOQ=="
+    },
+    {
+      "name": "RICHARD DAVIS",
+      "gender": "Male",
+      "city": "Edmond",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "weBxHoL18QRcPzPenui5gQ=="
+    },
+    {
+      "name": "Robin Dean",
+      "gender": "Male",
+      "city": "Owasso",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vqmgA1+95uMRtENLGoKb7Q=="
+    },
+    {
+      "name": "Gary Dennis",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tK0u0VwfW+Zx79Ri8IKK2w=="
+    },
+    {
+      "name": "Jacquie Dierks",
+      "gender": "Female",
+      "city": "Council Bluffs",
+      "state": "IA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aGYvWgjoLpipCFMxBgO5hg=="
+    },
+    {
+      "name": "Steven Dollmann",
+      "gender": "Male",
+      "city": "Owasso",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gTC8buTwT5UX0WIF1G4Evg=="
+    },
+    {
+      "name": "Mario Dominguez",
+      "gender": "Male",
+      "city": "PROSPER",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FoPMjpD4wwx4HS95f31Ysw=="
+    },
+    {
+      "name": "Alice Dorris",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x+xb8SM+M527f6DgTUXZQw=="
+    },
+    {
+      "name": "Ronald Dreher",
+      "gender": "Male",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gnAqJJD/KTMXL8u3USgpZg=="
+    },
+    {
+      "name": "Barb Drotar",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zkv8nV4WXzrRgkQxil/qJQ=="
+    },
+    {
+      "name": "BRIAN DUCK",
+      "gender": "Male",
+      "city": "Jenks",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o7yPjdKu0j/KfG+i364o2A=="
+    },
+    {
+      "name": "Karin Duke",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XGlsVnMWON/gsuoUlGZlAA=="
+    },
+    {
+      "name": "Jerry Edsen",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M2jC7lhUCVBgJ+p+CF1+xw=="
+    },
+    {
+      "name": "Beth Eganhouse",
+      "gender": "Female",
+      "city": "West Des Moines",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GVV3hoiL83MO1P6JY7GmiA=="
+    },
+    {
+      "name": "Linda Eisenbeis",
+      "gender": "Female",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "99JosFSy8kRndwflJe9Uig=="
+    },
+    {
+      "name": "Jerry Elliott",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "VYFODCQIoeIDvEb6FqHAFA=="
+    },
+    {
+      "name": "Lars Engle",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "ai8dFoC1Orv1Qei8wrDemQ=="
+    },
+    {
+      "name": "Randolph Fauser",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/AGVu4BHntHGg5EHkDys3w=="
+    },
+    {
+      "name": "Robert Faust",
+      "gender": "Male",
+      "city": "Union",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IMiZRJlWRfX1h6RaRKooNQ=="
+    },
+    {
+      "name": "Norma Feldman",
+      "gender": "Female",
+      "city": "Columbia",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vk4PtledUp2R0O72ZnslTA=="
+    },
+    {
+      "name": "Debra Ferris",
+      "gender": "Female",
+      "city": "Wichita",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bOax53AJZTEB910P9X27mw=="
+    },
+    {
+      "name": "Judy Fitzpatrick",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "tpxrojWcVJxTsJ8cKHBbnA=="
+    },
+    {
+      "name": "Lyla Flohrs",
+      "gender": "Female",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9lSc55VTcnzE8FzvadsaAw=="
+    },
+    {
+      "name": "Debbie Flynn",
+      "gender": "Female",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "orcqKjvOOFoNm9fseKYBcg=="
+    },
+    {
+      "name": "Theia Foley",
+      "gender": "Female",
+      "city": "Cotter",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8PMgrBo9KatbG4KzPSFicg=="
+    },
+    {
+      "name": "Judy Frain",
+      "gender": "Female",
+      "city": "Kirkwood",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9KZnSi9SUKtYvHDv8VlqNw=="
+    },
+    {
+      "name": "Robert Franklin",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lclicTC45Qn+SnQfZw8fVw=="
+    },
+    {
+      "name": "Tom Franklin",
+      "gender": "Male",
+      "city": "Estero",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/22/2025",
+      "usta_id": "cbGZBgJfAR1wkFWj9X8DLQ=="
+    },
+    {
+      "name": "Gail Frapolli",
+      "gender": "Female",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "skeiEaWDBkI3TCkIPDvbVg=="
+    },
+    {
+      "name": "Carey Freeman",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9k+x984C96wnCe4xwNUK7w=="
+    },
+    {
+      "name": "Randy Freeman",
+      "gender": "Male",
+      "city": "Clayton",
+      "state": "MO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X/IjpWfcxwshRHNecxkvYg=="
+    },
+    {
+      "name": "HeeYoung Fridley",
+      "gender": "Female",
+      "city": "Joplin",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VknjKI/V7xmvvFwJGdR4jQ=="
+    },
+    {
+      "name": "Mark Fries",
+      "gender": "Male",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SAqQvDMw3JBtBNVxO3d5AQ=="
+    },
+    {
+      "name": "Ronald Froman",
+      "gender": "Male",
+      "city": "Saint Charles",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5bl31Mpcfw2xGIWquFpVPA=="
+    },
+    {
+      "name": "Deb Frost",
+      "gender": "Female",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "SyuC91LYlhr+cwUPrEq59g=="
+    },
+    {
+      "name": "Ann Galley",
+      "gender": "Female",
+      "city": "Valley",
+      "state": "NE",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "tLrJjCPtm3iSlAJv4Q/miQ=="
+    },
+    {
+      "name": "Mike Gardner",
+      "gender": "Male",
+      "city": "Bellevue",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E+l8IaJl4YBYZEAyIXL+Fw=="
+    },
+    {
+      "name": "Robin Garlich",
+      "gender": "Female",
+      "city": "Naples",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s1g0amgFVCa9cC3CVmHTAg=="
+    },
+    {
+      "name": "Cindy Garrett",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X9Z1UM3ImJR56Q2L68msUg=="
+    },
+    {
+      "name": "Tina Gibson",
+      "gender": "Female",
+      "city": "Columbia",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/30/2024",
+      "usta_id": "ECeQxklaQVXb7FyIMTuhAw=="
+    },
+    {
+      "name": "Becky Gilbert",
+      "gender": "Female",
+      "city": "Naples",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "apazeK5IxrMCdVCby9KPOQ=="
+    },
+    {
+      "name": "Barb Ginavan",
+      "gender": "Female",
+      "city": "Olathe",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vFkVN9G7j3KQ194/BAy1eg=="
+    },
+    {
+      "name": "Victoria Leigh Glesmann",
+      "gender": "Female",
+      "city": "Papillion",
+      "state": "NE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cuef7nFdHSdi4uqrZy82zw=="
+    },
+    {
+      "name": "Curtis Goebel",
+      "gender": "Male",
+      "city": "LINCOLN",
+      "state": "NE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "NioWwbbl000tVz3Bv3wZNA=="
+    },
+    {
+      "name": "Jana Goeke",
+      "gender": "Female",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CdXUEblduJk/Ap2gFIxuUw=="
+    },
+    {
+      "name": "Carol Goldstein",
+      "gender": "Female",
+      "city": "Bolivar",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "SBMXd5Qzeq+Jf064jJL3ww=="
+    },
+    {
+      "name": "Terence Grewe",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N8Mz7EomNTNw9mSIiefEHw=="
+    },
+    {
+      "name": "Penny Guffey",
+      "gender": "Female",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "NWw67iUz55ZfdDcySd6aHw=="
+    },
+    {
+      "name": "Jay Gulick",
+      "gender": "Male",
+      "city": "BIXBY",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "n14K/J/fjLq/Mbkt3GbJSQ=="
+    },
+    {
+      "name": "Sharon Guterman",
+      "gender": "Female",
+      "city": "Jenks",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aH94rWkCF0dYIyKa52al7g=="
+    },
+    {
+      "name": "Donna Haager",
+      "gender": "Female",
+      "city": "Des Moines",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3jpvZGTu55bHGYejaxbiiw=="
+    },
+    {
+      "name": "Mitzi Hackney",
+      "gender": "Female",
+      "city": "Wichita",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9snvoHmLOTrcZGAxNatruA=="
+    },
+    {
+      "name": "Gregg Hammann",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oaRaPmrJLtlgoIGaBoK+rA=="
+    },
+    {
+      "name": "Tommy Hand",
+      "gender": "Male",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tZ0CmmmXtBE="
+    },
+    {
+      "name": "Larry Haney",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dSbE7SpvIrLZNT6GfdxNEg=="
+    },
+    {
+      "name": "Roxanna Hanseth",
+      "gender": "Female",
+      "city": "Bixby",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0K45rcN0Yog="
+    },
+    {
+      "name": "Susan Hargis",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vd/V3qjCbrEbV+ehpvaS1g=="
+    },
+    {
+      "name": "Roderick Harley",
+      "gender": "Male",
+      "city": "Lincoln",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "rs5Fsw1wLrY="
+    },
+    {
+      "name": "Cynthia Harrison",
+      "gender": "Female",
+      "city": "Ballwin",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F3GxLdQ11BGDkZv8x0WgQQ=="
+    },
+    {
+      "name": "Darwin Haskins",
+      "gender": "Male",
+      "city": "Ballwin",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "16NslTSMwuHX4q6N2HwPxQ=="
+    },
+    {
+      "name": "Paul Haupt",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "k2Q83LKsbBXIRjELCPeTHw=="
+    },
+    {
+      "name": "Rebekah Herrick",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "koBbEWdPx61nzUqGg0RgVQ=="
+    },
+    {
+      "name": "Margot Heyne-Bell",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vcxw7w1bJ7DeO1NBEeDwGQ=="
+    },
+    {
+      "name": "Kema Hicks",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U5aO1QxdqMZn62Qt5Q77Fg=="
+    },
+    {
+      "name": "Sandy Hightower",
+      "gender": "Female",
+      "city": "TULSA",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AQVoxh+l3EZOIT2pqs3yxA=="
+    },
+    {
+      "name": "Judy Hodel",
+      "gender": "Female",
+      "city": "Leawood",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wd+RmK6G2cK5+rDmraF9ag=="
+    },
+    {
+      "name": "Kathy Hof",
+      "gender": "Female",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ClSVYNZEiwjgIljcLDhVDA=="
+    },
+    {
+      "name": "Susan Hoffman",
+      "gender": "Female",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xRRHEPdkjwjcmcyBuae1Kw=="
+    },
+    {
+      "name": "Donna Hoffmann",
+      "gender": "Female",
+      "city": "Versailles",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fgXmiSzWfK87ikj31/p92w=="
+    },
+    {
+      "name": "Dave Hoover",
+      "gender": "Male",
+      "city": "Manhattan",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AdD7kd6IoXK91Lk/l9No4Q=="
+    },
+    {
+      "name": "Anne Hope",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XD9ESTScq6QTX+z9QfEpTA=="
+    },
+    {
+      "name": "Randy Hughes",
+      "gender": "Male",
+      "city": "Bixby",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tdTNMnDSnfLOQ8EkQa/RiQ=="
+    },
+    {
+      "name": "Vanessa Hutto",
+      "gender": "Female",
+      "city": "Owasso",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HFYAgzQWjgie7dsz9gFF2w=="
+    },
+    {
+      "name": "Laura Ilardi",
+      "gender": "Female",
+      "city": "Chesterfield",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "ERWDqEmHx6ZTp+vkN2DLsQ=="
+    },
+    {
+      "name": "Denise Inman",
+      "gender": "Female",
+      "city": "Columbia",
+      "state": "IL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w4wEmGI/W+fu5VyufxMM/g=="
+    },
+    {
+      "name": "Marcia Jacelone",
+      "gender": "Female",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K/5eQSgJeHVF+0PKL1B4mQ=="
+    },
+    {
+      "name": "Terry Jackson",
+      "gender": "Male",
+      "city": "Olathe",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VeFj5cbznap8J/Su0KpuKg=="
+    },
+    {
+      "name": "Mark Jeffrey",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ooa+6Kqv+NtcwDHjhUjusQ=="
+    },
+    {
+      "name": "Randall Jensen",
+      "gender": "Male",
+      "city": "Lenexa",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8QPM7CouhkGCUMubJMIUIQ=="
+    },
+    {
+      "name": "Janet Johnson",
+      "gender": "Female",
+      "city": "Urbandale",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "dmTIVFYd8sY+Wj+7kb+9VQ=="
+    },
+    {
+      "name": "Kay Jones",
+      "gender": "Female",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V/XEcaV/6pFg2LGKVbBcHw=="
+    },
+    {
+      "name": "Robin Jones",
+      "gender": "Female",
+      "city": "Columbia",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7qiScn55Oa7+WgCCa4fEoA=="
+    },
+    {
+      "name": "Wilbur Jones",
+      "gender": "Male",
+      "city": "Shawnee",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/13/2024",
+      "usta_id": "La2yGDCLgsPLHXBSqzWBdQ=="
+    },
+    {
+      "name": "Tory Jorgensen",
+      "gender": "Female",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qmv67TKnuHkn61MkltxPMg=="
+    },
+    {
+      "name": "Peggy Kaden",
+      "gender": "Female",
+      "city": "Columbia",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i/G+Ox3abNdlp20WhMB1Ug=="
+    },
+    {
+      "name": "Keith Keirsey",
+      "gender": "Male",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gZVy0IgKd+aEnnYFP/cQfg=="
+    },
+    {
+      "name": "Bruce Kenney",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/10/2024",
+      "usta_id": "A2IUnmb/XUr1IYSuh/2idg=="
+    },
+    {
+      "name": "Debbie Kern",
+      "gender": "Female",
+      "city": "Fayetteville",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/5GAdzDceGMgUAmzXKUzZw=="
+    },
+    {
+      "name": "Jim Kimminau",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/15/2024",
+      "usta_id": "xZp/K1znNuhm1bmj+spzNg=="
+    },
+    {
+      "name": "Pamela Kinnevan",
+      "gender": "Female",
+      "city": "JOHNSTON",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m9HYfU5TcVrSyDjCT2EbCA=="
+    },
+    {
+      "name": "Lucy Klingler",
+      "gender": "Female",
+      "city": "Creve Coeur",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yz+gpahcYVSauufXD9yz5Q=="
+    },
+    {
+      "name": "Cathy Knight",
+      "gender": "Female",
+      "city": "Seligman",
+      "state": "MO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RzxgLOMbblK/fMcr9NLgyw=="
+    },
+    {
+      "name": "Ed Kranau",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KcZwID9MRxBynrKKNIDGnQ=="
+    },
+    {
+      "name": "Dana Krauss",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "K0m/dXrzEPMAKopyLVMdXA=="
+    },
+    {
+      "name": "Katherine Kryzer",
+      "gender": "Female",
+      "city": "Wichita",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iC5CuXA+vflN6afFOevqLQ=="
+    },
+    {
+      "name": "Gretchen Kuhn",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "nFbz7PQqqRW7+uHl69Vmdw=="
+    },
+    {
+      "name": "Michael Lackey",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2N5/DFA5JLgNGIjuhGaQ+A=="
+    },
+    {
+      "name": "Lisa Lamb",
+      "gender": "Female",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OTt4PhBLZum3hZF+VECqEA=="
+    },
+    {
+      "name": "Greg Lane",
+      "gender": "Male",
+      "city": "Edmond",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jJ+hFfoNWEuwYr3ZR0Hx+w=="
+    },
+    {
+      "name": "James Lang",
+      "gender": "Male",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7b+2nqtZpndqL8D+8aPkzA=="
+    },
+    {
+      "name": "Tom Langwell",
+      "gender": "Male",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gvou293qoMPmZ7P7YF137g=="
+    },
+    {
+      "name": "Dennis Lawlor",
+      "gender": "Male",
+      "city": "Lake Quivira",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/3/2025",
+      "usta_id": "hs6NkDqL2XBfuFyhlCmMkg=="
+    },
+    {
+      "name": "Lorry Lazenby",
+      "gender": "Male",
+      "city": "Joplin",
+      "state": "MO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "967SSmXRIWBEx1CEzogsYg=="
+    },
+    {
+      "name": "Bobbie Lee",
+      "gender": "Female",
+      "city": "Wichita",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oBrnyezup2O0OiX4LBjqMA=="
+    },
+    {
+      "name": "Jo Lehan",
+      "gender": "Female",
+      "city": "CAVE CREEK",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ah0H6Hc06sKRvK0t5YD+Iw=="
+    },
+    {
+      "name": "Albert Lei",
+      "gender": "Male",
+      "city": "TOPEKA",
+      "state": "KS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/25/2025",
+      "usta_id": "KTb28kuY9D3jGTbJ9Mcy4g=="
+    },
+    {
+      "name": "Shannon Lemp",
+      "gender": "Female",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3kVC63ysz3nkAmQOLZCNFw=="
+    },
+    {
+      "name": "Charlene Liesveld",
+      "gender": "Female",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m8t0BGHBVIvRyKT3ym1Q8w=="
+    },
+    {
+      "name": "Peggy Lindsey",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jIsrHS1k6O2/Erco1FE3jw=="
+    },
+    {
+      "name": "Chris Livingston",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fpFJRibvK2Vlra/mHJkOSQ=="
+    },
+    {
+      "name": "Marla Lovinggood",
+      "gender": "Female",
+      "city": "Lees Summit",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DUh7eTBjCFPYKwtrCH7qKA=="
+    },
+    {
+      "name": "Marla Lowes",
+      "gender": "Female",
+      "city": "Saint Charles",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EaxqXjQ1OMSNkcQcI0AnvQ=="
+    },
+    {
+      "name": "MaryAnn Luchtel",
+      "gender": "Female",
+      "city": "Grain Valley",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YaW6S08deva7LyBLklBXtw=="
+    },
+    {
+      "name": "Dave Luebbe",
+      "gender": "Male",
+      "city": "EDMOND",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/8/2025",
+      "usta_id": "d6ssPgMxht2ZQZBtMOlrEQ=="
+    },
+    {
+      "name": "David Luedtke",
+      "gender": "Male",
+      "city": "WOODWAY",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dW4yNcYsfE6ZabAAGIr4/Q=="
+    },
+    {
+      "name": "Catherine Luh",
+      "gender": "Female",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "JgoOE0FVPG2x7iwE039CqA=="
+    },
+    {
+      "name": "Rose Luh",
+      "gender": "Female",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "24ePaIpLriHl47bmLlccRw=="
+    },
+    {
+      "name": "Greg Lutz",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/HPvYZqc50aU6BG/R151pA=="
+    },
+    {
+      "name": "June MacKay",
+      "gender": "Female",
+      "city": "Des Moines",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d/EjpnoXRcQR2cNKkM3JWQ=="
+    },
+    {
+      "name": "Kevin Maloney",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "1ZwUC3A1GuCz7sqeth5QfA=="
+    },
+    {
+      "name": "Karen Mann",
+      "gender": "Female",
+      "city": "Urbandale",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "j2fATDzZDj9eCriB/OgzQg=="
+    },
+    {
+      "name": "Maxine Martin",
+      "gender": "Female",
+      "city": "Elkhorn",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zmz6tiwXMWI="
+    },
+    {
+      "name": "Bob Mason",
+      "gender": "Male",
+      "city": "Dewey",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "HzQmkB0RJIoK30PCR5ajwg=="
+    },
+    {
+      "name": "David May",
+      "gender": "Male",
+      "city": "SAINT JOSEPH",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kw7aG7CAzE/YGVzhg4wb5Q=="
+    },
+    {
+      "name": "Ron Mayfield",
+      "gender": "Male",
+      "city": "Owasso",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PFj04qy9YphiwlwlNOK0ZA=="
+    },
+    {
+      "name": "Joseph McAdams",
+      "gender": "Male",
+      "city": "West Des Moines",
+      "state": "IA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mw07h6KTXhglyBlTo4kIQw=="
+    },
+    {
+      "name": "Dana McBratney",
+      "gender": "Female",
+      "city": "Johnston",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iohb/Qnt6QE0sumLtD3/+Q=="
+    },
+    {
+      "name": "Ben Mccarley",
+      "gender": "Male",
+      "city": "Edmond",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2Uaor02LI3BQO4r10P32VA=="
+    },
+    {
+      "name": "Jody McClain",
+      "gender": "Female",
+      "city": "Grain Valley",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "usOiUH9pad7wm2eXJzoUxg=="
+    },
+    {
+      "name": "Susan McCormick",
+      "gender": "Female",
+      "city": "OVERLAND PARK",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hEcGkjnxrcZ+Wn1hs2mYkw=="
+    },
+    {
+      "name": "Mark McDonald",
+      "gender": "Male",
+      "city": "Prairie Village",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m6+dG7UGCaCR5HXPajuWyw=="
+    },
+    {
+      "name": "Judy McGaugh",
+      "gender": "Female",
+      "city": "Chesterfield",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "okpl67ZR7AVOxODGaeRFAg=="
+    },
+    {
+      "name": "Lois McKinley",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8jvD14scBy7sfXCgCcGYEg=="
+    },
+    {
+      "name": "Hildegard McManus",
+      "gender": "Female",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "wDoVT8ZZii94onJotqJ23g=="
+    },
+    {
+      "name": "Timothy McManus",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UKqGPrXqTKoF1fcsYsqSLw=="
+    },
+    {
+      "name": "Kevin McQuigg",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PmdkeCOv2F+G6pxDobudug=="
+    },
+    {
+      "name": "Becky Mehrmann",
+      "gender": "Female",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oHazuWz9geZa2qq+JrB/bw=="
+    },
+    {
+      "name": "Leslie Mills",
+      "gender": "Female",
+      "city": "Norman",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5b0ylQV46Y/q2twQ5gmAfw=="
+    },
+    {
+      "name": "Barney Moon",
+      "gender": "Male",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "F62+0z1oHfEhs8/S2kYRJw=="
+    },
+    {
+      "name": "Lucy Moon",
+      "gender": "Female",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qgFfBCA3i+f3sqYk/+KH5A=="
+    },
+    {
+      "name": "Maria Moore",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JMRVJJfbrW0nPRXk5iKfjw=="
+    },
+    {
+      "name": "Dennis Morris",
+      "gender": "Male",
+      "city": "Henryetta",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dc4MkIDBHSg9tYi4G5s38g=="
+    },
+    {
+      "name": "Patty Morton",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SWx+gwK3tpg9bly4l4O1JQ=="
+    },
+    {
+      "name": "Margie Moss",
+      "gender": "Female",
+      "city": "Joplin",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C//UezZh5DN7Lkdj3y50DA=="
+    },
+    {
+      "name": "Gregory Mott",
+      "gender": "Male",
+      "city": "LENEXA",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/1/2025",
+      "usta_id": "tTeyCufCH6n2R4b3pTxt6A=="
+    },
+    {
+      "name": "Kevin Mowery",
+      "gender": "Male",
+      "city": "Ballwin",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q7Ng6UuHoU6gvbIiLL8F+w=="
+    },
+    {
+      "name": "Gloria Mullenix",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DQZiea2jAzVwK7kIo7Mvhw=="
+    },
+    {
+      "name": "Alan Myers",
+      "gender": "Male",
+      "city": "Edwardsville",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/9/2024",
+      "usta_id": "fDw4IVOMqDt4IqfaYrnQ/g=="
+    },
+    {
+      "name": "Linda Myres",
+      "gender": "Female",
+      "city": "Olathe",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ay03MBPfKjs8LBvtNUFVTA=="
+    },
+    {
+      "name": "Cory Nagode",
+      "gender": "Male",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WEpAvHoeoGyFMYeQrRZlBw=="
+    },
+    {
+      "name": "Ava Nesbitt",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MV15cIkvrYVWPCubC1E7uA=="
+    },
+    {
+      "name": "Tracy Nicholas",
+      "gender": "Female",
+      "city": "Carl Junction",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OvKt2jZrw4aXttqh6MxVsQ=="
+    },
+    {
+      "name": "Billy Niemann",
+      "gender": "Male",
+      "city": "Clayton",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/15/2024",
+      "usta_id": "MXnAJ5fkBT1gmevdxQGYtw=="
+    },
+    {
+      "name": "Mary Nordstrand",
+      "gender": "Female",
+      "city": "Valley",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gGltNpG5TcBq6LceixWRJQ=="
+    },
+    {
+      "name": "Mark Nordstrom",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "uRLUg8TeAfWvNdMxqFTDVw=="
+    },
+    {
+      "name": "Cindy Noyes",
+      "gender": "Female",
+      "city": "Bixby",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nNE5qR3uRck6NdfgYFsnNQ=="
+    },
+    {
+      "name": "Sherry O'Connell",
+      "gender": "Female",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hdSM+65H9f5238/WFJynOw=="
+    },
+    {
+      "name": "Danita Olafson",
+      "gender": "Female",
+      "city": "Johnston",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OGhxpnFdcaefSQ4QVUfiug=="
+    },
+    {
+      "name": "Steven Oppliger",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "stRp9JGNxYnkxOVx5N1BWA=="
+    },
+    {
+      "name": "George Orchard",
+      "gender": "Male",
+      "city": "Sun City West",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JDhvU9LS5JmD3vdywLZ8Uw=="
+    },
+    {
+      "name": "David Osborn",
+      "gender": "Male",
+      "city": "Chesterfield",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bTkYtPfuVuJQjr9STkkYpg=="
+    },
+    {
+      "name": "Steven Osborne",
+      "gender": "Male",
+      "city": "Gladstone",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IH0auI7dwFq+Jx/tqLslGA=="
+    },
+    {
+      "name": "Virginia Paap",
+      "gender": "Female",
+      "city": "Honey Creek",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "sZ1izvhT697IZ+MaJEVnOw=="
+    },
+    {
+      "name": "Susan Palmer",
+      "gender": "Female",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5hYS8lcVIQs="
+    },
+    {
+      "name": "Nancy Parker",
+      "gender": "Female",
+      "city": "Boonville",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KLVmzieeMkmr0PX4Lygr3w=="
+    },
+    {
+      "name": "Renee Pascale",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "e7SfVDujQnIKOCrxPrLk6A=="
+    },
+    {
+      "name": "Roy Patton",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "LLOVBpFD0Ss3S/CX/nQyMg=="
+    },
+    {
+      "name": "Diane Pavelka",
+      "gender": "Female",
+      "city": "Wichita",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "HeOhyZXCqXhBMCT+DWRIbg=="
+    },
+    {
+      "name": "William Pearson",
+      "gender": "Male",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qrSDUYQvRr9GtxdgWFplDA=="
+    },
+    {
+      "name": "Thomas Perkuhn",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cVkNUR5UXs0HmpvQ1KPsEg=="
+    },
+    {
+      "name": "Jerry Perry",
+      "gender": "Male",
+      "city": "Edmond",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r5HqL8wbbubpLhrzttLlhw=="
+    },
+    {
+      "name": "Linda Peterson",
+      "gender": "Female",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YvWZ4QImBTEIr1p3krkf4w=="
+    },
+    {
+      "name": "Cynthia Pfeiffer",
+      "gender": "Female",
+      "city": "Andover",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lom0YGLWqoGuNyD24JX5rg=="
+    },
+    {
+      "name": "Douglas Phillips",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vLTViaSMPXtt9fb5WP7YUQ=="
+    },
+    {
+      "name": "James Pigg",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vrpxoONoBtYLoIe+p6vxMQ=="
+    },
+    {
+      "name": "Philip Pitzen",
+      "gender": "Male",
+      "city": "Urbandale",
+      "state": "IA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KAXh8dVf0CLcp3eJAC3W0g=="
+    },
+    {
+      "name": "Duane Pomeroy",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WWYQ4N1Aeg+eznVbZiljjw=="
+    },
+    {
+      "name": "Diane Pound",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e6MV0MWh5vZ7Nzdcq7REQg=="
+    },
+    {
+      "name": "Peggy Powell",
+      "gender": "Female",
+      "city": "Wichita",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W/zsq2WsVCr1/9rqaogvkg=="
+    },
+    {
+      "name": "Janice Price",
+      "gender": "Female",
+      "city": "Emporia",
+      "state": "KS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xejnBe+UeiMuSjOOc7Y83w=="
+    },
+    {
+      "name": "Norma Prifti",
+      "gender": "Female",
+      "city": "Maryland Heights",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gwcWs6qon9wWIY25KUvuyA=="
+    },
+    {
+      "name": "Lisa Prince",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TEgF7TWv+yqL4ZrWnP4ELg=="
+    },
+    {
+      "name": "Jeep Pritchard",
+      "gender": "Male",
+      "city": "Claremore",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A+KclTzDGAOX3CH3Xfsp7g=="
+    },
+    {
+      "name": "Judy Pufall",
+      "gender": "Female",
+      "city": "Fayetteville",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kogd9+FOxhz/C8Pt91fsVg=="
+    },
+    {
+      "name": "Marcelo Puiggari",
+      "gender": "Male",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XkYJv/6o4tbmXMg4Q+cmgw=="
+    },
+    {
+      "name": "Kirk Purnell",
+      "gender": "Male",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3GjmrmYDEsYG9NC9Fxof4w=="
+    },
+    {
+      "name": "Linda Putman",
+      "gender": "Female",
+      "city": "Nixa",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H5SFiH1kbFwbCoTfvv0lXQ=="
+    },
+    {
+      "name": "Lucretia Raby",
+      "gender": "Female",
+      "city": "Lees Summit",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "KvrZj74TT0VcPZkPR97bhA=="
+    },
+    {
+      "name": "Chuck Raplinger",
+      "gender": "Male",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fVOqA+NEeI6dUQUSHjvN7A=="
+    },
+    {
+      "name": "Paul Rapponotti",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zXYdgahFXcPwCmE3UTjZFA=="
+    },
+    {
+      "name": "Lee Ray",
+      "gender": "Female",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aeruaHQSuR6Fb9ZkG/YqJQ=="
+    },
+    {
+      "name": "Tony Reali",
+      "gender": "Male",
+      "city": "Wichita",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nnmTviGvFSp5ieZ1tBgSSQ=="
+    },
+    {
+      "name": "Kurt Reid",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lU+MbzpI5e3J4Rx8Bf4/PA=="
+    },
+    {
+      "name": "Phyllis Reigh",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bYCkh7slCwahmHuth6VtYQ=="
+    },
+    {
+      "name": "Tom Rhoads",
+      "gender": "Male",
+      "city": "Saint Charles",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xn3oUYjj8QBN8DmErgfM5w=="
+    },
+    {
+      "name": "Brad Richison",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HxtGAK6hzCQ="
+    },
+    {
+      "name": "Barbara Rieder",
+      "gender": "Female",
+      "city": "Saint Charles",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DMMoI3Iaq32xOItNIsXd3g=="
+    },
+    {
+      "name": "Joseph Rishmany",
+      "gender": "Male",
+      "city": "Paradise Valley",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "oSDFwfrtmS9LZwSTa/jugA=="
+    },
+    {
+      "name": "Tom Roberts",
+      "gender": "Male",
+      "city": "Muskogee",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FhtRKeNMjZeDdqXtfZ+Atg=="
+    },
+    {
+      "name": "Jamie Robinson",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ibA92oRauvu0JwFZd2mVaA=="
+    },
+    {
+      "name": "Felice Rolnick",
+      "gender": "Female",
+      "city": "Ballwin",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gmvSka6LtALTKnsESQ6zHg=="
+    },
+    {
+      "name": "Clifton Rope",
+      "gender": "Male",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QBqg6LhFqE6p+9HeJnEUuA=="
+    },
+    {
+      "name": "Margaret Ropelle",
+      "gender": "Female",
+      "city": "Farmington",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ylBbwpXpN+naYThXZZys7Q=="
+    },
+    {
+      "name": "Rhonda Rose",
+      "gender": "Female",
+      "city": "Clive",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "Tutvgb6fOJ4Z9x5OXuEV5A=="
+    },
+    {
+      "name": "Robert Roth",
+      "gender": "Male",
+      "city": "Lincoln",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "93jdzDVHTNsOEgSkxPXX4w=="
+    },
+    {
+      "name": "Gregory Russell",
+      "gender": "Male",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r6LN2jqH9whvkeAokT/gzw=="
+    },
+    {
+      "name": "Kevin Sabin",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sr9D/vKQ42eBNVR33qCjCQ=="
+    },
+    {
+      "name": "Bob Samples",
+      "gender": "Male",
+      "city": "Bridgeton",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1W4MNRFG0zOqVcwiJmJ40Q=="
+    },
+    {
+      "name": "Eric Santon",
+      "gender": "Male",
+      "city": "Raymore",
+      "state": "MO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2TWdR1bH2SE="
+    },
+    {
+      "name": "John Schless",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ap1utBBMpNf54MQSA0qr8g=="
+    },
+    {
+      "name": "David Schmidt",
+      "gender": "Male",
+      "city": "ELKHORN",
+      "state": "NE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HOIM/ZRxn+wnd97NtjVuLw=="
+    },
+    {
+      "name": "Mark Schmidt",
+      "gender": "Male",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aV7htym+A/w="
+    },
+    {
+      "name": "Robert Schmidt",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XVJkLkXtk89wmdpHnyKWbg=="
+    },
+    {
+      "name": "Anne Schrader",
+      "gender": "Female",
+      "city": "Fayetteville",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "AI0RCZZmH0nnS9se6mewMw=="
+    },
+    {
+      "name": "Charles Schultz",
+      "gender": "Male",
+      "city": "Chesterfield",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WzO8t+rtnv2cUCxsM2/LjA=="
+    },
+    {
+      "name": "Elaine Schulze",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q5sz3uMzEgCyruTbJY+ZYQ=="
+    },
+    {
+      "name": "Debra Schwarz",
+      "gender": "Female",
+      "city": "Silver Lake",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L/X7MSd3UP71uHa2jQrQow=="
+    },
+    {
+      "name": "Trey Shaffer",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vyDxY7NNwd3PeihYFHsQyQ=="
+    },
+    {
+      "name": "Linda Shinn",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WwUCLHyBchCnHTjl5N5Skw=="
+    },
+    {
+      "name": "Gary Shipp",
+      "gender": "Male",
+      "city": "OTTAWA",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "loKlLrHvqOFpUrvd5TDVdw=="
+    },
+    {
+      "name": "Jim Sides",
+      "gender": "Male",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rYP5qr/XDTi3FC3++sYLNg=="
+    },
+    {
+      "name": "Ron Sills",
+      "gender": "Male",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "gncyFahEQXtE0QhXggPP2Q=="
+    },
+    {
+      "name": "Lisa Simons",
+      "gender": "Female",
+      "city": "Lawrence",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9fUkdgZec1V5ktGk9l7doA=="
+    },
+    {
+      "name": "Joel Sissel",
+      "gender": "Male",
+      "city": "Clive",
+      "state": "IA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FiiZo4i22wyqlZ/RlAU6Ug=="
+    },
+    {
+      "name": "Debbi Skornia",
+      "gender": "Female",
+      "city": "Washington",
+      "state": "MO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p7rmL1TPw0IwP7WFGh8Bvw=="
+    },
+    {
+      "name": "Tom Small",
+      "gender": "Male",
+      "city": "Edmond",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "R+aBipX5JKFfOwzG0npXcw=="
+    },
+    {
+      "name": "Michael Souders",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rhHeBZSEXt6M4Hp2rZU2mw=="
+    },
+    {
+      "name": "Nancy Spielbusch",
+      "gender": "Female",
+      "city": "Blue Springs",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MUV3FLr4V50AkERDqC518Q=="
+    },
+    {
+      "name": "Barbara Spomer",
+      "gender": "Female",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "E+Fz/xSlNIae6KpArz9dUQ=="
+    },
+    {
+      "name": "Kim Spurgeon",
+      "gender": "Female",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d7YNmlR6v8r6duPaKqeIrA=="
+    },
+    {
+      "name": "Robert Stacks",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "6nZnOaDd1BREtpsC6J4RDg=="
+    },
+    {
+      "name": "Larry Stalcup",
+      "gender": "Male",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pmw0WpQGISdstFbyFNXoCQ=="
+    },
+    {
+      "name": "Lori Stanziola",
+      "gender": "Female",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2CMIYhHLFEgmkWtpnxQklQ=="
+    },
+    {
+      "name": "JUDY STAROSCIK",
+      "gender": "Female",
+      "city": "Olathe",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PnYHrZjTDcxFCGUFTLcpKw=="
+    },
+    {
+      "name": "Terry Stokes",
+      "gender": "Male",
+      "city": "EDMOND",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "muRIHXTNC+krCLYKMBcB1w=="
+    },
+    {
+      "name": "Tina Stong",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uLH1HDS5Q4lX1MtooiRZ/w=="
+    },
+    {
+      "name": "Cliff Stroh",
+      "gender": "Male",
+      "city": "Clive",
+      "state": "IA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VjPhM7Nsyw7XGEBq5WfZRw=="
+    },
+    {
+      "name": "Patricia Stuart",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pcGmoeOVv+ce2NUDOT1i1w=="
+    },
+    {
+      "name": "Sharon Swafford",
+      "gender": "Female",
+      "city": "Naples",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gx7f5a9RB5riqMHY2lw5vQ=="
+    },
+    {
+      "name": "Karen Talbott",
+      "gender": "Female",
+      "city": "Joplin",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "outSAp5RziZmukUvHopaxA=="
+    },
+    {
+      "name": "Marsha Taylor",
+      "gender": "Female",
+      "city": "Olathe",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jBqViGCPfOACo2sJcjEeHA=="
+    },
+    {
+      "name": "Kirk Teters",
+      "gender": "Male",
+      "city": "Lincoln",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "SdZmANx++RnvGvTj8XRLQg=="
+    },
+    {
+      "name": "Carl Thomason",
+      "gender": "Male",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uF5hU3tIVqIbbcBsKTmpzw=="
+    },
+    {
+      "name": "Patricia Thompson",
+      "gender": "Female",
+      "city": "Wichita",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jcl6frwjgvFg5KXHKY30XA=="
+    },
+    {
+      "name": "Sharon Thompson",
+      "gender": "Female",
+      "city": "BOLIVAR",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PwG5tZxa4MvbMY3BumBEFg=="
+    },
+    {
+      "name": "David Thurbon",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/9/2025",
+      "usta_id": "z3agXcgfDuQxajPOO6bt9Q=="
+    },
+    {
+      "name": "Scott Tinsley",
+      "gender": "Male",
+      "city": "Guthrie",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tuLgi/XdBNnRunY73XYhKg=="
+    },
+    {
+      "name": "Jan Tipton",
+      "gender": "Female",
+      "city": "Shawnee",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y/Kk6RAKwuXYnkErspxHyw=="
+    },
+    {
+      "name": "Imelda Tooey",
+      "gender": "Female",
+      "city": "Peculiar",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sPgbdigny8HsvPdcuRwo9Q=="
+    },
+    {
+      "name": "Meg Townsend",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YUZQ8AZy9EjzG9KuBoqYEA=="
+    },
+    {
+      "name": "C Truesdell",
+      "gender": "Male",
+      "city": "Mounds",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OBUj7TwA0B/xgNufCzifig=="
+    },
+    {
+      "name": "Cathie Turner",
+      "gender": "Female",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FPZJbwVP8WGiaU7Ej5MYmw=="
+    },
+    {
+      "name": "Steve Uelhof",
+      "gender": "Male",
+      "city": "Saint Charles",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+qHIWLLr1eTVmu29DLzwSg=="
+    },
+    {
+      "name": "Mia Vahlberg",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XhFno9yTYApEj8Gr0e27Dg=="
+    },
+    {
+      "name": "Thomas Verdi",
+      "gender": "Male",
+      "city": "Independence",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "qwZ/UFdKCofI7ZpuIrJEcw=="
+    },
+    {
+      "name": "Dick Villaflor",
+      "gender": "Male",
+      "city": "Yukon",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fi8P5KYWVp0lSLh3sKDREA=="
+    },
+    {
+      "name": "Ann Vogel",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "XwliJ1maqhjp/2t/UZblhg=="
+    },
+    {
+      "name": "Yasuko Wakuzawa",
+      "gender": "Female",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mmGguZgxJeswfCWZy07/Rg=="
+    },
+    {
+      "name": "Berry Wanless",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rzTusn3lxl4="
+    },
+    {
+      "name": "Terry Ward",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "JP+92p2i+tU="
+    },
+    {
+      "name": "Bob Warkentine",
+      "gender": "Male",
+      "city": "Lawrence",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/QrD79wXeyJojDON6lopbg=="
+    },
+    {
+      "name": "Mary Weaver",
+      "gender": "Female",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "akROtEFvL0XDxXYQjo/Oew=="
+    },
+    {
+      "name": "Nancy Wedel",
+      "gender": "Female",
+      "city": "Shawnee",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h0mhmpjq1RqmvvC0UScO0Q=="
+    },
+    {
+      "name": "Mark Weiss",
+      "gender": "Male",
+      "city": "Saint Louis",
+      "state": "MO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "ocgaskHw0Ijb2MnzyfWf3w=="
+    },
+    {
+      "name": "Diane Werner",
+      "gender": "Female",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OF24K7GSBgfsjVAf+wjKuQ=="
+    },
+    {
+      "name": "James Werner",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cCCKUAm13jVV3wH0prEzvw=="
+    },
+    {
+      "name": "Ruth West",
+      "gender": "Female",
+      "city": "Blue Springs",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/3/2025",
+      "usta_id": "RWPhjRyOt3pMJnfXEJ0Etg=="
+    },
+    {
+      "name": "Diane Wheat",
+      "gender": "Female",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/1/2024",
+      "usta_id": "rWg8lMe1bJU="
+    },
+    {
+      "name": "DeAnn White",
+      "gender": "Female",
+      "city": "Wichita",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xDwpkhd3OM9Yy3vEOPz/MA=="
+    },
+    {
+      "name": "Jeri White",
+      "gender": "Female",
+      "city": "Kansas City",
+      "state": "MO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6KkRcWJQsLI+EodKWdK3sw=="
+    },
+    {
+      "name": "Mark Whiting",
+      "gender": "Male",
+      "city": "Shawnee",
+      "state": "KS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E+idANGfg7OfrQ57yh1N9w=="
+    },
+    {
+      "name": "Janice Wilburn",
+      "gender": "Female",
+      "city": "AFTON",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O2oHWO0GicdU0eLndUOmMA=="
+    },
+    {
+      "name": "James Wilkins",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cdj99NshIgY="
+    },
+    {
+      "name": "Dean Williams",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f1anMKlrjlE0YF0wkh6mLQ=="
+    },
+    {
+      "name": "Janis Willmann",
+      "gender": "Female",
+      "city": "Saint Peters",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L4luttC5nwiSGP1XlAqatQ=="
+    },
+    {
+      "name": "Wade Winingham",
+      "gender": "Male",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "skW+0YJnJ3R8g4S47QEgxg=="
+    },
+    {
+      "name": "Mary Lou Winquest",
+      "gender": "Female",
+      "city": "Valley",
+      "state": "NE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FEixncQ7V49bd9QQWleOcQ=="
+    },
+    {
+      "name": "Jim Winslow",
+      "gender": "Male",
+      "city": "Bixby",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "FnG103E8xD0VIHpvE6FdEg=="
+    },
+    {
+      "name": "Thomas Witte",
+      "gender": "Male",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xS9tAbesF/juLVwg3idNQw=="
+    },
+    {
+      "name": "Anne Wood",
+      "gender": "Female",
+      "city": "Edmond",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EVOGsMCxKqwXrxguuod8xQ=="
+    },
+    {
+      "name": "Annette Woodall",
+      "gender": "Female",
+      "city": "Edmond",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fo4c5i2gTUIIve2MTF0rQQ=="
+    },
+    {
+      "name": "Linda Woodard",
+      "gender": "Female",
+      "city": "Ballwin",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vbxTuQw/LmUGebbDu7gkGw=="
+    },
+    {
+      "name": "Mike Wyatt",
+      "gender": "Male",
+      "city": "BROKEN ARROW",
+      "state": "OK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DDEo7OIayTymeYxZ131Mbg=="
+    },
+    {
+      "name": "Ray Wynant",
+      "gender": "Male",
+      "city": "Overland Park",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Se3YvaKY7Yf3ELc39IAdcw=="
+    },
+    {
+      "name": "Craig Yorke",
+      "gender": "Male",
+      "city": "Topeka",
+      "state": "KS",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "hyH43e9vdG7+0XVD3bNRLw=="
+    },
+    {
+      "name": "Sandra Zebrowski",
+      "gender": "Female",
+      "city": "Omaha",
+      "state": "NE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FFOXgpMITn0pk12DM8MZ1A=="
+    },
+    {
+      "name": "Bob Ziervogel",
+      "gender": "Male",
+      "city": "Sugar Land",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "WeDDBV5MB0+Xh18VL1J2Fw=="
+    }
+  ]
+}

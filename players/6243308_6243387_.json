@@ -1,0 +1,2377 @@
+{
+  "sectionId": "6243308",
+  "districtId": "6243387",
+  "areaId": "",
+  "players": [
+    {
+      "name": "Kirsten Aamodt",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/aRBxrFCsyiMmTdt0Y9Fww=="
+    },
+    {
+      "name": "Craig Abney",
+      "gender": "Male",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l8MJY8FE2CxFHKsOvIxolA=="
+    },
+    {
+      "name": "Rebekah Allen",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VmzGqXSutlL1b0QLp6+bKw=="
+    },
+    {
+      "name": "Jared Archer",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j9MRdG1DGwiEzkb6YJtixA=="
+    },
+    {
+      "name": "Adriana Armesto Howard",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s/PQrzTKqJ7lin+j8SqVtA=="
+    },
+    {
+      "name": "Caroline Austin-Mathur",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UHyaA/WOPjkCPPV2tMqM6Q=="
+    },
+    {
+      "name": "Kelsey Baer",
+      "gender": "Female",
+      "city": "Dewey",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/7/2024",
+      "usta_id": "aRVQtEQqb784DxVEHrYj/w=="
+    },
+    {
+      "name": "Packy Baker",
+      "gender": "Male",
+      "city": "Cornville",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "0i5chdYI/vfguHmPiXFAww=="
+    },
+    {
+      "name": "Laura Barker",
+      "gender": "Female",
+      "city": "MINNEAPOLIS",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "tNJpw8KXXnWJdkNelH5yNg=="
+    },
+    {
+      "name": "Bill Bartling",
+      "gender": "Male",
+      "city": "PRESCOTT",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B28Lbs/zE5XpMwNqLqD5Cw=="
+    },
+    {
+      "name": "Sarah Bartling",
+      "gender": "Female",
+      "city": "PRESCOTT",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nFWoVocl4sby+5EhPOSOAg=="
+    },
+    {
+      "name": "Allison Bates",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rDIIlu2F4TkOTepFI1bI3Q=="
+    },
+    {
+      "name": "Barbara Bates",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1lO3mXWK34mKwDqLF3Ho8A=="
+    },
+    {
+      "name": "Belinda Batie",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r1K6z/nKLpjSUW+0kglTBw=="
+    },
+    {
+      "name": "Jennifer Bearchell",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9CjVACtf1jMlBPtjaYL31A=="
+    },
+    {
+      "name": "Jeff Bennett",
+      "gender": "Male",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "VISfWHKEEobrs3WLKIdrHA=="
+    },
+    {
+      "name": "Angela Bergemann",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eZtmRyefGJw55QuZKzX/Wg=="
+    },
+    {
+      "name": "Kristy Bidwill",
+      "gender": "Female",
+      "city": "Paradise Valley",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "1pGX2n2dd03Wbzf/HzRVCg=="
+    },
+    {
+      "name": "JB Birdt",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jjy0XPEwjaPBMlUh7ME/SQ=="
+    },
+    {
+      "name": "Sam Blankenship",
+      "gender": "Male",
+      "city": "FLAGSTAFF",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JBjaCvXHEabCNS61ZHt7Tg=="
+    },
+    {
+      "name": "LORI BLOCKER",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/+Vj71qcXeQBdB0b8AuXsg=="
+    },
+    {
+      "name": "Barbara Bloom",
+      "gender": "Female",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "17c+N7+BE+KrTKMijjOZpQ=="
+    },
+    {
+      "name": "Roberta Bloss",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a3XXVAC59T+pAcpuUfmOQg=="
+    },
+    {
+      "name": "Jacob Bordelon",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "/pH4fXVoLVYGa5TJIMXF4g=="
+    },
+    {
+      "name": "Bruce Bourne",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lf/I4dEhb4jy0KoQ7R/ezA=="
+    },
+    {
+      "name": "Temmy Bowler",
+      "gender": "Female",
+      "city": "PRESCOTT",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EvJtCgSB+6jnuGlMYfXLGA=="
+    },
+    {
+      "name": "Bob Boyer",
+      "gender": "Male",
+      "city": "FLAGSTAFF",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "cl7crusE39+NyVfxA+2Acw=="
+    },
+    {
+      "name": "Diane Brock",
+      "gender": "Female",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9tAz/M1ADBA6/hfp4/Hz6A=="
+    },
+    {
+      "name": "Rachel Brockway",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BkVFgvq0lVj9bHYKxdll6g=="
+    },
+    {
+      "name": "Janice Brooks",
+      "gender": "Female",
+      "city": "FORT COLLINS",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WDo6WenVgVOAzp6gKxQ78A=="
+    },
+    {
+      "name": "Jean Brown",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u8ocjeP6kk6BhUh8gamx2g=="
+    },
+    {
+      "name": "Brad Butterfield",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/12/2025",
+      "usta_id": "QOMD6w1YebHmfn17NvuRhw=="
+    },
+    {
+      "name": "Blake Cain",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YW0RRw9gehfqVAJb2ioIDg=="
+    },
+    {
+      "name": "Katie Campbell",
+      "gender": "Female",
+      "city": "Peoria",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UEwPImsGkEZOV/abDGhxVg=="
+    },
+    {
+      "name": "Warren Cassatt",
+      "gender": "Male",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GE5ztllQ0sxCd8ExDOC3mQ=="
+    },
+    {
+      "name": "Debbi Cassidy",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "On4cZXZwh9q0Pe/sdKVxvA=="
+    },
+    {
+      "name": "Deborah Cavaliere",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MKPDcfFNlEzVBTXNmJarcg=="
+    },
+    {
+      "name": "Amy Champ",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+V+K91LglBknIEQGkFAg9w=="
+    },
+    {
+      "name": "Jeff Champ",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YDkimy1IZ3X4sKHoZGoebg=="
+    },
+    {
+      "name": "Michael Chan",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1F/YMCv2qoNPOFkd6Sv9pw=="
+    },
+    {
+      "name": "Clare Choi",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NDuuFrmkmB73GGsXCLBdWw=="
+    },
+    {
+      "name": "Nikolas Christian",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/26/2024",
+      "usta_id": "pEiheRKV0Rf9SNvJm4mU8Q=="
+    },
+    {
+      "name": "Frank Coe",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "epDKEj5r0tiOYlzl1kFAeg=="
+    },
+    {
+      "name": "Eli Cohen",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HzNYHCqFp0iY9bpq+rc13A=="
+    },
+    {
+      "name": "Joanne Conn",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mfkGvGI0NWU3HXoykssikA=="
+    },
+    {
+      "name": "Diego Constante",
+      "gender": "Male",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3atYwlg99gTGtqs5H0kHHA=="
+    },
+    {
+      "name": "Joanna Cook",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yw7oA3IeypNRCZCpSrIQwg=="
+    },
+    {
+      "name": "Peg Cook",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/10/2024",
+      "usta_id": "hBLAXMyNJqNQON2qgazgsA=="
+    },
+    {
+      "name": "Bryan Cooperrider",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/12/2025",
+      "usta_id": "vjeyk7ghJP6QxnPaNPxqqg=="
+    },
+    {
+      "name": "Carol Corsetti",
+      "gender": "Female",
+      "city": "Tucson",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/11/2025",
+      "usta_id": "vADqR3ciBdCLqfm0OukfNQ=="
+    },
+    {
+      "name": "Kathy Cox",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KFNSFLpK8ySHCaFNx5sYSQ=="
+    },
+    {
+      "name": "Steve Cremin",
+      "gender": "Male",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "chcQLq9dNeuXPME9JtF5fA=="
+    },
+    {
+      "name": "Julie Crow",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rqOiysp3+aOBqtxtvcNBGg=="
+    },
+    {
+      "name": "Jennifer Crownhart",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wzaPEYGk6US9VC1UnvVJzg=="
+    },
+    {
+      "name": "John Curtis",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tqqEbTfokRQzSdxZqOBh+w=="
+    },
+    {
+      "name": "CORI CUSKER",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7/iNog8M7upR8K9B+31hjg=="
+    },
+    {
+      "name": "Steven Danner",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "HSIwb3CCh1dCoj7M0BmQNQ=="
+    },
+    {
+      "name": "Meredith Dean",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/23/2024",
+      "usta_id": "QM5nSd9hsZHVMfzVpSwkCw=="
+    },
+    {
+      "name": "Nick DeBiasse",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OOVmpC4eBIXojAW4sNTywA=="
+    },
+    {
+      "name": "Michael Dedic",
+      "gender": "Male",
+      "city": "SEDONA",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gaxZ94FCT5+ITP/DLv1drQ=="
+    },
+    {
+      "name": "Bea Demel",
+      "gender": "Female",
+      "city": "PRESCOTT",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "945DhF/suadn8VU4esQPBg=="
+    },
+    {
+      "name": "Elizabeth Desy",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fy+NVB8KkzpLUdhYXZDv8Q=="
+    },
+    {
+      "name": "Alison Donahower",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "jp2l5zY6B3xWcLKDLUNJlA=="
+    },
+    {
+      "name": "Fabrizio Doria",
+      "gender": "Male",
+      "city": "Sahuarita",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "m0vqOZIN+aG2utsL+A/2sQ=="
+    },
+    {
+      "name": "Jenny Douglas",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U142re4F6/p0+JxDWPo6+Q=="
+    },
+    {
+      "name": "Kristen Downs",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "szYekcDxSiMVTieGQrY0Lw=="
+    },
+    {
+      "name": "Robert Eastman",
+      "gender": "Male",
+      "city": "Lake Havasu City",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/29/2024",
+      "usta_id": "OWu3tM+nLWPjz/dKkl4n5w=="
+    },
+    {
+      "name": "Lacey Ella Hackerott",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "JsyyZRqbhb3gJANlJhPBIA=="
+    },
+    {
+      "name": "Elyse Englestadter",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/21/2024",
+      "usta_id": "tdMxH7RAueF+2F258bJdPg=="
+    },
+    {
+      "name": "Shannan Evans",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/20/2024",
+      "usta_id": "EBdvg2aFZOeDr/EbENZMdw=="
+    },
+    {
+      "name": "Paul Fackrell",
+      "gender": "Male",
+      "city": "Mesa",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/19/2025",
+      "usta_id": "j+7XhYyGIe8w2JfbP/c8PQ=="
+    },
+    {
+      "name": "Finn Faller",
+      "gender": "Male",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Q3VVcsLHuh1mkoMnaPBz6w=="
+    },
+    {
+      "name": "Kevin Felix",
+      "gender": "Male",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yQQIjTm0+0y7iS1e6fS5GA=="
+    },
+    {
+      "name": "Sara Felkins",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/21/2024",
+      "usta_id": "JPlVml72ErGJ7DleAQtQDQ=="
+    },
+    {
+      "name": "Camden Fetty",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rgs4C2jwlBCSjIcq6+JdwQ=="
+    },
+    {
+      "name": "Sterling Fetty",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ruiIiXC6HJmT9VFqRu0dHg=="
+    },
+    {
+      "name": "Madison Foley",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "CN9duEU9l3v+H9T3sCRmQg=="
+    },
+    {
+      "name": "Vickie Fox-Weeks",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mjBytHyaHtjmuLBuZE+JtA=="
+    },
+    {
+      "name": "Jazmine Fred",
+      "gender": "Female",
+      "city": "Layton",
+      "state": "UT",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/1/2025",
+      "usta_id": "HGmNg/zcJlxtmdxg5u+47Q=="
+    },
+    {
+      "name": "Mary Fule",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t0RfbfZ45NJFTnOV7rfcKA=="
+    },
+    {
+      "name": "Jessica Garard",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xEVhPTQ2PncG1WWo2O5koA=="
+    },
+    {
+      "name": "Bryan Gest",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qUaF7AnSQee2jNmHB78aDg=="
+    },
+    {
+      "name": "Nancy Gillenwater",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "h1xFr3/qmuUh/E2SwzZEBw=="
+    },
+    {
+      "name": "Tammi Gisi",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "f47LExcRQzqVixomlye9MA=="
+    },
+    {
+      "name": "Robynn Gleason",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vSVIlO9n/8XLYvoDcB2BgA=="
+    },
+    {
+      "name": "Maryann Goldstock",
+      "gender": "Female",
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ihQGRKka1DLMrurIlCxcfw=="
+    },
+    {
+      "name": "Jill Grams",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m8uGc89gK/tz8DqUbCDjxg=="
+    },
+    {
+      "name": "Ron Gray",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ByHofZJai1haTyOt1DT6wg=="
+    },
+    {
+      "name": "Janice Greene",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rmG2eCXXKlvRdnc4VqB7DQ=="
+    },
+    {
+      "name": "Billie Grobe",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6ai9c8ojyD0VZyUowXwPvA=="
+    },
+    {
+      "name": "Kirsten Gunn",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2r/2NDHksz875T7v9BnVhg=="
+    },
+    {
+      "name": "Bob Guzley",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/mt3cWvv7dz3YDWii+jdRw=="
+    },
+    {
+      "name": "Everest Hackerott",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TyX2w9qEyFSv2O2idgAk0Q=="
+    },
+    {
+      "name": "Francine Hackerott",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NFBQazzRBUExNyQbK+jH3A=="
+    },
+    {
+      "name": "Carrie Hall",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Bz1HSKFgPpNyPD955My+w=="
+    },
+    {
+      "name": "Brian Harbeck",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BVOeQWaaRS0Jf/ndT5X5Iw=="
+    },
+    {
+      "name": "Kenton Harman",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "S+N8rBT3E7HtJKlBUMoq7A=="
+    },
+    {
+      "name": "Jan Harper",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kVOHincEWxV5anOW7uPzVQ=="
+    },
+    {
+      "name": "Camilla Harrison",
+      "gender": "Female",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hVbdKutnHURYUk+GKZdsew=="
+    },
+    {
+      "name": "Ann Harwood",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xaAKiDHFZIy7S/e78ziL5w=="
+    },
+    {
+      "name": "Jim Haslett",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zDPve9yXD+enMW/Ys4rluQ=="
+    },
+    {
+      "name": "Daniel Herrick",
+      "gender": "Male",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DBmx68NJw4CZDlcM8jy9DQ=="
+    },
+    {
+      "name": "Vicki Hill",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZYzbkwx8+amsHtMNFm6f+A=="
+    },
+    {
+      "name": "Shawna Hodovance",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UDjV4hGUUNttvvRuYTnfvg=="
+    },
+    {
+      "name": "Joanne Hopmeyer",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O64Z7M7BMzBZKbnNgAS48g=="
+    },
+    {
+      "name": "Jeffrey Hovermill",
+      "gender": "Male",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EcIHEZq5QyvX5IBWLkRsGw=="
+    },
+    {
+      "name": "Chris Howard",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "/8UZLNact0IrYxyhy1zMAw=="
+    },
+    {
+      "name": "Thomas Howell",
+      "gender": "Male",
+      "city": "APACHE JUNCTION",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AjpETA0hDa9BO1xeTXeJbA=="
+    },
+    {
+      "name": "Natasha Huzevka",
+      "gender": "Female",
+      "city": "Tempe",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D03+DvIQ4xZPaQPq0pc9VA=="
+    },
+    {
+      "name": "Abigail Isakson",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/5/2025",
+      "usta_id": "oT9on+BBXL0r9uST1yMTJQ=="
+    },
+    {
+      "name": "Keiji Iwai",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eY1OIR3+0+3CFF9D1UZ26g=="
+    },
+    {
+      "name": "Dana Jacko",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/4B5XWI+Rx76KKGV9VKz6A=="
+    },
+    {
+      "name": "Becky Jones",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "97sH1J7K3pBCKFqjNReqwA=="
+    },
+    {
+      "name": "Atta Jorde",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CMdNAUKzSY1moixIXwrjFg=="
+    },
+    {
+      "name": "Patty Juhl",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "HcUjxjlaCW14ekcj5t3fFg=="
+    },
+    {
+      "name": "Mark Kaiser",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V43IlY7qfvp1Um8dlZgP5g=="
+    },
+    {
+      "name": "Jamie Kates",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/2/2025",
+      "usta_id": "6ImhmskQNtFPIBFW/qdOfw=="
+    },
+    {
+      "name": "Diana Kem",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y1AjcPrI+9bY+FWGX109eA=="
+    },
+    {
+      "name": "Avi Khilnani",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "ADP5g8a8w+5D2HVekUEhJw=="
+    },
+    {
+      "name": "Nathan Kleinman",
+      "gender": "Male",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/18/2025",
+      "usta_id": "BAk2Ukvk8JM7l2BbiZk00g=="
+    },
+    {
+      "name": "John Kolody",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T5z4wbXm5b22YkO4a7WIvA=="
+    },
+    {
+      "name": "Megan Korte",
+      "gender": "Female",
+      "city": "PALM SPRINGS",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TihRzd9eTseZbEBqwqvXAA=="
+    },
+    {
+      "name": "David Kumasaka",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sFRk9SNhcVr4EFTt3y61JA=="
+    },
+    {
+      "name": "Stephen Lakowske",
+      "gender": "Male",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IdCjKwKbxRr265W2L933TA=="
+    },
+    {
+      "name": "Carolyn Lasley",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "UFJn9rwXpG8fxe0XsQ2TEw=="
+    },
+    {
+      "name": "Jade LeWin",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z9VN1YZ0/oNW7x+3ilrkDw=="
+    },
+    {
+      "name": "Sofia Linskey",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "XaWTUZVp+mexddQE81rYrw=="
+    },
+    {
+      "name": "Traci Lira",
+      "gender": "Female",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/21/2024",
+      "usta_id": "Vzd5yIwy+kV96UotK1XX3Q=="
+    },
+    {
+      "name": "Laurie Little",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ojw08WPtQYNr4UxTpenRFg=="
+    },
+    {
+      "name": "BG Lloyd",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8qs7EDnHp9T4wLsQFcUbWg=="
+    },
+    {
+      "name": "David Logan",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eFx0vXPBu+1SXb9LU9357Q=="
+    },
+    {
+      "name": "Hope Lomas",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/3/2024",
+      "usta_id": "TtvPsMsEObMNMCcG3HgPGQ=="
+    },
+    {
+      "name": "Susan Long",
+      "gender": "Female",
+      "city": "HENDERSON",
+      "state": "NV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MxP3J1sIGyqYab+GzbAbLg=="
+    },
+    {
+      "name": "Tara Long",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4ODZjXNvd9e0Ghqwhi3kMQ=="
+    },
+    {
+      "name": "Jade Luera",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/16/2025",
+      "usta_id": "a6TPwdlhGo+pM1l/V3m1gw=="
+    },
+    {
+      "name": "Christine Malcomson-Young",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "xhdllmNkv1iMzM30g4+u8w=="
+    },
+    {
+      "name": "John Malone",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LiKoF94F+WLJ0NTMnDirpw=="
+    },
+    {
+      "name": "David Maples",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mJkjfiBtiTSsAtOx1Zl4jQ=="
+    },
+    {
+      "name": "Leanne Mariano",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AXBYSfUAJ5KX83Im2hoYxg=="
+    },
+    {
+      "name": "Cindi Mason",
+      "gender": "Female",
+      "city": "Chino Valley",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TTdP8PY13Bn8Y1xHtIzL3Q=="
+    },
+    {
+      "name": "Lynn Matthews",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DK9grtgYZjjeUNxBJHSvZw=="
+    },
+    {
+      "name": "Cindy Mayne",
+      "gender": "Female",
+      "city": "SEDONA",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6EapwS4cRYPjWxDQODv0IA=="
+    },
+    {
+      "name": "Helen McCallum",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JKvOyhShqb5cuqsqiIqerw=="
+    },
+    {
+      "name": "Gordon Medford",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/3/2025",
+      "usta_id": "mPlkOe4ZHd0a5MdPw6Imzw=="
+    },
+    {
+      "name": "Anthony Medina",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IcW2C4oB685r/rSwoEvFHQ=="
+    },
+    {
+      "name": "Leslie Medina",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "jHiEtB3FuXx0PXWkQ/d6hw=="
+    },
+    {
+      "name": "Lisa Mercier",
+      "gender": "Female",
+      "city": "Paradise Valley",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l6teO1DpXplLf12ChaMQ4g=="
+    },
+    {
+      "name": "Darlene Messina",
+      "gender": "Female",
+      "city": "Sun City",
+      "state": "AZ",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "nbrx34Ni1iGJdjV3gwGmnQ=="
+    },
+    {
+      "name": "Andrea Meyer",
+      "gender": "Female",
+      "city": "Clarkdale",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xc1IG5DfDI1Gb8UEkyTEnw=="
+    },
+    {
+      "name": "Beth Miller",
+      "gender": "Female",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mw35M2/dHMdKid1ybWCkQQ=="
+    },
+    {
+      "name": "Derek Miller",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4WMAyFDmFbBOJgOn0zn1Lg=="
+    },
+    {
+      "name": "Kristy Miller",
+      "gender": "Female",
+      "city": "Mesa",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "90DZgCp160W6+wGqCahuwQ=="
+    },
+    {
+      "name": "Lori Miraglia",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a3l3ceKY3iOiWhJWqFpQKQ=="
+    },
+    {
+      "name": "AJ Mraz",
+      "gender": "Male",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k07VLgnjgbGR/oD9DQ+gsA=="
+    },
+    {
+      "name": "Andy Mraz",
+      "gender": "Male",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iFc2Dkxx4agX2GJYAfy8sw=="
+    },
+    {
+      "name": "Matthew Mraz",
+      "gender": "Male",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vb/heCBG1yGrQ9seVN7yng=="
+    },
+    {
+      "name": "Cindy Mularz",
+      "gender": "Female",
+      "city": "PRESCOTT VALLEY",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kd4JSRmd8uWXGtYbiLGXNw=="
+    },
+    {
+      "name": "Kelly Mulkern",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jm7VnOLo7KHr39NFCXfoxg=="
+    },
+    {
+      "name": "Nick Murray",
+      "gender": "Male",
+      "city": "PRESCOTT",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KCno1QhpjdtGTevLNf24RQ=="
+    },
+    {
+      "name": "Liz Murrieta",
+      "gender": "Female",
+      "city": "PRESCOTT VALLEY",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zTfRw6aVLzQM4ncdjpbmtg=="
+    },
+    {
+      "name": "Mark Navarro",
+      "gender": "Male",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sm+Hxi3pPuYQYIdnrOiDFA=="
+    },
+    {
+      "name": "Aaron Nicol",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "sDhBNSrL8z8xPjwhKWFeEg=="
+    },
+    {
+      "name": "Laura Nicol",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pCVMlyjEdvHMBqsOypMVeg=="
+    },
+    {
+      "name": "Helen Noonan",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/28/2025",
+      "usta_id": "b0mD8MyhQ7yb+Fp/nBU94w=="
+    },
+    {
+      "name": "Carrie Oakason",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a/zjA7UaNME8Mlio2qMO3A=="
+    },
+    {
+      "name": "Hilarie Olson Strong",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k4uot8aRPC6lD39Qxj8K8Q=="
+    },
+    {
+      "name": "Talai Osmonbekov",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/9/2025",
+      "usta_id": "iT/C8LqL4GOZfwGiL85Ugw=="
+    },
+    {
+      "name": "Link Paffenbarger",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+djgeL3qtUEB9KanLykM/w=="
+    },
+    {
+      "name": "Molly Palley",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KerpuDyzDQ+iNY9sgrdAiQ=="
+    },
+    {
+      "name": "Lori Pappas",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eeq7ym6g4v1qZiWJjE8jcg=="
+    },
+    {
+      "name": "Michelle Pappas",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "14WTBSJHQ69Fx9JXLEyuqw=="
+    },
+    {
+      "name": "Jacob Paulk",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "/k0hpjzhwDuwGi0CrIfV/w=="
+    },
+    {
+      "name": "SuLan Peebles",
+      "gender": "Female",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PuztNP+jGorkU2embcwSag=="
+    },
+    {
+      "name": "Darren Pembroke",
+      "gender": "Male",
+      "city": "Gilbert",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b0JE6yuDSG1/cz6I4Uo2PQ=="
+    },
+    {
+      "name": "Vicki Penna",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k8JXhHWx/uQEZ7rnUzFQbQ=="
+    },
+    {
+      "name": "Jana Perpich",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/LsLE+hpL3mjzzs+fvL4sQ=="
+    },
+    {
+      "name": "Deana Perrin",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/P/j9r7MiaDJXS+KwC8dHw=="
+    },
+    {
+      "name": "Mary Joy Perry",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z9sbkkezVR3u0nkFYRgjug=="
+    },
+    {
+      "name": "Holly Petersen",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fN5aOI/5pBjfi96lBgL8ag=="
+    },
+    {
+      "name": "Veronica Phillips",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ETBgkhHTsfwmbUFbhFxhfg=="
+    },
+    {
+      "name": "Steven Pierce",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IF18V8syE3AJJw5yhH63tg=="
+    },
+    {
+      "name": "Ellen Radavich",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2kblC6fJxWO/VFBd4PqGUA=="
+    },
+    {
+      "name": "Kate Radavich",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/24/2025",
+      "usta_id": "ZnSfCfZmdL7wPNEVW/iKZQ=="
+    },
+    {
+      "name": "Jennifer Recknor",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zVkllSva+Ke6IXnUCYod0g=="
+    },
+    {
+      "name": "Jane Richardson",
+      "gender": "Female",
+      "city": "CORNVILLE",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Uz1aFcjladI0HMbK6juyQ=="
+    },
+    {
+      "name": "Steven Riggs",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3FvnaEHd58lDJFOJJ9BQ9g=="
+    },
+    {
+      "name": "Kami Roti",
+      "gender": "Female",
+      "city": "Clarkdale",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IOEeWgLiq9hPB6Yt6pgxUA=="
+    },
+    {
+      "name": "Kelly Ruelas",
+      "gender": "Female",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/23/2024",
+      "usta_id": "Vzd5yIwy+kVn2RLbISWS8g=="
+    },
+    {
+      "name": "Madeline Rupe",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/22/2024",
+      "usta_id": "8yiiq3UvW0KPMr1Eqt525Q=="
+    },
+    {
+      "name": "Bruce Ryan",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PKvCoasfvf3aAo6hInM6yg=="
+    },
+    {
+      "name": "Keith Ryan",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "xHAE1Xrwu+n0EHWKY7MyNw=="
+    },
+    {
+      "name": "Rosie Ryan",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PhXhHRIpMAcu/Phu0QCoCQ=="
+    },
+    {
+      "name": "Sara Ryan",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OeG36R5K6/5lXvGYYeisfA=="
+    },
+    {
+      "name": "Dan Salcito",
+      "gender": "Male",
+      "city": "Skull Valley",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IntMS2qpPiCvIjSRY/NxsA=="
+    },
+    {
+      "name": "Vanessa Scheu",
+      "gender": "Female",
+      "city": "DEWEY",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cuXn6ral2AgG8x8HizjZvA=="
+    },
+    {
+      "name": "Steve Schloeder",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/29/2024",
+      "usta_id": "2clyQHIzZW8HDchFCqE2GQ=="
+    },
+    {
+      "name": "Robert Schuessler",
+      "gender": "Male",
+      "city": "Cottonwood",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4WZlDp4ECuJu09g0bvzlhw=="
+    },
+    {
+      "name": "Gwen Schulz",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1n+XO1gpA2iq1gBDDjOL9g=="
+    },
+    {
+      "name": "Tracy Schweitzer",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VNDiIE1SqJolXhZX0ugHsQ=="
+    },
+    {
+      "name": "Katherine Shorey",
+      "gender": "Female",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ek9FzzFQ86OjaPhYA9RhvA=="
+    },
+    {
+      "name": "Yuriko Smith",
+      "gender": "Female",
+      "city": "sedona",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1WQyL0siSf/8URycthXw/Q=="
+    },
+    {
+      "name": "Robin Snyder",
+      "gender": "Female",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MbFW06bybFD2ZpUeLj9+3g=="
+    },
+    {
+      "name": "Susan Spear",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mbXAzho9+8ozaHfOY3A76A=="
+    },
+    {
+      "name": "Sean Spolar",
+      "gender": "Male",
+      "city": "Gallup",
+      "state": "NM",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "10/22/2024",
+      "usta_id": "B+HwBlK5Be4RaRBrXlD0GA=="
+    },
+    {
+      "name": "Esther Spravzoff",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HHTNdxH3lT09Lw1yhrnRGQ=="
+    },
+    {
+      "name": "Kelly Steel",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3xAmcrcH6gbpZUpEkw4jAw=="
+    },
+    {
+      "name": "Johanna Steigerwald",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3OoejSX2kdSNMXrPWKTv2Q=="
+    },
+    {
+      "name": "Peter Stivers",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "WpE7mR7i6FgnOKJhm2Xz8g=="
+    },
+    {
+      "name": "Shaun Stouder",
+      "gender": "Male",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/27/2025",
+      "usta_id": "nH9Ht5nn28Ej5LHO9hqxag=="
+    },
+    {
+      "name": "Stephanie Strasser",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EqWXT1ec1CNxImrSmEBKlA=="
+    },
+    {
+      "name": "Ronald Strong",
+      "gender": "Male",
+      "city": "PRESCOTT",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CRbhWx+RcLG2YGwB8pSbnQ=="
+    },
+    {
+      "name": "Linda Sunstad",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TGXVRSbakMEZVDKZ+mmaEA=="
+    },
+    {
+      "name": "Patricia Syntax",
+      "gender": "Female",
+      "city": "Paradise Valley",
+      "state": "AZ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8syUxVDGaDlc5/Mxz30kGg=="
+    },
+    {
+      "name": "Luke Thesing",
+      "gender": "Male",
+      "city": "PRESCOTT VALLEY",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x8atzVOG4QT16jckB4QsEA=="
+    },
+    {
+      "name": "Becky Thomas",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z9sbkkezVR0Rg5ITPTzxQQ=="
+    },
+    {
+      "name": "Tracey Tibbs",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ogBt+t25KGp40dymmCjs8g=="
+    },
+    {
+      "name": "Ruthie Tipp",
+      "gender": "Female",
+      "city": "Tempe",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ffYzUubRm+x6Gb3j1rbXsw=="
+    },
+    {
+      "name": "Lisa Tullis",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UFJn9rwXpG8jvEEAAu44bQ=="
+    },
+    {
+      "name": "Jon Turoczy",
+      "gender": "Male",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ubBF+MRo8NVNOnyEXGbb5w=="
+    },
+    {
+      "name": "Michael Tyer",
+      "gender": "Male",
+      "city": "Williams",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HyD2mCzBf3iU68IMXgvyvg=="
+    },
+    {
+      "name": "Serena Unrein",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w70QeGC1GPe41FsrK6wvDQ=="
+    },
+    {
+      "name": "Kim Vallen",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OnJ0CxHiuNHDFPWn+cPnsg=="
+    },
+    {
+      "name": "Scott van Vleet",
+      "gender": "Male",
+      "city": "Goodyear",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GxnwU4a/1CuhYbcWdfprAA=="
+    },
+    {
+      "name": "Jack Vaughan",
+      "gender": "Male",
+      "city": "Prairie Village",
+      "state": "KS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/22/2025",
+      "usta_id": "kpdEud2+yGKHaS8GrNUVIw=="
+    },
+    {
+      "name": "Nicholas Voichick",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V3/FWtZVgXpdfcnb/E/ixg=="
+    },
+    {
+      "name": "Robert Voytek",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FcTh9HzyJDhw5bBip3Bhag=="
+    },
+    {
+      "name": "Josh Walker",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DECMUIQWiSchryC7ii+q+w=="
+    },
+    {
+      "name": "Valerie Ward",
+      "gender": "Female",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d/i+9860yRm3BE97G6ZFrA=="
+    },
+    {
+      "name": "Chadleo Webb",
+      "gender": "Male",
+      "city": "BELLEMONT",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uxPu2AOgDW1D2DIlx/yjXg=="
+    },
+    {
+      "name": "Timothy Weber",
+      "gender": "Male",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3lO8IuLgezw8a+ZRKG87pg=="
+    },
+    {
+      "name": "Cindy Weick",
+      "gender": "Female",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1UD17r8acguIl1A+st+W6g=="
+    },
+    {
+      "name": "Kirk Westervelt",
+      "gender": "Male",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D5vRlEpxaeTyE4TK+zgkbg=="
+    },
+    {
+      "name": "Laura Westray",
+      "gender": "Female",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K/8h97uqrQp8mtPsNPdJAA=="
+    },
+    {
+      "name": "Becky Williams",
+      "gender": "Female",
+      "city": "Phoenix",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rIqIIkZRsCNMzdkEd6g69Q=="
+    },
+    {
+      "name": "Justine Winchester",
+      "gender": "Female",
+      "city": "Sedona",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qhAKJ5L7bcx10/kTPrveTA=="
+    },
+    {
+      "name": "Kevin Woog",
+      "gender": "Male",
+      "city": "Prescott",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/8/2025",
+      "usta_id": "G+rJJYJbDLOOq8Axd5anGQ=="
+    },
+    {
+      "name": "Jacob Zierenberg",
+      "gender": "Male",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cjRv32k8t8p1w8G3TEOc8g=="
+    }
+  ]
+}

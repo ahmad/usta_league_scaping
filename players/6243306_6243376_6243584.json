@@ -1,0 +1,4157 @@
+{
+  "sectionId": "6243306",
+  "districtId": "6243376",
+  "areaId": "6243584",
+  "players": [
+    {
+      "name": "Kaaren Abbate",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/21/2024",
+      "usta_id": "lUI3m4yyjcB3Hir8mA2Lmg=="
+    },
+    {
+      "name": "Michelle Adam",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+vJUk6XqjdwuWR7vPGhVGA=="
+    },
+    {
+      "name": "Kathleen Aldridge",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L8jzdG0fYM3IIs1zUJzDYQ=="
+    },
+    {
+      "name": "Melissa Allen",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ZjHgi4Mlbp+ffe2IlrWdhQ=="
+    },
+    {
+      "name": "Travis Allen",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "w9xY5RrcwcUJ10fkTJWzCg=="
+    },
+    {
+      "name": "Lukas Amler",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "Zj4jR7zmCCqJjBOuakCDVQ=="
+    },
+    {
+      "name": "Rose Ancheta",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gL/dgk/Z/zCXHJhc31F4Xw=="
+    },
+    {
+      "name": "Genevieve Arjal",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "T+e8GnxecXgvi4tfvl3CMA=="
+    },
+    {
+      "name": "David Ashley",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/3/2024",
+      "usta_id": "h8gRUbALeeRdpUvOWhWvTQ=="
+    },
+    {
+      "name": "Cynthia Atherton",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/21/2024",
+      "usta_id": "sU/5qyeBsa6HWQSvJOptLQ=="
+    },
+    {
+      "name": "Ali Atkinson",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ipLhPplY5+cfZFnwEpVrKw=="
+    },
+    {
+      "name": "Lynn Attig",
+      "gender": "Female",
+      "city": "Redondo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vnILqsRrkSg4Pk36DB95jQ=="
+    },
+    {
+      "name": "Barbara Babka",
+      "gender": "Female",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "z6t+L0xap5oKneeUospWig=="
+    },
+    {
+      "name": "Robert Bailey",
+      "gender": "Male",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BLrbwU7TftzNDVI3fu61+A=="
+    },
+    {
+      "name": "Steven Baird",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "JSv2amG1x5RqgpXRtQmlDw=="
+    },
+    {
+      "name": "Sabrina Ball",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/17/2025",
+      "usta_id": "qP9sLs5TmKZjUgCoPCuNng=="
+    },
+    {
+      "name": "Natalie Barker",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "PbVDWWo1K0Oar4jMCXTInw=="
+    },
+    {
+      "name": "Boz Barron",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "KbY61s1OkcU3XQiQ0h1sYg=="
+    },
+    {
+      "name": "Brian Bass",
+      "gender": "Male",
+      "city": "Escondido",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UwjHyF0DETM="
+    },
+    {
+      "name": "Darla Batistic",
+      "gender": "Female",
+      "city": "ATASCADERO",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/20/2025",
+      "usta_id": "QcxoPICWSUqdi06lY2islg=="
+    },
+    {
+      "name": "Alisha Bauer Shuford",
+      "gender": "Female",
+      "city": "Los Angeles",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "BUVfZbUCbqpp1vVGKCkQJw=="
+    },
+    {
+      "name": "Deborah Beatty",
+      "gender": "Female",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VE+fW+OmCMc7kOTiKUfuiA=="
+    },
+    {
+      "name": "Elise Beem",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/21/2024",
+      "usta_id": "vc1nV+EJ4/DGDdWUNXSNzA=="
+    },
+    {
+      "name": "Kristen Bertram-Spiegel",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1uoUKHitua118QMQQP+tHw=="
+    },
+    {
+      "name": "Lori Bickel",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xDkEKBiINJcs1Xvzy3I01Q=="
+    },
+    {
+      "name": "Ellyn Billingsley",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "E9uX1jCUIPy0HTnG2MQTRA=="
+    },
+    {
+      "name": "Nikki Billingsley",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "e6sC90g3Gi1WIDs9RQ8XHQ=="
+    },
+    {
+      "name": "Pete Biltoft",
+      "gender": "Male",
+      "city": "SAN LUIS OBISPO",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "lBNOsbg/sCwcnypwxYWkYQ=="
+    },
+    {
+      "name": "Jessica Blackburn",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5SZrT6OYCXwtnSEA5j4Yvw=="
+    },
+    {
+      "name": "Donald Blessen",
+      "gender": "Male",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GlKn3kGn1s3CHurAu7qVdg=="
+    },
+    {
+      "name": "Dede Bodnar",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tXY+oGxoG9cWwddJc2u59g=="
+    },
+    {
+      "name": "RoseMarie Bodrian",
+      "gender": "Female",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D/WGgaGxEHgpD18csAj9sw=="
+    },
+    {
+      "name": "Olivia Bolanos",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t1Cy/HLwrgyVnfVzzq1ZkA=="
+    },
+    {
+      "name": "Mark Boone",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ad4hx26iRCcIz7R4Q9IfyA=="
+    },
+    {
+      "name": "Lynette Branch",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "2aROfqHoPGtZguh5eed2gQ=="
+    },
+    {
+      "name": "Ann Brewer",
+      "gender": "Female",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vJupjyxfnz2XrOZgyGw35w=="
+    },
+    {
+      "name": "Elizabeth Brewer",
+      "gender": "Female",
+      "city": "Grover Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+aeCey8KP5zkwz4k5lAMWg=="
+    },
+    {
+      "name": "Sheryl Brigham",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "stSTccyKV/zlV/scuGenxA=="
+    },
+    {
+      "name": "Ellen Broido",
+      "gender": "Female",
+      "city": "Bowling Green",
+      "state": "OH",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kdOObha0RAcZgKNfSCRBSQ=="
+    },
+    {
+      "name": "Cheryl Brooks",
+      "gender": "Female",
+      "city": "Bradley",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "Ahks4z3DAPuFSrZwIO88BA=="
+    },
+    {
+      "name": "Jennifer Browder",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "onNl2fjFQjyH/uDt22uP6A=="
+    },
+    {
+      "name": "Jan Bugge",
+      "gender": "Female",
+      "city": "Creston",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/7/2024",
+      "usta_id": "+mnMZnEgiZ60f90UZxY/9w=="
+    },
+    {
+      "name": "Tyler Bunderson",
+      "gender": "Female",
+      "city": "PASO ROBLES",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N5i1Wf/Vbom/OU7bX/LewA=="
+    },
+    {
+      "name": "Bernie Cabiles",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tmNRZ57CzinYxTIZSM7NLg=="
+    },
+    {
+      "name": "Ramona Cabiles",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EerxgOdP/i3Ecs2cvWHLHQ=="
+    },
+    {
+      "name": "Martha Calderon",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0XYkufCTZFVI4p/7Qjgmyg=="
+    },
+    {
+      "name": "Cassie Campbell",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i+8Xv+gO5nTJ28L1KmDu/Q=="
+    },
+    {
+      "name": "Joe Caradonna",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "axT4LH58Mv+4xBAORJ0/Qg=="
+    },
+    {
+      "name": "Gabriella Cardona",
+      "gender": "Female",
+      "city": "Vandenbrg Afb",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "hoqu2G4azPFpkMxIjQb32g=="
+    },
+    {
+      "name": "John Carlson",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DPQnQhF6wJk7QgZpCH+Jng=="
+    },
+    {
+      "name": "Christie Cate",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "dOZ5Kc0rct7Vm9vgYtE6/Q=="
+    },
+    {
+      "name": "Zoe Cate",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/6/2023",
+      "usta_id": "HyE+KXWDJlRAB8wKm2dJrg=="
+    },
+    {
+      "name": "Robin Cegelski",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jq09nruUrYVfJKT3zJtMFQ=="
+    },
+    {
+      "name": "Rodney Cegelski",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Jq09nruUrYUgkTocHLZfFQ=="
+    },
+    {
+      "name": "Jennifer Chambers",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+De/8qA1kEFGxoxNR7u4hA=="
+    },
+    {
+      "name": "Cherie Charbonneau",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2Yaari+mKrTUhC8sC/ukBA=="
+    },
+    {
+      "name": "Deborah Cherry",
+      "gender": "Female",
+      "city": "AVILA BEACH",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gASzFVUF/rmqmOiKNQyqUg=="
+    },
+    {
+      "name": "Karen Chubon",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "rKK1kpMT6Xxk0PvmO6X84w=="
+    },
+    {
+      "name": "Deborah Clark",
+      "gender": "Female",
+      "city": "Bakersfield",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YXzPiYIInxXhN6fRXzklCg=="
+    },
+    {
+      "name": "Gary Clark",
+      "gender": "Male",
+      "city": "Santa Barbara",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mSTkHpCskzcTeZJSfZb0PQ=="
+    },
+    {
+      "name": "Scott Cleere",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/by56aKUYhbK9XRwkPd8lg=="
+    },
+    {
+      "name": "Melanie ClevelAnd",
+      "gender": "Female",
+      "city": "ARROYO GRANDE",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v2euulGYDKMrARHZGVCngA=="
+    },
+    {
+      "name": "Jack Cohen",
+      "gender": "Male",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/17/2024",
+      "usta_id": "FKIWC5cOZcyMEHMSIeEJqg=="
+    },
+    {
+      "name": "Sharon Cole",
+      "gender": "Female",
+      "city": "San Marino",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HxS1smtr+U2+ospyiESG2A=="
+    },
+    {
+      "name": "Ben Combs",
+      "gender": "Male",
+      "city": "CAMBRIA",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "VaZRhYZGwQaGSS8b5Z+bHg=="
+    },
+    {
+      "name": "Lisa Corrente",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/17/2025",
+      "usta_id": "dEYy7CpWuGVjcxp7GfNUOQ=="
+    },
+    {
+      "name": "Danielle Corry",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2tiUrXHpiokqhWDWNBjH8g=="
+    },
+    {
+      "name": "Tyler Corse",
+      "gender": "Male",
+      "city": "Murrieta",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Td5VPT+RKhrLzKnLrzXzzg=="
+    },
+    {
+      "name": "Kathleen Crain",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "0K4HTiu7xdwwT33ApIqY+Q=="
+    },
+    {
+      "name": "Keith Cramer",
+      "gender": "Male",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "lZYfNGQYtZwmQGdLxK021Q=="
+    },
+    {
+      "name": "Bryan Crawford",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EneWBBuUps1Cfp9brlLqnQ=="
+    },
+    {
+      "name": "Jeannie Crawford",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5W1vPYt6YUTgoMwfBl8Cwg=="
+    },
+    {
+      "name": "Marty Crider",
+      "gender": "Male",
+      "city": "Bakersfield",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "S8GfGjvqFcvTGqKUubI7Mw=="
+    },
+    {
+      "name": "Gretel Crum",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lld5GNT6pjK/KNuThH7f/g=="
+    },
+    {
+      "name": "Janice Cullers-Scott",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "ftFeHycxAIjp1FmvzwPIPw=="
+    },
+    {
+      "name": "Kristy D'Ambra",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5KnF3GBuf/ilfA3bJed7gg=="
+    },
+    {
+      "name": "Bruce Davis",
+      "gender": "Male",
+      "city": "Rancho Mirage",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/2/2025",
+      "usta_id": "egyy+d9zkj2bJdJCQMROSA=="
+    },
+    {
+      "name": "Brianna Decker",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y5ZSba+yM6rufWqHcOrakQ=="
+    },
+    {
+      "name": "Jonathan Decker",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "y5ZSba+yM6pAw8RaMbEcdw=="
+    },
+    {
+      "name": "Matthew Degrushe",
+      "gender": "Male",
+      "city": "MORRO BAY",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/6/2025",
+      "usta_id": "BDmtW+QFIRQR/t4TzNOFJQ=="
+    },
+    {
+      "name": "David DeMers",
+      "gender": "Male",
+      "city": "SAN LUIS OBISPO",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lDQaCThhivLcerlXrWqvAw=="
+    },
+    {
+      "name": "Lori Deornellas",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3od7CX4hto6Osw3OZRc5XQ=="
+    },
+    {
+      "name": "Jim Dickey",
+      "gender": "Male",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pb2uLixDOsmcd8jwuVcokA=="
+    },
+    {
+      "name": "Zoya Dixon",
+      "gender": "Female",
+      "city": "Templeton",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "nG3yr1AhBPX4TcrKf6D9ZQ=="
+    },
+    {
+      "name": "Francie Doak",
+      "gender": "Female",
+      "city": "Las Vegas",
+      "state": "NV",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HlJ8t7SOstirtmP89UH1Zg=="
+    },
+    {
+      "name": "Katie Dollinger",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/12/2025",
+      "usta_id": "fFE5fjHCtGnQ0xni8X271g=="
+    },
+    {
+      "name": "Shannon Dossa",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tFiSWBtYwSO4YjOK2l6o3A=="
+    },
+    {
+      "name": "Carolyn Doud",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ly2eoqeSHftHzlL7dqUbHQ=="
+    },
+    {
+      "name": "Teresa Downey",
+      "gender": "Female",
+      "city": "Grover Beach",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B3fCpP2XZ8Y/H5kbiXATuw=="
+    },
+    {
+      "name": "Beverley Dunn",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+9KUHwuDtoiN9uVCp+KmpA=="
+    },
+    {
+      "name": "Martin Dunn",
+      "gender": "Male",
+      "city": "SAN LUIS OBISPO",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "ehrUAkyADZQiEX+WLRrqJQ=="
+    },
+    {
+      "name": "Laura Edles",
+      "gender": "Female",
+      "city": "Costa Mesa",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "epjIPFpwStGvMyTaWyFdAQ=="
+    },
+    {
+      "name": "Gail Edry",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9c8rId9WrqRtD8EiW3H5LA=="
+    },
+    {
+      "name": "Ron Eisworth",
+      "gender": "Male",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "QG3jx4KEr742a/PukOYxJA=="
+    },
+    {
+      "name": "Patty Elswick",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Tl7LSH17U9x0taQd3FaJg=="
+    },
+    {
+      "name": "Jayne Engle Allen",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n8SbCTTBo5B8VSjiwq9igA=="
+    },
+    {
+      "name": "Sydney Ereno",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W2PnmAIRGg9MNgXzflUyyA=="
+    },
+    {
+      "name": "Kristen Escobar",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "MiMxG3q4HANNLWlSiFveTA=="
+    },
+    {
+      "name": "Dana Evangelista",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6jdDeWBTjfJDAPQTMpFoJw=="
+    },
+    {
+      "name": "Gordon Ewing",
+      "gender": "Male",
+      "city": "Lompoc",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pv65kg8JP24nxPGlDG3brA=="
+    },
+    {
+      "name": "Diane Farley",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/16/2025",
+      "usta_id": "ipzHynCnfPsYvJlEYTSFVQ=="
+    },
+    {
+      "name": "Arianna Fasse",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2tiUrXHpiomDHgsqCI6L1w=="
+    },
+    {
+      "name": "Mike Fernandez",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IxEWvv1Grng3ySk6ca62zw=="
+    },
+    {
+      "name": "Hilda Fischer",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "RQDLDxNs7oimJOgKAyLk3Q=="
+    },
+    {
+      "name": "Roberta Fischer",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "NkyOClq415SaT3C4xmjVNQ=="
+    },
+    {
+      "name": "Patty Flores",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ykkFbVQLPV6gAZ/W42Z9Aw=="
+    },
+    {
+      "name": "Robyn Flores",
+      "gender": "Female",
+      "city": "SAN LUIS OBISPO",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7LiAgLXmHCziTPgsyhEdsQ=="
+    },
+    {
+      "name": "Shari Fraser",
+      "gender": "Female",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vsr8/yUEn8z3gLws9JBf7Q=="
+    },
+    {
+      "name": "ISABEL FRAZIER",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lb0dhGRAwbhRBE8eGRrnVA=="
+    },
+    {
+      "name": "Bruce Freeberg",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ugM/8VdUOqmyQCI9Slf5xw=="
+    },
+    {
+      "name": "Ramona Friedman",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fBcuA7BtzRFDCv8pTBWVDQ=="
+    },
+    {
+      "name": "Tammy Fulton",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OvgS/DqXUkJ5uWiBbq9txA=="
+    },
+    {
+      "name": "Charlie Gagnon",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "MOPQsBoNhYfRzuNxYGbEeg=="
+    },
+    {
+      "name": "Andrea Galvan",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fa2WlcT2pbSS1dMIDu4NsA=="
+    },
+    {
+      "name": "Rob Garcia",
+      "gender": "Male",
+      "city": "Templeton",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "v8gbvS8V2JPWUeixd7/PLA=="
+    },
+    {
+      "name": "David Gibson",
+      "gender": "Male",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GBsNYEVKUMJyQ+NxV9F+zQ=="
+    },
+    {
+      "name": "Heidi Gill",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bqCCBREuV6whTg0aCG5/Rw=="
+    },
+    {
+      "name": "Michael Ginn",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "0oifc0voaLxsI8wN5BqGvQ=="
+    },
+    {
+      "name": "Derek Glas",
+      "gender": "Male",
+      "city": "Santa Ynez",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5b5WOSX4tffy+1bHrRPpvg=="
+    },
+    {
+      "name": "Janet Glenn",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/22/2024",
+      "usta_id": "VtvCwubETZ7FbMUKNQIMRg=="
+    },
+    {
+      "name": "Georgia Gomer",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D40iIT+VXtcZe6LMJL8RmQ=="
+    },
+    {
+      "name": "Thomas Gonzales",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ECvvQT3G4tecfhDHivivDA=="
+    },
+    {
+      "name": "Pedro Gonzalez",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "5XERQKV3pO4yqAoyJ8LhWQ=="
+    },
+    {
+      "name": "William Good",
+      "gender": "Male",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gtm2oU9+6yfjQHxOT+a3bg=="
+    },
+    {
+      "name": "Karen Gordon",
+      "gender": "Female",
+      "city": "GROVER BEACH",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OOJr5qtwdRLpMnrlN2vJhw=="
+    },
+    {
+      "name": "Steve Gordon",
+      "gender": "Male",
+      "city": "GROVER BEACH",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "U0VdmsqCswGv3BilNig7wA=="
+    },
+    {
+      "name": "Josh Greco",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "4U1H2Qpj12Gu/gke9IWi7g=="
+    },
+    {
+      "name": "Cindy Gresser",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "m/pO4MK2jGiKx9HISaMzww=="
+    },
+    {
+      "name": "Marc Gronet",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "ECLEegvk+bsyTm+6OSc5ig=="
+    },
+    {
+      "name": "Elisabeth Grossman",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6jtUUFm/guJQtgyz1cAjqw=="
+    },
+    {
+      "name": "Jeanette Gruidl",
+      "gender": "Female",
+      "city": "Cayucos",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qm110Q52nPiURGrwa8JghA=="
+    },
+    {
+      "name": "Joel Gutierrez",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/30/2024",
+      "usta_id": "u31SSuT6JU+3O9n93baTxg=="
+    },
+    {
+      "name": "Sariah Gutierrez",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jl9xt1iImmJScbvCrSOWlA=="
+    },
+    {
+      "name": "Sue Haas",
+      "gender": "Female",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8ZOiW5AhjHT32HNrdTiesw=="
+    },
+    {
+      "name": "Debra Hall",
+      "gender": "Female",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+LBajAI2JOwTG2MsoDsTOQ=="
+    },
+    {
+      "name": "Catherine Halsey",
+      "gender": "Female",
+      "city": "Carlsbad",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/25/2024",
+      "usta_id": "CBtkyFDHA0qJugWPBifSlA=="
+    },
+    {
+      "name": "Tracy Hanly",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CS2Yw4SXEYzReGGKDiXHVA=="
+    },
+    {
+      "name": "Jamie Hardisty",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "/CbZv3mwxztJzeYqT1NHsw=="
+    },
+    {
+      "name": "Heather Harper",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UkhRtsbJwrM2ihhzGBO5mg=="
+    },
+    {
+      "name": "Jen Haskell",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "umQBtSqHXLJP1x3L4jyEiQ=="
+    },
+    {
+      "name": "Megan Haupt",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2024",
+      "usta_id": "lKrDDhFyffqahDPrSTCpTA=="
+    },
+    {
+      "name": "Randy Havens",
+      "gender": "Male",
+      "city": "Auburn",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n3pZO7BQpGy17to51XoaVw=="
+    },
+    {
+      "name": "Larry Hecimovich",
+      "gender": "Male",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2024",
+      "usta_id": "4ZjjTFkFn06InB/XahQhyQ=="
+    },
+    {
+      "name": "Sandra Hedstrom",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "IRIaF+Q6VaUc9JPc4nim2A=="
+    },
+    {
+      "name": "Rhianna Henderson",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/11/2024",
+      "usta_id": "Et4x5fbW6wjjyk6WSi4AXw=="
+    },
+    {
+      "name": "Carmen Hernandez",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5LbCspQxJVDOPkIQZ72V/g=="
+    },
+    {
+      "name": "Michael Hicks",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/24/2023",
+      "usta_id": "J3P4hgZ50uHnHLBOG1ITDg=="
+    },
+    {
+      "name": "Vanessa Higgins",
+      "gender": "Female",
+      "city": "Grover Beach",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RsHhoz+S8tWOdMOp7RbbhQ=="
+    },
+    {
+      "name": "Helen Hightower",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mHcxdnbvXxzZQGTq8X5rfg=="
+    },
+    {
+      "name": "Matthew Hiltner",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EBafDEqRY2R5YdYVYwTlgw=="
+    },
+    {
+      "name": "Chris Hoffman",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "fQGlhAYTFM8QJVmSeEer+g=="
+    },
+    {
+      "name": "Patti Holanda",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/24/2025",
+      "usta_id": "OQfkpqP7MviIqhfGsqzZlQ=="
+    },
+    {
+      "name": "Janet Holland",
+      "gender": "Female",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/15/2025",
+      "usta_id": "tTN8tvpUfns1i6mTNMY9KA=="
+    },
+    {
+      "name": "Katherine Hontz",
+      "gender": "Female",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/8/2025",
+      "usta_id": "CH3NP/9yMtL3IT5BNIa5+w=="
+    },
+    {
+      "name": "Frank Hood",
+      "gender": "Male",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Qvkhzc5ryvoOGv5vdP/Hg=="
+    },
+    {
+      "name": "Pamela Hostetter",
+      "gender": "Female",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pb2uLixDOsl/ufIUw7yR5Q=="
+    },
+    {
+      "name": "Whitney Hrdlicka",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/27/2025",
+      "usta_id": "nTpM/kW8u0Glwz23sYfm4g=="
+    },
+    {
+      "name": "Megan Humpal",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/21/2024",
+      "usta_id": "W2PnmAIRGg9yl3V0nJjJaQ=="
+    },
+    {
+      "name": "Brenna Humphreys",
+      "gender": "Female",
+      "city": "AVILA BEACH",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/20/2025",
+      "usta_id": "RfwfLS5DQb4TB9UzUzAH0Q=="
+    },
+    {
+      "name": "Kristine Hunter",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4XOHPCSpKuDY2/yNNhcPGg=="
+    },
+    {
+      "name": "Maria Hutkin",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x+HSDNNauZSbYtx/JiiG2Q=="
+    },
+    {
+      "name": "Mark Inguaggiato",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VDfYMaXSdgzWCk7cQwvbsw=="
+    },
+    {
+      "name": "Stacy Inman",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/6/2024",
+      "usta_id": "P1ehnJwdHHE0YI3+lHrxmg=="
+    },
+    {
+      "name": "Alicia Iqbal",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4W9e5pHw3MMUsdZRw2cQQQ=="
+    },
+    {
+      "name": "Maddy Irwin",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/+qo3LC7hszZMBelsR+cQw=="
+    },
+    {
+      "name": "Rachel Janai",
+      "gender": "Female",
+      "city": "Bonsall",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0WAml0L4lFytHPLHx09acw=="
+    },
+    {
+      "name": "Jennifer Jarvis",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NZJqvgXZEDT9FqYsRDf0IQ=="
+    },
+    {
+      "name": "David Johns",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "lM7AEni1yVRE9745GUyWAw=="
+    },
+    {
+      "name": "David Johnson",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/+FHrwKYRurmbHo6FiDq5A=="
+    },
+    {
+      "name": "Kate JOHNSON",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "Qd/uvhZjIEgzMife7tJY+w=="
+    },
+    {
+      "name": "Michael Johnson",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nU4MZmu19VzAP7hkqypMWw=="
+    },
+    {
+      "name": "Robert Johnson",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/23/2023",
+      "usta_id": "/WXjNDuYPhSW4fVz/GVN6A=="
+    },
+    {
+      "name": "Ken Johnston",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8HoDwWy83joRw6ESHM6V8A=="
+    },
+    {
+      "name": "Sarah Jones",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "taD+e3KxhKqAXvkv18eGww=="
+    },
+    {
+      "name": "Joan Jordan",
+      "gender": "Female",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/15/2024",
+      "usta_id": "xvHfMV8dBz6lhTso4FpX5Q=="
+    },
+    {
+      "name": "Aryn Jorgensen",
+      "gender": "Female",
+      "city": "Cayucos",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0x6Gt+zsRQBcKE1M4MQ21A=="
+    },
+    {
+      "name": "Kenneth Jorgensen",
+      "gender": "Male",
+      "city": "Cayucos",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "HCpjt9SFl/kVNOdgtHEFRA=="
+    },
+    {
+      "name": "Kathleen Kalpakoff",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z8ClJAi/pwVfWmaXVAzbGA=="
+    },
+    {
+      "name": "Rod Kalpakoff",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "WCrfdrRX0jXVyYNVDvDEIw=="
+    },
+    {
+      "name": "Leslie Kaplan",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9v+h3d7o3CAv/Wy8LUlbMg=="
+    },
+    {
+      "name": "Myki Keffury",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nnOnvuIg+6AhAGcKHfHSLw=="
+    },
+    {
+      "name": "Francie Kelley",
+      "gender": "Female",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "FGeaAxZ553WS8zondjyWSw=="
+    },
+    {
+      "name": "Fred Kelley",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "prVKWA0WYsoN4nPNTQjfQA=="
+    },
+    {
+      "name": "Elijah Kelly",
+      "gender": "Male",
+      "city": "Lompoc",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/23/2024",
+      "usta_id": "1Ophkke04R/dhz668adEXQ=="
+    },
+    {
+      "name": "Jean Kennedy",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NdOOItLvZ+m9ZTjgt6BIWw=="
+    },
+    {
+      "name": "Libby Kerr",
+      "gender": "Female",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/25/2025",
+      "usta_id": "63xQtyAaA72beodMMYw36w=="
+    },
+    {
+      "name": "Melbra King",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bSSoaKSGC6GaawYuBqV9bw=="
+    },
+    {
+      "name": "Myrdith King",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iApcqD2RC84XAb83xrvfvw=="
+    },
+    {
+      "name": "Brett Knupfer",
+      "gender": "Male",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "drZOAR4o0DI0X4u9X64bfw=="
+    },
+    {
+      "name": "Megan Kostelnik",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/22/2025",
+      "usta_id": "eqR2O1WRkUKlsOTQ8ujcag=="
+    },
+    {
+      "name": "Tessa Kotch",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W2PnmAIRGg9nGz7um0jR6w=="
+    },
+    {
+      "name": "Maxine Koven",
+      "gender": "Female",
+      "city": "LOS ANGELES",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gL/dgk/Z/zBkiA3egVpCsA=="
+    },
+    {
+      "name": "Sarah Krueckel",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/25/2024",
+      "usta_id": "oS0RARhRWTMby2+t+IDV7Q=="
+    },
+    {
+      "name": "Amy Kueffler",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/21/2025",
+      "usta_id": "VqSbHYyBGdYv3/M2gLaAlQ=="
+    },
+    {
+      "name": "Cindy Kullman",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Buw7DShEMlpEvkgXZ5X/rA=="
+    },
+    {
+      "name": "Lisa Lafaille",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cplfSg3fqVEm6bFCcRImIA=="
+    },
+    {
+      "name": "Todd Laird",
+      "gender": "Male",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6cQOdhX+beyBkoW3I2L9BA=="
+    },
+    {
+      "name": "Daniel Lambert",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uuv8LqK5zLuBtNxxp83jiw=="
+    },
+    {
+      "name": "Craig Law-Smith",
+      "gender": "Male",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/10/2024",
+      "usta_id": "V0r+YFcge2m/5oJ55RkqlA=="
+    },
+    {
+      "name": "Tammy Lawson",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "J/hCEOmD4t4v8WJu2cFDKQ=="
+    },
+    {
+      "name": "Claire Lee",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u+FuzUGf3dJP0i88izB0Iw=="
+    },
+    {
+      "name": "Nora Lee",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "7krm8te6G+AMospyzPJDAQ=="
+    },
+    {
+      "name": "Michael Leeder",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "y5xtEJHWGdrFnRKSxeaxpA=="
+    },
+    {
+      "name": "Sara Leeder",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ySK09UCZBqpZTUY9HtFV1A=="
+    },
+    {
+      "name": "Donna Lewis",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "INu3UYsKtuFe0ONeWXfUgg=="
+    },
+    {
+      "name": "Leslie Light",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QdhQE+Qv972wwEuQauAW8A=="
+    },
+    {
+      "name": "Joseph Lindquist",
+      "gender": "Male",
+      "city": "Creston",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "+mnMZnEgiZ5MKGXJT2cMdA=="
+    },
+    {
+      "name": "Maren Linkugel",
+      "gender": "Female",
+      "city": "Grover Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/26/2025",
+      "usta_id": "4fOd+iYfD9rYMZcUAr4rnA=="
+    },
+    {
+      "name": "Carolyn Lochhead",
+      "gender": "Female",
+      "city": "Templeton",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "m1u3t8VxannmUlt04+OMYA=="
+    },
+    {
+      "name": "Alejandro Lopez",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3xV0sqVc42bJDc9S+U6PYA=="
+    },
+    {
+      "name": "Anne Lopez",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0j0gYOEfU4LE6AltFDawbQ=="
+    },
+    {
+      "name": "Arthur Lopez",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0j0gYOEfU4I8zSta6SfGHQ=="
+    },
+    {
+      "name": "Patty Lopez",
+      "gender": "Female",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Tg8/loAhBToqIzCYGjmoVw=="
+    },
+    {
+      "name": "Marie Loughead",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xdI6H6xe8TApB+Dp2ZrKOQ=="
+    },
+    {
+      "name": "Heather Loveman-Krelle",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "o7IXjGpk9sYPL8fcXGrkUA=="
+    },
+    {
+      "name": "John Lubbers",
+      "gender": "Male",
+      "city": "Thousand Oaks",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FPAnf8faxueMrsW+21gJqQ=="
+    },
+    {
+      "name": "Timothy Luken",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/2/2024",
+      "usta_id": "GO21iLuzoIyvY7sdeSqpGg=="
+    },
+    {
+      "name": "George Lum",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "75Vv1ckUW+fA5e5b6go8ew=="
+    },
+    {
+      "name": "Jo Lundberg",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AkBYdIp5UeT2UTm4SC0g3w=="
+    },
+    {
+      "name": "John Lyle",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8GqkSP1Z9Vo+P2EflDYgJw=="
+    },
+    {
+      "name": "Bonnie Lynam",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jtYxqokBJP38ZZXx9U+img=="
+    },
+    {
+      "name": "Donna MacCarley",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "aKhN7+qa4CbE3PRWhAiaLg=="
+    },
+    {
+      "name": "Nicole MacDonald",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3UcUgmwEAw70HxouBxBAxA=="
+    },
+    {
+      "name": "Jim Maloney",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U3iztBb3dmHteVlt2Eh3aA=="
+    },
+    {
+      "name": "Jennifer Manduffie",
+      "gender": "Female",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2apLBurh2pK384ehPx/tzA=="
+    },
+    {
+      "name": "Mark Manduffie",
+      "gender": "Male",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0C4dfngYLmxqQk7UFFLZoQ=="
+    },
+    {
+      "name": "Arne Markoff",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kg4gis5g5HRuZ3bpQVqVJQ=="
+    },
+    {
+      "name": "Stuart Marshall",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/31/2023",
+      "usta_id": "Jo6Yi98Xiw6c/tE1gn+ltA=="
+    },
+    {
+      "name": "Chase Martin",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/19/2023",
+      "usta_id": "XfzW7kYWS4d1EA6yVkAdrw=="
+    },
+    {
+      "name": "Edith Martin",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tOj/f+oPRQszW+ha/8NT5g=="
+    },
+    {
+      "name": "Lori Martin",
+      "gender": "Female",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "8Ihk+pwdAfe8pkUcSKmR4g=="
+    },
+    {
+      "name": "Tai Martin",
+      "gender": "Male",
+      "city": "AVILA BEACH",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "83Ui+sjYp1qLMLDwUV6Yng=="
+    },
+    {
+      "name": "Brett Marymee",
+      "gender": "Male",
+      "city": "Santa Ynez",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BxPPLUHr8AQLo12pnxs70Q=="
+    },
+    {
+      "name": "Leane Masterson",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "OqZ3G6OVd902r2G4aZOHUw=="
+    },
+    {
+      "name": "Sandra Mcbeth",
+      "gender": "Female",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/25/2025",
+      "usta_id": "pNydc6lA2aseSmIgIKZi4Q=="
+    },
+    {
+      "name": "Wade McBride",
+      "gender": "Male",
+      "city": "SANTA MARIA",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b3J6exx85cBa+H9h2RJkwQ=="
+    },
+    {
+      "name": "Dave McConnell",
+      "gender": "Male",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vY1rwSC3zdzXNUjwvaOTew=="
+    },
+    {
+      "name": "Corrie Meals",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GP5jcuAvZmSpQ1V6Ot8Qww=="
+    },
+    {
+      "name": "Jevon Meals",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ZjHgi4Mlbp99MT/HtLfZGA=="
+    },
+    {
+      "name": "Karen Meertens",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8qxQErXZNsZCXbI6F4zMQA=="
+    },
+    {
+      "name": "Anthony Mendoza",
+      "gender": "Male",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3m33NW5amq4/zBcka+mAWg=="
+    },
+    {
+      "name": "James Mercurio",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "LBWDCU56CvXo87KK12G2TQ=="
+    },
+    {
+      "name": "Natasha Mercurio",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U7n309RdOuPbH+8iKDYEiQ=="
+    },
+    {
+      "name": "Yvonne Miller",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "meMaw9pyOr9Dbu8Jzn3S7w=="
+    },
+    {
+      "name": "Jenna Milot",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HB7YgBBpNjcw6aNCqd1M5g=="
+    },
+    {
+      "name": "Fred Mina",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fNGIIoxSelgA2WnnGLqLqg=="
+    },
+    {
+      "name": "Mark Minnoch",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mMcPjOwqKnw+MZN6jhGvfw=="
+    },
+    {
+      "name": "Won Moon",
+      "gender": "Male",
+      "city": "Solvang",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zh95wKYFg2Y9L3C4GmAcvQ=="
+    },
+    {
+      "name": "Colleen Moss",
+      "gender": "Female",
+      "city": "SAN LUIS OBISPO",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/1/2025",
+      "usta_id": "1QZtCdiAidl4O12iCRbpzA=="
+    },
+    {
+      "name": "Jason Mueller",
+      "gender": "Male",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/6/2024",
+      "usta_id": "kVXh4+IBlB90ShU717pcQw=="
+    },
+    {
+      "name": "Jessie Mulry",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "paz9veQq9zH9fENy6/rk9w=="
+    },
+    {
+      "name": "Kelley Munson",
+      "gender": "Female",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8jyU/Mk3LK7O7uVvRnMONg=="
+    },
+    {
+      "name": "Thomas Munson",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "JRLUIPk9tLVKtkVn0hdyqg=="
+    },
+    {
+      "name": "Marie Murphy",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GEGku/7Pbzch7kDGRGl/cQ=="
+    },
+    {
+      "name": "Jim Muscarella",
+      "gender": "Male",
+      "city": "LOS OSOS",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VL1943lvkZBe4H/CFOZ1Pw=="
+    },
+    {
+      "name": "Kanako Nakajima",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/20/2024",
+      "usta_id": "GNPcAUF/4/RwPuhrCmqArA=="
+    },
+    {
+      "name": "Morri Nash",
+      "gender": "Female",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "guGgkxKqi8GDap6E66chXA=="
+    },
+    {
+      "name": "Tracy Nelson",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "NdPP5jbK8AKPflBaLAvRpQ=="
+    },
+    {
+      "name": "Kristin Newsom",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dP8fyCsshM1L5VnstB1Smg=="
+    },
+    {
+      "name": "Sean Newsom",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "aehfK1zalk/IEOjCOutClQ=="
+    },
+    {
+      "name": "Barbara Nicholson",
+      "gender": "Female",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j0CBcB2OCTZ5wLBQT2IenQ=="
+    },
+    {
+      "name": "Howard Nicholson",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "UEHOhgOGrIdiewLY/vBmlg=="
+    },
+    {
+      "name": "Nicole Nicholson",
+      "gender": "Female",
+      "city": "CAYUCOS",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "orAmaPN2cnqgz65iae8EIg=="
+    },
+    {
+      "name": "Marty Nitzberg",
+      "gender": "Female",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "mmR4ZPSYp+rKMhfVD9e9PQ=="
+    },
+    {
+      "name": "Mike O'Brien",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "50jeXHHTDfO15o6VjM95nA=="
+    },
+    {
+      "name": "Patricia O'Brien",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gUnyPU2RWSph1tgWtDxZWA=="
+    },
+    {
+      "name": "Nathaniel Oh",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/17/2024",
+      "usta_id": "p+UGxPnztNntvwLJsjNtfA=="
+    },
+    {
+      "name": "Christina Olson",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FcM7uNyyCNZTkxHJei3csw=="
+    },
+    {
+      "name": "Paula Olson",
+      "gender": "Female",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gBrlnfEz4i4IrpwkR7D30g=="
+    },
+    {
+      "name": "William Olson",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/18/2025",
+      "usta_id": "tPa+duHN2Yitzo9fjcQdtQ=="
+    },
+    {
+      "name": "Emmanuel Orozco",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/19/2025",
+      "usta_id": "XU88GAaVeOrQvRKEiAeefQ=="
+    },
+    {
+      "name": "Maribel Orozco",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ATfIm45WCkK7WC6KJUc9cg=="
+    },
+    {
+      "name": "Sergio Orozco",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7GS1QdoBXzxrtEl43k3bhA=="
+    },
+    {
+      "name": "Samer Othman",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/26/2024",
+      "usta_id": "jgfFq91LuJ01bfdhA0sw7g=="
+    },
+    {
+      "name": "Lyn Owens",
+      "gender": "Female",
+      "city": "Templeton",
+      "state": "CA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "UUN3+5CFsdE/zOLmrFUK/w=="
+    },
+    {
+      "name": "Lydia Oxendine",
+      "gender": "Female",
+      "city": "Moraga",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "jxLEX5xW/pgHdhjcyML2eg=="
+    },
+    {
+      "name": "Thomas Paine",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/3/2025",
+      "usta_id": "r+nalLbhDGKWCsiOssXpJA=="
+    },
+    {
+      "name": "Ann Paredes",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VTiTSXKG2UHsF5Dwh1L9eg=="
+    },
+    {
+      "name": "Sarah Pedersen",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c9UoQANa/1lXD2DOhv6sJg=="
+    },
+    {
+      "name": "Julia Peinado",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/27/2024",
+      "usta_id": "D7Yi4ppMxXKfkVVlSRsW7A=="
+    },
+    {
+      "name": "Emma Pelech",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "HPsp45JGLmdClz0nR68UpQ=="
+    },
+    {
+      "name": "Michelle Pelech",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q2JU1uSWncR6Qhax9XWFvw=="
+    },
+    {
+      "name": "Tayler Penson",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "O+VbMUEQHkrCINyOshdP1g=="
+    },
+    {
+      "name": "Anji Perry",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wMXIGFslhE7XJK6zeGxM5A=="
+    },
+    {
+      "name": "Sylvia Peterson",
+      "gender": "Female",
+      "city": "ATASCADERO",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f4pGScGlIBDtzYIIogf7NQ=="
+    },
+    {
+      "name": "Charlette Plinneke",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/29/2025",
+      "usta_id": "mVI2PyLa1Jvlr2Fs+LziNA=="
+    },
+    {
+      "name": "Greg Porter",
+      "gender": "Male",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dybsn+t5xOG7SRMvoWQVoA=="
+    },
+    {
+      "name": "JC Preciado",
+      "gender": "Male",
+      "city": "Buellton",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A9yMHeo+8xH2br8kE1tq8g=="
+    },
+    {
+      "name": "Charles Provencio",
+      "gender": "Male",
+      "city": "BAKERSFIELD",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "SyBQ8VyEt/z+2yOjXX6K+w=="
+    },
+    {
+      "name": "Catherine Pruett",
+      "gender": "Female",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/20/2024",
+      "usta_id": "PJa3Z6gNYF8H9RK9g4/EeQ=="
+    },
+    {
+      "name": "Jeff Pruett",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "srdIgG53CKlZcdGzo1Ar1A=="
+    },
+    {
+      "name": "Susan Pruett",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/19/2025",
+      "usta_id": "v6wO5hK+wPtRIkjJPfZM5w=="
+    },
+    {
+      "name": "Jennifer Rainey",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/26/2025",
+      "usta_id": "KVVDuuYjYykKOVI4Fnl70g=="
+    },
+    {
+      "name": "Lauri Rainwater-Quinn",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tpYS02eVxTiJKDP66oTDVw=="
+    },
+    {
+      "name": "Erik Ramberg",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2023",
+      "usta_id": "GoDvHzs3P/+Kj7dIohakKg=="
+    },
+    {
+      "name": "Nick Rasmussen",
+      "gender": "Male",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "qyu4zeuTuZzyP3ufZNvwTQ=="
+    },
+    {
+      "name": "Michael Reburn",
+      "gender": "Male",
+      "city": "SAN LUIS OBISPO",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/5/2025",
+      "usta_id": "8iex4t8F3AevQ+pQVWZUFg=="
+    },
+    {
+      "name": "Stacie Reeve",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CUuC4gJmoxV2yAerEu6Nqw=="
+    },
+    {
+      "name": "Catherine Reimer",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FlSJqN6mlUg0s+sAyl7wUw=="
+    },
+    {
+      "name": "Eileen Reinwald",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "ayC7e3yJjGAOi1spqcyx+A=="
+    },
+    {
+      "name": "Jason Reinwald",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wRR+Eb1wCwNOrIwq8MINoA=="
+    },
+    {
+      "name": "Alison Rendahl",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "oyn6tZM4YGXGbHTFl4HEzw=="
+    },
+    {
+      "name": "David Rennick",
+      "gender": "Male",
+      "city": "Grover Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QFjQCG9n8IFAIFq44UR/vg=="
+    },
+    {
+      "name": "Van Ribultan",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0EmZFFNj0wBZPeZdVt6nhg=="
+    },
+    {
+      "name": "Dagne Ricci",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ml1y3N0QDHCfweGAH/BG9g=="
+    },
+    {
+      "name": "Janet Ricedorff",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "STytR7IyqFSCy4QAGULWeA=="
+    },
+    {
+      "name": "Dennis Richardson",
+      "gender": "Male",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v175fPoSi82wZJsny7iPxQ=="
+    },
+    {
+      "name": "Aaron Rittger",
+      "gender": "Male",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "/WoDc/1I01CsIN9UQuXdSg=="
+    },
+    {
+      "name": "David Robb",
+      "gender": "Male",
+      "city": "Buellton",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/18/2023",
+      "usta_id": "TAUYKkUxJN+wMX1ViACcdQ=="
+    },
+    {
+      "name": "Cathy Robeck",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U4hSDfCAxnMV/VeqzKyefA=="
+    },
+    {
+      "name": "Dana Robertson",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nUxTj5oISbzpOmPNSr8y1g=="
+    },
+    {
+      "name": "David Rodgers",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "R+4WDOvvZKHjBJrchqoiIQ=="
+    },
+    {
+      "name": "Mary-barbara Romero",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/31/2024",
+      "usta_id": "zZ0Y+7m0WmhSzxItlX9KCA=="
+    },
+    {
+      "name": "Abrianna Rose",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qOBvRZrhgL9dcZzUYL9d+A=="
+    },
+    {
+      "name": "Rob Rose",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/22/2024",
+      "usta_id": "9O3MH7pkxHcOE3DPQYP8JA=="
+    },
+    {
+      "name": "Tami Rose",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v665ypg+V5I5e1E1Kshiqg=="
+    },
+    {
+      "name": "Jennifer Ross",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ii0f/uauQ81VKQWJmZE9/w=="
+    },
+    {
+      "name": "Joy Ross",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "km9mmJ/FiGbd/qA772+uIg=="
+    },
+    {
+      "name": "Scott Ross",
+      "gender": "Male",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/9/2025",
+      "usta_id": "8JMESU3b9YnRh1X0nECLFw=="
+    },
+    {
+      "name": "Trish Ross",
+      "gender": "Female",
+      "city": "NIPOMO",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "exZog828gO1R1IOoppa7sw=="
+    },
+    {
+      "name": "Jeff Rowan",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DSlkKiH3lUBXiBplB6vUjw=="
+    },
+    {
+      "name": "Stephen Royes",
+      "gender": "Male",
+      "city": "AVILA BEACH",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/27/2024",
+      "usta_id": "8PeWDcr6G0vvhYYalnYY/Q=="
+    },
+    {
+      "name": "Meka Rudd",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "hul/eoeRzIn7lA9UCXPznQ=="
+    },
+    {
+      "name": "Emily Rutter",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bn2mE1PnAwSibGk4Yx0T1g=="
+    },
+    {
+      "name": "Mark Sada",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "JIXONdXqpmOiNzLTgygp6Q=="
+    },
+    {
+      "name": "William Saiki",
+      "gender": "Male",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4vyw4sPsajkRTP5aRTSfHA=="
+    },
+    {
+      "name": "Lynnly Sainsbury",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/8/2024",
+      "usta_id": "rJNAheNnfqCRxblhC9lZwg=="
+    },
+    {
+      "name": "Diana Salcedo",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yzniaZcshv8XPRTxNLx4cg=="
+    },
+    {
+      "name": "Rick Santos",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "y3YA8tMtYF0Vyz355uA+HA=="
+    },
+    {
+      "name": "Timothy Saucerman",
+      "gender": "Male",
+      "city": "Newbury Park",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "Y///MDjRx4daK7k/7Ztg2Q=="
+    },
+    {
+      "name": "Carina Sayles",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0c9Ebhug0ofmLrDtp5Q22g=="
+    },
+    {
+      "name": "Erik Schiesl",
+      "gender": "Male",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "tm9BZsQyYmILF7IYZt6jrA=="
+    },
+    {
+      "name": "Donovan Schmit",
+      "gender": "Male",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "02mLm9mLF0WJaYbbnjXFtA=="
+    },
+    {
+      "name": "Nicole Schmit",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "MBhUQXNOgQYyMP9dIstdvQ=="
+    },
+    {
+      "name": "Jeff Schmoll",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "rbLlN3Fia6GGOLo5oA5tVQ=="
+    },
+    {
+      "name": "Teresa Schmutte",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zUlFoemEuusItH/RaIFHbw=="
+    },
+    {
+      "name": "Steve Schoenfeld",
+      "gender": "Male",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L9YFD60AOIHjopLxzCAOzg=="
+    },
+    {
+      "name": "Clay Schroeder",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "I97nVlLDWVq3dHOwVQflgg=="
+    },
+    {
+      "name": "Masha Schroeder",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6R8q6lI8qF19Aue8pq2AkA=="
+    },
+    {
+      "name": "Mark Sczbecki",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "hMHfU2AvMTl0+9SXLIoTSg=="
+    },
+    {
+      "name": "Holly Seeds",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "cptiN33XeNMMF4HzF6Fndg=="
+    },
+    {
+      "name": "Maddie Seeds",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Qp/4R5vwBG2VlU2+2frHQ=="
+    },
+    {
+      "name": "Andrew Sharp",
+      "gender": "Male",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2022",
+      "usta_id": "RnQ6oShXf2ME7hEw67hBbA=="
+    },
+    {
+      "name": "Daniel Sheppard",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/5/2025",
+      "usta_id": "YgTmA+Z4jmbZRLdn3fppEQ=="
+    },
+    {
+      "name": "Lori Sherry",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "++nk3fdBRXFkffaDsU93Aw=="
+    },
+    {
+      "name": "Shawn Shurick",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8/7/Lpn8YO0O+pZ3Pm3fSw=="
+    },
+    {
+      "name": "David Silberberger",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "MLm2CHnTFk+EvSfC9mTgQQ=="
+    },
+    {
+      "name": "Robert Simons",
+      "gender": "Male",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6iHyc/SbPazKAvZgqJLUVQ=="
+    },
+    {
+      "name": "Erin Sjoholm",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/5iXYnez9CHpNSX8KwKK6w=="
+    },
+    {
+      "name": "Christina Slimack",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/10/2025",
+      "usta_id": "nu110n0FdDRCea4J9jKE9Q=="
+    },
+    {
+      "name": "David Smith",
+      "gender": "Male",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/22/2024",
+      "usta_id": "EG51NvPt+z+9GDAq4sl1Gw=="
+    },
+    {
+      "name": "Hanna Smith",
+      "gender": "Female",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IsJf/8CQOIAnrL5Iii46Hg=="
+    },
+    {
+      "name": "Jeffrey Smith",
+      "gender": "Male",
+      "city": "Morro Bay",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LLwx8PFiFXlj0QxZyNTkkA=="
+    },
+    {
+      "name": "Ronald Smith",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6NfeFHcJvdxKOLT9ronOSQ=="
+    },
+    {
+      "name": "Michael Stanton",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eEw8c7IUlcBpbMQFi/zCQQ=="
+    },
+    {
+      "name": "Carlee Starkey",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6ai9c8ojyD2nl0otHn+lMQ=="
+    },
+    {
+      "name": "Christian Stearns",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "7qvWuLMTeVWkW4qG3DClYg=="
+    },
+    {
+      "name": "Darcia Stebbens",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZSqzlLETwKkcgpTxS6NiDA=="
+    },
+    {
+      "name": "Jeanne Stephenson",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2p5jA7fPPnH+yfwJIBKg6g=="
+    },
+    {
+      "name": "Amy Stets",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QcxoPICWSUoXd6gdSHrKOw=="
+    },
+    {
+      "name": "Anita Stohr",
+      "gender": "Female",
+      "city": "AVILA BEACH",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OG51tdw3MXKHc6t6lgSGWw=="
+    },
+    {
+      "name": "Samantha Stollberg",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rZQgyqZgPGaNLdgmtkz5+Q=="
+    },
+    {
+      "name": "Meghan Stone",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/18/2025",
+      "usta_id": "5Tc1eunh6fgwl/FueG9ejg=="
+    },
+    {
+      "name": "Camila Strong",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "mf32sLkPt9A5d8QojCUleg=="
+    },
+    {
+      "name": "John Strong",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/23/2023",
+      "usta_id": "vEyhPNrbZLbn+3pquQ2tHA=="
+    },
+    {
+      "name": "Melanie Sundstrom",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N8nDLwfVaRhmJJm4dVdgDA=="
+    },
+    {
+      "name": "Joy Swann",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wBT000SQt7nLfnPPPCITzw=="
+    },
+    {
+      "name": "Jennifer Swanson",
+      "gender": "Female",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8sLuqR500gwyZGvdj1s0Gg=="
+    },
+    {
+      "name": "Sheree Swanson",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/21/2025",
+      "usta_id": "LQqjAVYoZs6v3GXekzplgQ=="
+    },
+    {
+      "name": "Christine Sweeney",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0c9Ebhug0ofbepxuoYDHdg=="
+    },
+    {
+      "name": "Meredith Takken",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "y7l+IbrAdFNlt24eueQekg=="
+    },
+    {
+      "name": "Phong Thach",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cE72TYtRnQcZag8sgdz1lw=="
+    },
+    {
+      "name": "Kathleen Thomas",
+      "gender": "Female",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ybtr4WRujP7Uv2h9+Etcnw=="
+    },
+    {
+      "name": "Steve Thomas",
+      "gender": "Male",
+      "city": "Los Osos",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iggXf0Qv1a4X0xo4NYAQqg=="
+    },
+    {
+      "name": "Colleen Thompson",
+      "gender": "Female",
+      "city": "NIPOMO",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "47BNNCEnUMxjk+DV/AtfbQ=="
+    },
+    {
+      "name": "Daniel Thompson",
+      "gender": "Male",
+      "city": "SANTA BARBARA",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bqR54dqEd4Sv23BI3W99wA=="
+    },
+    {
+      "name": "Scott Thorshov",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "tA7htTudCWfFUtO2375UCw=="
+    },
+    {
+      "name": "Glenn Tomilloso",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mNkIiFAedeb/50rmzijsuA=="
+    },
+    {
+      "name": "Lorena Torres",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o4PeekGup0qnVvVu/w929w=="
+    },
+    {
+      "name": "David Tuttle",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t+GDIpbKJ9I3mZuUQEnkbA=="
+    },
+    {
+      "name": "Linda Valentine",
+      "gender": "Female",
+      "city": "NIPOMO",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/5/2024",
+      "usta_id": "RZhq6dQws4R7JyJGO8Lfcg=="
+    },
+    {
+      "name": "Fabiola Van Oppen",
+      "gender": "Female",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/5/2025",
+      "usta_id": "Jlq77/BMCIeNk15z0mvgZQ=="
+    },
+    {
+      "name": "Deborah VANDENBERG",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+xUb9+CnHHtKJlG9l8fF8Q=="
+    },
+    {
+      "name": "Kirk Vaughn",
+      "gender": "Male",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ny5SbZDNSXjEXG6RdpeQFg=="
+    },
+    {
+      "name": "Rebecca Velasquez",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2023",
+      "usta_id": "H29RVsNOAofYYEsMKaB/9Q=="
+    },
+    {
+      "name": "Stephanie Ventura",
+      "gender": "Female",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dP8fyCsshM2eQiaycWLG1g=="
+    },
+    {
+      "name": "Jack Vine",
+      "gender": "Male",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "C4HNFm7Y4/zZVSVlDpgoXg=="
+    },
+    {
+      "name": "Sandy Volk",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "RRfYTjst6dyZhllPz7tx4w=="
+    },
+    {
+      "name": "Stephen Wagner",
+      "gender": "Male",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GuleAvuTAuWnh9CGLRzQFg=="
+    },
+    {
+      "name": "Leslie Warwick",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "93sNUmbhcVvYLF9qEgcK/g=="
+    },
+    {
+      "name": "Jennifer Watson",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "dcoAtFkckCXaOcOnOgvaGw=="
+    },
+    {
+      "name": "Steve Waymire",
+      "gender": "Male",
+      "city": "Pismo Beach",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/15/2024",
+      "usta_id": "jPhI5bWM6stI4ftvw4EANQ=="
+    },
+    {
+      "name": "Andrew Weber",
+      "gender": "Male",
+      "city": "San Dimas",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "gsx7BPLdxHyXllrh48lfIg=="
+    },
+    {
+      "name": "Audrey Weil",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rU0oGRZNygYMvxPerpuxqA=="
+    },
+    {
+      "name": "CoAnn Weil",
+      "gender": "Female",
+      "city": "SAN LUIS OBISPO",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+k797wfs6XM5FfgqlKi2+A=="
+    },
+    {
+      "name": "Justin Wellner",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/30/2024",
+      "usta_id": "NHm49OzH6TiqpXngEBoauw=="
+    },
+    {
+      "name": "Bill Wesnousky",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "awYm0X5QQKeH9srxUCRzMA=="
+    },
+    {
+      "name": "Claudia Westrum",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "l9bGt8670uLd4wxJ+kQRVQ=="
+    },
+    {
+      "name": "Amber Wey",
+      "gender": "Female",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "7/11/2025",
+      "usta_id": "u+FuzUGf3dLwefwyUGCClg=="
+    },
+    {
+      "name": "Brian Whitaker",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qoKhxha6ibxHrXjpRFukhQ=="
+    },
+    {
+      "name": "Jennie Williams",
+      "gender": "Female",
+      "city": "Atascadero",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1e54gw14Nx8Wey3V5pDSNQ=="
+    },
+    {
+      "name": "Patti Wilson",
+      "gender": "Female",
+      "city": "Agoura Hills",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cjgj/7TA+lKtMNr2M9X/Xw=="
+    },
+    {
+      "name": "Terri Wilson",
+      "gender": "Female",
+      "city": "Templeton",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BXAiM4bRnMydInN2sE9+Sw=="
+    },
+    {
+      "name": "Janet Windman",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PsG8S+nZZF7vv4BR40VIaA=="
+    },
+    {
+      "name": "Laura Winkenbach",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bzyZq1+L2M1GEpBPlWgp3A=="
+    },
+    {
+      "name": "Jeong Woo",
+      "gender": "Male",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "5lGedNLKORRegZ7DV3xmGg=="
+    },
+    {
+      "name": "Maggie Woodward",
+      "gender": "Female",
+      "city": "Avila Beach",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZaXcz8hKBAnaQ0VR2lcWmQ=="
+    },
+    {
+      "name": "Jami Wozniak",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1uoUKHitua3gpTMCbmsgdw=="
+    },
+    {
+      "name": "Kerim Yacoub",
+      "gender": "Male",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KvgErxyr6zwtc8nnwSEW3g=="
+    },
+    {
+      "name": "Kathleen York",
+      "gender": "Female",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QETQeOkj1LFA1gnMH8sbYg=="
+    },
+    {
+      "name": "Theresa Young",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B1wuhvEo+lhR29lMBpksvA=="
+    },
+    {
+      "name": "JJ Zahry",
+      "gender": "Male",
+      "city": "Santa Maria",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "llpWS1TsyT4pbSrHLAYLnA=="
+    },
+    {
+      "name": "Jiao Hua Zhou",
+      "gender": "Female",
+      "city": "Arroyo Grande",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7szallNk6Mh7qDuyVSsovA=="
+    },
+    {
+      "name": "Jonathan Ziegler",
+      "gender": "Male",
+      "city": "Paso Robles",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/22/2024",
+      "usta_id": "6Jlmy/qm/1FoRGX8C7k2rQ=="
+    },
+    {
+      "name": "Sue Zweig",
+      "gender": "Female",
+      "city": "Nipomo",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "7iIdQ9gxPSMKvwtEmu7m0Q=="
+    }
+  ]
+}

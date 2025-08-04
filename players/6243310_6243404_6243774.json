@@ -1,0 +1,877 @@
+{
+  "sectionId": "6243310",
+  "districtId": "6243404",
+  "areaId": "6243774",
+  "players": [
+    {
+      "name": "Roxie Anderson",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8+wdqNFfvtX0IkApYRQ+Eg=="
+    },
+    {
+      "name": "John Aschenbrenner",
+      "gender": "Male",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5jSWKnFQF0I82l8k8pjzeQ=="
+    },
+    {
+      "name": "Mary Aschenbrenner",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+kIl6mXqGaLphkNiHjjEiQ=="
+    },
+    {
+      "name": "Kristine Bartley",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IpF/Jo0AYGbxCFBWwL939g=="
+    },
+    {
+      "name": "Dalton Buros",
+      "gender": "Male",
+      "city": "Viroqua",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "K/8h97uqrQqbFI+E5SPd8w=="
+    },
+    {
+      "name": "Tamara Byrne",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/9/2024",
+      "usta_id": "Hav1TvgLaIjBbiydWPallQ=="
+    },
+    {
+      "name": "Jennifer Carr",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LYs1Phco0cuj5Q5if8R9wQ=="
+    },
+    {
+      "name": "Marcus Crosby",
+      "gender": "Male",
+      "city": "LA Crescent",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QNyRjX82TRyC88EiwIHBgg=="
+    },
+    {
+      "name": "Allison Culp",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "M+6fxnkWp88O6AIT4B6n+w=="
+    },
+    {
+      "name": "Jacqueline Czeiska",
+      "gender": "Female",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dMpQN4hAhAUtQWex2nV17w=="
+    },
+    {
+      "name": "Eva Dahl",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vfmQbXxTqqpIthCfEG3MUQ=="
+    },
+    {
+      "name": "Brittney Dechambeau",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/24/2024",
+      "usta_id": "icVmGfx+W+73bgZMavHQug=="
+    },
+    {
+      "name": "Isaac Dhyanchand",
+      "gender": "Male",
+      "city": "Lancaster",
+      "state": "WI",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "SEUOp3ER5y5r6BoCUGbSwg=="
+    },
+    {
+      "name": "Leah Dietrich",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gCx18QXs6M+8UlvKNvGctQ=="
+    },
+    {
+      "name": "Josh Dirks",
+      "gender": "Male",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "if7Osd4CLYoS5OQOGv/lTA=="
+    },
+    {
+      "name": "Thomas Dwyer",
+      "gender": "Male",
+      "city": "LA CROSSE",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V1kBt7/pt7/euCcIjf84XQ=="
+    },
+    {
+      "name": "Danielle Engen",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/15/2025",
+      "usta_id": "qXUFhKfycC1hM4AZ8EpZuQ=="
+    },
+    {
+      "name": "Judith Engen",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QkHMd+B6DY+NXt/jV3Vkww=="
+    },
+    {
+      "name": "Hannah Exner",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H6lmdwjQ0H5zWpDaK/Ig4Q=="
+    },
+    {
+      "name": "Lauri Ford",
+      "gender": "Female",
+      "city": "ONALASKA",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2024",
+      "usta_id": "tjO7oY73OslNGZLPxPM6sg=="
+    },
+    {
+      "name": "Lynn Frise",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wNCuwMBQyrZ8rbk6qMHGLg=="
+    },
+    {
+      "name": "Craig Hanson",
+      "gender": "Male",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/9/2025",
+      "usta_id": "AwC0lIT9lZsAaqfuZgjQtw=="
+    },
+    {
+      "name": "Amy Harter",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iRNSkYmGQiiBW4iv3J56Yg=="
+    },
+    {
+      "name": "Jeffree Herde",
+      "gender": "Male",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MkK8pPtKaOyhi3oSbfNUIA=="
+    },
+    {
+      "name": "Nicole Hoff",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NQwQchEDEuX0R97Uf8efbQ=="
+    },
+    {
+      "name": "Kyle Jensen",
+      "gender": "Male",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dxYcQQYVACo8Dt8Il+rXLw=="
+    },
+    {
+      "name": "Regina Jones",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kEFGlLSa25A0Z2K8yytnHg=="
+    },
+    {
+      "name": "Learoy Daryl Joseph",
+      "gender": "Male",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "H5rFs9BAHVrNKBgHYHlIRg=="
+    },
+    {
+      "name": "Christine Kahlow",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0PTqomFAZEUNvFmQnsrTcA=="
+    },
+    {
+      "name": "Alyssa Kastenschmidt",
+      "gender": "Female",
+      "city": "West Salem",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "+MhTxVRa2Hvz1Q8GBb7dJA=="
+    },
+    {
+      "name": "Owen KING",
+      "gender": "Male",
+      "city": "Viroqua",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "PeyatzmCsndwVBlhglQ1XQ=="
+    },
+    {
+      "name": "Paul Leithold",
+      "gender": "Male",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JyiPkMY6SPuD0OQ8YaKvDQ=="
+    },
+    {
+      "name": "Ethan Libbey",
+      "gender": "Male",
+      "city": "Tomah",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "WuxsEUWeoKYMQE0N1uvGPw=="
+    },
+    {
+      "name": "Adrienne Loh",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E0hF2TZvvuC/5eBF4G7Csg=="
+    },
+    {
+      "name": "Stanton Loh",
+      "gender": "Male",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pNnvTH/31ixxdrPT/vyCyA=="
+    },
+    {
+      "name": "Thomas Londergan",
+      "gender": "Male",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/1/2025",
+      "usta_id": "ehAj3imRv5Epqra6NHFcVA=="
+    },
+    {
+      "name": "Grace Marco",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4afp5vDp+JPo+PMLGXJ+LA=="
+    },
+    {
+      "name": "Amy Marcou",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cZ3tFVo8dPBAnw+vAps4yQ=="
+    },
+    {
+      "name": "Teresa Mears",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AYmJpDp4Qpx4EBRBHEauEg=="
+    },
+    {
+      "name": "Brett Meddaugh",
+      "gender": "Male",
+      "city": "Holmen",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JXtNQme2Prc5G7lB2G1xRw=="
+    },
+    {
+      "name": "Carly Meddaugh",
+      "gender": "Female",
+      "city": "Holmen",
+      "state": "WI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jmmc2K9u1POuJy9sn7YgqQ=="
+    },
+    {
+      "name": "Gracie Miller",
+      "gender": "Female",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "40EVG3kCKkAMQqXSIrTcrA=="
+    },
+    {
+      "name": "Jeanne Miller",
+      "gender": "Female",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "tl8U+RhHfuLWpk7duLeidg=="
+    },
+    {
+      "name": "Madan Mohan",
+      "gender": "Male",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/16/2025",
+      "usta_id": "aj8gGG1YM2erzgZoXVTthw=="
+    },
+    {
+      "name": "Sureshkumar Mohanarajan",
+      "gender": "Male",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g6tqqvQPbll/a8n/2vKOrw=="
+    },
+    {
+      "name": "Randall Moseng",
+      "gender": "Male",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "m18rFvZNylvdlAxSb8t/Ng=="
+    },
+    {
+      "name": "Antelma Nicolai",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/26/2025",
+      "usta_id": "TOgUxXlCH/Mx+CF3OaiQMQ=="
+    },
+    {
+      "name": "Fiona O'Flaherty",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/ppjbXm93IJpEBAdFSS1Kw=="
+    },
+    {
+      "name": "Joseph O'Flaherty",
+      "gender": "Male",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2024",
+      "usta_id": "j+yzzLL+CZoUX8PPrfR0sQ=="
+    },
+    {
+      "name": "Sean O'Flaherty",
+      "gender": "Male",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c/acKb1rx+HUPqk0viXBhA=="
+    },
+    {
+      "name": "Chloe Ohlfs",
+      "gender": "Female",
+      "city": "West Salem",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/13/2024",
+      "usta_id": "lM8/WiWOUL5WQ1OPQ/hn1g=="
+    },
+    {
+      "name": "Michael Ojelabi",
+      "gender": "Male",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c0IVqLNfCgbS0WdOS1BpbQ=="
+    },
+    {
+      "name": "Aaron Olson",
+      "gender": "Male",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "7dQ3dzeFJTz/TePfJjC2Gw=="
+    },
+    {
+      "name": "Anna Olson",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "lg0nXNnIJ9IBN7kORtc/Yw=="
+    },
+    {
+      "name": "Josh Orth",
+      "gender": "Male",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "oKZEWnvVc1XEvv1gqSEZMg=="
+    },
+    {
+      "name": "Erica Osley",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fetiPMXrbrzCQbuXk/sriw=="
+    },
+    {
+      "name": "Michele Ottum",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tsfu6aS+fZxB0JodlBJHFg=="
+    },
+    {
+      "name": "Tung Ouy",
+      "gender": "Male",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5ywZeom4apr8OwfLYEhaMQ=="
+    },
+    {
+      "name": "Leslie Peickert-Kroker",
+      "gender": "Female",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/26/2024",
+      "usta_id": "+OvgRHVMVNZVsgf+89Yu2A=="
+    },
+    {
+      "name": "Penny Precour",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/11/2025",
+      "usta_id": "RjZLm/i1vmIRyAXKBhjE0w=="
+    },
+    {
+      "name": "Jonella Rademacher",
+      "gender": "Female",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "y76rnOR+35FzjfiGB4ZD6A=="
+    },
+    {
+      "name": "Michelle Rank",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KRt8Qq0MS9W3+Tqvd6DlDQ=="
+    },
+    {
+      "name": "Sandra Scanoni Albers",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "z2M9+SCAwxqNd0rH3v2Zeg=="
+    },
+    {
+      "name": "Greg Schibbelhut",
+      "gender": "Male",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W+wNeIa3D1Wcjp7tENhO1g=="
+    },
+    {
+      "name": "Andrew Seithamer",
+      "gender": "Male",
+      "city": "HOLMEN",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yy6xMrg4B7KYn9m390UQDA=="
+    },
+    {
+      "name": "Ellen Seithamer",
+      "gender": "Female",
+      "city": "HOLMEN",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sWyOvwfTgfsOcrRD+PYVGA=="
+    },
+    {
+      "name": "Sarah Siegler",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I/HwYIECamtP7x3Iam0ZKw=="
+    },
+    {
+      "name": "Bette Smith",
+      "gender": "Female",
+      "city": "Holmen",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "850LYsO09cOOZqQ1bQOyLw=="
+    },
+    {
+      "name": "Bryan Spier",
+      "gender": "Male",
+      "city": "Caledonia",
+      "state": "MN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZCye/tyx4D6maCASSLLsWw=="
+    },
+    {
+      "name": "Molly Stenger",
+      "gender": "Female",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/12/2024",
+      "usta_id": "RJhjAdM2OuPq45EAyTz6yg=="
+    },
+    {
+      "name": "Amelia Topolski",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "IHR3nvK8zLes80goqeApBA=="
+    },
+    {
+      "name": "Krista Topolski",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "83qOD1aVIzvmHVwrz4FlIA=="
+    },
+    {
+      "name": "Mark Topolski",
+      "gender": "Male",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "YBtoMu5B33UoZAnQC7XJFQ=="
+    },
+    {
+      "name": "Shanon Torgerud",
+      "gender": "Female",
+      "city": "MINDORO",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vEMSSkdoyNsCvLlx7fqRgA=="
+    },
+    {
+      "name": "Sherwin Toribio",
+      "gender": "Male",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "g/d7k2vcOW/ijp521LfepQ=="
+    },
+    {
+      "name": "Ben Tunks",
+      "gender": "Male",
+      "city": "Coon Valley",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XL49di5OX5IGkYzAC0tNrQ=="
+    },
+    {
+      "name": "Nathan Tunks",
+      "gender": "Male",
+      "city": "La Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jij8WfSq1JcFaExzhbf6ZQ=="
+    },
+    {
+      "name": "Rose Wettstein",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RJhjAdM2OuMma/vByrC5QA=="
+    },
+    {
+      "name": "Nancy Winberg",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TVAFWaX2hieQsA2MKPjYow=="
+    },
+    {
+      "name": "David Wissink",
+      "gender": "Male",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "v00KT1NMcMbNn8kO9vRsmw=="
+    },
+    {
+      "name": "Steve Wissink",
+      "gender": "Male",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sX8/ujNe/tOcCk/TLojf9A=="
+    },
+    {
+      "name": "Jeff Wittrock",
+      "gender": "Male",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/14/2023",
+      "usta_id": "X6rCL7AqUT9w1FgzYnUEDg=="
+    },
+    {
+      "name": "Evan Woodard",
+      "gender": "Male",
+      "city": "Winona",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/8/2024",
+      "usta_id": "k/pBwPnQAiZ/6TLWdvC3gg=="
+    },
+    {
+      "name": "Emily Yehle",
+      "gender": "Female",
+      "city": "Winona",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "/tMsFVrx7tkCXnmpTupNAQ=="
+    },
+    {
+      "name": "Cathy Zapotocny",
+      "gender": "Female",
+      "city": "Onalaska",
+      "state": "WI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kQ+iq20W7uLxsfLS3vPl7A=="
+    },
+    {
+      "name": "Julie Zink",
+      "gender": "Female",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9c6AHDX/EQYfe19h2V5cBQ=="
+    },
+    {
+      "name": "Robert Zink",
+      "gender": "Male",
+      "city": "LA Crosse",
+      "state": "WI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/8/2025",
+      "usta_id": "A1ankr0LCHACFsUM4TXCSQ=="
+    }
+  ]
+}

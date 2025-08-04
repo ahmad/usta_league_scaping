@@ -1,0 +1,3717 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243380",
+  "areaId": "6243636",
+  "players": [
+    {
+      "name": "Danita Abernathy",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "p+90FL25kmKXigB50y3X2Q=="
+    },
+    {
+      "name": "Laura Adams",
+      "gender": "Female",
+      "city": "HIXSON",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ii0f/uauQ83AhRInnHx4iA=="
+    },
+    {
+      "name": "Jewel Akpose",
+      "gender": "Female",
+      "city": "Cartersville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fDfLj4p6Bu1egnRYuG9spg=="
+    },
+    {
+      "name": "Wayne Albergotti",
+      "gender": "Male",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bYanyl9Aj34SBZDe3equoA=="
+    },
+    {
+      "name": "Paul Alderman",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/7/2025",
+      "usta_id": "9bUSgLWusddz5CddC68hgg=="
+    },
+    {
+      "name": "Cielene Aleksejus",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0IV1NksQR6iXnJlFUj48kA=="
+    },
+    {
+      "name": "Shazman Ali",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MtTSXoyIyU6VCfpq+4SFVw=="
+    },
+    {
+      "name": "Betty Andersen",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DQGsWZAzR01uYtJwWtoRXA=="
+    },
+    {
+      "name": "Courtney Andreach",
+      "gender": "Female",
+      "city": "HIXSON",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vjqvpl815lD5As1vqJGihQ=="
+    },
+    {
+      "name": "Santiago Angel",
+      "gender": "Male",
+      "city": "Tunnel Hill",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/9/2024",
+      "usta_id": "/rA0LpT3md2JThG+D6rQsA=="
+    },
+    {
+      "name": "James Angland",
+      "gender": "Male",
+      "city": "Plainville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0pHVGxEhfKFMESmK2X2D3Q=="
+    },
+    {
+      "name": "Hiroshi Aoki",
+      "gender": "Male",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0CjQ60jK/oFsPlD+JLYv1w=="
+    },
+    {
+      "name": "Teressina Araiza",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QG15xQBuA5Pllge/j9qOWQ=="
+    },
+    {
+      "name": "Robbie Armstrong",
+      "gender": "Male",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8qs7EDnHp9QmaognJ7KiWw=="
+    },
+    {
+      "name": "Benny Ashley",
+      "gender": "Male",
+      "city": "Chickamauga",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "Sf4ilwJJRfUR5OF8A2h9qg=="
+    },
+    {
+      "name": "Maggie Atkinson",
+      "gender": "Female",
+      "city": "DALTON",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "CFyRVWzlhTQIu9An6BXH1Q=="
+    },
+    {
+      "name": "Blake Austin",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/23/2024",
+      "usta_id": "AJRFsXvGWNrFS2Nqriku8w=="
+    },
+    {
+      "name": "Emily Bagley",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZXP35OKTyXNVwtXKE2COOw=="
+    },
+    {
+      "name": "Missy Bagwell",
+      "gender": "Female",
+      "city": "Rydal",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qncQditOwAXWC6lTGgb66g=="
+    },
+    {
+      "name": "Nina Banks",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rReLDPsykkWPvCIpYIGSdQ=="
+    },
+    {
+      "name": "Lynne Barkeloo",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cu98d4quCQ7CylvHPIga8w=="
+    },
+    {
+      "name": "Jonathan Barlow",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nmAncFF9PyD2xRx9Ei+OnA=="
+    },
+    {
+      "name": "Jeff Barnes",
+      "gender": "Male",
+      "city": "Rockmart",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X//FrWeGKHr8Lhw9TDh8kA=="
+    },
+    {
+      "name": "Casey Baxter",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "yFZajZcPriPltz7Q+6jMng=="
+    },
+    {
+      "name": "Caroline Bentley",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LdUFnQ2KXkaH+ovo7bBJnA=="
+    },
+    {
+      "name": "Linda Benton",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6TwkYppIagvuuzIMD1i2IQ=="
+    },
+    {
+      "name": "Kanishkan Bharathy",
+      "gender": "Male",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E3GNfUhNC1nhU+9jJ8TQVg=="
+    },
+    {
+      "name": "Pushpa Bhatter",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZUL8sTgCEiVeQJsSqA9bWQ=="
+    },
+    {
+      "name": "John Biondolillo",
+      "gender": "Male",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "50VhKj0V+oRLH9kKHZ9X+Q=="
+    },
+    {
+      "name": "Tara Biondolillo",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/9/2024",
+      "usta_id": "50VhKj0V+oQjG5MkH59g+Q=="
+    },
+    {
+      "name": "Morgan Bird",
+      "gender": "Male",
+      "city": "Woodstock",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WzdnHMSkvAZIzhtw1q79AA=="
+    },
+    {
+      "name": "Dwayne Bordelon",
+      "gender": "Male",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "i96xee6NESmiEuYgZhEfuQ=="
+    },
+    {
+      "name": "Rich Boschi",
+      "gender": "Male",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/12/2025",
+      "usta_id": "aPFoA6aFNe+lU8FO3Q/N8g=="
+    },
+    {
+      "name": "Susan Bosworth",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/8/2025",
+      "usta_id": "o5Ji/ztT9aafIQJCxGyJ+Q=="
+    },
+    {
+      "name": "Beth Bourgeois",
+      "gender": "Female",
+      "city": "LOOKOUT MOUNTAIN",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U/I4eKep5chDAtC5KN9Drg=="
+    },
+    {
+      "name": "Billy Bowers",
+      "gender": "Male",
+      "city": "FAIRMOUNT",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "QsHKnRvK/ew91chWHwKmPA=="
+    },
+    {
+      "name": "Lori Boyd",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9kig/GmXnJY+2J5Ohpd8VQ=="
+    },
+    {
+      "name": "Bettina Briggs",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aWnMcUo2jD1nhHEt8wXDgg=="
+    },
+    {
+      "name": "Julie Briggs",
+      "gender": "Female",
+      "city": "Soddy Daisy",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5KgFyoExTh1amdtr54ForQ=="
+    },
+    {
+      "name": "Kathleen Brock",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rb+l/PeGUza30xD/CfD9LQ=="
+    },
+    {
+      "name": "Ashley Brown",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wQAWgeh9BXCf3GB/o+cnPA=="
+    },
+    {
+      "name": "Justin Brown",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F0bRPmTXZtumKxkUWzfaNQ=="
+    },
+    {
+      "name": "Laurie Brown",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wmRPAzQhIsABTFoBBahgYg=="
+    },
+    {
+      "name": "Nicole Brown",
+      "gender": "Female",
+      "city": "Resaca",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "mjdzP6vTMhMiEVyOd5UtDw=="
+    },
+    {
+      "name": "Courtney Brunetz",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DfAXEZVHO6Pj7vEcsB4S9A=="
+    },
+    {
+      "name": "Terri Brunvoll",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e5Wc7G/2t0vwehfXaPQanw=="
+    },
+    {
+      "name": "Carissa Bull",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/21/2024",
+      "usta_id": "knlN4Civx/SloO1eNN84pA=="
+    },
+    {
+      "name": "Camille Burkley-Wilson",
+      "gender": "Female",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z0vKGR3oUYO/w6y2im5xew=="
+    },
+    {
+      "name": "Jacob Bush",
+      "gender": "Male",
+      "city": "Cartersville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EPWfOl5AfynBFEK5xwJ3wg=="
+    },
+    {
+      "name": "Kennisha Cann",
+      "gender": "Female",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hZNz4qkKVoVyZrE7y9RfQg=="
+    },
+    {
+      "name": "Robert Caperton",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/2/2023",
+      "usta_id": "9KwxVer+RJ0DOgQgIjvF9A=="
+    },
+    {
+      "name": "Molly Carlson",
+      "gender": "Female",
+      "city": "Rocky Face",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bbjhn6h9XVkoA/wgFyHAfQ=="
+    },
+    {
+      "name": "Whitney Carnes",
+      "gender": "Female",
+      "city": "Ball Ground",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uvZHew5DAkbCySOIIPFS4g=="
+    },
+    {
+      "name": "Hannah Carr",
+      "gender": "Female",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yfhjIoc0eMlZr4v/AJj7eQ=="
+    },
+    {
+      "name": "Ann Carroll",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pswDxJkIrFbvfxJ8eY98Gg=="
+    },
+    {
+      "name": "Lee Carroll",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hBWkuQ2IbGGcYlNTnxjkBA=="
+    },
+    {
+      "name": "Suni Carroll",
+      "gender": "Female",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "m3jlQAcCKqSvT1e/gML+BQ=="
+    },
+    {
+      "name": "Jessica Carter",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jqgWgM/E1Nl8oWEJDO7eBQ=="
+    },
+    {
+      "name": "Stefanie Ceto",
+      "gender": "Female",
+      "city": "Alpharetta",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "R+l4ifJOG3wwErY5MQmwEg=="
+    },
+    {
+      "name": "April Chambers",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hvZWyPpBMes8y+KIST6J+Q=="
+    },
+    {
+      "name": "Brock Champion",
+      "gender": "Male",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "7oIFgn+yBTzzaolqnz/MvA=="
+    },
+    {
+      "name": "Raymond Chang",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GrvCKle1oxvUR+LowlqCVA=="
+    },
+    {
+      "name": "April Chastain",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xlmQ3RK5MOLJK78hTjeW6w=="
+    },
+    {
+      "name": "Brian Chastain",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0+Ckkv6TjZZdru2/iR26Dw=="
+    },
+    {
+      "name": "Joseph Cheriyampurathu",
+      "gender": "Male",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rU2IdXRqYZoowvX47rAHGQ=="
+    },
+    {
+      "name": "Kyle Christensen",
+      "gender": "Male",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mHdjkv8j2jC2drDfHQkHQA=="
+    },
+    {
+      "name": "Bridget Christian",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/21/2024",
+      "usta_id": "CY+2jH6qk+wThDQr6zXeDQ=="
+    },
+    {
+      "name": "Ruby Christian",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/26/2024",
+      "usta_id": "9qtJxoUO8hOpBiTIok3kQQ=="
+    },
+    {
+      "name": "Linda Chung",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/BXXwx0XCt/6DRwcaL2DFw=="
+    },
+    {
+      "name": "Gregg Cleary",
+      "gender": "Male",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/2/2024",
+      "usta_id": "iOYX1Gq4i32kF9RswvvJnw=="
+    },
+    {
+      "name": "Noah Cleary",
+      "gender": "Male",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YVPfFDoyOsvQSPupCbcZYw=="
+    },
+    {
+      "name": "Michelle Cochran-Wells",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/13/2025",
+      "usta_id": "ojBDDsuqh4SRfrOZvxbN2w=="
+    },
+    {
+      "name": "Kimberly Conner",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/AcYHFmD879gfHiujTfi7A=="
+    },
+    {
+      "name": "Lori Cook",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PL8sJftBEzor1+2jhYaVcg=="
+    },
+    {
+      "name": "Judy Coomer",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "E+0PoIULnQ5hffX7b8EArQ=="
+    },
+    {
+      "name": "Connie Corbin",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+s4K7wouRC+p+IRnHhAamg=="
+    },
+    {
+      "name": "Avery Cornett",
+      "gender": "Male",
+      "city": "Cartersville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F6Ohh06v3DQz83rZcwXaBA=="
+    },
+    {
+      "name": "Angie Cowart",
+      "gender": "Female",
+      "city": "HIXSON",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JHxyN4c+cGqMa9u5F7M2KA=="
+    },
+    {
+      "name": "Alison Cripe",
+      "gender": "Female",
+      "city": "Columbus",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OnnvY+APZ1E="
+    },
+    {
+      "name": "Susan Crum",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YGJ6zDDLVL81RbBPek7vsg=="
+    },
+    {
+      "name": "Bryce Curry",
+      "gender": "Male",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D2d+d30LQR3sh6XkkU1rJg=="
+    },
+    {
+      "name": "Dave Dameron",
+      "gender": "Male",
+      "city": "Flintstone",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TiFsSW2dKUpQG1jW5Lg2gQ=="
+    },
+    {
+      "name": "Meaghan Daniels",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fOdExCrqeR2Z/kdIloD4aA=="
+    },
+    {
+      "name": "Calli Davis",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cyv3pqREmyt6WNkfl0A2yA=="
+    },
+    {
+      "name": "Crissy Davis",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5HiEJUpf8Zpg+OXJeshnug=="
+    },
+    {
+      "name": "Sherri Davis",
+      "gender": "Female",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/19/2024",
+      "usta_id": "kWIaJSYBYWy9MCNJLPn4Fw=="
+    },
+    {
+      "name": "Anita Decosimo",
+      "gender": "Female",
+      "city": "Signal Mountain",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SVePc2c4I/UOWxiXape8lg=="
+    },
+    {
+      "name": "Sarah Delay",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gGM6vlKS6rf0cfJFB+nk2Q=="
+    },
+    {
+      "name": "Rhonda Dickerson",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b0mJpd5Bjdy1BRhoQy8VXw=="
+    },
+    {
+      "name": "Keri Dixon",
+      "gender": "Female",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "RWAbEm6Lm75sqQDgbcH8Aw=="
+    },
+    {
+      "name": "Mary Jane Dominick",
+      "gender": "Female",
+      "city": "Signal Mountain",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XZSOGViH5Q7PqegJj+iifQ=="
+    },
+    {
+      "name": "Emily Donohue Speer",
+      "gender": "Female",
+      "city": "SIGNAL MOUNTAIN",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MVljnOj7OTzCpYRy4CeXCA=="
+    },
+    {
+      "name": "Lisa Douglas",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5PX1sYI5yzksmksJSg5BCg=="
+    },
+    {
+      "name": "David Draghiceanu",
+      "gender": "Male",
+      "city": "CANTON",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/9/2025",
+      "usta_id": "0nqUHWGnFHWB0o9BCdy4lQ=="
+    },
+    {
+      "name": "Elyssa Ellinger",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JYQjHfT8WlpNMWRNDWp9Lw=="
+    },
+    {
+      "name": "Melinda Ellis",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZwKQQNbcXtlT5revVXYtTg=="
+    },
+    {
+      "name": "Ann Epps",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tDc2oR5cw07Ju546CXw/mg=="
+    },
+    {
+      "name": "Carla Fain",
+      "gender": "Female",
+      "city": "Rocky Face",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "wzn7SVsJ8CTPzTEdOKrI3g=="
+    },
+    {
+      "name": "Nelu Farren",
+      "gender": "Female",
+      "city": "Apison",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XLFr82KUAUjQz+/hwhQlkQ=="
+    },
+    {
+      "name": "Trent Farrer",
+      "gender": "Male",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "52tf9KPOgzRtZQF/pKdQeQ=="
+    },
+    {
+      "name": "Alexis Faulknor",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/20/2024",
+      "usta_id": "4wcZbJT2JUOu08sm/6puPA=="
+    },
+    {
+      "name": "Jennifer Fields",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/20/2024",
+      "usta_id": "OQ3OReHPTuql/v+EkXaEzQ=="
+    },
+    {
+      "name": "Joanna Fincher",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "PSqe1MReN7atdMAlLdnN+A=="
+    },
+    {
+      "name": "Kelley Finnell",
+      "gender": "Female",
+      "city": "HARRISON",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ktTMbkapoCyZtjIppwqCOg=="
+    },
+    {
+      "name": "Liz Forberger",
+      "gender": "Female",
+      "city": "Rocky Face",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dxjr/KE3pqejepcGtM0C2g=="
+    },
+    {
+      "name": "Simone Ford",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "aV3oH+WqIl6d0mvX8EvYyQ=="
+    },
+    {
+      "name": "Chad Frank",
+      "gender": "Male",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "r4B/IlrWsSynxa69WwKXCw=="
+    },
+    {
+      "name": "Karen Galloway",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/3/2024",
+      "usta_id": "ZiEeUPPbPep9qxfhm24LcQ=="
+    },
+    {
+      "name": "David Gardner",
+      "gender": "Male",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+vI3bxtz8NiwOWh7sOQbYw=="
+    },
+    {
+      "name": "Lisa Garrett",
+      "gender": "Female",
+      "city": "LA Fayette",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "MFgYZsU2h2ZbiUrODCaIdQ=="
+    },
+    {
+      "name": "Rhonda Garrett",
+      "gender": "Female",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4imU57BSYOyzVT7rtzouDg=="
+    },
+    {
+      "name": "Melee Gautreau",
+      "gender": "Female",
+      "city": "Soddy Daisy",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mQvdgYCVTswXRpUdIJX9ZA=="
+    },
+    {
+      "name": "Rekha Geethadevi",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NBZ+JC8wSwfdTBkgs2u9QQ=="
+    },
+    {
+      "name": "Beverly Geismar",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RrU9TqcwlyU6XNx3IdAnnA=="
+    },
+    {
+      "name": "Becky George",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XZwWvtmx3C+DHzRV90TXTw=="
+    },
+    {
+      "name": "Kim Glascock",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kOZPcffq/Ye4WaoPUR5qxg=="
+    },
+    {
+      "name": "Courtney Glass",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/11/2025",
+      "usta_id": "DnAVZnz1HjUTURSUVTFpMw=="
+    },
+    {
+      "name": "Andy Glisson",
+      "gender": "Male",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "AFprYyS/elTFuqF0KmGLxw=="
+    },
+    {
+      "name": "Ashley Goble",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XRgK7uw1CbeRf6CPTb4ckw=="
+    },
+    {
+      "name": "Lisa Goble",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0+FWsrMUx1ZBKfSJQnMqnw=="
+    },
+    {
+      "name": "Gireeshkumar Gopinathakaimal",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "n6pmYkgow0kgN085u2wq5w=="
+    },
+    {
+      "name": "Lisa Govan",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1E5ui9kUs2/WJOCRUXTA/A=="
+    },
+    {
+      "name": "Jenny Grant",
+      "gender": "Female",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "GMhtvizjROsqiHPgK+t1Aw=="
+    },
+    {
+      "name": "Julie Graves",
+      "gender": "Female",
+      "city": "Ranger",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yQYDf6MgKwHuLhE/eFXmCQ=="
+    },
+    {
+      "name": "Blaine Greeson",
+      "gender": "Male",
+      "city": "KINGSTON",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "0SW68gfa2svzyzcI9t6L1Q=="
+    },
+    {
+      "name": "Meredith Gumm",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "kGVzPEiNyW/5X6jOBLtxIw=="
+    },
+    {
+      "name": "Manuel Guzman",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VTuJjAJXbj2Tkm8ed9NeGA=="
+    },
+    {
+      "name": "Felice Hadden",
+      "gender": "Female",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H+HlN1ADhcJOah2jQz6K+g=="
+    },
+    {
+      "name": "Gregory Hadden",
+      "gender": "Male",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iq8HF3d8fmsF/RGvrHyumg=="
+    },
+    {
+      "name": "Jan Hair",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "vCvYl10xwvTpWTuP48wHWw=="
+    },
+    {
+      "name": "Brian Hammontree",
+      "gender": "Male",
+      "city": "ROME",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5zib0Jce6IL2Iwi02PqHnQ=="
+    },
+    {
+      "name": "Sarah Haney",
+      "gender": "Female",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OQx+HGoz2uNnToqmQKrwEA=="
+    },
+    {
+      "name": "Suzanne Hanley",
+      "gender": "Female",
+      "city": "Talking Rock",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+RwcqBQfkz0oHriOgXrZYg=="
+    },
+    {
+      "name": "Juliet Hansen",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "W7o86MA+ySGyCh1CaKwJPw=="
+    },
+    {
+      "name": "Robert Hansen",
+      "gender": "Male",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z69a6RAE/Cb+6oaFkZ8qjA=="
+    },
+    {
+      "name": "Diane Hardin",
+      "gender": "Female",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BnpXZ+IZY4EWdO3keKb3ng=="
+    },
+    {
+      "name": "Wayne Harper",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yFZajZcPriOBdGw9NoVzyA=="
+    },
+    {
+      "name": "Allison Harrison",
+      "gender": "Female",
+      "city": "ADAIRSVILLE",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JQUNa85tnZ2iV3umaHjCOQ=="
+    },
+    {
+      "name": "Tyler Harrison",
+      "gender": "Male",
+      "city": "Adairsville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AI/b2Nk7hgy2Dagfmu+KUA=="
+    },
+    {
+      "name": "Caitlin Haskell",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2J7RVrLMQHQnD/tCrcC3Tg=="
+    },
+    {
+      "name": "Marialice Hatch",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LWwqwenHVDMzj7T8PLMGbQ=="
+    },
+    {
+      "name": "Kathryn Hausner",
+      "gender": "Female",
+      "city": "Peachtree City",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0g20lOtnMNj4drRiv6oAvw=="
+    },
+    {
+      "name": "Andrew Hawkins",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "aJ/MzBQOeC7dxFXejYfgYA=="
+    },
+    {
+      "name": "Kay Henderson",
+      "gender": "Female",
+      "city": "Chickamauga",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "97cE2dDyb0atixxopPUl1A=="
+    },
+    {
+      "name": "Joshua Hendrix",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Qg4Usxy16x4ZlpQPOimzmw=="
+    },
+    {
+      "name": "Abbigail Henry",
+      "gender": "Female",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x8JcxToZbrbLvj6aEk+QLg=="
+    },
+    {
+      "name": "Jana Henson",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MGpvqAYPi20KxO9BVgohMg=="
+    },
+    {
+      "name": "Keisha Hernandez",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/28/2025",
+      "usta_id": "uvnKqX/DJMmosNysHPoHtQ=="
+    },
+    {
+      "name": "Scott Higgins",
+      "gender": "Male",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UKa0TvmGsUUzNA1Te5DOQg=="
+    },
+    {
+      "name": "Carmon Hipp",
+      "gender": "Female",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L2QprEgXLKc5jcXsskB0aQ=="
+    },
+    {
+      "name": "Lucynda Cynda Holmes",
+      "gender": "Female",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZQVnQ25Dw8t3JfHTYpS0tA=="
+    },
+    {
+      "name": "Sharel Hooper",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zUqtvZGmAI6Jd0Cu/oqHow=="
+    },
+    {
+      "name": "Suzan House",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/WoDc/1I01CR/c9N5tfpcQ=="
+    },
+    {
+      "name": "Ellan Hubbard",
+      "gender": "Female",
+      "city": "RINGGOLD",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "hyVjN/5/eW9zk2Gz7g2mjw=="
+    },
+    {
+      "name": "Lee Hudson",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/20/2024",
+      "usta_id": "54CVNGTQYddXjJrenJTK5Q=="
+    },
+    {
+      "name": "Karo Hughes",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/3/2025",
+      "usta_id": "FwxnQxoEQOSGxB2NzEPxNg=="
+    },
+    {
+      "name": "Michael Hullender",
+      "gender": "Male",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QWRArrNdcoyA5z+gLNNLeQ=="
+    },
+    {
+      "name": "Tucker Humble",
+      "gender": "Male",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/19/2025",
+      "usta_id": "B9el8iOrNHHzM80cfJ3YEQ=="
+    },
+    {
+      "name": "Avana Im",
+      "gender": "Female",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/12/2024",
+      "usta_id": "8T6PS4WUZ3YsGLrOBJKIRQ=="
+    },
+    {
+      "name": "Jody Jackson",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QqBewYscFPvuoWfKFWUldg=="
+    },
+    {
+      "name": "Jenni Johnson",
+      "gender": "Female",
+      "city": "DALTON",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6du+P8dEhAggDmNF0CXNiA=="
+    },
+    {
+      "name": "Julia Johnson",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "xlmQ3RK5MOJNbOgMxl3Pew=="
+    },
+    {
+      "name": "Phil Johnson",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/14/2025",
+      "usta_id": "vc3z9u7khBoxpBcn9GKUCA=="
+    },
+    {
+      "name": "Steven Johnson",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/26/2024",
+      "usta_id": "k19SOec1XtPZtCC9H+PgRA=="
+    },
+    {
+      "name": "Terry Johnson",
+      "gender": "Male",
+      "city": "DALTON",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "D/8IDh2uHt0/hq9oTgmEQw=="
+    },
+    {
+      "name": "Tammy Johnston",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6vouFMBL0daCEwHaTjc0Aw=="
+    },
+    {
+      "name": "Theresa Jones",
+      "gender": "Female",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nfT1xsqvIGVB4TOV7OwDaQ=="
+    },
+    {
+      "name": "Zach Jones",
+      "gender": "Male",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/20/2025",
+      "usta_id": "kyuNtLB/6yJgCKj79dFT9Q=="
+    },
+    {
+      "name": "Hannah Joyce",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QE94QGi3aZmrRALBzvMP1w=="
+    },
+    {
+      "name": "Jill Joyce",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "61FX4C2SChsPeu5WNGOTPQ=="
+    },
+    {
+      "name": "Balamurugan Karthikeyan",
+      "gender": "Male",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wRmZ6amNYW+0IMYvpy1y8g=="
+    },
+    {
+      "name": "Kirk Kelly",
+      "gender": "Male",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C5FxKw2gMfi9Fg+uOTywKQ=="
+    },
+    {
+      "name": "Johnny Kendrick",
+      "gender": "Male",
+      "city": "LA FAYETTE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ivJ27Xj517DopfpK4IYMBw=="
+    },
+    {
+      "name": "Jennifer Kenney",
+      "gender": "Female",
+      "city": "Canton",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QLytK7TPipCgmDavV/7EdQ=="
+    },
+    {
+      "name": "Jennifer Kerce",
+      "gender": "Female",
+      "city": "Plainville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "riJt1iW4yMnf4KnnOVYf6w=="
+    },
+    {
+      "name": "Susan Kerr",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "/BVSZ7AyIBeDJ85GXSj67A=="
+    },
+    {
+      "name": "Laura Ketcham",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sTRAdGB5BsLceUgUvHoolQ=="
+    },
+    {
+      "name": "Charmaine Kincaid",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zctx5RwSBAXbEUVYfhuiJA=="
+    },
+    {
+      "name": "Gene King",
+      "gender": "Male",
+      "city": "Cohutta",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+Uo/tvWYwffrEpMiGhx02w=="
+    },
+    {
+      "name": "Scott King",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "b84Ci0T5oZcKGWTxoKTZtA=="
+    },
+    {
+      "name": "Faith Kinnamon",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "aDV0EO4GCpECxwYbdE2s5g=="
+    },
+    {
+      "name": "Shinobu Koizumi Fawcett",
+      "gender": "Female",
+      "city": "Acworth",
+      "state": "GA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D0yOtGfOEZUOSIb2P0AeGw=="
+    },
+    {
+      "name": "Carl Koneman",
+      "gender": "Male",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2024",
+      "usta_id": "81V1VNmZzmgbf8GZY9/xdA=="
+    },
+    {
+      "name": "Christian Koneman",
+      "gender": "Male",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "WzjPTPwRgwT4Bq66GnsSng=="
+    },
+    {
+      "name": "Edis Krnjic",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EMhBZUS90wuZXeArvtTP8w=="
+    },
+    {
+      "name": "Shaun Lackey",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XjyntX8wPFKc2hPFV3/5gQ=="
+    },
+    {
+      "name": "Tiffany Laird",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WXtsDrWj2w9X5WK+br+msQ=="
+    },
+    {
+      "name": "Kim Lamb",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mQEKEMwPFxRHw9ENfuJ/Jw=="
+    },
+    {
+      "name": "Molly Lambert",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wT+QWIjD8TSO9R+sMRyRfw=="
+    },
+    {
+      "name": "Michelle Larson",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tWuCY52RSjcQ1DT2zyu0Bw=="
+    },
+    {
+      "name": "Serena Lau",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Chp8yINrP0Q7+9Cb1DzYIA=="
+    },
+    {
+      "name": "Janet Lawrence",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LXuckKGofxJYJNbVNrYtrA=="
+    },
+    {
+      "name": "Lan Le",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f7zXubzJ7fDOoW9BEjh4RA=="
+    },
+    {
+      "name": "Phuong Le",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3s8w3yTHwKDNKMdPDSTv+w=="
+    },
+    {
+      "name": "Gary Linn",
+      "gender": "Male",
+      "city": "Rocky Face",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aO4/LucGRlX1/8hbpoT6ZA=="
+    },
+    {
+      "name": "Lauren Lisle",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/21/2024",
+      "usta_id": "cZK7hRahUR0PHo0trAR1DQ=="
+    },
+    {
+      "name": "David Locke",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oMb3vkrXmGNdT//YUhitpA=="
+    },
+    {
+      "name": "Brian Lockhart",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "5iIPDMYFYyRZ5D5oXh8uOw=="
+    },
+    {
+      "name": "Eileen Long",
+      "gender": "Female",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sbFR3rcH8SDVV6/AVAXbDA=="
+    },
+    {
+      "name": "Janet Lovelady",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VmQDvJ4tUjzU6KCYc/nD1w=="
+    },
+    {
+      "name": "Anne Luke",
+      "gender": "Female",
+      "city": "FISHERS",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IBuOd5W7EUZ5N4lJfqgkjg=="
+    },
+    {
+      "name": "Lauren MacKie",
+      "gender": "Female",
+      "city": "Sweetwater",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wQPYELvsdbAgr0MZfvzZcg=="
+    },
+    {
+      "name": "Timothy Malone",
+      "gender": "Male",
+      "city": "Cedartown",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+P+RUJjln/nTlG5mJ0a39g=="
+    },
+    {
+      "name": "Kim Manspeaker",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/21/2024",
+      "usta_id": "BLQAXI6/etXSHG8GiKgxlg=="
+    },
+    {
+      "name": "Cami Marcus",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P+Le/zN3ao/4+CFHfnrGkg=="
+    },
+    {
+      "name": "Lorraine Marks",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t655p8rqDhbirsc8BZd8iA=="
+    },
+    {
+      "name": "Kari Martin",
+      "gender": "Female",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6jwUgjwjOrHesrJdQnEnHg=="
+    },
+    {
+      "name": "Carol Martinez",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3MfgsQVekKa1lCoD7EDtrQ=="
+    },
+    {
+      "name": "Charlie Martinez",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+DDbrD8XCjDGXbWBbUKYCQ=="
+    },
+    {
+      "name": "Debra Masdea",
+      "gender": "Female",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/29/2025",
+      "usta_id": "z0h2bl2/141uulRxpIFy9g=="
+    },
+    {
+      "name": "Catrina Mashburn",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NQlDlNXs9MGVyM1fQe0fXA=="
+    },
+    {
+      "name": "Bradley Mason",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "McEEyq42zjABBxj87kKeFw=="
+    },
+    {
+      "name": "Candace Mason",
+      "gender": "Female",
+      "city": "Resaca",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "McEEyq42zjDCARTRPqQacQ=="
+    },
+    {
+      "name": "Audrey Mathes",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "J4RiAW9N3g5okGcFFws1Ug=="
+    },
+    {
+      "name": "Emily Maynard",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "06Xd/cSav97jLWFwp0SHBQ=="
+    },
+    {
+      "name": "Danielle Mcauley",
+      "gender": "Female",
+      "city": "Acworth",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K7WIPup94K6JI065hoqSCQ=="
+    },
+    {
+      "name": "Jeff McBrayer",
+      "gender": "Male",
+      "city": "Tunnel Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yu1SjB2Qlmrb5gJxBvEkbg=="
+    },
+    {
+      "name": "Lisa McCanless",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BXXrFZAc/PPrLsJtNzL3nA=="
+    },
+    {
+      "name": "Renee McClanahan",
+      "gender": "Female",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nCInc+m2J4wLEbOU3aq3/g=="
+    },
+    {
+      "name": "Derek McCoy",
+      "gender": "Male",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "S15vjDGnolFG8Jai6esaMA=="
+    },
+    {
+      "name": "David McEntire",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "75D9UAVh0wZhhZ+gJs2TWw=="
+    },
+    {
+      "name": "Tara McFarlane",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BOGdfHcu2E/53yxws9PUVA=="
+    },
+    {
+      "name": "Kortney McKenzie",
+      "gender": "Female",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "UGi1AWDMds/HZY9oskrpCg=="
+    },
+    {
+      "name": "Luke Mckenzie",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nWCh07IEqCSlfdGInPQIKA=="
+    },
+    {
+      "name": "Lace-Anne McNeil",
+      "gender": "Female",
+      "city": "WILMINGTON",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vzI6ROtsJWXw4po/SqgDkw=="
+    },
+    {
+      "name": "Amy Means",
+      "gender": "Female",
+      "city": "Canton",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JqzA2kc7JhO/qpculOgioA=="
+    },
+    {
+      "name": "Will Merryman",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "Bs6gCbpE1avOBiJxl6mlLg=="
+    },
+    {
+      "name": "Wimberly Meszaros",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/28/2025",
+      "usta_id": "ia8KOqn9NhTbzfmBcQLhJA=="
+    },
+    {
+      "name": "Caitlin Michaelis",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XYaJDZxMTv9RjWaArmlUfg=="
+    },
+    {
+      "name": "Lauren Miller",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YXNXo1/IheWSVl9nI1HU7A=="
+    },
+    {
+      "name": "MacI Mills",
+      "gender": "Female",
+      "city": "Resaca",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K4OWFgA8FZp4tcu+KWRRGw=="
+    },
+    {
+      "name": "Pam Mills",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J/megaVHIKyzWMFPNefXWw=="
+    },
+    {
+      "name": "Catherine Minor",
+      "gender": "Female",
+      "city": "Rocky Face",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yETAjOLR6glzFXDjuvhJAQ=="
+    },
+    {
+      "name": "Laura Mooney",
+      "gender": "Female",
+      "city": "Charleston",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wq6WY3BrCeO33j3yE6qPIA=="
+    },
+    {
+      "name": "Darlene Morgan",
+      "gender": "Female",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bds7W+nM/FFtXLvYZVHHtg=="
+    },
+    {
+      "name": "Elizabeth Morgan",
+      "gender": "Female",
+      "city": "ROCKY FACE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pmAkuOzpyIONtkpMVOz7iA=="
+    },
+    {
+      "name": "Marilyn Morgan",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "53nxN0pS88vDZsMFgtiGAQ=="
+    },
+    {
+      "name": "Millie Morgan",
+      "gender": "Female",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YNapovLam2PwfgclPgLHgA=="
+    },
+    {
+      "name": "Richard Morrison",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "QWvTt1pmtMuQI2xhmkR25Q=="
+    },
+    {
+      "name": "Caroline Morrow",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/5/2024",
+      "usta_id": "9Ii+Y6MG1jDljUgGY1tXjw=="
+    },
+    {
+      "name": "Mary Morrow",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/5/2024",
+      "usta_id": "3SXWeliOXsc4YbFt5b2OkQ=="
+    },
+    {
+      "name": "Drew Mosteller",
+      "gender": "Male",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/8/2024",
+      "usta_id": "qzMHK4y11Ze3JOiV+J6Tgw=="
+    },
+    {
+      "name": "Kim Nance",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S5cGg3v7nRkKwFkzuurKDg=="
+    },
+    {
+      "name": "Deborah Nation",
+      "gender": "Female",
+      "city": "Rossville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ujuA4/cje5VqfuDXG4QlWg=="
+    },
+    {
+      "name": "Brigetta Nethery",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2IYkD8DQfr/JJSK8gBD+4A=="
+    },
+    {
+      "name": "McKellar Newsom",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j2vZYScBDGArmxWwHOrwpw=="
+    },
+    {
+      "name": "Andoni Nogueroles",
+      "gender": "Male",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9YirhcpraYcJ/0pC/iXqxw=="
+    },
+    {
+      "name": "Wendy Norfleet",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rEsFiMwc4zTk6j41nD2kfg=="
+    },
+    {
+      "name": "Richard Norman",
+      "gender": "Male",
+      "city": "Adairsville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "upTYnsxvyYewOduDh44ROw=="
+    },
+    {
+      "name": "Chelsey Ogles",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6Ea1T2g1U/wJ2WaxyrHK5w=="
+    },
+    {
+      "name": "Patsy Ogles",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "6Ea1T2g1U/yQ+cyUxlwPyA=="
+    },
+    {
+      "name": "Becky Opoien",
+      "gender": "Female",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8quXBfpqNCUYs/PUYuEM3w=="
+    },
+    {
+      "name": "Neeve Owen",
+      "gender": "Female",
+      "city": "Rockmart",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wdXqyiEuVc24SpoPo6sQbw=="
+    },
+    {
+      "name": "Whitney Paradis",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vs8P5/jEBo7eYd7DJ6gCUA=="
+    },
+    {
+      "name": "Jonathan Parker",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xp7qKgpPNovFcmtFAF2Auw=="
+    },
+    {
+      "name": "Elizabeth Parrott",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "qs+Eoc9ywBAa4JEDHHKBag=="
+    },
+    {
+      "name": "Angie Paulson",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zcPYmzjimYr1HwdhnTZPBw=="
+    },
+    {
+      "name": "Ricardo Pedrotti",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1nMu9xn5g3n1INZLQf1K2w=="
+    },
+    {
+      "name": "Isabella Peeples",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PnutM05p3G4qpT8bLS55hQ=="
+    },
+    {
+      "name": "Sara Pennington",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "RTBL8EWE8Kzv9uzstq0NNQ=="
+    },
+    {
+      "name": "Carl Phillips",
+      "gender": "Male",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yiRza7bhKgmBw/W2QAEY5A=="
+    },
+    {
+      "name": "Lynn Pierce",
+      "gender": "Female",
+      "city": "Chickamauga",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SbMblIcDTXH4v03g1+9mMQ=="
+    },
+    {
+      "name": "Brittany Portwood",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eH8IiK6JFjYNEykAa2oYrg=="
+    },
+    {
+      "name": "Darlene Powell",
+      "gender": "Female",
+      "city": "Adairsville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NRNCen7KT1YKB+KZaY8zvw=="
+    },
+    {
+      "name": "Jazan Powell",
+      "gender": "Female",
+      "city": "ROSSVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2bE9iFdY5TKinYtP8XQ+pQ=="
+    },
+    {
+      "name": "Alisa Price",
+      "gender": "Female",
+      "city": "Canton",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SBaJIu162zo="
+    },
+    {
+      "name": "Dean Puryear",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "9Eut54uqCK6yFaWl4DYq7g=="
+    },
+    {
+      "name": "Larry Puryear",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/6/2023",
+      "usta_id": "bMO97hQLy5fFBFzSF7Muvw=="
+    },
+    {
+      "name": "Gayla Puzder",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/20/2024",
+      "usta_id": "H7S86oIXjt2Sjvteohudfw=="
+    },
+    {
+      "name": "Becky Quast",
+      "gender": "Female",
+      "city": "ROCKY FACE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3XZ3wKEI1RJqFbff+I8SRA=="
+    },
+    {
+      "name": "Gary Quast",
+      "gender": "Male",
+      "city": "ROCKY FACE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "3wXHwTiy8xBcIHoBYsM1kA=="
+    },
+    {
+      "name": "Jacob Quast",
+      "gender": "Male",
+      "city": "ROCKY FACE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mENbz7uJWMDWffvoJvfpiQ=="
+    },
+    {
+      "name": "Rommel Ramos",
+      "gender": "Male",
+      "city": "Rossville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xuEn3Opwg+puRKHz95LXZw=="
+    },
+    {
+      "name": "Michelle Rauch",
+      "gender": "Female",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CRxZ4mAjPPDFHemYkEwEzw=="
+    },
+    {
+      "name": "Nicole Raughton",
+      "gender": "Female",
+      "city": "Tunnel Hill",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/jl9uVHjH3RK2izXtL2/zw=="
+    },
+    {
+      "name": "Zac Raughton",
+      "gender": "Male",
+      "city": "Tunnel Hill",
+      "state": "GA",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "viKkNdf6cRS/0AlQB95ktA=="
+    },
+    {
+      "name": "DeAnn Rauth",
+      "gender": "Female",
+      "city": "Ooltewah",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hjxKqyyWqTilhm44DnnYPw=="
+    },
+    {
+      "name": "Joseph Richard",
+      "gender": "Male",
+      "city": "Stuart",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mi27S4R2BFNWoeg0PDopfw=="
+    },
+    {
+      "name": "Jim Richards",
+      "gender": "Male",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "mZkMQI2cHJ4sq3l/c8Tcsg=="
+    },
+    {
+      "name": "Casey Ridley",
+      "gender": "Male",
+      "city": "Cartersville",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "rPvX2RI9pMOUsY2fwZiYLw=="
+    },
+    {
+      "name": "Raquel Riesco",
+      "gender": "Female",
+      "city": "Rocky Face",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0NHBFb5mHnkGgqKP2ILQ+g=="
+    },
+    {
+      "name": "Carlos Rivera",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "112wm2U1Uir4JKfJwSqYZA=="
+    },
+    {
+      "name": "Joseph Robbins",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VRev2Su+lfRQji0PMIKZug=="
+    },
+    {
+      "name": "Jill Robinson",
+      "gender": "Female",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I3qD/AtWkwdPdvkCvYMcVw=="
+    },
+    {
+      "name": "Deborah Rogers",
+      "gender": "Female",
+      "city": "Rock Spring",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eJlOLEXITTwMr19ALiZCBg=="
+    },
+    {
+      "name": "Kimberly Rogg",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QV1QjXANzrrFFoNDKiRkEg=="
+    },
+    {
+      "name": "Gregorio Rojas",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "3MLsfOTVLbuioAajHXxlTw=="
+    },
+    {
+      "name": "Kate Rolen",
+      "gender": "Female",
+      "city": "LOOKOUT MOUNTAIN",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QJzFugVnwZBNLH+RdeGbFQ=="
+    },
+    {
+      "name": "Roger Ross",
+      "gender": "Male",
+      "city": "Soddy Daisy",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EvZ1y4oc61yeqGGJgvwSNg=="
+    },
+    {
+      "name": "Shana Rutherford",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S1RIXTuRHiN2ZLjdWnu3CA=="
+    },
+    {
+      "name": "Lauren Sain",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vk82EYo6dK//Z2qh5KrN6Q=="
+    },
+    {
+      "name": "Gina Salisbury",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pDqDkolj+cgdG29YtvoTdQ=="
+    },
+    {
+      "name": "Katie Sanders",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A8DnmYWfW9lYwWLQ2r021g=="
+    },
+    {
+      "name": "Philip Schmidt",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8rouyVCZK0SmTbmQxR9uQQ=="
+    },
+    {
+      "name": "Dana Schneider",
+      "gender": "Female",
+      "city": "Alpharetta",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/21/2024",
+      "usta_id": "pw4ZdiK2mHZQDBaUtr+Tdg=="
+    },
+    {
+      "name": "Karson Shelton",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "B9el8iOrNHErDhSnMwT4Hw=="
+    },
+    {
+      "name": "Mary Sheppard",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gl8ZpV6LaN1V8UPHi5o04w=="
+    },
+    {
+      "name": "Preston Shields",
+      "gender": "Male",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/11/2025",
+      "usta_id": "baj9M3POj5C2ohNNRkF9GA=="
+    },
+    {
+      "name": "Melissa Shipp",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C3u2xFYa88qyxmDK/oGoBQ=="
+    },
+    {
+      "name": "Rodney Silvers",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7RiS5CEsiXP7FNlEuoWbzw=="
+    },
+    {
+      "name": "Leslie Simmons",
+      "gender": "Female",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uK5ljzTA8oGDA6BIUU76bg=="
+    },
+    {
+      "name": "Jack Sismour",
+      "gender": "Male",
+      "city": "Tunnel Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "pybGpSqs8guDKTWart9Q0Q=="
+    },
+    {
+      "name": "Mary Skahan",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/18/2025",
+      "usta_id": "uz5b0yWvKYUot8dDG24Kuw=="
+    },
+    {
+      "name": "Hanna Skinner",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "smyy1eYZelkz8Xbp8OZeCw=="
+    },
+    {
+      "name": "Chris Smith",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G8NwQq4glrhm4ru87p6HFQ=="
+    },
+    {
+      "name": "Elizabeth Smith",
+      "gender": "Female",
+      "city": "REIDSVILLE",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DmYSp704FgKPf45kT9q4Mg=="
+    },
+    {
+      "name": "J David Smith",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CgOhcWqC/4Oat0qW9f8Vag=="
+    },
+    {
+      "name": "Shannon Smith",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "G8NwQq4glrhOOWYku2YCJA=="
+    },
+    {
+      "name": "Ashley Sorrow",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AZdmFS/a/zIKX+ogkqF72g=="
+    },
+    {
+      "name": "Scott Sorrow",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t6KAvLE8l64dm5DHJ46bqQ=="
+    },
+    {
+      "name": "Stacy Sorrow",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mV7V3bqh3CuATFjQKnqkIA=="
+    },
+    {
+      "name": "Rick Speas",
+      "gender": "Male",
+      "city": "ROCKFORD",
+      "state": "MI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fU7x7yF1ksdrL4/VhgwMyQ=="
+    },
+    {
+      "name": "Kimberly Sperling",
+      "gender": "Female",
+      "city": "Roswell",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nx6YOQpFXbRKUEsPg9epSw=="
+    },
+    {
+      "name": "Jane Stahl",
+      "gender": "Female",
+      "city": "RINGGOLD",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "0XDvEOA+5z2wvvYW2TTomQ=="
+    },
+    {
+      "name": "Jessica Stamper",
+      "gender": "Female",
+      "city": "Ten Mile",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v/vT/vKX0C6BKIRBJNmqDw=="
+    },
+    {
+      "name": "Cynthia Stanfield",
+      "gender": "Female",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1rgDf4Hwx1JhJETDH4Gizg=="
+    },
+    {
+      "name": "James Stanfield",
+      "gender": "Male",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "81V1VNmZzmhNa27qEfs0Ag=="
+    },
+    {
+      "name": "Katie Rose Stanfield",
+      "gender": "Female",
+      "city": "Chatsworth",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/18/2024",
+      "usta_id": "XUM1d/b/loMjNkP89mVQYw=="
+    },
+    {
+      "name": "Luke Stanley",
+      "gender": "Male",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "VjL9hRppWRaLbePB3W3e2g=="
+    },
+    {
+      "name": "Tammy Stewart",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HVAnmvlYd8Sc2XM0b+oVlA=="
+    },
+    {
+      "name": "Julie Stokes",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LCZYnsI6F/AW8fezxzLXQw=="
+    },
+    {
+      "name": "Jacob Summerville",
+      "gender": "Male",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oKNCNgN2x7X4drbn8qfc9A=="
+    },
+    {
+      "name": "Terina Terlizzi",
+      "gender": "Female",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "OM0qiAIOxX1A5HC7sem9+A=="
+    },
+    {
+      "name": "Douglas Terry",
+      "gender": "Male",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FiJb2bgTWEsHQlR7aq0Cng=="
+    },
+    {
+      "name": "Bryson Thacker",
+      "gender": "Male",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ulX3/Z68ka3G7AgpYPV67w=="
+    },
+    {
+      "name": "Tom Thatcher",
+      "gender": "Male",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QXK24ux4sY+avEHQ0CeSog=="
+    },
+    {
+      "name": "Brian Thomas",
+      "gender": "Male",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "E64XGC01OGO+WZxpBCArmQ=="
+    },
+    {
+      "name": "Jenna Thomas",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "XiO/+BePo/LsGmCAbFmP2g=="
+    },
+    {
+      "name": "Ben Thorne",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "7FKbfH51UNVXvbYA3EruOA=="
+    },
+    {
+      "name": "Suzi Thorne",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KVuNgYBBX57h0wUmvktzng=="
+    },
+    {
+      "name": "Ashlyn Thornton",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I46E2rE4xI4sTHaLw8cZhg=="
+    },
+    {
+      "name": "Liv Tidwell",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/7/2025",
+      "usta_id": "+BZctVwltHnybqWl4bG49g=="
+    },
+    {
+      "name": "Carol Tigar",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "56g/GVUz3H8JU0Yjt1FsTg=="
+    },
+    {
+      "name": "April Totherow",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KaC+ff2XzSk+hA5XvyQ/Nw=="
+    },
+    {
+      "name": "Heather Tuttle",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bLtgUNKPt7GUIEjx+q9kPg=="
+    },
+    {
+      "name": "Reggie Vachon",
+      "gender": "Male",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s0FlaiDDKfa95jutRtmBYg=="
+    },
+    {
+      "name": "LINDA van der MERWE",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "bPfT6ul4Wco4ygShi7vLsQ=="
+    },
+    {
+      "name": "LAURA VAUGHN",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "exV+8EScEihz6+hHZwfwJw=="
+    },
+    {
+      "name": "Ashley Venkatesu",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IKLBPISx5y3w0FcCs5PEuA=="
+    },
+    {
+      "name": "Ashwin Venkatesu",
+      "gender": "Male",
+      "city": "CALHOUN",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Le3QIBcdgCHsuBgsfa8pbg=="
+    },
+    {
+      "name": "Parmesh Venkatesu",
+      "gender": "Male",
+      "city": "Resaca",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Le3QIBcdgCGP7EFcE8lDWA=="
+    },
+    {
+      "name": "Callie Voges",
+      "gender": "Female",
+      "city": "CHATTANOOGA",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ocwuhbVH67Px1kAJByRVTA=="
+    },
+    {
+      "name": "Urooj Wali",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mszh83Yg0g1tn4pb2zTgMw=="
+    },
+    {
+      "name": "Christine Walsh",
+      "gender": "Female",
+      "city": "ACWORTH",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IswYpE/zCHCa1Xz4WcHTRA=="
+    },
+    {
+      "name": "John Walsh",
+      "gender": "Male",
+      "city": "ACWORTH",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IswYpE/zCHCVlesHeLKMQA=="
+    },
+    {
+      "name": "Penny Walton",
+      "gender": "Female",
+      "city": "Canton",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U8uMmSD3krMosU6wwzutvQ=="
+    },
+    {
+      "name": "Steven Waters",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Jp8es3h/i/yE37RL/M2xQ=="
+    },
+    {
+      "name": "Steven Waters",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "HfkMUCilu2XyHtRv7BgwYQ=="
+    },
+    {
+      "name": "Lance Watson",
+      "gender": "Male",
+      "city": "Hendersonville",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+YqqbNa6ugYLlFciyDUEHg=="
+    },
+    {
+      "name": "Samantha Watson",
+      "gender": "Female",
+      "city": "Rydal",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xlmQ3RK5MOK/uyzuDDNvYA=="
+    },
+    {
+      "name": "Jana Watters",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cbr43zEIqYMRz0GT+VtdTQ=="
+    },
+    {
+      "name": "Amy Weathers",
+      "gender": "Female",
+      "city": "Chattanooga",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pvZTdh0C8QGP3eU4IMN2PQ=="
+    },
+    {
+      "name": "Jack Wells",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/9/2025",
+      "usta_id": "mnjjYS/W6J+lt+jescAm4A=="
+    },
+    {
+      "name": "Jordan Wells",
+      "gender": "Male",
+      "city": "Chickamauga",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hrJz6bmq3a9bu8PNWA13iQ=="
+    },
+    {
+      "name": "Meghan Wells",
+      "gender": "Female",
+      "city": "Chickamauga",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZJossTd3ukv781fDFuhJCw=="
+    },
+    {
+      "name": "Dana Wheeler",
+      "gender": "Female",
+      "city": "Ringgold",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "svIf7EChq6GPZ/TMO3axWg=="
+    },
+    {
+      "name": "Leland Wheland",
+      "gender": "Female",
+      "city": "Lookout Mountain",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vH/uguVpi0Y9bnRZbgiSoQ=="
+    },
+    {
+      "name": "Vivian White",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ahgh3o+XRnF4rtULAkpahQ=="
+    },
+    {
+      "name": "Julia Whitworth",
+      "gender": "Female",
+      "city": "GERMANTOWN",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JP77GFOJk55pgKmf7Y1G8Q=="
+    },
+    {
+      "name": "Debi Williams",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F56y4TrfR1xn6jOJ8Fyv/g=="
+    },
+    {
+      "name": "Holly Williams",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hw0xU8l319uoG/1NWGkF6A=="
+    },
+    {
+      "name": "Mark Williams",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hw0xU8l319vocZGey9nCoQ=="
+    },
+    {
+      "name": "Olivia Williams",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F56y4TrfR1yK5/yjILOjQw=="
+    },
+    {
+      "name": "Betsy Wilson",
+      "gender": "Female",
+      "city": "Signal Mountain",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WqJsiX3nGLMpKhyu+tpfPg=="
+    },
+    {
+      "name": "Lawanna Wilson",
+      "gender": "Female",
+      "city": "CALHOUN",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NuhsarbrZ2VO+mvya/8F3g=="
+    },
+    {
+      "name": "Ricky Wilson",
+      "gender": "Male",
+      "city": "Cartersville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "gjVduu5K2a6TBmsDJ8a5hA=="
+    },
+    {
+      "name": "Shane Wilson",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "H5XrWHI1TrETu4V+fDU9Zg=="
+    },
+    {
+      "name": "Joni Wolfe",
+      "gender": "Female",
+      "city": "Hixson",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3IswaZlXcmzj6MIob86Q7A=="
+    },
+    {
+      "name": "Adam Woodman",
+      "gender": "Male",
+      "city": "Calhoun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BQGJqjeCwShmyg3evGkYnQ=="
+    },
+    {
+      "name": "John Woody",
+      "gender": "Male",
+      "city": "Plainville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BstR4/WT1m3P/O7lf7PdPA=="
+    },
+    {
+      "name": "Jeff Wright",
+      "gender": "Male",
+      "city": "Rome",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3MfgsQVekKYXSdG1iMydSA=="
+    }
+  ]
+}

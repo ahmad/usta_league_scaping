@@ -1,0 +1,617 @@
+{
+  "sectionId": "6243304",
+  "districtId": "6243367",
+  "areaId": "6243568",
+  "players": [
+    {
+      "name": "Jill Abbott",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fJDDh6t6y7jlu2LU1aCGfw=="
+    },
+    {
+      "name": "Nancy Alcorta",
+      "gender": "Female",
+      "city": "FARGO",
+      "state": "ND",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sRxA6l4uQEROpTOo0iNmLg=="
+    },
+    {
+      "name": "Tyler Anderson",
+      "gender": "Male",
+      "city": "West Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/26/2025",
+      "usta_id": "OzI5b/JqQtfAbGazrsK61w=="
+    },
+    {
+      "name": "Andrew Bakke",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "L+LzRJR0e4wsNx7Lz4ZldQ=="
+    },
+    {
+      "name": "JoAnn Bakken",
+      "gender": "Female",
+      "city": "Horace",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "exsAEF+qXTv+qnqsR8+M5g=="
+    },
+    {
+      "name": "Sandra Bittner",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/25/2025",
+      "usta_id": "ZudKKQBH2S2svGth4aMtRw=="
+    },
+    {
+      "name": "Edward Careaga",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "EQx1MlxoGeceqctABXNvsg=="
+    },
+    {
+      "name": "Miguel Danielson",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CyMVa7KcTAI2kUeUv/Mc0Q=="
+    },
+    {
+      "name": "Jodi DePree",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C8qY3Ld7FT1TXjKLUQz5pg=="
+    },
+    {
+      "name": "Luzmary Diaz",
+      "gender": "Female",
+      "city": "Moorhead",
+      "state": "MN",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "7/26/2025",
+      "usta_id": "p7fZYvPhqGQE3TKvOVUuVQ=="
+    },
+    {
+      "name": "ANYA DIMAS",
+      "gender": "Female",
+      "city": "WEST FARGO",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qeL/dOYMxXNQUDKiKLY63g=="
+    },
+    {
+      "name": "Sarah Edland",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/14/2025",
+      "usta_id": "Um3Wrj8yi00/dZzXpY1B3w=="
+    },
+    {
+      "name": "Margaret Farris",
+      "gender": "Female",
+      "city": "Pelican Rapids",
+      "state": "MN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yH/7UcKgATZdHZYCw+tj/w=="
+    },
+    {
+      "name": "Derek Harnish",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "9nV6oHzLyAUavdJYUeX8dQ=="
+    },
+    {
+      "name": "Christopher Hawley",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "7/7/2025",
+      "usta_id": "zRTAZtMq5hJN9FawM5up+g=="
+    },
+    {
+      "name": "Brent Hella",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/26/2023",
+      "usta_id": "k0ET7HwxfrAJID2qoDM5fQ=="
+    },
+    {
+      "name": "Amanda Johnson",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/20/2024",
+      "usta_id": "2PleJoA3Ty46gr3GNPIbtA=="
+    },
+    {
+      "name": "Shaelyn Johnson",
+      "gender": "Female",
+      "city": "Grand Forks",
+      "state": "ND",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "agv7Q/lfy3Llfq/DiTihbA=="
+    },
+    {
+      "name": "James Kim",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2023",
+      "usta_id": "LorPmtYjJOAHXNSx5Zi6lA=="
+    },
+    {
+      "name": "North Knewtson",
+      "gender": "Male",
+      "city": "Moorhead",
+      "state": "MN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e8Xb69yipcilr6QyEwjV8Q=="
+    },
+    {
+      "name": "Erik Kringlie",
+      "gender": "Male",
+      "city": "Valley City",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "51/fYgfxW9LgiL0oPDOfeQ=="
+    },
+    {
+      "name": "Susan Kringlie",
+      "gender": "Female",
+      "city": "Valley City",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/26/2023",
+      "usta_id": "51/fYgfxW9KGTi38IDkNIw=="
+    },
+    {
+      "name": "James LaFramboise",
+      "gender": "Male",
+      "city": "WEST FARGO",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UuVM8zPMasOJYI3e1ZhFXw=="
+    },
+    {
+      "name": "Donovan Larson",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "T4VKG8nDWYp/rkajSCefUg=="
+    },
+    {
+      "name": "Katilynn Lee",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pBhRf0IaI5wdgGWpq121rg=="
+    },
+    {
+      "name": "Kerri Lee",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S8CnqSskQVZCkm8pSHu/Vg=="
+    },
+    {
+      "name": "Tanis Lee",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BP7vwWhPv8xU1FMqENWoNA=="
+    },
+    {
+      "name": "Amanda Lunsetter",
+      "gender": "Female",
+      "city": "Wahpeton",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Az+TCJXLSb9ALlpgZD+opA=="
+    },
+    {
+      "name": "Greg McCormick",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "J7KYfX8ZXzID0QYDTaR2hg=="
+    },
+    {
+      "name": "Wesley McElroy",
+      "gender": "Male",
+      "city": "West Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cb8aUx5JVH0peXr8AIPX9w=="
+    },
+    {
+      "name": "Karri Mitchell",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WV+SogCCgdqCtWcBU2iSvg=="
+    },
+    {
+      "name": "Matthew Nielson",
+      "gender": "Male",
+      "city": "Valley City",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JHI2zZ1uL4CCCl9ocKSqYw=="
+    },
+    {
+      "name": "Anne O'Donnell",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tSO4FgKGL+ksdT+0NmT8Ow=="
+    },
+    {
+      "name": "Damien O'Donnell",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "tSO4FgKGL+k3BbQyw9v6Fg=="
+    },
+    {
+      "name": "Finnian O'Donnell",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "tSO4FgKGL+luxINyxiUxCA=="
+    },
+    {
+      "name": "Rory ODonnell",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/13/2024",
+      "usta_id": "DbOL5MpAtVangII/ZTQImw=="
+    },
+    {
+      "name": "Sebastian O'Donnell",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tSO4FgKGL+lfbZsM26s6UA=="
+    },
+    {
+      "name": "Heather Peschel",
+      "gender": "Female",
+      "city": "Horace",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZMwBDzt5bEt4rNnO9M+YNA=="
+    },
+    {
+      "name": "Chris Pierce",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FV0yRhFAI+iXS1gW8Zto6g=="
+    },
+    {
+      "name": "Kai Pierce",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "S3x8mALilRuU1oin0153XQ=="
+    },
+    {
+      "name": "David Pladson",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "22GynCfDYQGglTXzoKjJoQ=="
+    },
+    {
+      "name": "Robert Plagemann",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "1oKx4orlq+4QoGaqrHrBtA=="
+    },
+    {
+      "name": "Andrea Rognlien",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F0Bo4lX1qOTiGyEWzGQb6g=="
+    },
+    {
+      "name": "Mary Sayler",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w5RPtd4XY52etghJGkS1nA=="
+    },
+    {
+      "name": "Sarah Sheehy",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/13/2025",
+      "usta_id": "h30K4THmCkV7fpHzZYpbFw=="
+    },
+    {
+      "name": "Christine Shellenbarger",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Uybo1pS4hVgyci5LQYkOA=="
+    },
+    {
+      "name": "Lesley Soine",
+      "gender": "Female",
+      "city": "West Fargo",
+      "state": "ND",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+QrZspA76raPAb7Yn5b0Qw=="
+    },
+    {
+      "name": "Emily Stenhjem",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Ulrq/zVkSMT4+JcIC2vJw=="
+    },
+    {
+      "name": "Jonah Stevenson",
+      "gender": "Male",
+      "city": "Horace",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "870WSHnKkJ0oQQ0pCgeY+g=="
+    },
+    {
+      "name": "Thomas Stumpf",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "pAlRsFfjVgSnpFrLshMPQA=="
+    },
+    {
+      "name": "Breck Sufficool",
+      "gender": "Female",
+      "city": "Valley City",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/11/2025",
+      "usta_id": "KzdFIXJCHJoJiaL9OyhEyA=="
+    },
+    {
+      "name": "Paul Thibedeau",
+      "gender": "Male",
+      "city": "FARGO",
+      "state": "ND",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p1DrLXbvQbpe5BUfxqRmwg=="
+    },
+    {
+      "name": "Eric Tofte",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bSbmQQ4ODDlB/fqwnWDxFQ=="
+    },
+    {
+      "name": "Isaac Toivonen",
+      "gender": "Male",
+      "city": "Moorhead",
+      "state": "MN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "HEdZ8hRo96EBYsS4N8XBNQ=="
+    },
+    {
+      "name": "Garrett Tostenson",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "l3ImPXZwHAQ6i+U1T1Ok9w=="
+    },
+    {
+      "name": "Tony Walz",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dXGdrpPkA41DfFeYglIlgQ=="
+    },
+    {
+      "name": "Lori Wanzek",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ar4HK+rjK2bWSbTLmSGlpg=="
+    },
+    {
+      "name": "Tammy Weiand-Ness",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/10/2024",
+      "usta_id": "wU2GiYE60B8tKo435OzRfw=="
+    },
+    {
+      "name": "David Youngs",
+      "gender": "Male",
+      "city": "Minneapolis",
+      "state": "MN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BXHyKRp6EYqt9JMOEPKX7w=="
+    },
+    {
+      "name": "Zach Zitur",
+      "gender": "Male",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/1/2025",
+      "usta_id": "dclDp8gWv2kRBGiay3rAjQ=="
+    },
+    {
+      "name": "Ronda Zupi",
+      "gender": "Female",
+      "city": "West Fargo",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ena29wnLpP+FoG4F+il+gw=="
+    }
+  ]
+}

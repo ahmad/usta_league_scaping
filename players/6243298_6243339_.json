@@ -1,0 +1,1957 @@
+{
+  "sectionId": "6243298",
+  "districtId": "6243339",
+  "areaId": "",
+  "players": [
+    {
+      "name": "Carol Adams",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4uOe9G4Es7BTRD41sAz6/Q=="
+    },
+    {
+      "name": "Ui Afualo",
+      "gender": "Female",
+      "city": "St George",
+      "state": "UT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y7WKcDh/0mtmgElPxKXHVg=="
+    },
+    {
+      "name": "Amy Anderson",
+      "gender": "Female",
+      "city": "Timnath",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nRhVH+Jd2hBBfxGSYSIloA=="
+    },
+    {
+      "name": "Reeves Anderson",
+      "gender": "Male",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IahLMVgQXNI0EaAJ1KNsZg=="
+    },
+    {
+      "name": "Travis Anderson",
+      "gender": "Male",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4g6zRYgLuc9HnH4oil0vZg=="
+    },
+    {
+      "name": "Joelle Anthony",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/11/2024",
+      "usta_id": "WbD+nRb+QRY9Tsw/9x51fw=="
+    },
+    {
+      "name": "Carlos Arvelo",
+      "gender": "Male",
+      "city": "Mills",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "ZU0jIYIFwzb6Ave/06x8Ig=="
+    },
+    {
+      "name": "Charles Autry",
+      "gender": "Male",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bBOsLcRN7noGMwfYmB/vbA=="
+    },
+    {
+      "name": "Laurie Babin",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "w5glWbueR1Ran9ohGp7lcQ=="
+    },
+    {
+      "name": "Caroline Baker",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/26/2025",
+      "usta_id": "c+2I3bzY1MFAxA01ApJKmQ=="
+    },
+    {
+      "name": "Jill Baldauf",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "cKUWJsSVRC6VVqXBy44oNA=="
+    },
+    {
+      "name": "Zach Barker",
+      "gender": "Male",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "euw0Ll4+0c+8N2z28bXGZw=="
+    },
+    {
+      "name": "Megan Barr",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/11/2024",
+      "usta_id": "ZGsgvljQNTdDjRhdgqOJdA=="
+    },
+    {
+      "name": "Virgil Bellini",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/12/2024",
+      "usta_id": "3OgLJQYDlpXFpynFGcy+dg=="
+    },
+    {
+      "name": "Annie Bergman",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6PieosLb4FALGvURx1xO8Q=="
+    },
+    {
+      "name": "Rachel Bowron",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "3WMtaRESY3GM8Z2C+bBvhg=="
+    },
+    {
+      "name": "Lissa Boyles",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "LNLYWju1cQeuYhcrQAPCEA=="
+    },
+    {
+      "name": "Lindsay Brandenburg",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "9g58qlOHXQTVKfbzcQ3v2A=="
+    },
+    {
+      "name": "Angelika Bridgmon",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mzdl/GsecGfvnuxMo/ylYQ=="
+    },
+    {
+      "name": "Jackie Broderick",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2EgqHjm/Dlm9UV8RQbasWQ=="
+    },
+    {
+      "name": "Sharon Buccino",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K+5Hkp6IABUGCJhlea3qAA=="
+    },
+    {
+      "name": "Michelle Bush",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wPk8LVk50I7/wlENU1Z+Lg=="
+    },
+    {
+      "name": "Nick Butler",
+      "gender": "Male",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vHCJyeQjtEm0t230cl+l0A=="
+    },
+    {
+      "name": "Adelle Byra",
+      "gender": "Female",
+      "city": "LARAMIE",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dWNMf838uinb9HPiiy5gPw=="
+    },
+    {
+      "name": "Dan Campos",
+      "gender": "Male",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NBTEsSahiiGUI8PwzhIqmQ=="
+    },
+    {
+      "name": "Heather Carleton",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0cPAM+D95/VU/EakOCf9og=="
+    },
+    {
+      "name": "Alexa Carroll",
+      "gender": "Female",
+      "city": "Sheridan",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PKoFMME8UhOWbthusBsUdQ=="
+    },
+    {
+      "name": "Thomas Carson",
+      "gender": "Male",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "87GcagtWkyEgNvickYocfw=="
+    },
+    {
+      "name": "Sean Chambers",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "S7EdXn0k6FdX2WUPqBNd9g=="
+    },
+    {
+      "name": "Ana Chapman",
+      "gender": "Female",
+      "city": "JACKSON",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IBNAO3sUkj8rDPd7B+8Kyw=="
+    },
+    {
+      "name": "Jesse Chavez",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YN7saMHyC22yk6K27x18Ow=="
+    },
+    {
+      "name": "Miyuki Chovanetz",
+      "gender": "Female",
+      "city": "Johnstown",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OcCKsCstsZdr+0PP9HeNCQ=="
+    },
+    {
+      "name": "Jeffery Christensen",
+      "gender": "Male",
+      "city": "Evansville",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "e2W31w66QZhTgAJvpACiRA=="
+    },
+    {
+      "name": "Maria Coulter",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/23/2025",
+      "usta_id": "E+fwZKHwEizjBTLsPzQUxQ=="
+    },
+    {
+      "name": "Jamie Crivello",
+      "gender": "Female",
+      "city": "BUFFALO",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "bftX1Ah0ZR1ZV4RsbQxgJQ=="
+    },
+    {
+      "name": "Tiffany Croci",
+      "gender": "Female",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HE5AyqoYF99l7NLJePsilQ=="
+    },
+    {
+      "name": "Rick Cumbow",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "w/QZ3r+E8TzLxCb458cwIg=="
+    },
+    {
+      "name": "Jon Curry",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/28/2025",
+      "usta_id": "3hdCb9lJOvVRuXwIBHzkyQ=="
+    },
+    {
+      "name": "Jeff Cutts",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "lmIU9Wwbyq/U7zoPGz/8Xw=="
+    },
+    {
+      "name": "Vicki Davis",
+      "gender": "Female",
+      "city": "WINDSOR",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wWu++bteQc6h/XdxNW2Ifg=="
+    },
+    {
+      "name": "Melinda Day",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1zqr+GYf7SoBI9q4E/7Gng=="
+    },
+    {
+      "name": "Tami DeGrosky",
+      "gender": "Female",
+      "city": "Missoula",
+      "state": "MT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "etSBQTWFeNI01lXP6jNicQ=="
+    },
+    {
+      "name": "Brandon DeJongh",
+      "gender": "Male",
+      "city": "Mills",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/9/2025",
+      "usta_id": "2p+lf6aGEaECmhEFkvN8aw=="
+    },
+    {
+      "name": "Kristin Di Bona",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/11/2023",
+      "usta_id": "3pOgY+j0zGMgPlYjcfAXFQ=="
+    },
+    {
+      "name": "Thomas Dockstader",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CyT7DPaO9rAvsryYXtoffw=="
+    },
+    {
+      "name": "Alison Earnhart",
+      "gender": "Female",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2wGSS8Fod2FGeZ4K5TJKPw=="
+    },
+    {
+      "name": "Laura Egerter",
+      "gender": "Female",
+      "city": "Winnetka",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "ezjeXFJwGFSp0vX2HI5kEg=="
+    },
+    {
+      "name": "Tom Ellbogen",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/27/2025",
+      "usta_id": "Fi0zxQ/PjOXQJFtfMejZyg=="
+    },
+    {
+      "name": "Lucy Emhardt",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/19/2024",
+      "usta_id": "ry/1TK84NQBVOlqPFXLcSw=="
+    },
+    {
+      "name": "Aaron Enriquez",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/14/2023",
+      "usta_id": "02g7ya88gV82Gi/NlY97mg=="
+    },
+    {
+      "name": "Claire Enriquez",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/14/2023",
+      "usta_id": "vRvNIfWCi6loKG3P/Qy+sw=="
+    },
+    {
+      "name": "Carolyn Everhart",
+      "gender": "Female",
+      "city": "Greeley",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "US6H0VRVxSuMmjyfDtIXdg=="
+    },
+    {
+      "name": "Matt Fairbanks",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6Cy91ZMfqM0OuXiDccoivw=="
+    },
+    {
+      "name": "Shawn Farnell",
+      "gender": "Male",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nvL2wWY11bTpQ997UsYibA=="
+    },
+    {
+      "name": "Robert Faurot",
+      "gender": "Male",
+      "city": "Sheridan",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/16/2024",
+      "usta_id": "Xlv37oR2QJ6MrJZsgiU8Iw=="
+    },
+    {
+      "name": "Sallie Felton",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gF3o/25ympLTJWfy4p+WEA=="
+    },
+    {
+      "name": "Austin Fermelia",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "XQvNMKmLENEwrCeaT+/d4A=="
+    },
+    {
+      "name": "Robin Fields",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "9Vu+Mwu+dfc6IMOV99Dl7w=="
+    },
+    {
+      "name": "Regan Flanigan",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/7/2025",
+      "usta_id": "bd9GDKeoBwkmVdv33+1bwQ=="
+    },
+    {
+      "name": "Penny Flowers",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/16/2024",
+      "usta_id": "B17MCMwO6z0Ga07PawJSxQ=="
+    },
+    {
+      "name": "Perianne Flowers",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "quvJlPz1+VGKFBpsplLcQg=="
+    },
+    {
+      "name": "Roy Foster",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bOKBwH1uq3h2LLX35ANpIQ=="
+    },
+    {
+      "name": "Sheri Foster",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jZYLYKFeOXogPvkgoN4cjA=="
+    },
+    {
+      "name": "Cathleen French",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "nDfIPwmJO2D9j5l0Gg13iw=="
+    },
+    {
+      "name": "Mimi Freymann",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2x7ICNPyJrTKgeRHN185iQ=="
+    },
+    {
+      "name": "Priscilla Gill",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4D1NiI8SEk6RfPVDyomiOA=="
+    },
+    {
+      "name": "Jason Gonzales",
+      "gender": "Male",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eqUH+a+MP+VDw7ffFjqm4A=="
+    },
+    {
+      "name": "Larry Graham",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "25RjG39cx64u6R43qaiAaQ=="
+    },
+    {
+      "name": "Catherine Graham-Bicoy",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T7AHdJ1YMcVSoyRe1ikMgg=="
+    },
+    {
+      "name": "Polly Grimshaw",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "eIb8muErKyMW773MBRZwEw=="
+    },
+    {
+      "name": "Mike Guinn",
+      "gender": "Male",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wX8V+XLgUoF2/e6HA924sw=="
+    },
+    {
+      "name": "Alyson Hagy",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pW+e5vOArqLiwUcN8mWNvw=="
+    },
+    {
+      "name": "Kristy Hammond",
+      "gender": "Female",
+      "city": "DUBOIS",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "d/M0lY8pG2cvt9Anqpp+Ig=="
+    },
+    {
+      "name": "Kristiana Hansen",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rhRP/47kTybq6PaQJka7ww=="
+    },
+    {
+      "name": "Patricia Hansen",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RTpBvioXx68FjO4PzPkASw=="
+    },
+    {
+      "name": "Hayden Hasberger",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/2/2024",
+      "usta_id": "JXNdbBjfFkS3NTcmA4EreQ=="
+    },
+    {
+      "name": "Haley Hasler",
+      "gender": "Female",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "n02jK1lmDqZR+gaMg8H7AA=="
+    },
+    {
+      "name": "Dylan Hatanelas",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kTKYmxtgmtina/bwTgvmxg=="
+    },
+    {
+      "name": "Renee Havens",
+      "gender": "Female",
+      "city": "WILSON",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AjQduDeo96yG88Zx3zpsTg=="
+    },
+    {
+      "name": "Megan Hayes",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9QoHS96OK1ukqdmZCmDDUw=="
+    },
+    {
+      "name": "Debbie Heimbouch",
+      "gender": "Female",
+      "city": "WILSON",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9KucfjYnyMXb2OmfGqOyGQ=="
+    },
+    {
+      "name": "Patti Helper",
+      "gender": "Female",
+      "city": "Loveland",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mz/OfhCEPbmJSrl+7w50yw=="
+    },
+    {
+      "name": "Ryan Hill",
+      "gender": "Male",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rlBRSS1L6ycZ9ksc/po8rA=="
+    },
+    {
+      "name": "Miranda Hoover",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "egX1U9wVMy/pWlIrNWnb5w=="
+    },
+    {
+      "name": "Wil Hotz",
+      "gender": "Male",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jl9xt1iImmLA97dRMcfnsA=="
+    },
+    {
+      "name": "Tim Hough",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Tz4ir3DqSaZiQQ/zIOjwnA=="
+    },
+    {
+      "name": "Troy Ibarra",
+      "gender": "Female",
+      "city": "Green Valley",
+      "state": "AZ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RTpBvioXx6/yUxgoczCppg=="
+    },
+    {
+      "name": "Robert Ingram",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/9/2025",
+      "usta_id": "40mcPa1vmhHw3KhGqqzTQQ=="
+    },
+    {
+      "name": "Daniel Jackson",
+      "gender": "Male",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y96uzv24U0r87Ir7bFvGbQ=="
+    },
+    {
+      "name": "Megan Jenkins",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Ly5yM6idWJBXqxBHDbBGHA=="
+    },
+    {
+      "name": "Cheryl Johnson",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HnfJOKuLZZ9Brp1OHZOnkw=="
+    },
+    {
+      "name": "Kathy Justice",
+      "gender": "Female",
+      "city": "JACKSON",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "pOGe6j5q1Ctu0jVn/BxVsw=="
+    },
+    {
+      "name": "Isaac Kalinowski",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "wdu6MvHOTO7Xuq13QzYzFw=="
+    },
+    {
+      "name": "Robin Keeler",
+      "gender": "Female",
+      "city": "JACKSON",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "eRu0UxOCsC5Dq4TEoyVksg=="
+    },
+    {
+      "name": "Catherine Kehr",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/23/2025",
+      "usta_id": "ovVtFvr1YPvLp5W2dBrhpg=="
+    },
+    {
+      "name": "Annie Kepler",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4VVmmXvPGYPGYbXO2aXPrA=="
+    },
+    {
+      "name": "Nancy Kepner",
+      "gender": "Female",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y5VQcs2vy8n0jlh5e9Lifg=="
+    },
+    {
+      "name": "Vicky Kmetz",
+      "gender": "Female",
+      "city": "SHERIDAN",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t2SOjKEGtizm4k+jWUd+sQ=="
+    },
+    {
+      "name": "Lynette Krause",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aHQphjJrYmK9UXog+zJeyQ=="
+    },
+    {
+      "name": "Maribeth Kristjanson",
+      "gender": "Female",
+      "city": "Edmonds",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/8/2025",
+      "usta_id": "c2XA7SlxDEonXtqiV4aJRA=="
+    },
+    {
+      "name": "Michael Langmade",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "FFVWnuNlYNQG+fG68opOtw=="
+    },
+    {
+      "name": "Ellen Laubhan",
+      "gender": "Female",
+      "city": "Spring Branch",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R47yzcSst961eQ+bhDc18w=="
+    },
+    {
+      "name": "Renee Lewton",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/9/2025",
+      "usta_id": "uL5YfrHV8ARblakYIDcF1g=="
+    },
+    {
+      "name": "Robert Litke",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Zj4G6PKnVr2LOjvTb54CrQ=="
+    },
+    {
+      "name": "David Lloyd",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q8B834mZCrplMo0mkMyAcA=="
+    },
+    {
+      "name": "Meredith Lorick",
+      "gender": "Female",
+      "city": "Loveland",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0a64cHtxH95XK7BOACgVoQ=="
+    },
+    {
+      "name": "Pamela Massaro",
+      "gender": "Female",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vfTiWpra8YPbPvIelc695Q=="
+    },
+    {
+      "name": "John Masters",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z21G1agj3MAWaDGnNXT2Xw=="
+    },
+    {
+      "name": "Kelly Matthews",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "XbVl9OgIjXoxN67h+T9s0w=="
+    },
+    {
+      "name": "Suzanne Matthews",
+      "gender": "Female",
+      "city": "Teton Village",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "klYlWUECoodZ6gyS3+udIQ=="
+    },
+    {
+      "name": "Jenny May",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RMW9KnOZ0OvqNXD+zvKviw=="
+    },
+    {
+      "name": "Amber McCormick",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/17/2025",
+      "usta_id": "ConaBh0S2F0ORlbC5b4VBQ=="
+    },
+    {
+      "name": "Ryan McCormick",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "UcD4UZ+3oEJafAA+2wXGdw=="
+    },
+    {
+      "name": "Diane McGee",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TGyjLE5JSy+YNm10qYmuBQ=="
+    },
+    {
+      "name": "Carol McGuire",
+      "gender": "Female",
+      "city": "Dayton",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RfwfLS5DQb63inG5k0jfAQ=="
+    },
+    {
+      "name": "Treasure McPherson",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K9u0hS9VHeYNrLrZYYnJBg=="
+    },
+    {
+      "name": "Jennifer Mei",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/JcRF4TCqJeGgLE6XMZvIA=="
+    },
+    {
+      "name": "Bryce Melcher",
+      "gender": "Male",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cWI9xXL0LtotxO8SeVgOAA=="
+    },
+    {
+      "name": "Linda Merigliano",
+      "gender": "Female",
+      "city": "Driggs",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TfggFx2ZflL3vNl0ITrK1A=="
+    },
+    {
+      "name": "Michael Messina",
+      "gender": "Male",
+      "city": "JACKSON",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "vi8JzD84aaSNCRgvpdVjAA=="
+    },
+    {
+      "name": "Sherry Messina",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zTpQGSAMZdWaxof2BbyVYw=="
+    },
+    {
+      "name": "Kelly Milligan",
+      "gender": "Female",
+      "city": "Driggs",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mQ1EuOsol61q/CH0or91WQ=="
+    },
+    {
+      "name": "Michael Mock",
+      "gender": "Male",
+      "city": "Wilson",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/18/2024",
+      "usta_id": "HN2IC4J1yKnGOC67XwggqA=="
+    },
+    {
+      "name": "Karen Moenkhaus",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "OmsgRmtNtAR+/CK8gP/LBw=="
+    },
+    {
+      "name": "Shirley Moore",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GBseIUePwBmc0S1YHE6uLg=="
+    },
+    {
+      "name": "Janice Mossberg",
+      "gender": "Female",
+      "city": "Windsor",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4EJOGfNnOCuXNV7lze1zWQ=="
+    },
+    {
+      "name": "Christine Mottl",
+      "gender": "Female",
+      "city": "LARAMIE",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "McSNbThleh1zj0WYm4XFvQ=="
+    },
+    {
+      "name": "Benjamin Nguyen",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ga4zcHdG0Mj3DzSieS7v8A=="
+    },
+    {
+      "name": "Eric Nokes",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "58M0yyB9550X1sl9LrmsNQ=="
+    },
+    {
+      "name": "Sarah Nokes",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "rsn0csqUwfT/NkyIwBDYeg=="
+    },
+    {
+      "name": "Kelsey Nosler",
+      "gender": "Female",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7EI9qNoHv5ig/Ex6trtXrg=="
+    },
+    {
+      "name": "Ruma Novotny",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/19/2025",
+      "usta_id": "pPRijIUV9MDBfxCyc7vF/A=="
+    },
+    {
+      "name": "Debra Olson",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8WisIN0gRCKprPxtX5RigQ=="
+    },
+    {
+      "name": "Shelley Olson",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mBCmOZ9+tG9big4Lv5qcHg=="
+    },
+    {
+      "name": "Ginger Paige",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VpLcFvQY03YReP/3F/TJ9A=="
+    },
+    {
+      "name": "Ethan Palmer",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "uk2rCLeZ+qge7ys6AuAdyg=="
+    },
+    {
+      "name": "Keith Patrick",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NomQ+in6ZwfYhZWw/b5RJg=="
+    },
+    {
+      "name": "Stewart Paul",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "598/Cnd0EYfzGYZOXoGE5A=="
+    },
+    {
+      "name": "Nancy Peck",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w9EgmOrmZJE3VAaygAdhfw=="
+    },
+    {
+      "name": "Kelsey Pedersen",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JdQo5uYZxN0C6lTgBpbMjQ=="
+    },
+    {
+      "name": "Jennifer Peters",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/18/2024",
+      "usta_id": "MFulmwTQSh0GbGBss40VOA=="
+    },
+    {
+      "name": "Kristina Peterson",
+      "gender": "Female",
+      "city": "LOS ANGELES",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L46G4x0Rb8Lff2KskqLF4w=="
+    },
+    {
+      "name": "Kate Pettigrew",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "S6lj2JkTthR1RcITy6zyHA=="
+    },
+    {
+      "name": "Rob Pettigrew",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "5TUol3PNpRQ9Hd+UnpuRMg=="
+    },
+    {
+      "name": "Jacob Pierce",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "DZ/8f3xtiP/zTM+srE5bJA=="
+    },
+    {
+      "name": "Daniel Plowman",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/7/2025",
+      "usta_id": "n/qiI0RbCH1sPbfoUvZjAw=="
+    },
+    {
+      "name": "Katherine Plowman",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ee665YA/rMpDitxXenGLfg=="
+    },
+    {
+      "name": "Lisa Porter",
+      "gender": "Female",
+      "city": "Sheridan",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/9/2025",
+      "usta_id": "Qr1OJi+KCRLrPlz7OhLVfQ=="
+    },
+    {
+      "name": "Ian Powers",
+      "gender": "Male",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b57uDSUuH2E8c/civBz9Kw=="
+    },
+    {
+      "name": "Graham Purcell",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "izkjTOIBeewqyZgW4CMx8Q=="
+    },
+    {
+      "name": "Tyler Quest",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "xcoIiLZ36xY1EqUn5IUyUA=="
+    },
+    {
+      "name": "Mary Ridgeway",
+      "gender": "Female",
+      "city": "Denver",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/20/2025",
+      "usta_id": "J4JaCImpH8Lc6FDNq+AAmA=="
+    },
+    {
+      "name": "Rachel Robertson",
+      "gender": "Female",
+      "city": "Wellington",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w51X5htwDmFCvWyWeb7uYg=="
+    },
+    {
+      "name": "Stephanie Roche",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2024",
+      "usta_id": "WCrfdrRX0jW/QPqaN3A5Sg=="
+    },
+    {
+      "name": "Roxanne Rockov",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/25/2025",
+      "usta_id": "jSaY41XQ339A8k3MT9X5Zg=="
+    },
+    {
+      "name": "Tori Rosenthal",
+      "gender": "Female",
+      "city": "Las Vegas",
+      "state": "NV",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7kH/8ow5dsBHmQ9RGPY39A=="
+    },
+    {
+      "name": "Ann Ruble",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "N2vaDKqoTthBvB2ZxiBz4w=="
+    },
+    {
+      "name": "Dierdre Sadeh",
+      "gender": "Female",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jWZ/pSUuFNlNgWhAyXIa/A=="
+    },
+    {
+      "name": "Rebecca Samberg",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "jkwZb3oWzLE3BJMKjdXpgA=="
+    },
+    {
+      "name": "Anne Schuler",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "cGJHy/i6B6wB/rvjne60Mg=="
+    },
+    {
+      "name": "Michelle Schuring",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/18/2024",
+      "usta_id": "bd9GDKeoBwnq7AwQMTeH0A=="
+    },
+    {
+      "name": "Aubrey Shaw",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "RdjXYZJ1MdtKwb9B8nnKog=="
+    },
+    {
+      "name": "Aimee Sherman",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/10/2024",
+      "usta_id": "C9e7GdcupJ0nFLrsY4Z7lQ=="
+    },
+    {
+      "name": "Heather Silverman",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tEzBfx+0C0zPVGDyYDEKJg=="
+    },
+    {
+      "name": "Kerry Sondgeroth",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GxAWDQHWkAGbWOZB38afiA=="
+    },
+    {
+      "name": "Tina Spicer",
+      "gender": "Female",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3RNn/qtD66MGGuKwpkYPhQ=="
+    },
+    {
+      "name": "Greg Stampfli",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "blLMUjREMQGo2ZNa07Oymg=="
+    },
+    {
+      "name": "Janet Stanforth-Nachtigal",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eAYGGdHs/fJKoY3LifAz3g=="
+    },
+    {
+      "name": "Doug Stanley",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iASiZXGq8su4gP/ATYayEg=="
+    },
+    {
+      "name": "Austin Stege",
+      "gender": "Male",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "veCA2MqjcnkFXGbcq18/cw=="
+    },
+    {
+      "name": "Sebastian Stoner",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q85idonTgl7H0IIoC2kqdQ=="
+    },
+    {
+      "name": "Annette Suloff",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/17/2024",
+      "usta_id": "hEsAOBpNe22aXg1nT+p1Qg=="
+    },
+    {
+      "name": "Corey Taylor",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FkU4/e9SbxyGuwhGxYjAXA=="
+    },
+    {
+      "name": "Deborah Theriault",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "frx9+puVn1lNQs6oJan7Ng=="
+    },
+    {
+      "name": "Suzanne Thomas",
+      "gender": "Female",
+      "city": "Eagle",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fBcuA7BtzRFVXfxH6Vc7ow=="
+    },
+    {
+      "name": "Daisha Thompson",
+      "gender": "Female",
+      "city": "Coaldale",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/18/2025",
+      "usta_id": "JocsAGIdBMCEutxh4PBjhg=="
+    },
+    {
+      "name": "Kenneth Thornton",
+      "gender": "Male",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jygAa9zzGD1R7VwgTsOZng=="
+    },
+    {
+      "name": "Julia Tynan",
+      "gender": "Female",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FMN51ZPjYKKeS4RI95P/Ug=="
+    },
+    {
+      "name": "Alan Vandeventer",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "YzBKVfQ6/0GOtVy6SuzwnA=="
+    },
+    {
+      "name": "Chris Vargo",
+      "gender": "Male",
+      "city": "Victor",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dY0db1qm2x0A4qaEWBOE2g=="
+    },
+    {
+      "name": "Stacia Vigneri",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "Y1Q68mmNDt1dHmx7gb0RNA=="
+    },
+    {
+      "name": "April Walden",
+      "gender": "Female",
+      "city": "Fort Collins",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7EI9qNoHv5iSGi2NbC11vQ=="
+    },
+    {
+      "name": "Brittany Wardle",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FZpQhjTAnIAbIXpHwHT0iA=="
+    },
+    {
+      "name": "Kimberly Washburn",
+      "gender": "Female",
+      "city": "Cheyenne",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/12/2024",
+      "usta_id": "FpeTeA8v355bQpXWtqrHxw=="
+    },
+    {
+      "name": "Sam Wassink",
+      "gender": "Male",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "wNzcyTo3cv30WmoUPjliNQ=="
+    },
+    {
+      "name": "Suzanne Watts",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dzvmtwE4iRFmzF/neqvq/w=="
+    },
+    {
+      "name": "Pennie Weir",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m5E1FB7nvjNR4mTxHog9jQ=="
+    },
+    {
+      "name": "Max Weldon",
+      "gender": "Male",
+      "city": "New York",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gkE2VKKkoNaS8O0Pnnen3g=="
+    },
+    {
+      "name": "Christopher Wheeler",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xIwpwpY507lmj90p4ujsqw=="
+    },
+    {
+      "name": "Martie Williams",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "TqW3p7/JwCTcUFTdBoir3g=="
+    },
+    {
+      "name": "Rene Williams",
+      "gender": "Female",
+      "city": "Laramie",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "6cz4gcF/Wonp7JqN71R71A=="
+    },
+    {
+      "name": "Penny Wiseman",
+      "gender": "Female",
+      "city": "Norman",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lOFTQr/TxGpZT/M+o1lj3Q=="
+    },
+    {
+      "name": "Cheri Witz",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "and+0nsGVQ8SbjYV5C0vFw=="
+    },
+    {
+      "name": "Christina Wykert",
+      "gender": "Female",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "z9I2UJwou4qLnlUeeBOMHw=="
+    },
+    {
+      "name": "John Yost",
+      "gender": "Male",
+      "city": "Casper",
+      "state": "WY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/10/2024",
+      "usta_id": "gFxspXA0p/MoCGZ7mkZxaQ=="
+    }
+  ]
+}

@@ -1,0 +1,1827 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243378",
+  "areaId": "6243603",
+  "players": [
+    {
+      "name": "Robert Abbott",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a6RK2npjYvY1rbJtgMan6g=="
+    },
+    {
+      "name": "Karl Adkison",
+      "gender": "Male",
+      "city": "Warrensburg",
+      "state": "MO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/23/2025",
+      "usta_id": "aBYQxgyWproX36tdeSmEdg=="
+    },
+    {
+      "name": "Caroline Alford",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kLPSjHFCadUK7Tnf6acWww=="
+    },
+    {
+      "name": "Michele Andrews",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h/ZB0vRQ6HVzU/KXq6WpOw=="
+    },
+    {
+      "name": "JT Angeloff",
+      "gender": "Male",
+      "city": "Headland",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1/ibnLlzFND2zYy92cjQPQ=="
+    },
+    {
+      "name": "Cole Armstrong",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "pCkbMdr7VfbkrVuhB7NLlg=="
+    },
+    {
+      "name": "Walton Ashwander",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "MusMDTgZBj+jVY6ftPajMA=="
+    },
+    {
+      "name": "Brandon Bachman",
+      "gender": "Male",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FfKTFM6jYY/n64kidkhWyg=="
+    },
+    {
+      "name": "Cameron Ball",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/xI22oC9a1jfQB0PhepCZw=="
+    },
+    {
+      "name": "Payton Ball",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zQErCrEsJEKReDkzI2Pp6g=="
+    },
+    {
+      "name": "Mallory Bancroft",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "RdOK1PYiYzxYbOiePgdOcA=="
+    },
+    {
+      "name": "Karan Barber",
+      "gender": "Female",
+      "city": "Graceville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xL4yuzPig8kBG/4VnGkjjA=="
+    },
+    {
+      "name": "Carla Barnett",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "VGw2CDmSxhqA5NGh/5I7sQ=="
+    },
+    {
+      "name": "Ashley Barron",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gdCjJ6afOvq+vcK2T4R8zA=="
+    },
+    {
+      "name": "Butch Binford",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "0QeKqmFzUdW+b2X/nvCBDA=="
+    },
+    {
+      "name": "Vicki Bitney",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/31/2024",
+      "usta_id": "QaSYdxLEpEM3IDAIVZmy8w=="
+    },
+    {
+      "name": "Margo Black",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "rhElL0uhOPY7rGia0lMTbA=="
+    },
+    {
+      "name": "Robert Black",
+      "gender": "Male",
+      "city": "Montgomery",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "V/XEcaV/6pG9Vbsr0YBoFA=="
+    },
+    {
+      "name": "Marcelo Briones Arciga",
+      "gender": "Male",
+      "city": "Luverne",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "VNr26tZaM6XkSyeh/8vOlQ=="
+    },
+    {
+      "name": "Sandee Brookins",
+      "gender": "Female",
+      "city": "OZARK",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YMnKJj9pJY2j7jS0Q7fqgA=="
+    },
+    {
+      "name": "Amy Brown",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Z3cr4ZHpUTZoUvP/BRZEUA=="
+    },
+    {
+      "name": "Brad Brown",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nAJRxeDMrobD8Akvc6seQg=="
+    },
+    {
+      "name": "Mary Brown",
+      "gender": "Female",
+      "city": "Headland",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "9A2dNhc8ubKcjlA9lkrEZg=="
+    },
+    {
+      "name": "Justice Bull",
+      "gender": "Male",
+      "city": "Newton",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "AC8jGTBn/V6HJg9QtBtu0A=="
+    },
+    {
+      "name": "Melissa Byrd",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "946rg81+7LZgSEctAXkF6w=="
+    },
+    {
+      "name": "Robert Callander",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "IJNPKpORljL0wm6YJhRbHw=="
+    },
+    {
+      "name": "Lydia Camacho",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p8x9R3qvYoEWwcxHoWqP6g=="
+    },
+    {
+      "name": "Amber Carpenter",
+      "gender": "Female",
+      "city": "MARIETTA",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/4/2024",
+      "usta_id": "RxZ9joUd5ZmonV8HcTThGQ=="
+    },
+    {
+      "name": "Mills Carter",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/19/2024",
+      "usta_id": "Xf9FFiZOFGx/NsMO5P2oQw=="
+    },
+    {
+      "name": "Joseph Cason",
+      "gender": "Male",
+      "city": "Cowarts",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/21/2024",
+      "usta_id": "fEi7anfPdkEdVqSGuFxA3Q=="
+    },
+    {
+      "name": "Fidel Castillo",
+      "gender": "Male",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ssd3Tak7N+9PcYv7b9zrQQ=="
+    },
+    {
+      "name": "Karelia Castillo",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zM3NOn8i2UESEHdiErF7GQ=="
+    },
+    {
+      "name": "Meg Castleberry",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E7iDmx6rhV4e2g5naU5B1Q=="
+    },
+    {
+      "name": "Bay Chapman",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/28/2025",
+      "usta_id": "9XRnh9vvjmRCO/mTioDxKg=="
+    },
+    {
+      "name": "Kevin Clark",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "msj4d3aH+ReS4FtjTrfQ3Q=="
+    },
+    {
+      "name": "Martha Collins",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2zBjSIIrjg8LrdgFg9Gr3Q=="
+    },
+    {
+      "name": "Jennifer Cook",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "cjlg328ve9t77Ng9Bcc9JA=="
+    },
+    {
+      "name": "Johnny Cook",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wVVlq5cqf/l758bKrASdvA=="
+    },
+    {
+      "name": "Leigh Cooper",
+      "gender": "Female",
+      "city": "Blakely",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y3ICZDGUluMVmHZ6faYXtA=="
+    },
+    {
+      "name": "Derek Cotton",
+      "gender": "Male",
+      "city": "Geneva",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "iXup7FbmBgrJyMBWiVFgdg=="
+    },
+    {
+      "name": "Jordan Creel",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/WXjNDuYPhSOpQfL3qOPpA=="
+    },
+    {
+      "name": "Carie Crowley",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RdxN85n+ZRR71BuilMyb9A=="
+    },
+    {
+      "name": "Caleb Cruz",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "Kcn7Ec1K52kEWYg3A2XgPQ=="
+    },
+    {
+      "name": "Sandra Danford",
+      "gender": "Female",
+      "city": "Elba",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wT+QWIjD8TSiwCeMTHeeFg=="
+    },
+    {
+      "name": "Jeremy Danzie",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "pZZJOFdGsnEVo1UddX+n7w=="
+    },
+    {
+      "name": "Jessica Deck",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NvKnrsKeRfgkbC8WZ4pang=="
+    },
+    {
+      "name": "Jackson Dennis",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+o2H4pvBhh0BB1ptHnl7hg=="
+    },
+    {
+      "name": "Karmen Dorsey",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FPegzTHelX0tWTa6zf8nUA=="
+    },
+    {
+      "name": "Caroline Dozier",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/23/2024",
+      "usta_id": "gmrYoMzp6/DHZV9nBciqLQ=="
+    },
+    {
+      "name": "Davis Drake",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KBgkTSySNNbhkVM2Heh2fA=="
+    },
+    {
+      "name": "Ashley Edmonds",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PGxftdw1S57jN5Jno77pBg=="
+    },
+    {
+      "name": "Adam Edwards",
+      "gender": "Male",
+      "city": "DOTHAN",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "CkJRzcNELbq5nbfI2wVvGg=="
+    },
+    {
+      "name": "Allison Edwards",
+      "gender": "Female",
+      "city": "DOTHAN",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0x6Gt+zsRQDbCZfJy8oohQ=="
+    },
+    {
+      "name": "Renee Elliott",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JIB6zU5HVxDWM8fddU3fKA=="
+    },
+    {
+      "name": "Morgan Ellis",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "lkuOD8mIxhJcJbNhGXMlAg=="
+    },
+    {
+      "name": "Derin Ercen",
+      "gender": "Male",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/11/2025",
+      "usta_id": "dUuVkx93ifa0bTsL/BwdxA=="
+    },
+    {
+      "name": "Billy Ernst",
+      "gender": "Male",
+      "city": "HEADLAND",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YNapovLam2NYu7rc2PLjnQ=="
+    },
+    {
+      "name": "Martin Everett",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "qka1U4pHIe+fsx50jXIEdw=="
+    },
+    {
+      "name": "Davis Flowers",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/3/2025",
+      "usta_id": "YZcO7iBVTDTfVPpyU0Uq3A=="
+    },
+    {
+      "name": "Charlotte Ford",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "9GPDshD8U10bTgg8XcYG3g=="
+    },
+    {
+      "name": "John Fuller",
+      "gender": "Male",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/9/2024",
+      "usta_id": "KzH6xnSXpVtRIlnCy8cfJg=="
+    },
+    {
+      "name": "Jessica Givens",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "oMb3vkrXmGP5Ga2isHIFmA=="
+    },
+    {
+      "name": "Jennifer Gonzalez",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FiJb2bgTWEs+DuJlty5K6A=="
+    },
+    {
+      "name": "Billie Gore",
+      "gender": "Female",
+      "city": "Midland City",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "LyOZn2FXUiYuXBlwXwS84A=="
+    },
+    {
+      "name": "Kimberly Griger",
+      "gender": "Female",
+      "city": "Fort Rucker",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z1SM+tP77rjEVoerGS5UnQ=="
+    },
+    {
+      "name": "Darla Grubb",
+      "gender": "Female",
+      "city": "Coffee Springs",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OLC+EO5Qayx1tjFLET8r5A=="
+    },
+    {
+      "name": "Michelle Gusmus",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Do3VSsEGixLyHlk7WtuRmA=="
+    },
+    {
+      "name": "Tricia Hafdahl",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y6uXf2nVMyLmWW8IEEcU2A=="
+    },
+    {
+      "name": "Todd Hancock",
+      "gender": "Male",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OHfaNd0j0qWQi9Qn+hcBFw=="
+    },
+    {
+      "name": "Taylor Hara",
+      "gender": "Male",
+      "city": "Hartford",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "w6eNAgbFu37UwS+FFxI+sw=="
+    },
+    {
+      "name": "Wes Hardin",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "UQGFmkKkApvFoCEdWNl2ZA=="
+    },
+    {
+      "name": "Curt Harris",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/2/2024",
+      "usta_id": "ERHRp+PClQE+X85SFGPrBg=="
+    },
+    {
+      "name": "Kylie Harris",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BAk2Ukvk8JN3IeLkXSWirg=="
+    },
+    {
+      "name": "Howard Harrison",
+      "gender": "Male",
+      "city": "Ozark",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/30/2024",
+      "usta_id": "MFDxZhKZhmWfnxvwLGfJQw=="
+    },
+    {
+      "name": "Bernadette Haskins",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/24/2024",
+      "usta_id": "SWsQ5kp4BhsK36b92tSJLQ=="
+    },
+    {
+      "name": "Payne Henderson",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FSgLAodw2SapCFLDBKtzyQ=="
+    },
+    {
+      "name": "Amber Holland",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "2HhckZrMVOf+4fgfY6UuRw=="
+    },
+    {
+      "name": "Houston Holmes",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0NKjmjXMKX0gFFe3cHScnQ=="
+    },
+    {
+      "name": "Trent Hopton-Jones",
+      "gender": "Male",
+      "city": "Birmingham",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z7/BB6cIodxa/e2jXm0NZg=="
+    },
+    {
+      "name": "Lisa Howard",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "WzVprZ2hK5cwthO2S0280Q=="
+    },
+    {
+      "name": "Van Hughes",
+      "gender": "Female",
+      "city": "Niceville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vD3wpe3Hb1W6NQhExJuI8Q=="
+    },
+    {
+      "name": "Carol Hundley",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X5YLw7t7o1LaUSjI/l9AlQ=="
+    },
+    {
+      "name": "Jimmy Huynh",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "3wsUj5nar3riCz8wuyUIOQ=="
+    },
+    {
+      "name": "Deanna Jimison",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fyhi71d2j68uykAOv8Rs8Q=="
+    },
+    {
+      "name": "Erin Johnson",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LOVTZJVvS1Sbn0zN0dEcIA=="
+    },
+    {
+      "name": "Julia Johnson",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oB8yeJKorAPL1LZE4ndCmg=="
+    },
+    {
+      "name": "Kyle Johnson",
+      "gender": "Male",
+      "city": "DOTHAN",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "dU+ZVigtjQEaU2p1gy211g=="
+    },
+    {
+      "name": "Michelle Jones",
+      "gender": "Female",
+      "city": "Phenix City",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TKDVsmjJmNP267oVPrAA4A=="
+    },
+    {
+      "name": "Jessica Kelley",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/20/2025",
+      "usta_id": "A7h0oVHrwSCMUxeqaNK7Bg=="
+    },
+    {
+      "name": "Jordan Kennedy",
+      "gender": "Male",
+      "city": "Headland",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "8c8+y/5bLCNA+YDJs2HS7w=="
+    },
+    {
+      "name": "William Kingsbury",
+      "gender": "Male",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bmwalBCQno6ffRv54rux7w=="
+    },
+    {
+      "name": "Matt Langford",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "WNHbzX8KTiW2BJIFJViNpg=="
+    },
+    {
+      "name": "Madison Laye",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "gfvnPLLgR1S+YZZ1uz2d9g=="
+    },
+    {
+      "name": "Katrina Leadbetter",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jDK1zRetCgt0ah3nBkEKFQ=="
+    },
+    {
+      "name": "Ashley Lee",
+      "gender": "Female",
+      "city": "Fort Novosel",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8HChykI4xkajUSKeGeaa0w=="
+    },
+    {
+      "name": "Chera Lee",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/4/2024",
+      "usta_id": "4hXZVyWPLPGjFIoEJ3zyGQ=="
+    },
+    {
+      "name": "Robert Lee",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ku4CCNQvIJP8uGQWyXevhQ=="
+    },
+    {
+      "name": "Dennis Leger",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/1/2024",
+      "usta_id": "wBT000SQt7lAGstwoi0Reg=="
+    },
+    {
+      "name": "Anna Lewis",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/22/2024",
+      "usta_id": "eoVo36VJEs3BbHFGTxPycw=="
+    },
+    {
+      "name": "Hunter Lewis",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "MAhMrR0BbR2ogV3WoeQTFg=="
+    },
+    {
+      "name": "Katie Lewis",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/10/2024",
+      "usta_id": "AIKOJkwx/+iFNSjMmuhvNw=="
+    },
+    {
+      "name": "Mitchell Lewis",
+      "gender": "Male",
+      "city": "Vestavia",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gbNf02S1sPOfiJjblmbC9Q=="
+    },
+    {
+      "name": "Justin Littles",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "K8GJgWfJIUmF9jiWBGk81A=="
+    },
+    {
+      "name": "Ijen Liu",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "0qpObrcILDyDwVeHOXn1wA=="
+    },
+    {
+      "name": "Meghan Mann",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/25/2024",
+      "usta_id": "PVLFL2HBZp1C5ymP9esWmQ=="
+    },
+    {
+      "name": "Katherine Martin",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YgTmA+Z4jmZ9IoJJ9F9Ryg=="
+    },
+    {
+      "name": "Angie Mcdaniel",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uTQaNrLUupo7j7jNC0K8Qg=="
+    },
+    {
+      "name": "Bailey Mcintosh",
+      "gender": "Female",
+      "city": "Midland City",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/22/2024",
+      "usta_id": "JPLQmIHC5f61gGFMkPRaPg=="
+    },
+    {
+      "name": "Shannon McRae",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/5/2024",
+      "usta_id": "yjqqNPBJqdDYT9oXGlL/MQ=="
+    },
+    {
+      "name": "William McRae",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2022",
+      "usta_id": "xZ+q+rBjjTL5pFERHXvu5Q=="
+    },
+    {
+      "name": "Helen Mendheim",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "FMnEQL0fhuKpPPZUxNk1NA=="
+    },
+    {
+      "name": "Allison Miller",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QP9SsHvs5xIpqkvJyZHGUw=="
+    },
+    {
+      "name": "NANCY MORRISS",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gNlsG8+20iuDtzPTGR4SWQ=="
+    },
+    {
+      "name": "Paul Muller II",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "erS3IswKQwQOl6EoAecg/Q=="
+    },
+    {
+      "name": "Paul Muller",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yR5v5nbFXjZCJoToHVWqbQ=="
+    },
+    {
+      "name": "Amber Murphree",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "g1AdlHS/2Zh1SwmVVLj4Jw=="
+    },
+    {
+      "name": "Angiella Naung",
+      "gender": "Female",
+      "city": "Midland City",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/4/2024",
+      "usta_id": "qQR2MhZzZP27GqSZSIG7Gw=="
+    },
+    {
+      "name": "Allison Necessary",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HyBVOO8cEdqJ9qQ7f1BDAA=="
+    },
+    {
+      "name": "Jenny Nelson",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QGeLFXM/koya0RydnczZYg=="
+    },
+    {
+      "name": "Joe Nelson",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eD+EyCYJLyMhWD+ask/nZQ=="
+    },
+    {
+      "name": "Katie Nelson",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/18/2025",
+      "usta_id": "yAKmtkBZuf9dCIxsNGSQCQ=="
+    },
+    {
+      "name": "Nicholas Newman",
+      "gender": "Male",
+      "city": "Ozark",
+      "state": "AL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "QcSuHIymIFlbilHLVbSD7A=="
+    },
+    {
+      "name": "Lee Newton",
+      "gender": "Male",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "JWs1ws1jxDCP4hqiUzQWkw=="
+    },
+    {
+      "name": "Stetson Nichols",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "AC8jGTBn/V7nHKrCCWzWJQ=="
+    },
+    {
+      "name": "Roberto Norton",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "vQNFwZPOYPP5FnSHpglasQ=="
+    },
+    {
+      "name": "Benjamin Odom",
+      "gender": "Male",
+      "city": "Marianna",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "YsYo5gpO3S3Y1EDRCdup+A=="
+    },
+    {
+      "name": "Elizabeth Odom",
+      "gender": "Female",
+      "city": "Marianna",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "EmJdJaHYnNRqjisYibLlyg=="
+    },
+    {
+      "name": "Cathy Ogilvie",
+      "gender": "Female",
+      "city": "DOTHAN",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/31/2024",
+      "usta_id": "vxyylI2VKUWMVhFqg5fFgA=="
+    },
+    {
+      "name": "Stew Ogilvie",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "9g58qlOHXQRs5EXAoosd4g=="
+    },
+    {
+      "name": "Robin O'Sullivan",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/1/2025",
+      "usta_id": "QhkwTK6eyS62XKkcmsgQPw=="
+    },
+    {
+      "name": "Karen Overstreet",
+      "gender": "Female",
+      "city": "Webb",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y3KrJ8CscLxBMzmkdzdUHA=="
+    },
+    {
+      "name": "Jamie Peacock",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vzI6ROtsJWXEAIlHWTpHIg=="
+    },
+    {
+      "name": "Eric Peel",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QY7zMi92Di3+4LE2Fsz1Rg=="
+    },
+    {
+      "name": "Caitlin Perry",
+      "gender": "Female",
+      "city": "DOTHAN",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rv9+zbYbM40VoQP4DTggtw=="
+    },
+    {
+      "name": "Mandy Pesamoska",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/16/2024",
+      "usta_id": "U2UdKs7jn/uPuZzXskIOHw=="
+    },
+    {
+      "name": "Chelsea Petrey",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YgTmA+Z4jmZ/Iy0ThX0LhA=="
+    },
+    {
+      "name": "James Phillips",
+      "gender": "Male",
+      "city": "Marianna",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "79asuvHz77BU8UuKb27z8g=="
+    },
+    {
+      "name": "Lauren Phillips",
+      "gender": "Female",
+      "city": "Headland",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/25/2024",
+      "usta_id": "u2e0UL0oDW5xqIxyRThGWg=="
+    },
+    {
+      "name": "Natacha Phillips",
+      "gender": "Female",
+      "city": "Marianna",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LTZpoB6IocARK/aAIFRaCA=="
+    },
+    {
+      "name": "Tina Phillips",
+      "gender": "Female",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lYZv8qnzZYwCMIqP+5o/Fw=="
+    },
+    {
+      "name": "Marilyn Pittman",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "7oWeJgi57zNxbmRbvW/+Pw=="
+    },
+    {
+      "name": "Benjamin Pope",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "HqEMjwxLvmgvp3AGyAdErQ=="
+    },
+    {
+      "name": "Andrew Poston",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ui0gac/Ycw6QFcPeDQnc7g=="
+    },
+    {
+      "name": "Margaret Poston",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3OF7Cch2LX612ArCs7CdpQ=="
+    },
+    {
+      "name": "April Powell",
+      "gender": "Female",
+      "city": "Brinson",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IDQ6DBofJC9xTdH6qG/T/Q=="
+    },
+    {
+      "name": "Sarah Prince",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/21/2024",
+      "usta_id": "BkUCacN93BPQ34KzT0wyqw=="
+    },
+    {
+      "name": "Amy Pruitt",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wQBxzfx45zxYUizfl82K4g=="
+    },
+    {
+      "name": "Rick Rikard",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kf8wvNmfjB7CJnpiUJrfWw=="
+    },
+    {
+      "name": "Amanda Roberson",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "egiBNGsITGdJcrMRiua6Bg=="
+    },
+    {
+      "name": "Brook Robertson",
+      "gender": "Female",
+      "city": "DOTHAN",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "3LQ4PvCcLs/I2AXwqarsFQ=="
+    },
+    {
+      "name": "Elizabeth Saliba",
+      "gender": "Female",
+      "city": "DOTHAN",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/iB+e4e+5I4x9qgQvPEjtQ=="
+    },
+    {
+      "name": "Scott Salmon",
+      "gender": "Male",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/10/2025",
+      "usta_id": "Fp8kFrV4SpjMQFcTJx/xYg=="
+    },
+    {
+      "name": "Carlene Sessions",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XCwESj4YC5hHSZDkZmDDqQ=="
+    },
+    {
+      "name": "Katie Shaw",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vzI6ROtsJWUxchsMyW6GDQ=="
+    },
+    {
+      "name": "Debbie Shelton",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5Oweb1kGSiLG80sTn0xH4Q=="
+    },
+    {
+      "name": "Beverly Shields",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v1ZI8knDlo+KctfPFMjQyQ=="
+    },
+    {
+      "name": "Colby Shimabukuro",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2Py68Kk6BT8nvNjTFdNFqw=="
+    },
+    {
+      "name": "Scotty Snell",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "bscZOJc8im5wWvyqypHqtA=="
+    },
+    {
+      "name": "Devin Snuggs",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gT6fBeBI4JTPulJ4A92pbw=="
+    },
+    {
+      "name": "Travis Sykes",
+      "gender": "Male",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vgi3oJ2+JSVCV7vzskDzmQ=="
+    },
+    {
+      "name": "Zach Tantillo",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o+nxd3nuTFN4jI5OBy3edg=="
+    },
+    {
+      "name": "Justin Thomley",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Eji2Gli9vNGEc9Z978wFA=="
+    },
+    {
+      "name": "Wyndi Thompson",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/23/2024",
+      "usta_id": "xgYk1p5y4gAzoE6C83Zu5Q=="
+    },
+    {
+      "name": "Clayton Thornton",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "tCPepXdB3FESEY4CjpjEpA=="
+    },
+    {
+      "name": "Allison Tucker",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/2/2025",
+      "usta_id": "LXJTFdWZnBOOcJJksTpRDA=="
+    },
+    {
+      "name": "Callie Ventress",
+      "gender": "Female",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eTbCd3g0vfINNqw2DY+GOw=="
+    },
+    {
+      "name": "Evee Ventress",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1fV4Ngwi4ard29opeRjQvQ=="
+    },
+    {
+      "name": "Blake Wallace",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/21/2024",
+      "usta_id": "CfNZnPUaRRHJAWPFGXQxOg=="
+    },
+    {
+      "name": "Jacqueline Ward",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "Wp5/VoiVln8WBdeHNyw+zg=="
+    },
+    {
+      "name": "Veleta Watson",
+      "gender": "Female",
+      "city": "DOTHAN",
+      "state": "AL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "utC4LUrv0HVXNHZuttAxow=="
+    },
+    {
+      "name": "Maggie West",
+      "gender": "Female",
+      "city": "Headland",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "fX9+r3JYz0jQl7P0N6+zAQ=="
+    },
+    {
+      "name": "Dale Whittle",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VYl4qcAKw6hrLFzcWoHeNg=="
+    },
+    {
+      "name": "Garrett Whittle",
+      "gender": "Male",
+      "city": "Panama City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "5viep3v9xxSkMTmNIxxcbw=="
+    },
+    {
+      "name": "Jennifer Whittle",
+      "gender": "Female",
+      "city": "Lynn Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1v5bg+ZBJ+PC2/z+KMFTCA=="
+    },
+    {
+      "name": "Stephanie Wiesel",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/EaOFnejUUXePoc7V/QhXw=="
+    },
+    {
+      "name": "Cameron Williams",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/18/2025",
+      "usta_id": "4blfaxLw4yP9NUO3FyPj+A=="
+    },
+    {
+      "name": "Trey Wingard",
+      "gender": "Male",
+      "city": "Enterprise",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "RJzMGaLvcenI3wDOfb7UVw=="
+    },
+    {
+      "name": "Lindy Wood",
+      "gender": "Female",
+      "city": "Freeport",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L+LzRJR0e4x4AsudSgvv6g=="
+    },
+    {
+      "name": "Aaron Worthington",
+      "gender": "Male",
+      "city": "Headland",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/18/2024",
+      "usta_id": "7M3sCC1xwyGaGRwJucRqzg=="
+    },
+    {
+      "name": "Bradley Wright",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/11/2024",
+      "usta_id": "TA0OyWnr4gNxSMUScEj32w=="
+    },
+    {
+      "name": "Catherine Wright",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pdGnlEC4WDzRYxyUf3NiBA=="
+    },
+    {
+      "name": "Mike Zickella",
+      "gender": "Male",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/29/2024",
+      "usta_id": "BYnZlmerHfIQHU4kxQooWg=="
+    }
+  ]
+}

@@ -1,0 +1,3477 @@
+{
+  "sectionId": "6243298",
+  "districtId": "6243335",
+  "areaId": "6243463",
+  "players": [
+    {
+      "name": "Vanessa Adam",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5jp4pGMn9xu206q5cFpDNg=="
+    },
+    {
+      "name": "Robert Adams",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dzqMjaBwuXPABsWkybWCNA=="
+    },
+    {
+      "name": "Stacey Adams",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rzDyZHWkBdcapXM29J6l0w=="
+    },
+    {
+      "name": "Maggie Albrecht",
+      "gender": "Female",
+      "city": "STEAMBOAT SPRINGS",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "5jTjrxad2Xiv8tNbKLSrpA=="
+    },
+    {
+      "name": "Dena Albright",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iXfFg81oosVda36UFkklFA=="
+    },
+    {
+      "name": "Jeff Aldrich",
+      "gender": "Male",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zdejOTo89kkK1lCFA/LUWg=="
+    },
+    {
+      "name": "Jean Allard",
+      "gender": "Female",
+      "city": "GLENWOOD SPRINGS",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "XQJp1HAuWA4zO18DPPo6fg=="
+    },
+    {
+      "name": "Audrey Allen",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H6lmdwjQ0H5Mvt1mk93Qqg=="
+    },
+    {
+      "name": "Therese Alpern",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "Y0AYaMiadzbD08Yon+fz8Q=="
+    },
+    {
+      "name": "Dan Andersen",
+      "gender": "Male",
+      "city": "NEW CASTLE",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "qYwXMTwUD+fmroVvwDpR0g=="
+    },
+    {
+      "name": "Kim Anderson",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/P9to3skCbhSedAwwARUVw=="
+    },
+    {
+      "name": "Matt Armentrout",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BtIKTAO72tZO3OmWfDtqbQ=="
+    },
+    {
+      "name": "Rebecca Asbury",
+      "gender": "Female",
+      "city": "AVON",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HJwmQJthCDLvsbi1W2jsXw=="
+    },
+    {
+      "name": "Katie Bailey",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UFIebSxXJya+nX1YlcTg6g=="
+    },
+    {
+      "name": "Chance Balis",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BXszhcR7Sj/YnMR8xlW6ug=="
+    },
+    {
+      "name": "Colleen Barill",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bfsHE/Mn97T6PL3GwObWzg=="
+    },
+    {
+      "name": "Patrick Battista",
+      "gender": "Male",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YOZpmF7eKXbRM6NRI13ooA=="
+    },
+    {
+      "name": "David Baugh",
+      "gender": "Male",
+      "city": "PARACHUTE",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZxWVTlo6lKLNcvBG3bOjFw=="
+    },
+    {
+      "name": "Carrie Benway",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ChzDMZoeJYbLrDzbjNuVRA=="
+    },
+    {
+      "name": "Chapin Benway",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1zvdW77UcroEPWPKhKLa1g=="
+    },
+    {
+      "name": "Michelle Bevington",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z3mhovSMqZfKH4AUwVE65Q=="
+    },
+    {
+      "name": "Brittany Biebl",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+YB0bVxflpLmOA+W1Bulzg=="
+    },
+    {
+      "name": "Amy Binder",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/13/2024",
+      "usta_id": "nRCL8SzbMP0Ol2AulGGZ+g=="
+    },
+    {
+      "name": "Betsy Black",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "geRguuqTqa+5CCjngE7CKQ=="
+    },
+    {
+      "name": "Susan Blizzard",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HAcO+fyCXQT+/wWx1H3N/g=="
+    },
+    {
+      "name": "Diane Boat",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tBoch3OaeLgOcmX2YiwW9Q=="
+    },
+    {
+      "name": "Erin Boselli",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/qpaqj0xeF780vaTVPxTgQ=="
+    },
+    {
+      "name": "Mary Boyd",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CH7CgCNngapMS5vcVmgZow=="
+    },
+    {
+      "name": "Rose Braden",
+      "gender": "Female",
+      "city": "Vail",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v2g3AQuAmsrHB54g7x1K4g=="
+    },
+    {
+      "name": "Alexandra Braeger",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lW5QE1N+iU7JwHv2LgsHig=="
+    },
+    {
+      "name": "Tanya Brennan",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iG3q9nm84Ysa/6yrMfYUQA=="
+    },
+    {
+      "name": "Jill Brewer",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/31/2024",
+      "usta_id": "+WSNXQg/JMTzZ/SFFInZXg=="
+    },
+    {
+      "name": "Jill Briggs",
+      "gender": "Female",
+      "city": "Boerne",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vkqtpAYtZG3bf57pL8GaXg=="
+    },
+    {
+      "name": "Stacy Brookman",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/15/2025",
+      "usta_id": "k9f6UCChfbLydjjoAEszBw=="
+    },
+    {
+      "name": "Susan Brown",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/25/2024",
+      "usta_id": "ZM7SHqtKNpyiZSdUMJU4ow=="
+    },
+    {
+      "name": "Corin Brucker",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ptVGG5NtJt9ahgZrbSJSVQ=="
+    },
+    {
+      "name": "Nancy Brugler",
+      "gender": "Female",
+      "city": "BRADENTON",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nw/NepEaxGIU6bAHHyWOfg=="
+    },
+    {
+      "name": "Laurie Buelow",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/15/2024",
+      "usta_id": "AUB2/8qTrn62nCrYqXScqw=="
+    },
+    {
+      "name": "Jenifer Burger",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zBrl8FN5f1ygIAhqjx40Aw=="
+    },
+    {
+      "name": "Mardell Burkholder",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "JsdKjX3schq9AYmrYW+HAQ=="
+    },
+    {
+      "name": "Daniele Burns",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zb4PZxdImGa5/abkbQYbpQ=="
+    },
+    {
+      "name": "Kristen Calarco",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "QR4/59To/PWhAYggNdQ+4g=="
+    },
+    {
+      "name": "Laura Caldwell",
+      "gender": "Female",
+      "city": "WHEAT RIDGE",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JCFWApIm0k1XKIP1/5n2OQ=="
+    },
+    {
+      "name": "Sandy Calwell",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/2/2023",
+      "usta_id": "v73uQ2GAFpzxs+O7yfd6eA=="
+    },
+    {
+      "name": "Kelly Capri",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "7QxqZUR1QVFa7sVeoUG+zw=="
+    },
+    {
+      "name": "Whitney Carper",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RSHo/i7Kacxi7DsOZoKGcQ=="
+    },
+    {
+      "name": "Susan Cary",
+      "gender": "Female",
+      "city": "Wolcott",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JHDMRIiMgAxxYuWiD6MDBw=="
+    },
+    {
+      "name": "Mike Cassetty",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "jolaBlH23LNL+lnFyzTlVg=="
+    },
+    {
+      "name": "Tami Cassetty",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "jscoQ0xHPKtIKjQ/yv7kng=="
+    },
+    {
+      "name": "Michael Check",
+      "gender": "Male",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZStghBqo7k2WCzWmwOgh8Q=="
+    },
+    {
+      "name": "Lindsey Cheney",
+      "gender": "Female",
+      "city": "Longmont",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7U6wqovR0nZSFnbT0DCCbg=="
+    },
+    {
+      "name": "Susan Cheney",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8/2mVUoI0AnXDCxcARbKQw=="
+    },
+    {
+      "name": "Bert Chilson",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YAB59DqInnm+uvCo1XW4ew=="
+    },
+    {
+      "name": "Waverly Chin",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "/atXO9ZrUcxw6J1QBcfeOw=="
+    },
+    {
+      "name": "Susan Chipman",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lHGjiIjP/JFHQEn+VCG3aQ=="
+    },
+    {
+      "name": "Erica Cicero",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "JrIiSzNbjOQvfffpMcZE+w=="
+    },
+    {
+      "name": "Christian Clark",
+      "gender": "Male",
+      "city": "Atlanta",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U1Gawh8iYzsR8UISeFVPbg=="
+    },
+    {
+      "name": "Dawn Cleveland",
+      "gender": "Female",
+      "city": "NEW CASTLE",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yHWEtC28FXfijk1mb8AfCw=="
+    },
+    {
+      "name": "Derron Cloud",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "KqxB1DvEYUieWNic63EQgw=="
+    },
+    {
+      "name": "Laura Coarsey",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/3/2025",
+      "usta_id": "RhmKwonJ642rW97uN/D4Vw=="
+    },
+    {
+      "name": "Monica Cohan",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P7OCA5JSHiCAvAA8OZQKsg=="
+    },
+    {
+      "name": "Gwen Cohen",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yPFB3Gs+RWM4jDDRJaNNtw=="
+    },
+    {
+      "name": "Ellen Cole",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o/h7h3RMOShhzxffS5hbVQ=="
+    },
+    {
+      "name": "Darcy Conover",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6YQWTTupaG8oAVDXa5bcxw=="
+    },
+    {
+      "name": "Rachel Cossman",
+      "gender": "Female",
+      "city": "ASPEN",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F1ERbHDfbCS4jTUfrnrC1Q=="
+    },
+    {
+      "name": "TONI COURTENAY",
+      "gender": "Female",
+      "city": "Snowmass Village",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oyJNLrlOS01yy1IWNYHbUg=="
+    },
+    {
+      "name": "Ryan Czarnecki",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IfRiNaXIJNM0Az4MtdDCFw=="
+    },
+    {
+      "name": "Amy Daniel",
+      "gender": "Female",
+      "city": "Snowmass",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yG2l5GWRSqLP7GA3hJDsHQ=="
+    },
+    {
+      "name": "Kristin Davis",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u53fNUcf1xVRslJkehGsJw=="
+    },
+    {
+      "name": "Emily De Moraes",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "92vbRLtX8RXzu6Fvl8cwpQ=="
+    },
+    {
+      "name": "Shauna de Moraes",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZHEe1+Fe8JEkYy2nBbfG0w=="
+    },
+    {
+      "name": "Rachael Degraffenried",
+      "gender": "Female",
+      "city": "New Castle",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "m/XW0GQ+XFhood+ZgqZfaQ=="
+    },
+    {
+      "name": "Kate Dehm",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/11/2024",
+      "usta_id": "RObFHVzDRj6y3vZNjuzFgg=="
+    },
+    {
+      "name": "Susie Demers",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oxA8c52lVheuZFzPVPFkNQ=="
+    },
+    {
+      "name": "Peg Devan",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HdUeH6s6tC6rgNisiV1sog=="
+    },
+    {
+      "name": "Nora Dispense",
+      "gender": "Female",
+      "city": "Greenwood Village",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i198DA/vvmANNIFUEAqYyw=="
+    },
+    {
+      "name": "BARBARA DOBROT",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DY9C+ZBbD1eDBK35f2LM+Q=="
+    },
+    {
+      "name": "Colleen Dollahan",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mGq6DcVwuqCQKL92qJE2ZA=="
+    },
+    {
+      "name": "Jim Dresser",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YYZLAHcWTFLDA//kDFxZUA=="
+    },
+    {
+      "name": "Patricia Dudley",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tTDARCY22czGE7UnJrW/ng=="
+    },
+    {
+      "name": "Lauren Dufresne",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "u+qvZOB3xjD2uUt9qDdAZQ=="
+    },
+    {
+      "name": "Keely Eberly",
+      "gender": "Female",
+      "city": "New Castle",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WWatUU85cnx/o2Z8+KuDQA=="
+    },
+    {
+      "name": "Tess Ebert",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "gfWDALwE9p2goi6n9bsR4Q=="
+    },
+    {
+      "name": "Francisco Elias",
+      "gender": "Male",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t+GDIpbKJ9LhdPnH+8dX9A=="
+    },
+    {
+      "name": "Brady Emens",
+      "gender": "Female",
+      "city": "CARBONDALE",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fNNrgsR/rRMDg2urnc146Q=="
+    },
+    {
+      "name": "Suzette Emerson",
+      "gender": "Female",
+      "city": "Denver",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MnT2KmYAUcCUm1SE/fEYBg=="
+    },
+    {
+      "name": "Sasha Enewold",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Dad05fnt6F61hthqeT5+Q=="
+    },
+    {
+      "name": "Chase Ennis",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AJRFsXvGWNpeikZUoMxBsg=="
+    },
+    {
+      "name": "Makenzie Eshelman",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nDs/s0UhspTzXV3hX1Qvsg=="
+    },
+    {
+      "name": "Erin Evers",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bemyhh5T/QinaX/lB6VVFQ=="
+    },
+    {
+      "name": "Shannon Fedrizzi",
+      "gender": "Female",
+      "city": "Eagle",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UTgDoGQdvsUeg+qb6nznsA=="
+    },
+    {
+      "name": "Laurie Feler",
+      "gender": "Female",
+      "city": "NAPLES",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hg1hHbYiOvzWFba4pSBj0g=="
+    },
+    {
+      "name": "Wendy Ferrara",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T1NguOBHY6hhLVAxhxuKEg=="
+    },
+    {
+      "name": "Amy Filiss",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ySMJp1D2dKOtrAELpWZ4AA=="
+    },
+    {
+      "name": "Katie Fitzgerald",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WWMUEwj01UI89LALye0K5Q=="
+    },
+    {
+      "name": "Kristen Foote",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QWRArrNdcowdHRTn7glaXw=="
+    },
+    {
+      "name": "Grace Fox",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "eCp9zH6zDWO3Tzp6UTuB+A=="
+    },
+    {
+      "name": "Laurel Fox",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/17/2025",
+      "usta_id": "Rz//O0+a2ONDyA5Ya6UFtQ=="
+    },
+    {
+      "name": "Shannon Francis-Pienaar",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WIncAsvjTwGFBzgl3V45Lg=="
+    },
+    {
+      "name": "Lily Freiborg",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HeIa5hHodYFxAv9gxCZwhQ=="
+    },
+    {
+      "name": "Karen Fullerton",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3+zBTuZaSsOWuVw2h+yNnQ=="
+    },
+    {
+      "name": "Hilary Garnsey",
+      "gender": "Female",
+      "city": "GLENWOOD SPRINGS",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "yc2J/bDO+4U="
+    },
+    {
+      "name": "Nancy Garrigus",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4TPiEg52MsGHfqhd4obK/w=="
+    },
+    {
+      "name": "Lonetia Gerken",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nRISX7B99MWLGVkQ29aeIA=="
+    },
+    {
+      "name": "Michele Gieg",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YM6r0VvL5+tpLMZc+J9yDA=="
+    },
+    {
+      "name": "Sara Gilbertson",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DUfGvIOSHw+zJ5GhWFAZTQ=="
+    },
+    {
+      "name": "Jennifer Given",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "onMltEat1z0ik8Pp9ok4Cg=="
+    },
+    {
+      "name": "Julie Glen",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SZ6US38EoAEWhe6v9u+fig=="
+    },
+    {
+      "name": "Michael Glen",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "3jauZKRmRagLE/mmkk6Isg=="
+    },
+    {
+      "name": "Arlene Goetz",
+      "gender": "Female",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cvFFJcNTuoo2/G2rUqng1A=="
+    },
+    {
+      "name": "Anne Goldberg",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yv+jUZNu/4VQ08FZvgdGsA=="
+    },
+    {
+      "name": "Kipling Gomez",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bcZLFGE6lJevMDVsdemMnQ=="
+    },
+    {
+      "name": "Amy Gordon",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "6iNlXIx9JbCj9i7yUlPmpw=="
+    },
+    {
+      "name": "Jayme Goscha",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "PLz5S0v6cCqSaXcwGGNPww=="
+    },
+    {
+      "name": "Sally Grange",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d8frsmlHgFprnbCjMUz4hQ=="
+    },
+    {
+      "name": "Claire Green",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KxvzJYxiTr/UEk6xgvjGlw=="
+    },
+    {
+      "name": "Emily Greener",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F8S6yYkPCEyKz+IUIlh2KA=="
+    },
+    {
+      "name": "Deborah Griffin",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0h3qB5NCRC/IqEOrq8z0tQ=="
+    },
+    {
+      "name": "Brenda Grumley",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3KfI04hCNRQ1XJx2x/eGdw=="
+    },
+    {
+      "name": "Andie Hall",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JuyFAE5BQtygn9SbvDFnJw=="
+    },
+    {
+      "name": "Molly Hamilton",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/11/2025",
+      "usta_id": "wLVQ95a/CMS7wLJQff9W1g=="
+    },
+    {
+      "name": "Kimberly Hammond Pattillo",
+      "gender": "Female",
+      "city": "New Castle",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K8Ek741zx8u/DJam2sYXXw=="
+    },
+    {
+      "name": "Leelee Harriman",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "g4KPzgfzw2N/kf/s/XsAZA=="
+    },
+    {
+      "name": "Nancy Harris",
+      "gender": "Female",
+      "city": "CARBONDALE",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QT5G4ntW/EqGE/BdjWO6Gg=="
+    },
+    {
+      "name": "Julie Hartman",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RNuFe8VSEK73xdokgz/dyg=="
+    },
+    {
+      "name": "Polly Hastie",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "f73DJRTq6WJDBKABAt0UMg=="
+    },
+    {
+      "name": "Stephanie Hawley",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "RUMglZ0r5rTHxUSzp2JPPg=="
+    },
+    {
+      "name": "Wendy Hayden",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X0lecXs0z/VnbD+VWnoFVg=="
+    },
+    {
+      "name": "Carolyn Hayes",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "PBJS9i+MnfOZ5GL/MGGF8w=="
+    },
+    {
+      "name": "Douglas Hayes",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "fIXrSYdhsqiz67JZnzr7fg=="
+    },
+    {
+      "name": "Megan Hayes",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qbg1lowpt77rSLiKerLzIg=="
+    },
+    {
+      "name": "Stephanie Hayes",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "56c6APauxTwAT1swUlfkmQ=="
+    },
+    {
+      "name": "Meghan Hegberg",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z764VKbt12rqsbGdC3vulg=="
+    },
+    {
+      "name": "Zoe Herreid",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q5PdIB7pH0mvWqUKgWeIIA=="
+    },
+    {
+      "name": "Sue Hickey",
+      "gender": "Female",
+      "city": "Denver",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RwkfFOUNvuXmCPE48FGEwA=="
+    },
+    {
+      "name": "Jenell Hilderbrand",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2wYdZvfYXGa/WoqVx/HEmQ=="
+    },
+    {
+      "name": "Susan Hippe",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2l38D2V4YV+f3wusxwfLSA=="
+    },
+    {
+      "name": "Jessie Hjorth",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/CTqFGDQd7/FBZEde9OEsA=="
+    },
+    {
+      "name": "Mary Horn",
+      "gender": "Female",
+      "city": "Snowmass Village",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/12/2024",
+      "usta_id": "STtrp68Nc9LgGl8DSTAFTQ=="
+    },
+    {
+      "name": "Barb Hovde-Brown",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jooXvQ+0MHNHjQ0yMvIbAA=="
+    },
+    {
+      "name": "Linda Huntsman",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hsR7niVI701H/R4GDnXkJA=="
+    },
+    {
+      "name": "Lucy Hurd",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gMcrEC/P/t5FhEjVqAv6tA=="
+    },
+    {
+      "name": "Audrey Imhoff",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tNJpw8KXXnWReGMrj0ok9g=="
+    },
+    {
+      "name": "Paul Incze",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bbCoIfUp2VhKaedBc3cEuQ=="
+    },
+    {
+      "name": "Patsy Isaacson",
+      "gender": "Female",
+      "city": "Amelia Island",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5oKNN1n9wT7sAJIIDWf/aQ=="
+    },
+    {
+      "name": "Jodi Jacobson",
+      "gender": "Female",
+      "city": "Snowmass",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mibPThWwrEEb75NYH+PZYw=="
+    },
+    {
+      "name": "Peter Jacobson",
+      "gender": "Male",
+      "city": "Glenwood Spgs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5LJGjXuXrlbQhq07tEFwZw=="
+    },
+    {
+      "name": "Michele Jarnot",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FMN51ZPjYKJZom9P7o98eA=="
+    },
+    {
+      "name": "Mimi Jervis",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "0WAN+GLFhgQfLRqizKOcuw=="
+    },
+    {
+      "name": "Jen Jewett",
+      "gender": "Female",
+      "city": "Eagle",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I3nE50zkiqIcm+Om8ZQlGg=="
+    },
+    {
+      "name": "Heidi Jobson",
+      "gender": "Female",
+      "city": "EDWARDS",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "p4SOFIymn8w6GundZeghDQ=="
+    },
+    {
+      "name": "Erica Johns",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/3/2024",
+      "usta_id": "Dgs6QeykXt8M0fh6e/ztvA=="
+    },
+    {
+      "name": "Molly Jones",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0CjolQh3rNPCMRexaITRAA=="
+    },
+    {
+      "name": "Amy Jonker Broersma",
+      "gender": "Female",
+      "city": "CARBONDALE",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "+B1Cd/T+NvQiBIoMxkt/3A=="
+    },
+    {
+      "name": "David Joseph",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "HxcOFTCCvrE7POlR8GO20g=="
+    },
+    {
+      "name": "Jackie Kaplan",
+      "gender": "Female",
+      "city": "SNOWMASS",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E15fiJYfsyumwQtkFy6KXw=="
+    },
+    {
+      "name": "Alexandra Karlinski",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "esKL1U1ZzaHeV7hTLcNw5A=="
+    },
+    {
+      "name": "Katie Karow",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WJZp3UHaMybJsM3aWnEUeg=="
+    },
+    {
+      "name": "Mary Sue KATZ",
+      "gender": "Female",
+      "city": "Vail",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "w3kozrnk6K0ohuN31dHbcg=="
+    },
+    {
+      "name": "Julie Kaufman",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LXa4TVXaDswEaSXXs0hKAw=="
+    },
+    {
+      "name": "Leslie Keery",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Go+HV3ZjaXJ6PX2tk+Iz7w=="
+    },
+    {
+      "name": "Carrie Kellman",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QtCErElzi5yipD/oEJ3cyg=="
+    },
+    {
+      "name": "Jaime Kellogg",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zv7DzbPcCQzbq1CJ2COSJg=="
+    },
+    {
+      "name": "Kristina Kelty",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IeaI9BosTT1Xnpk1pSfQjg=="
+    },
+    {
+      "name": "Kristin Kenny",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CrMlf95v1ilbcSsTHuYo0A=="
+    },
+    {
+      "name": "Tessa Kirchner",
+      "gender": "Female",
+      "city": "Vail",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J/y6P/CXxkb4U/ICytysBg=="
+    },
+    {
+      "name": "Andrea Klaphake",
+      "gender": "Female",
+      "city": "BASALT",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/9/2025",
+      "usta_id": "vTsbgVyL66FIB/4CVJ+J0Q=="
+    },
+    {
+      "name": "David Knight",
+      "gender": "Male",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "80AFWhKt8V/3YlLYxcPJHw=="
+    },
+    {
+      "name": "Heather Knott",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bOwOwicSYIbwIH1GG50UGA=="
+    },
+    {
+      "name": "Cotton Koehler",
+      "gender": "Male",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/15/2025",
+      "usta_id": "9rUdfNCgf+QScBeLtg1amQ=="
+    },
+    {
+      "name": "Susie Kokoska",
+      "gender": "Female",
+      "city": "EAGLE",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z2fU4lIbzQVJylOV0FeazQ=="
+    },
+    {
+      "name": "Patricia Kreutz",
+      "gender": "Female",
+      "city": "Steamboat Spr",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A+6/uhAMK52l6G0byHessA=="
+    },
+    {
+      "name": "Karen Lambert",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XsKBUpjOc1tmHsJGoViX+Q=="
+    },
+    {
+      "name": "Barb Lansky",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "91K1vOabRjWROwoXS8UPXw=="
+    },
+    {
+      "name": "Afton Larsen",
+      "gender": "Female",
+      "city": "Parachute",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WpzvjneV88ieRGSGe1uCLw=="
+    },
+    {
+      "name": "Joely Larsen",
+      "gender": "Female",
+      "city": "Silt",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/bwQQvs8PhVu7TZNYl2EkQ=="
+    },
+    {
+      "name": "Shawn Lawrence",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LrjrTTLh2VLwJllNBxL/BQ=="
+    },
+    {
+      "name": "Max Lee",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5zib0Jce6ILXWhTUKCHPzA=="
+    },
+    {
+      "name": "Kate Leibinger",
+      "gender": "Female",
+      "city": "Rifle",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fzy9OqrWTf6+dtNJI87Lbg=="
+    },
+    {
+      "name": "Dianne Leoni",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QHQRU1j2eGLAy4qauNLd+g=="
+    },
+    {
+      "name": "Janet Leverson",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+KsaRVwUJnbkkebH82i8XA=="
+    },
+    {
+      "name": "Denison Levy",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FG2JuIVMtafYgocoeO/+MQ=="
+    },
+    {
+      "name": "Kara Lindahl",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CibwSov/3ptx8OhjmfYAzA=="
+    },
+    {
+      "name": "Courtney Little",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oj2X8uTCqgbGMrBoeMxXYA=="
+    },
+    {
+      "name": "Kara Lizotte",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FxPadguBp6rMqpzNmSsH0A=="
+    },
+    {
+      "name": "Deborah Long",
+      "gender": "Female",
+      "city": "Eagle",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TA43MlJTxRXgPGRHAp6rxg=="
+    },
+    {
+      "name": "Anna Lorenson",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PaT3sBprFBDaOfKXBmlvcQ=="
+    },
+    {
+      "name": "Lise Lorentzen Carnes",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jKasOB6agHxe7ILrtf8xPg=="
+    },
+    {
+      "name": "Patrice Lorenzen",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "efISj0c70AE+zriyW108eQ=="
+    },
+    {
+      "name": "Shelley Lundh",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0LYi0/KawtwOMMzO+aN1tg=="
+    },
+    {
+      "name": "Krystal MacKey",
+      "gender": "Female",
+      "city": "STEAMBOAT SPRINGS",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "CEhuI4kh9Iws/0IJvyabpw=="
+    },
+    {
+      "name": "Danielle Malone",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lc99s+lSXbCkOrYum/2LRg=="
+    },
+    {
+      "name": "Abby Matthias",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "qk7QHZg3lNO2QZEOpPhVgA=="
+    },
+    {
+      "name": "Tsvetana Mawicke",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "FPAnf8faxucJ7tZ/IEZZ5g=="
+    },
+    {
+      "name": "Bailey Mccallister",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "6Z22Id7SZoQtY4rwUis0Xg=="
+    },
+    {
+      "name": "Jena McCrann",
+      "gender": "Female",
+      "city": "WOLCOTT",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gjuZsW5vXuMow3uilsyexA=="
+    },
+    {
+      "name": "Heidi McCullough",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PASHgJZFuCEDkPxwJ3hacw=="
+    },
+    {
+      "name": "Patricia McNamara",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "98ZEROaVSgXeWOMxgLtVcA=="
+    },
+    {
+      "name": "Crystal McNamee",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zw4yQ2o9hJ9YRT8OItc4ag=="
+    },
+    {
+      "name": "Kate McRaith",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "5H1WGdlxT8r7JGQGG0/A9A=="
+    },
+    {
+      "name": "Chris Mcswain",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "kl+qI6lWUXhUooob8AbtEA=="
+    },
+    {
+      "name": "James Mears",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bSzYChkXLNWNxk49hQE7eA=="
+    },
+    {
+      "name": "Brittany Meason",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5XfGBvCfoTfJE1F652McRQ=="
+    },
+    {
+      "name": "Gordy Megroz",
+      "gender": "Male",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HDD177+r7sGht6Z3r6tKFQ=="
+    },
+    {
+      "name": "Adele Melnick",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JXbtp3vqmkD7/R45Cl6WRg=="
+    },
+    {
+      "name": "Donna Merkel",
+      "gender": "Female",
+      "city": "Eagle",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "lJi7+WcJtJHI7/6lktZ/og=="
+    },
+    {
+      "name": "Robbi Mermel Nierenberg",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "DQaK9piX2ZtWQ2xBZWSLtA=="
+    },
+    {
+      "name": "Alicia Miller",
+      "gender": "Female",
+      "city": "CARBONDALE",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "oqWnwT2qtEzRYs9EoBPzrQ=="
+    },
+    {
+      "name": "Lauren Mirich",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9gjI9tdAik9G0ewbyNBLdQ=="
+    },
+    {
+      "name": "Deborah Modzelewski",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "p7I7yRvS6UdXv/EQYvgyKg=="
+    },
+    {
+      "name": "Rochelle Moe",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "Qv7v0CBeHur+gXytwMfWNA=="
+    },
+    {
+      "name": "Jill Moneypenny",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qHW1J3TjHXlHU5UGZf8FYw=="
+    },
+    {
+      "name": "Craig Moody",
+      "gender": "Male",
+      "city": "COLLEGE STATION",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "d86wLsXfFUyUbhX/6RTWiw=="
+    },
+    {
+      "name": "Carole Moran",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "95CY4IYg3QbYaXnUw5GmCg=="
+    },
+    {
+      "name": "Gillian Morris",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dqzoW0h/yuvH8cvpPErp4g=="
+    },
+    {
+      "name": "Melody Morris",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IIQbjYXJjDuqYnlopTpAMQ=="
+    },
+    {
+      "name": "Aimee Mossa",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zKQd7WkiyMb3t9eDvSHEWw=="
+    },
+    {
+      "name": "Mary Jo Murphy",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YXKGYCbwRi6zlfRRR6gcGw=="
+    },
+    {
+      "name": "JR MUSSER",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yr4TGcdLEinQAMs0MgpAqQ=="
+    },
+    {
+      "name": "Tom Nemirovsky",
+      "gender": "Male",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "efqZBd0L293BLKDfshX+Hw=="
+    },
+    {
+      "name": "Pamela Niro",
+      "gender": "Female",
+      "city": "Arlington Heights",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PsrHg8YcWPAOP4qWb7mXFg=="
+    },
+    {
+      "name": "Sally Nixon",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "yJPOAootknpxLEHmc3haMA=="
+    },
+    {
+      "name": "Lauren Noble",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A6Tn0t3zUyvtM9jPWWUqKQ=="
+    },
+    {
+      "name": "Nancy Nordell",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ExR8x2aGoqDH12l2WTRkaw=="
+    },
+    {
+      "name": "Amy Novak",
+      "gender": "Female",
+      "city": "Vail",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "elkPITMZX9FBR1MN8K5uOQ=="
+    },
+    {
+      "name": "Ksana Oglesby",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Dad05fnt6EYKf2+6d9F9Q=="
+    },
+    {
+      "name": "Siri Olsen",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W8jVnkDlAMjRuW86wMakKg=="
+    },
+    {
+      "name": "Andrea Olson",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oIauS0JYaPYbBwwBt9wJng=="
+    },
+    {
+      "name": "Ginger Opp",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "3ZXA2czDpm0B6WCkBQdrpg=="
+    },
+    {
+      "name": "Marilyn Ortmann",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bn2D+q5bBXuY2d8JiWylvQ=="
+    },
+    {
+      "name": "Carla Ostberg",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+e6Xdx/YtaG4imfWyU5ZXw=="
+    },
+    {
+      "name": "Steve Ostberg",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "vqBF8O1YhPYQ8Nbbw9Prlg=="
+    },
+    {
+      "name": "Jennifer Parker",
+      "gender": "Female",
+      "city": "CARBONDALE",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yEfENKdgScMxGD02FS55Iw=="
+    },
+    {
+      "name": "Susie Patterson",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Ggjaju8kjwRQT0f/Phyuw=="
+    },
+    {
+      "name": "Heidi Paul",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vJId4LsduZWprpJwymrMzg=="
+    },
+    {
+      "name": "Rich Pavcek",
+      "gender": "Male",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MSWPZ616b5PTRYxDTRorBQ=="
+    },
+    {
+      "name": "Richlyn Pavcek",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Q7Ng6UuHoU5yoByTITwhbw=="
+    },
+    {
+      "name": "Yarely Pavon",
+      "gender": "Female",
+      "city": "New Castle",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "XwQEOnCltQrpSjMUuYWpEg=="
+    },
+    {
+      "name": "Samantha Pearl",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "eHHMPkZKiM6Jng6/SNKdow=="
+    },
+    {
+      "name": "Desiree Pimentel",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/8/2025",
+      "usta_id": "BRwBz1rmdjp9Sqdz+OTpyg=="
+    },
+    {
+      "name": "Tricia Pionzio",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/30/2024",
+      "usta_id": "wnTlwzVKKkxmXGq9TR9zZA=="
+    },
+    {
+      "name": "Emelie Piper",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TA0OyWnr4gNCFNlTvZazIw=="
+    },
+    {
+      "name": "Mattias Pitka",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/7/2025",
+      "usta_id": "e2q0pwS3AjNDTj+DCKWw1A=="
+    },
+    {
+      "name": "Paula Ponto",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ggwj80akJoVOXGsG9rYs6Q=="
+    },
+    {
+      "name": "Karen Price",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NxISdeY45Jfy7l86/qCqRw=="
+    },
+    {
+      "name": "Lisa Price",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "UMvbd+0LE39PCsUMNqjYhg=="
+    },
+    {
+      "name": "Katherine Proctor",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "sH/fW1vCk1PVMl0NcxCRDg=="
+    },
+    {
+      "name": "Josh Pulliam",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "x6QLS1RQ4keun7SWxOpfmw=="
+    },
+    {
+      "name": "Lynsey Pulliam",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E1nNflpzandRFwzsGKAtqg=="
+    },
+    {
+      "name": "Sue Rafii",
+      "gender": "Female",
+      "city": "Boulder",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B0Z2CtralHyAfL10LcKXaA=="
+    },
+    {
+      "name": "Andy Ralston",
+      "gender": "Male",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/3/2024",
+      "usta_id": "Q3VVcsLHuh08iPs0fgXNQg=="
+    },
+    {
+      "name": "Katie Ralston",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/5/2024",
+      "usta_id": "AYm2yHZg7PLaUMZrfSsg9A=="
+    },
+    {
+      "name": "Diana Ray",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "69UTX712J0ij/L8IEElpUg=="
+    },
+    {
+      "name": "Lauren Raymond",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1rNQs76dDMPeOsBQLRUp5w=="
+    },
+    {
+      "name": "Jon Nell Reeds",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "izyNTC1yKHOs1s4W5Csz/A=="
+    },
+    {
+      "name": "Tatum Rees",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f85lDR6eYOOW5zlGjjE5DA=="
+    },
+    {
+      "name": "Marlin Rhodes",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cPzAR1fsR5DSpZyiWj67qQ=="
+    },
+    {
+      "name": "Ashley Richardson",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FoHQdSbrEiLDkaPiBwCanA=="
+    },
+    {
+      "name": "Paolo Richardson",
+      "gender": "Male",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JXfj+BnoQZf3Y+sspk91rg=="
+    },
+    {
+      "name": "Leslie Riddel",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aJZHk6FiVSoRrqzCb32kHA=="
+    },
+    {
+      "name": "Pearson Roberts",
+      "gender": "Male",
+      "city": "New Castle",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fznqNlmsVoP9eZfmkALqxw=="
+    },
+    {
+      "name": "Kathy Robinson",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zSpTb6PAAJqmjoOTTCjMDQ=="
+    },
+    {
+      "name": "Becky Rockwell",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5oaE210h98wTWird1gSBMg=="
+    },
+    {
+      "name": "Emilie Rogers",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "vbSY3xytv6lNRr3qjg4QhA=="
+    },
+    {
+      "name": "Amy Roggie",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HviKjAtpoXer6P9fVszeCw=="
+    },
+    {
+      "name": "Jacob Roggie",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/9/2025",
+      "usta_id": "ymmARhLjvjInOkF0tRCKXw=="
+    },
+    {
+      "name": "Howard Roney",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2d/eNHKR3yoHt/wDks62Bg=="
+    },
+    {
+      "name": "Angela Rooding",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "P78nJV1wvhZCJyU5UqnuHQ=="
+    },
+    {
+      "name": "Anne Sale",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aI6m/fGWQB8jhrJQF6Nqjw=="
+    },
+    {
+      "name": "Robert Sanderson",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6YS+vRZvXOGNonunD34Kaw=="
+    },
+    {
+      "name": "Martha Schanfarber",
+      "gender": "Female",
+      "city": "GLENWOOD SPRINGS",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/9/2025",
+      "usta_id": "c2ZreO+OrAYcEREa3hjvmQ=="
+    },
+    {
+      "name": "Ryan Scheidt",
+      "gender": "Male",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wc74cOgTzlL6OQteAIQytQ=="
+    },
+    {
+      "name": "Tammy Schiff",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+TJUyZEYM6JtRchTAghj+w=="
+    },
+    {
+      "name": "Christina Schluter",
+      "gender": "Female",
+      "city": "Snowmass",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "10ZlzsMxSm+QMqdHFLDrBA=="
+    },
+    {
+      "name": "Briar Schreiber",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "L07sG0CaPckS2pMot6km8Q=="
+    },
+    {
+      "name": "Joan Sego",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "YxVCxaQ1Mt5aFKaXW5OniQ=="
+    },
+    {
+      "name": "May Selby",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2022",
+      "usta_id": "8t4MXLiX+1mGQpkbaJsGpg=="
+    },
+    {
+      "name": "Brooks Shaffer",
+      "gender": "Male",
+      "city": "Snowmass",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GRUXyro0Kf3dRhDG7KTrYw=="
+    },
+    {
+      "name": "Aarjave Shah",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qbg1lowpt74wu3e+KD5Y2A=="
+    },
+    {
+      "name": "Brittany Shintaku",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "luHB8IBlzAoMDd7poXi9yg=="
+    },
+    {
+      "name": "Sarah Shook",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cd/AmFwwDVdvJhyWlv01nA=="
+    },
+    {
+      "name": "Judi Simecek",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zEb7BzVdTzxVfemse8lyqw=="
+    },
+    {
+      "name": "Walker Simmons",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bmiY+lzLlaEsGTCkEjzE4A=="
+    },
+    {
+      "name": "Beth Simonetti",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "tzk7O5cLdiPoR7rVvvTnbA=="
+    },
+    {
+      "name": "Elizabeth Sipes",
+      "gender": "Female",
+      "city": "Vail",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RYQQ9iOYwCTJ2mqEK7t83Q=="
+    },
+    {
+      "name": "Derek Skalko",
+      "gender": "Male",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "CqKzO4LDNFq3ej0qqDIjjA=="
+    },
+    {
+      "name": "Jennifer Slaughter",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EpQeHCQ2ppILcwzjF/CmKw=="
+    },
+    {
+      "name": "Yoko Smith Rhodes",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wXFv1CoPAWbWBUlwUx7Ovw=="
+    },
+    {
+      "name": "Robin Smith",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oJ1VspUiH0TnkDMTmvvCkQ=="
+    },
+    {
+      "name": "Sarah Smith",
+      "gender": "Female",
+      "city": "Vail",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/14/2024",
+      "usta_id": "F9LcT1E7C3wRt6HtaZ5sbw=="
+    },
+    {
+      "name": "Bryan Snow",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vXG6+ZY/Vp6s5r2ihBUG3A=="
+    },
+    {
+      "name": "Jennifer Soho",
+      "gender": "Female",
+      "city": "Basalt",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/28/2025",
+      "usta_id": "IwDIlS1JTs6mq2ryyDTvYQ=="
+    },
+    {
+      "name": "Judy Spasser",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Ys3XBfLypnoW3uB+kPCXg=="
+    },
+    {
+      "name": "Barbara Sport",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A53JO2eD5dSBHbJYzh/Fcw=="
+    },
+    {
+      "name": "Jennifer Steele",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ijWQyivaw+AnPGWT1BJR3w=="
+    },
+    {
+      "name": "Sandy Stoltzfus",
+      "gender": "Female",
+      "city": "New Castle",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "N1lTq80YDfzZwVw1x6S7mg=="
+    },
+    {
+      "name": "May Storey",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WYNSQ0p7Nehe0nhUPhhC1w=="
+    },
+    {
+      "name": "Brooke Stott",
+      "gender": "Female",
+      "city": "New Castle",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fjGpXCHVkBh4NgAQcGpgbA=="
+    },
+    {
+      "name": "Carolyn Strautman",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xlh9L6ltugvUUcE0bkir9w=="
+    },
+    {
+      "name": "Eric Strautman",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/23/2024",
+      "usta_id": "13r4czhZd+McqadbV/nvJA=="
+    },
+    {
+      "name": "Zach Stuart",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8UOFSHpxRse1O8Jk6Gc5uQ=="
+    },
+    {
+      "name": "Erica Studness",
+      "gender": "Female",
+      "city": "Minturn",
+      "state": "CO",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "nJzVC9UOlnWoO3oOnfdaHw=="
+    },
+    {
+      "name": "Genaro Suarez",
+      "gender": "Male",
+      "city": "New Castle",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "EuOQCDwq/ysH6ovZSjBsNw=="
+    },
+    {
+      "name": "Oliver Sutro",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/26/2024",
+      "usta_id": "6KKlM+MauxVk3Z0ng/N2ng=="
+    },
+    {
+      "name": "Anne Swanson",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5eb7MaOwKFEq980A67SOVA=="
+    },
+    {
+      "name": "Denise Taylor",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VmsO5gA/G7dAX7xdN2fR/g=="
+    },
+    {
+      "name": "Mark Terkun",
+      "gender": "Male",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "IItLPlo5lQF1GoqVRE35iQ=="
+    },
+    {
+      "name": "Christian Terzich",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "DwpZlz+EarFg57xHsSOy+A=="
+    },
+    {
+      "name": "Mike Theile",
+      "gender": "Male",
+      "city": "CARBONDALE",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/28/2025",
+      "usta_id": "MKlXBdn4tO45Q4KP2buULQ=="
+    },
+    {
+      "name": "Amy Thornton",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jzfoj4Tm1+F3MO/Nf/Cx2A=="
+    },
+    {
+      "name": "Melanie Thulin",
+      "gender": "Female",
+      "city": "Snowmass Village",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WN2xZllwbGJkLxMukvNT9Q=="
+    },
+    {
+      "name": "Natalie Torres",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RdDGO62tT2rH0YpalegUdQ=="
+    },
+    {
+      "name": "Amy Treese",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2xVbTIIdVeTdxC6lEIGp9A=="
+    },
+    {
+      "name": "Janine Treu",
+      "gender": "Female",
+      "city": "Eagle",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/3/2025",
+      "usta_id": "7dbUjtsivuwuRTI1XWw/YA=="
+    },
+    {
+      "name": "Meg Tully",
+      "gender": "Female",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ofK9rww7Ji0/0YLUun6epQ=="
+    },
+    {
+      "name": "Alison Vansax",
+      "gender": "Female",
+      "city": "Snowmass Village",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BWQwZ6vtZmK4PW6irKtwyA=="
+    },
+    {
+      "name": "Steven Vidamour",
+      "gender": "Male",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "C9rO/4JqdKa8L0kfs5IRFQ=="
+    },
+    {
+      "name": "Miranda Wagler",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "llN4an1AtFPWYwGigYxZsA=="
+    },
+    {
+      "name": "Lauren Waldron",
+      "gender": "Female",
+      "city": "Snowmass Village",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BcpPx0uPyK63hGLx9uPsQw=="
+    },
+    {
+      "name": "Julie Walker",
+      "gender": "Female",
+      "city": "Canyon Country",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jiS+3wtc4f2dvLh/JON/3w=="
+    },
+    {
+      "name": "Connor Wall",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T9BT29QeZ0l2i8/iwIo/Jw=="
+    },
+    {
+      "name": "Ken Wanko",
+      "gender": "Male",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "zUaHQcnXPkXxNqYw3xfimA=="
+    },
+    {
+      "name": "Mary Ellen Wanty",
+      "gender": "Female",
+      "city": "Vail",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QWTjN3u+wUQjvI7VA2vbVw=="
+    },
+    {
+      "name": "Morgan Warth",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v665ypg+V5LybMWGBR9mkQ=="
+    },
+    {
+      "name": "Julia Watson",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ALVVdjDYtCoWuocQYuYn8g=="
+    },
+    {
+      "name": "Max Weiss",
+      "gender": "Male",
+      "city": "New Castle",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ww1YpCjzQ4zCTF8tJPr9Uw=="
+    },
+    {
+      "name": "Kimberly Welsh",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QIB18X3CMJaGAGJic55jDw=="
+    },
+    {
+      "name": "Suzanne Wheeler-Del Piccolo",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R6eyQwdZ4F5R4CuZLkBtKA=="
+    },
+    {
+      "name": "Tierney White",
+      "gender": "Female",
+      "city": "Woody Creek",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lglEJ7HZc3m+wkT6DyOs/A=="
+    },
+    {
+      "name": "Cameron Williams",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "PpbnkYMTsnJjMCKuddhv2Q=="
+    },
+    {
+      "name": "Vivian Williams",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dvUg88M5yADU3hMruupX0w=="
+    },
+    {
+      "name": "Katie Winder",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J1P2MxzFwKJhHasYdGtPTA=="
+    },
+    {
+      "name": "Mckenzie Winder",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w2enDb14Be53qt/vW40V2w=="
+    },
+    {
+      "name": "Gay Wisch",
+      "gender": "Female",
+      "city": "Glenwood Spgs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zjFAAFeMTIA1T1zfzwmE1A=="
+    },
+    {
+      "name": "Grace Wright",
+      "gender": "Female",
+      "city": "CARBONDALE",
+      "state": "CO",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "eAJxgrDuSHBxmHyHm1qv5A=="
+    },
+    {
+      "name": "Nancy Wright",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V5JhmtQflAmY1aTYyg4o0A=="
+    },
+    {
+      "name": "Kelly Wyant",
+      "gender": "Female",
+      "city": "Allen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "slvwZ58cSbKsqisvw+wNvQ=="
+    },
+    {
+      "name": "Nivale Yarbrough",
+      "gender": "Female",
+      "city": "Denver",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I7jl2PgzOV0eFBpXH0jANQ=="
+    },
+    {
+      "name": "Valerie Yaw",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/17/2025",
+      "usta_id": "5FdvYkIrrNhzjPfhhH5M8w=="
+    },
+    {
+      "name": "Stevie Ybarra",
+      "gender": "Female",
+      "city": "Palestine",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "tsvF87xGh3kHc0VBMxaBYg=="
+    },
+    {
+      "name": "Lucia Zaikov",
+      "gender": "Female",
+      "city": "Fort Myers",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/15/2024",
+      "usta_id": "cwSckpAekr9ClULmEwyuGA=="
+    },
+    {
+      "name": "Erin Zalinski",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kMZqU9Dd6L6yBYR4KdCQCQ=="
+    },
+    {
+      "name": "Jon Zalinski",
+      "gender": "Male",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "/OM+Hefp3z4WqLk4qN3Fjw=="
+    },
+    {
+      "name": "Cindy Zasacky",
+      "gender": "Female",
+      "city": "Aspen",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "tgftHKTHU4vqc9QhqxtH3A=="
+    },
+    {
+      "name": "Nancy Zeigel",
+      "gender": "Female",
+      "city": "Carbondale",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BMSKvgcYrfJSJZQD2YT5iA=="
+    },
+    {
+      "name": "Kelly Zevin",
+      "gender": "Female",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "CIcLN4q4uzLMbSdbKW5ZEA=="
+    },
+    {
+      "name": "Sarah Zurbay",
+      "gender": "Female",
+      "city": "VAIL",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/23/2025",
+      "usta_id": "FCqFfcIMn/mggt1Xx78lOw=="
+    }
+  ]
+}

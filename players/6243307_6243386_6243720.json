@@ -1,0 +1,97 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243386",
+  "areaId": "6243720",
+  "players": [
+    {
+      "name": "Joy Benson",
+      "gender": "Female",
+      "city": "KNOXVILLE",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rvIUEGPx3yywA5JcTyw3Zg=="
+    },
+    {
+      "name": "Angela Cutshall",
+      "gender": "Female",
+      "city": "Chuckey",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6r7UyPuFYwVuSmU4tjcRQw=="
+    },
+    {
+      "name": "Holly Grammer",
+      "gender": "Female",
+      "city": "JONESBOROUGH",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/13/2024",
+      "usta_id": "Bly1g3INDCGfrHpfzE1iFw=="
+    },
+    {
+      "name": "Ruth Jackson",
+      "gender": "Female",
+      "city": "Erwin",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TFyaeC4KTn9tekkieB/Atw=="
+    },
+    {
+      "name": "Barb Janiszewski",
+      "gender": "Female",
+      "city": "Jonesborough",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/mz+WrC21ZTyF1zUfpN32w=="
+    },
+    {
+      "name": "Neva Kilday",
+      "gender": "Female",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/12/2023",
+      "usta_id": "jAC/gqNeWV14TVWpjwnHDA=="
+    },
+    {
+      "name": "Mona Mills",
+      "gender": "Female",
+      "city": "Morristown",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/10/2024",
+      "usta_id": "vHKl9ViHRLzZDxNVBbQIFQ=="
+    },
+    {
+      "name": "Vicky Robinson",
+      "gender": "Female",
+      "city": "Midway",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Dad05fnt6GhKzp3wx0riw=="
+    },
+    {
+      "name": "Pamela Smead",
+      "gender": "Female",
+      "city": "Greeneville",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q1zyTwXJyFxGIW2p/d15bQ=="
+    }
+  ]
+}

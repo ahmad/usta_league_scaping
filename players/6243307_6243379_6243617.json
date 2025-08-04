@@ -1,0 +1,827 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243379",
+  "areaId": "6243617",
+  "players": [
+    {
+      "name": "Debbie Alkire",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ydtrfbrwAVAfmXznVwh2Xw=="
+    },
+    {
+      "name": "Katie Andrus",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q56fbC5FQH2QAFJSrGIPmQ=="
+    },
+    {
+      "name": "Ashley Arnold",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FyrANRKJVHd1qQ3VI7NFdQ=="
+    },
+    {
+      "name": "Sara Barnett",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m59VIR0PhKYj/d2hcC+hjg=="
+    },
+    {
+      "name": "Amanda Bass",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RPcy4fPIFe1sjLUK6W4LXQ=="
+    },
+    {
+      "name": "Diane Bischof",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "295ealbzyK5IdjyZ0V1oNQ=="
+    },
+    {
+      "name": "Melanie Bobo",
+      "gender": "Female",
+      "city": "Arkadelphia",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JZQ8sAcoLi4F7OnmbdH8oA=="
+    },
+    {
+      "name": "Hollis Boyette",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/31/2024",
+      "usta_id": "fbEfY2cKDsds2BXO0v4yIw=="
+    },
+    {
+      "name": "Gayle Burrow",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/8/2024",
+      "usta_id": "fbEfY2cKDsffvPur3hqlGw=="
+    },
+    {
+      "name": "Jessica Cannon",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Uy2o8b+ukh0QJq8YLqnuEA=="
+    },
+    {
+      "name": "Manjula Carter",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v3srpXgCdHNdFYCCMJnZig=="
+    },
+    {
+      "name": "Ashley Cooper",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G4wsaoDHO9j4hoQlqc+wEQ=="
+    },
+    {
+      "name": "Cheryl Cooper",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cvf99+cPOw+K7reBphT6ZA=="
+    },
+    {
+      "name": "Kala Cramer",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YCzIV4tRFEEz0EAtJVGBFQ=="
+    },
+    {
+      "name": "Jennifer Dale",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RUccZvhm4kgfA2Si8enrGQ=="
+    },
+    {
+      "name": "Kara Daniel",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t8AAPB5npxK9txoX1aGJKA=="
+    },
+    {
+      "name": "Karen Demott",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "hnQfZgswK46BL1WA4J+7bg=="
+    },
+    {
+      "name": "Karrah Dickeson",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nvy6o23EzQFU8JKyffKmwQ=="
+    },
+    {
+      "name": "Kristin Dishongh",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IYD/pHuxjCyxSBcALBUmXw=="
+    },
+    {
+      "name": "Kara Ford",
+      "gender": "Female",
+      "city": "Little Rock",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uO+FarSSRKU="
+    },
+    {
+      "name": "Gina Foster",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KzcPMS5tTRotpL7DN6DL9A=="
+    },
+    {
+      "name": "Deanna Garretson",
+      "gender": "Female",
+      "city": "Mountain Home",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BVwlTLSRvHu4ZTrNtbD61g=="
+    },
+    {
+      "name": "Traci Gatlin",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s6AVFxCbXGU/SDR2HcllGQ=="
+    },
+    {
+      "name": "Nicquel Gordon",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UljxAJRKc3QPXUBkpcip4Q=="
+    },
+    {
+      "name": "Madeline Haak",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/20/2025",
+      "usta_id": "rkvZJ5DQxvdIw/+HZYTKCQ=="
+    },
+    {
+      "name": "Lonna Hansen",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "32vs/iNmcnWWqVaau3/4oA=="
+    },
+    {
+      "name": "Mary Harrison",
+      "gender": "Female",
+      "city": "Hot Springs",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fo0OkKYcnXm3M49gb5IEMg=="
+    },
+    {
+      "name": "Emily Hartsfield",
+      "gender": "Female",
+      "city": "Sherwood",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/14/2024",
+      "usta_id": "y73E0KcQNgo="
+    },
+    {
+      "name": "Taylor Harvey",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/23/2024",
+      "usta_id": "WOcYcEYPffJoJdSYix4qWw=="
+    },
+    {
+      "name": "Beth Hawkins",
+      "gender": "Female",
+      "city": "De Kalb",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JeHb/DBqEF9bRxgeUIcBzQ=="
+    },
+    {
+      "name": "Marianne Hawkins",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lJcUBRdU9TjA68NxrBanbA=="
+    },
+    {
+      "name": "Dee Healy",
+      "gender": "Female",
+      "city": "Arkadelphia",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "g33RIhMN7q8M34RHD+cLNA=="
+    },
+    {
+      "name": "Lisa Henry",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DW5Q72ey5F8BN/fM7jliFw=="
+    },
+    {
+      "name": "Marti Henson",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+gQsV2/hOTGEzjAeNk+9ag=="
+    },
+    {
+      "name": "Margaret Hicks",
+      "gender": "Female",
+      "city": "Traskwood",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SAOp0l6nqxV2qi/bat7gZw=="
+    },
+    {
+      "name": "Sabrena Hughes",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X4UgRFTwgnBcBY/4K3oF3Q=="
+    },
+    {
+      "name": "Lori Hunter",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/21/2025",
+      "usta_id": "TfTmb+18JRoFN7WZXS5rbg=="
+    },
+    {
+      "name": "Jordan James",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "c5Yujl80s+O9H8rHz/Q4ow=="
+    },
+    {
+      "name": "Patty James",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "W5yruWJQx6OquBLtEhwroA=="
+    },
+    {
+      "name": "Morgan Jayaprabhu",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nle7XHNPA7w+2EnB7Yd1pw=="
+    },
+    {
+      "name": "Cindy Jennings",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zXyOpNEtEnIDNSSs01e+WA=="
+    },
+    {
+      "name": "Carol Jones",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p/G0Is28JOjOSkPcdNgyuw=="
+    },
+    {
+      "name": "Hye Kang",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZtocOKVeneEoYQzHcNazCg=="
+    },
+    {
+      "name": "Carol Ketchum",
+      "gender": "Female",
+      "city": "Arkadelphia",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NxFuzNMyUDQ4ucKxh8m9rQ=="
+    },
+    {
+      "name": "Morgan Ledwell",
+      "gender": "Female",
+      "city": "Austin",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "F8lD4FxSDL6gpiy2JUBvXQ=="
+    },
+    {
+      "name": "Ruth Light",
+      "gender": "Female",
+      "city": "Cammack Village",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SL0+EA8qtNFNYTSg2qH0qA=="
+    },
+    {
+      "name": "Schelli Lusk",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wblE0jOwqSpeag/p4qyvCQ=="
+    },
+    {
+      "name": "Michelle Mcdonnell",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "pOCDf5WupwUpEhhYlNSChw=="
+    },
+    {
+      "name": "Sherry Missildine",
+      "gender": "Female",
+      "city": "TEXARKANA",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kDSGVgRbkXidYuwzhA3C4w=="
+    },
+    {
+      "name": "Layna Moore",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SLt12iVRqA6gpRE4xEiF2Q=="
+    },
+    {
+      "name": "Gay Moss",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k4NbV1Unfacn3ddO6Wz69w=="
+    },
+    {
+      "name": "Leah Orr",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VI1iM/oRfhfbRsszYFmDZA=="
+    },
+    {
+      "name": "Heather Palczynski",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8arLRH0EF0tgMgFNbc/Waw=="
+    },
+    {
+      "name": "Danielle Patterson",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "phgD7SzYbTWoeurzhcg5qw=="
+    },
+    {
+      "name": "Shanon Patterson",
+      "gender": "Female",
+      "city": "Hooks",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "VFdA/tAlDifPxXEq5ODZJQ=="
+    },
+    {
+      "name": "Katie Peek",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zFkZj/1qRp00ZsDH9LKbdw=="
+    },
+    {
+      "name": "Helen Pennington",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5rqNgD64n10Q0ePYbwAlgg=="
+    },
+    {
+      "name": "Amy Pickelman",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HG/14jp741LmfBeYpW9EoQ=="
+    },
+    {
+      "name": "Megan Pippin",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/1/2025",
+      "usta_id": "NEbv6Gkl4Qn9wwyYXY2uxQ=="
+    },
+    {
+      "name": "Jaren Ramer",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E+NqfyAcGhjisCn1p5wXvA=="
+    },
+    {
+      "name": "Jessica Rich",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d7QMPkhvb9kk2qP0eUo37A=="
+    },
+    {
+      "name": "Martha Ridenour",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XBjnojkowh94hf68YSP/Jw=="
+    },
+    {
+      "name": "Evelien Rietveld",
+      "gender": "Female",
+      "city": "Columbia",
+      "state": "MO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R6lKYhq1uH9oXAU0j9abdA=="
+    },
+    {
+      "name": "Christi Robertson",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bt/LdKuhsLZHe/sgVkvr8A=="
+    },
+    {
+      "name": "Rhea Ruggles",
+      "gender": "Female",
+      "city": "Arkadelphia",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "zDgzsxC0piqDaAvoogVwwg=="
+    },
+    {
+      "name": "Leslie Sarver",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3IaCLFnLicdr0soZLW/FBg=="
+    },
+    {
+      "name": "Megan Schroeder",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/11/2025",
+      "usta_id": "50JtuKZLatvm3hDCg5lOOQ=="
+    },
+    {
+      "name": "Krystal Scott",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bV2ugfqfClI1hoXtGZ0XLw=="
+    },
+    {
+      "name": "Debbie Ann Sharp",
+      "gender": "Female",
+      "city": "Simms",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/19/2025",
+      "usta_id": "JbsecL+zYwMx7BdFN1/5/w=="
+    },
+    {
+      "name": "Claire Showmaker",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FAbWAV7t3EzqwJsIbQaOLw=="
+    },
+    {
+      "name": "Angie Sikorski",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GWu8SEtgU6IJBnZNom9Vqw=="
+    },
+    {
+      "name": "Mary Thaxton",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UljxAJRKc3RV1TyHyTrJiA=="
+    },
+    {
+      "name": "Heather Thomson",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "PkjVxjHDe0ogsKr1QcPYWQ=="
+    },
+    {
+      "name": "Emily Tipton",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tK0u0VwfW+a51dEkDHHHlA=="
+    },
+    {
+      "name": "Holly Treece",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "MX5yfyHDxysLZ/mtWhYEJw=="
+    },
+    {
+      "name": "Korie Trice",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RUccZvhm4kimVusqPIR5/Q=="
+    },
+    {
+      "name": "Kami Tucker",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C7y+ELpPfrKxeUIJFg1toQ=="
+    },
+    {
+      "name": "Sharon Ward",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vsHZ5Rmxz5QjClSHqT597Q=="
+    },
+    {
+      "name": "Treva West",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3bgPAS4Q5Nxgdcn9dok85A=="
+    },
+    {
+      "name": "Lacy White",
+      "gender": "Female",
+      "city": "Texarkana",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zpyyaCvYGRPi0WKXiK67ng=="
+    },
+    {
+      "name": "Amanda Willis",
+      "gender": "Female",
+      "city": "Bella Vista",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YUkWPRozkeR4cBBnqdlT7w=="
+    },
+    {
+      "name": "Laura Winston",
+      "gender": "Female",
+      "city": "Hot Springs",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ivEjw1LZ+qakyge8uvYKXQ=="
+    }
+  ]
+}

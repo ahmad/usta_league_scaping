@@ -1,0 +1,967 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243383",
+  "areaId": "6243680",
+  "players": [
+    {
+      "name": "Allene Balgord",
+      "gender": "Female",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bfn1fbVZBoeHNLzbHcqE2g=="
+    },
+    {
+      "name": "Maria Bearden",
+      "gender": "Female",
+      "city": "West Point",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SWa2QhAL6h8YwXhej831RA=="
+    },
+    {
+      "name": "Bonnie Beaullieu",
+      "gender": "Female",
+      "city": "Scott",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "90SuUXQHUgJUQ70c/9LmRw=="
+    },
+    {
+      "name": "Caren Bell",
+      "gender": "Female",
+      "city": "Crystal Springs",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X0L+IQjXI3TUejlGVOV7Aw=="
+    },
+    {
+      "name": "Barbara Bloomer",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s1DwR9jtLRu005DiHh294Q=="
+    },
+    {
+      "name": "Debbie Boykin",
+      "gender": "Female",
+      "city": "Leland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "putPZhH1umzdzvCiwE6odQ=="
+    },
+    {
+      "name": "Daniel Brantley",
+      "gender": "Male",
+      "city": "Saucier",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z7fJt/iazP44QfJZXQHtTA=="
+    },
+    {
+      "name": "Connie Brewer",
+      "gender": "Female",
+      "city": "Ridgeland",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3j5mULws5cLznvT90BEnVw=="
+    },
+    {
+      "name": "Carol Broglio",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2024",
+      "usta_id": "1xL3e9hriVA9OCjghm+ebQ=="
+    },
+    {
+      "name": "Sondra Broussard",
+      "gender": "Female",
+      "city": "Tylertown",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZqVK1iBoOVVpOpFO+/vAGg=="
+    },
+    {
+      "name": "Vivian Brown",
+      "gender": "Female",
+      "city": "New Iberia",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Oc/cnI628FQ="
+    },
+    {
+      "name": "Cherri Buckley",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SRrjJZ8fewnPQq8KTRoBiw=="
+    },
+    {
+      "name": "Peggy Carman",
+      "gender": "Female",
+      "city": "Canton",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "fPHptRVOYYdWyJhdCv8YdQ=="
+    },
+    {
+      "name": "Julie Carpenter",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/23/2025",
+      "usta_id": "newTOOC3QREQrIDqR16piw=="
+    },
+    {
+      "name": "Donna Causey",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7M4YMy10hBkW/zf1KgGaoA=="
+    },
+    {
+      "name": "Linda Causey",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fxbDMibRj7pupmzouRvarA=="
+    },
+    {
+      "name": "Bobbie Childress",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "6d5+NzK4BJwT/KcJa0Fcig=="
+    },
+    {
+      "name": "Debra Christie",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5PGf8Q2eo1irt4K3L4FZmQ=="
+    },
+    {
+      "name": "Kaye Cochran",
+      "gender": "Female",
+      "city": "Mooringsport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "109dXyXZzPmCLZDJQm7m7A=="
+    },
+    {
+      "name": "Linda Cook",
+      "gender": "Female",
+      "city": "Madison",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hcZ4GRV6u+RAaOBy9h++BQ=="
+    },
+    {
+      "name": "Llewellyn Coon",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pmOXWfkyAdyBbw3K2q/HJQ=="
+    },
+    {
+      "name": "David Dabadie",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LWi0AkFcM0XONQzON8zWMg=="
+    },
+    {
+      "name": "Larry Darnell",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "LC5BFFxjAw4g5xGEv0Uf5w=="
+    },
+    {
+      "name": "Carlas Davis",
+      "gender": "Male",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jyaAPlPY1fKi12qato1g2Q=="
+    },
+    {
+      "name": "Karen Deer",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oj2dP+HxydfGe0ngtfqd5Q=="
+    },
+    {
+      "name": "Barbara Dillon",
+      "gender": "Female",
+      "city": "Flowood",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g6tqqvQPbln5CHRBNHTqCQ=="
+    },
+    {
+      "name": "Margaret Dubois",
+      "gender": "Female",
+      "city": "Leland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GAZ75fXXi5JuEvwjuGz32w=="
+    },
+    {
+      "name": "Daniel Duckworth",
+      "gender": "Male",
+      "city": "Mount Olive",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tCXe9CI76Wo1h7qa4gMj/g=="
+    },
+    {
+      "name": "Chuck Dunn",
+      "gender": "Male",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "94hLlG9JCxg="
+    },
+    {
+      "name": "Virginia Eddleman",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0mSRg+iJpR4="
+    },
+    {
+      "name": "Susan Farris",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W50H/1qflz5YYA47yjSzrQ=="
+    },
+    {
+      "name": "Mary Felder",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qmKG3tt4W8pgcA5iiKJP0A=="
+    },
+    {
+      "name": "Ruth Fly",
+      "gender": "Female",
+      "city": "Ridgeland",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cdReynM2EwlMzF/gz8bBtA=="
+    },
+    {
+      "name": "Marlene Fontenot",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MDvLqqkbdYzCfPCcWwefWg=="
+    },
+    {
+      "name": "Sharon Fontenot",
+      "gender": "Female",
+      "city": "Opelousas",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2024",
+      "usta_id": "GToQYOTsFdvlAdIeZ4RoZw=="
+    },
+    {
+      "name": "Libby Ford",
+      "gender": "Female",
+      "city": "Jonesville",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DvuN7pLaO6k0pX7dYfq2yg=="
+    },
+    {
+      "name": "Pearl Garcia",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ic0ex07ATGRe1J3Xi/sxyw=="
+    },
+    {
+      "name": "Celia Graham",
+      "gender": "Female",
+      "city": "Winona",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GW/FSYZfI1Q4b05h3+pjow=="
+    },
+    {
+      "name": "Dianne Graham",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "slQWVxIRi0A="
+    },
+    {
+      "name": "Dorothy Graham",
+      "gender": "Female",
+      "city": "Clinton",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "BNN7zxys4Et6RFYAZyO6fg=="
+    },
+    {
+      "name": "Peggy Grooms",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/26/2024",
+      "usta_id": "ZCpU0BZ8OixkweJ/Hrk/QQ=="
+    },
+    {
+      "name": "Maggie Hamilton",
+      "gender": "Female",
+      "city": "Shannon",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NHwqBDC7HwaNCnrpQnbPjQ=="
+    },
+    {
+      "name": "Phil Hardwick",
+      "gender": "Male",
+      "city": "Canton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Ave6+8WPMt3ye81a/MWH+w=="
+    },
+    {
+      "name": "Trecia Harris",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f1LhNdSZFDPoiRKHRfDWyA=="
+    },
+    {
+      "name": "Pam Harrison",
+      "gender": "Female",
+      "city": "Gulf Shores",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yrBR2eo+/tPTfFrC7tCj0A=="
+    },
+    {
+      "name": "Debbie Herring",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3xXN13HkbkSaHD1dJvj5nA=="
+    },
+    {
+      "name": "Sally Hovanec",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jpTqIyYUr0FuNzehDBB8nA=="
+    },
+    {
+      "name": "Amelia Huddleston",
+      "gender": "Female",
+      "city": "Little Rock",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Bq/Kj856636TK6wwBkv9g=="
+    },
+    {
+      "name": "Faye Hudson",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6vk7K0Oh9KE="
+    },
+    {
+      "name": "Robert Hudson",
+      "gender": "Male",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0wyJmeNqsiU7Y4IwCiFtFQ=="
+    },
+    {
+      "name": "Sandra Huguet",
+      "gender": "Female",
+      "city": "Carencro",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QSHQ7uSFTqxOHzy4BCddqg=="
+    },
+    {
+      "name": "Gary Jinks",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5viep3v9xxRz/FdVnyr4ug=="
+    },
+    {
+      "name": "Sally Joiner",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/WCue0XedJb25adQr5LunQ=="
+    },
+    {
+      "name": "Mary Kennedy",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zG0ZHRqx+/9majBn8APiOg=="
+    },
+    {
+      "name": "Deborah Kilgo",
+      "gender": "Female",
+      "city": "Vicksburg",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zKBfMwGHSSstTqS5gedLsw=="
+    },
+    {
+      "name": "Ola Kuriger",
+      "gender": "Female",
+      "city": "Canton",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "BzxCAem9CP6cvWkt+JIsDg=="
+    },
+    {
+      "name": "Demaris Lee",
+      "gender": "Female",
+      "city": "Petal",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xD7RVoPgyC65ufvmU7CuOg=="
+    },
+    {
+      "name": "Vicky Lindsey",
+      "gender": "Female",
+      "city": "Shannon",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MLI2DZhxEqXlnbfgd5n09A=="
+    },
+    {
+      "name": "Lisa Liner",
+      "gender": "Female",
+      "city": "Benton",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ry1d59eeyWUQZJpXJL3+FQ=="
+    },
+    {
+      "name": "Michelle Loftin",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZjbG1oViOxx88UkD+iWH0Q=="
+    },
+    {
+      "name": "Jan Lohmeyer",
+      "gender": "Male",
+      "city": "Waveland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fOI6tCrht6AtCbcuEgXwjA=="
+    },
+    {
+      "name": "Kathleen Lowdermilk",
+      "gender": "Female",
+      "city": "Grand Saline",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EwXZ7FY2dTXwwHzuDTMFbQ=="
+    },
+    {
+      "name": "Maude Martin",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "3KNJw6Ww/TdMjSc9Jcg/8A=="
+    },
+    {
+      "name": "Kevin McCotter",
+      "gender": "Male",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TdUHewhhUr+0PlecyAiVhQ=="
+    },
+    {
+      "name": "Sandra McLaurin",
+      "gender": "Female",
+      "city": "Ridgeland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "HtyXRKdOrjg1YVhxPJDLgA=="
+    },
+    {
+      "name": "Randy Morgan",
+      "gender": "Male",
+      "city": "Tallulah",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yNr7DXPQ+90mLwiobDWVMw=="
+    },
+    {
+      "name": "Zandra Nowell",
+      "gender": "Female",
+      "city": "Clinton",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LPQJGo5nA+N7aJPgvMlSLw=="
+    },
+    {
+      "name": "Donna ONeill",
+      "gender": "Female",
+      "city": "RIDGELAND",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FcP4+xS2kEUe4KSqgZPZAA=="
+    },
+    {
+      "name": "Margie Owens",
+      "gender": "Female",
+      "city": "Ridgeland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "f8DvAjLrIsk2g2mR5VY9ag=="
+    },
+    {
+      "name": "Doris Panzica",
+      "gender": "Female",
+      "city": "Brookhaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Z9I/SnyuCY75ptbc3wReQ=="
+    },
+    {
+      "name": "Peggy Polk",
+      "gender": "Female",
+      "city": "Silver Creek",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "obGoF10ap869BU4d27RcrA=="
+    },
+    {
+      "name": "Jill Pulliam",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NpbvLzG2Nvbjy48BFiIyLQ=="
+    },
+    {
+      "name": "Debbie Ray",
+      "gender": "Female",
+      "city": "Pontotoc",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4RPiFwaY5PsNss9eKxuSVQ=="
+    },
+    {
+      "name": "Susan Reed",
+      "gender": "Female",
+      "city": "Ferriday",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7GVvzONGUGsBa4VyTo8BIg=="
+    },
+    {
+      "name": "Bette Rhea",
+      "gender": "Female",
+      "city": "Columbus",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IVLqLbJHSWX7AuZt4oRgsg=="
+    },
+    {
+      "name": "Don Roberts",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hQ6c5jxu0tPeVB5M+X3yAw=="
+    },
+    {
+      "name": "Tina Roberts",
+      "gender": "Female",
+      "city": "McComb",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qpc3jT/wkLUFchmrPTdNWQ=="
+    },
+    {
+      "name": "Judy Ross",
+      "gender": "Female",
+      "city": "Leland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FEXUJqlN4IimofmkbMdMAQ=="
+    },
+    {
+      "name": "Rosemary Rushing",
+      "gender": "Female",
+      "city": "Tylertown",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oN30Fis+p5uIOT9zsrDDKw=="
+    },
+    {
+      "name": "Carol Scott",
+      "gender": "Female",
+      "city": "Cleveland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F9rBswTtyGQOhZCb+zZYFg=="
+    },
+    {
+      "name": "Roberlyn Searcy",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b+VNVgqENRv5MbjVpYfdWw=="
+    },
+    {
+      "name": "Susan Shaffer",
+      "gender": "Female",
+      "city": "Madison",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7HzLBPLrZqu2vW994dRWpA=="
+    },
+    {
+      "name": "Roger Shields",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "llPDp0esyz+FGnI84Ytnaw=="
+    },
+    {
+      "name": "Georgia Spencer",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bcwRoFE4m6Vxl8diZ6CLyA=="
+    },
+    {
+      "name": "Katherine Steele",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8GdiAdjyEUqEH2jMG+7B+A=="
+    },
+    {
+      "name": "Earl Stegall",
+      "gender": "Male",
+      "city": "Ridgeland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/12/2024",
+      "usta_id": "KN3HWo6OIb0="
+    },
+    {
+      "name": "Leanne Summers",
+      "gender": "Female",
+      "city": "Brookhaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kyHuhGiO9CH/ZyzRdxi4lQ=="
+    },
+    {
+      "name": "June Thibodaux",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/15/2024",
+      "usta_id": "AWGzgbZEyMX/DDhdx1ffsA=="
+    },
+    {
+      "name": "Connie Townsend",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "49emu5OXQMJBjvu4KdrgTg=="
+    },
+    {
+      "name": "Catherine van Asselt",
+      "gender": "Female",
+      "city": "Columbus",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aeuvrFWUK0bEwoZymXOdtw=="
+    },
+    {
+      "name": "Regina Viator",
+      "gender": "Female",
+      "city": "New Iberia",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "68FiCeMT8X0xxTShFJnCFQ=="
+    },
+    {
+      "name": "Obie Watts",
+      "gender": "Male",
+      "city": "Diamondhead",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/11/2024",
+      "usta_id": "qI57apoPjb5iE74sD6cKUA=="
+    },
+    {
+      "name": "Peter Weil",
+      "gender": "Male",
+      "city": "Diamondhead",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CtGceSutw7M/DWm01cm5Bw=="
+    },
+    {
+      "name": "Michael Wellman",
+      "gender": "Male",
+      "city": "Bay Saint Louis",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wg32b/J0DHxkPI737TAHjw=="
+    },
+    {
+      "name": "Cheri Williams",
+      "gender": "Female",
+      "city": "Vicksburg",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kvfaEnOTnklGim9gP+PAhg=="
+    },
+    {
+      "name": "Patricia Windham",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mk9WOOATR/a9/qWTTMmcNg=="
+    }
+  ]
+}

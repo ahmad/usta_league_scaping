@@ -1,0 +1,2357 @@
+{
+  "sectionId": "6243297",
+  "districtId": "6243328",
+  "areaId": "",
+  "players": [
+    {
+      "name": "Ioana Agasa",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OaAVEHWrx+RxOCWxNA8cpQ=="
+    },
+    {
+      "name": "Christopher Agpoon",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Z+Lq6znbrcuWEKt/gIRIDw=="
+    },
+    {
+      "name": "Henri Aki",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bcHbabELU5RZGDZr+4HXag=="
+    },
+    {
+      "name": "Janessa Lynn Aronce",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/9/2025",
+      "usta_id": "h/pbqEMhaYmnujocOfCqMQ=="
+    },
+    {
+      "name": "Jonathan Aronce",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aJX7FaO7LwQ66vK2TG5GGg=="
+    },
+    {
+      "name": "Sherlyn Aronce",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ge45S5e0clZ7bjJH2oRW1A=="
+    },
+    {
+      "name": "Jill Atwal",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "dsNxZn7IJTToR+DOeyb4XQ=="
+    },
+    {
+      "name": "Anthony Ballinger",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "qreedN8xdE+QFc8HmM7QiA=="
+    },
+    {
+      "name": "Kuakini Baltero",
+      "gender": "Male",
+      "city": "Keaau",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "PY0orS4a9SqZaHGbYw2dUw=="
+    },
+    {
+      "name": "TAKAMASA BANDO",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "8LbG0cK9MWw0YYt5JZURXg=="
+    },
+    {
+      "name": "Thomas Belcher",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RCZ3Xewhf5uDmmef76DSzA=="
+    },
+    {
+      "name": "Dylan Benevides",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/24/2024",
+      "usta_id": "cYUqwXMaQq7HYYLScaVglA=="
+    },
+    {
+      "name": "Jane Bessa",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xMA3sEER9i02twxOCZbLFg=="
+    },
+    {
+      "name": "Amy Brotzman",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0uG7AcoSxOv21t+ZuDlAyQ=="
+    },
+    {
+      "name": "Paul Brotzman",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VRLkI/SA4OJ1L/BqPZDwYQ=="
+    },
+    {
+      "name": "Mari Burns",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x5vWtZjFnkJEK0PSPUxc3Q=="
+    },
+    {
+      "name": "Erin Byrne",
+      "gender": "Female",
+      "city": "Holualoa",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bV2ugfqfClJ3JgfnvySZEQ=="
+    },
+    {
+      "name": "Marleen Cabarloc",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mHvknFl8sP0rNbZdco3eZQ=="
+    },
+    {
+      "name": "Frances Calantoc",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DS6lfegvyz8UY7tEUzr6BA=="
+    },
+    {
+      "name": "Caedan Cambra",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/28/2024",
+      "usta_id": "qpXJ/bX6YpUU+ZmGnoDJ+Q=="
+    },
+    {
+      "name": "Chrissy Capati",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FIeaBwYkICAhGjuvp1OkOw=="
+    },
+    {
+      "name": "Mei Ceria",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mABLcwxEWrOO/eZpWLTcFQ=="
+    },
+    {
+      "name": "Riley Ceria",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "On6l7zkhOy1g+FFGiilwkA=="
+    },
+    {
+      "name": "Andre-Nicolas Chene",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3MVNT1T0hs8VmpOVxuxqdw=="
+    },
+    {
+      "name": "Sharon Chong",
+      "gender": "Female",
+      "city": "Papaikou",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WBeR8Ocr0/HQLGfvDOgGQA=="
+    },
+    {
+      "name": "Mark Chun",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SGGc9R2WXsEgPy69Xy9mpg=="
+    },
+    {
+      "name": "Dylan Clarey",
+      "gender": "Male",
+      "city": "KEAAU",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GKgqFtq5s9QK4m5yqjCjkA=="
+    },
+    {
+      "name": "Erica Clarkson",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/17/2025",
+      "usta_id": "nSbTfzJpFzfdQDvLnW5dgg=="
+    },
+    {
+      "name": "Jocelyn Cortez",
+      "gender": "Female",
+      "city": "Pepeekeo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "opbmes7gM97AhDTIJ7qxKg=="
+    },
+    {
+      "name": "Robert Crudele",
+      "gender": "Male",
+      "city": "Pepeekeo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TRElbqk9GG7fw+TGxg9CUA=="
+    },
+    {
+      "name": "Richard Cunningham",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1H3jINLfko2M0UH5z3WY1g=="
+    },
+    {
+      "name": "Rebecca Daniel",
+      "gender": "Female",
+      "city": "SOQUEL",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tXc3TTuJWLibNJNnWAwAJQ=="
+    },
+    {
+      "name": "Sarah de Silva",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8VIfsT/bHpGivPbqfdKUhg=="
+    },
+    {
+      "name": "Ty de Silva",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Z7Z1K6iP6cr+E/Plu47Og=="
+    },
+    {
+      "name": "Don Kevin Dela Cruz",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "4NN4DImPHkQOXzZ1d6w8+A=="
+    },
+    {
+      "name": "Teresa Doak",
+      "gender": "Female",
+      "city": "Laupahoehoe",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IQqnj0p5mlG2zCUYDx8VZQ=="
+    },
+    {
+      "name": "Lynda Dolan",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UlbmbURN0EcuqNo1e54hBw=="
+    },
+    {
+      "name": "James Drescher",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PaqTVm/7SP/LMD0Bf8f8YA=="
+    },
+    {
+      "name": "Charlotte Etling",
+      "gender": "Female",
+      "city": "Mountain View",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "kY/+CmVWYx8vVMb4X5zsMg=="
+    },
+    {
+      "name": "Barney Frazier",
+      "gender": "Male",
+      "city": "Naalehu",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VBesznadLZliqGkiTwAcmw=="
+    },
+    {
+      "name": "Gaylien Fujioka",
+      "gender": "Female",
+      "city": "Pahala",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yggQ/OTMd+nkuMScKh4kTw=="
+    },
+    {
+      "name": "Tomomi Furuhata",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/17/2024",
+      "usta_id": "7/l3nnXJh1MpT/xNpz7gmA=="
+    },
+    {
+      "name": "Tomoyuki Furuhata",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2024",
+      "usta_id": "jS7jSM6J+t9WRtWpLNgNgg=="
+    },
+    {
+      "name": "Urumi Furuhata",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/26/2025",
+      "usta_id": "TMopQoeTG+WLaxwp+LO7vA=="
+    },
+    {
+      "name": "David Fuselier",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wQ/boj/DEzdBKyShpaU7BQ=="
+    },
+    {
+      "name": "Tomoko Fuselier",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zU6vmSIIqoQyzDZYL6fSgg=="
+    },
+    {
+      "name": "Niko Gagne",
+      "gender": "Female",
+      "city": "Keaau",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/IAfahglAQfaGJVcx819PA=="
+    },
+    {
+      "name": "Valerie Galacgac",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4P2MGEKejs+T+6h9+QfmJw=="
+    },
+    {
+      "name": "Thomas Geballe",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2qP6NLOSZO93F3hAam9wTA=="
+    },
+    {
+      "name": "Anne Gleason",
+      "gender": "Female",
+      "city": "Kurtistown",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F4CWF+I1rWFr4L7PbRIYtA=="
+    },
+    {
+      "name": "Mahealani Gomes",
+      "gender": "Female",
+      "city": "Pepeekeo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LvnY6yFPMY3DXW65grR/JQ=="
+    },
+    {
+      "name": "Kara Gota",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "325gg4qDRNnoUFQjvL+9MQ=="
+    },
+    {
+      "name": "Laif Grimm",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/1/2025",
+      "usta_id": "hUg3nOsCSYiel/QhxLZK9g=="
+    },
+    {
+      "name": "Kala Haasenritter",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "FGE/4HTmT/NwU+vrTZAU1w=="
+    },
+    {
+      "name": "Reiko Hamano",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xm01QqzYTYPDGap8At3EtA=="
+    },
+    {
+      "name": "Kendra Hara",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "psTLKmSpr0+wyhmv/pbDPw=="
+    },
+    {
+      "name": "Jeanne Harano-Hernandez",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RaDjWC5w00LFoqy8qDlb6Q=="
+    },
+    {
+      "name": "Deborah Hashimoto-Skorikov",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AmyKngS4cjBGJbhieUcO7g=="
+    },
+    {
+      "name": "Lynn Hatada",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XBjnojkowh+qozdiJfCXTg=="
+    },
+    {
+      "name": "Arika Hattori",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/29/2024",
+      "usta_id": "K7E0vRZgYLoXtNpb01wGUw=="
+    },
+    {
+      "name": "Dale Hayashi",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a1Hxg0+SVyrnAo3qR1zqTw=="
+    },
+    {
+      "name": "Marissa Hayashi",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CbdjfKyv9ZJB8QJXRkjlng=="
+    },
+    {
+      "name": "Lawrence Heintz",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vKJ3+bFqY1T2wC33Pq8Wiw=="
+    },
+    {
+      "name": "Jeanne Herbst",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jbEMcNokDQhAb3e4etQZ7Q=="
+    },
+    {
+      "name": "Ellen Higa",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3nIJYwn1F9aje31rjehmGg=="
+    },
+    {
+      "name": "Troy Hill",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "pD/IpXwPGM8fli4erM3TuQ=="
+    },
+    {
+      "name": "Myra Hironaga",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kp6Pu//JGatLBJJGSCs3aQ=="
+    },
+    {
+      "name": "Kari Hock",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "+imRYU4hUVdF2qvOGRIG/Q=="
+    },
+    {
+      "name": "Jenna Honda",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4vdsRir4x7SsBGo+P21Mxw=="
+    },
+    {
+      "name": "Ted Hong",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0fAR2lkORD00R/IchQ6lng=="
+    },
+    {
+      "name": "Mari Horike",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MXdwenArcROz0xCqdvsgCQ=="
+    },
+    {
+      "name": "Julie Hugo",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "81sRGL/AdsizJM+cr2jCxA=="
+    },
+    {
+      "name": "Blake Ideta",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GEBKgSOF1fKopvmGHubxXw=="
+    },
+    {
+      "name": "Nikki Ideta",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "krf5SKCOHYsf9BSDCINYAA=="
+    },
+    {
+      "name": "Ann Ignacio",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bcv7n+BeHyRH54hzwXpY6w=="
+    },
+    {
+      "name": "Jane Iida",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q7wD+mWPb8gS99lKjCmMwA=="
+    },
+    {
+      "name": "Terrie Ikehara",
+      "gender": "Female",
+      "city": "Keaau",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kCZ7r0+SoTZ5r0HgMKvgOw=="
+    },
+    {
+      "name": "Ryan Ikeuchi",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ikIEhYFV7ZOZySVZWf/IHw=="
+    },
+    {
+      "name": "Terri Inouye",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bV2ugfqfClLAi2idBEkjyw=="
+    },
+    {
+      "name": "Jamie Irie",
+      "gender": "Male",
+      "city": "Keaau",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/29/2025",
+      "usta_id": "zyIOGah4QYoc3UiKGb3cBA=="
+    },
+    {
+      "name": "Jo Ann Ishida",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "osVq3GLyzcJ01W5AV99NUA=="
+    },
+    {
+      "name": "Lisa Lei Ishikawa",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DKhGfYCoO8LTurBs28ht8w=="
+    },
+    {
+      "name": "Lloyd Ishikawa",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "U4V6Z6OudFnppIXCKFWM1A=="
+    },
+    {
+      "name": "Jun Ishimine",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ahp5oqMz4q5/HrfP3KdZUw=="
+    },
+    {
+      "name": "Andrew Izutsu",
+      "gender": "Male",
+      "city": "Keaau",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "30HkA6xLkJbXR2MGzWbjnA=="
+    },
+    {
+      "name": "Judith Jennet",
+      "gender": "Female",
+      "city": "Waikoloa",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LfILs4fZRHsa8L+nhEVH2Q=="
+    },
+    {
+      "name": "Jeffery Kam",
+      "gender": "Male",
+      "city": "Fountain Valley",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EZHyw+YSQ2nheLYhg1l7zQ=="
+    },
+    {
+      "name": "Joy KAMANO",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2EcsmU2hcm2yPklr3NGwWw=="
+    },
+    {
+      "name": "Lori Kamimura",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "omWh46OLtViMJPzQv13LXw=="
+    },
+    {
+      "name": "Lance Kaneshiro",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "L8KxG43/y34fV2AlrzVWBQ=="
+    },
+    {
+      "name": "Mildred Kaneshiro",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bF9UGNCF8WYZo7adrN9nQQ=="
+    },
+    {
+      "name": "Larie Kent",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "91K1vOabRjXFmwstYIMeTw=="
+    },
+    {
+      "name": "Kareem Khozaim",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sOVQduptIf4XGaifStqZ9Q=="
+    },
+    {
+      "name": "Erin Kihara",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zljwHkpMlG5nNCGizxXU5w=="
+    },
+    {
+      "name": "Sheri Kinoshita",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7UMlOGe7ualwvtyLvVDWUw=="
+    },
+    {
+      "name": "Noriko Kobayashi",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "11v+/8wTcviYXj53UagPSg=="
+    },
+    {
+      "name": "Brian Koge",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hmtba+clxuOr7nZFNalHBw=="
+    },
+    {
+      "name": "Maya Kondo",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SHCiPW2A1bYSafC1A/ILfw=="
+    },
+    {
+      "name": "Amanda Kualii",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/14/2025",
+      "usta_id": "j8bcCeJL31i14KYiIqKSrw=="
+    },
+    {
+      "name": "Keith Kunimoto",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h+w+1p8K3nvy/E6gfw8BfA=="
+    },
+    {
+      "name": "Amy Kuwaye",
+      "gender": "Female",
+      "city": "HILO",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "d8frsmlHgFrEEGcfciJoDw=="
+    },
+    {
+      "name": "Dylan Lee",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Io/vUuhe8BniV7TC4y8iRg=="
+    },
+    {
+      "name": "Heather Lee",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zQErCrEsJEKKniakK3OZkA=="
+    },
+    {
+      "name": "Michele Lefebvre",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "bWnixya1SPRH497IE4zoRQ=="
+    },
+    {
+      "name": "Reginald Leite",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/11/2025",
+      "usta_id": "wVsFz2ViqnX0UBlu9I/kLw=="
+    },
+    {
+      "name": "Chelsea Loeffler",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fHeBXba/DH0W8DgJvQbIgQ=="
+    },
+    {
+      "name": "Adam Long",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wG+AVuMYT0PtB8pycrTf7Q=="
+    },
+    {
+      "name": "Laurie Machida",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HNRZIZakoHBCehHT88/2JA=="
+    },
+    {
+      "name": "Johanna Mae",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5QIiaaR9E88O1Xb1hTvjpQ=="
+    },
+    {
+      "name": "Kira Mae",
+      "gender": "Female",
+      "city": "Papaikou",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GounRI+y4j2n55+avq1SHQ=="
+    },
+    {
+      "name": "Amy Maneki",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vrPf+cpRfRRlNU+jaLbmJA=="
+    },
+    {
+      "name": "Keegan Maple",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dN8F8ThoUX/LOF8QLd2+ow=="
+    },
+    {
+      "name": "Michael Marshall",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KSmZZdrzhXiRPpxRhMwgdQ=="
+    },
+    {
+      "name": "Rebecca Marshall",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2G1VisIOa+pZ657KuWEN5Q=="
+    },
+    {
+      "name": "Liane Martin",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CidaPioX1yqvLh9zemCM9A=="
+    },
+    {
+      "name": "Sandra McAuliffe",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "srH6PRRnZlv62OCxl9fbqQ=="
+    },
+    {
+      "name": "T Kelly McCloskey",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xyFDXdIfe02Vda60ikr2lw=="
+    },
+    {
+      "name": "Iris McGuire",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LP3HzGx5Wwaio3ndC5MBTg=="
+    },
+    {
+      "name": "Vivian Mead",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BQD6fyB8Uwfo0X3sAZo1IQ=="
+    },
+    {
+      "name": "Thelma Merino-Young",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l7NgTE3hmXoPtpdkmJlJLQ=="
+    },
+    {
+      "name": "Shauna Miller",
+      "gender": "Female",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jS+q7hk2ocuSPtGSEW7v9A=="
+    },
+    {
+      "name": "Aiko Mitchel",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kKOMJDwZgkUMjx/TIhr2rg=="
+    },
+    {
+      "name": "Lynne Miura",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6j1N7X5Id2P73UPdOSOD2A=="
+    },
+    {
+      "name": "Melinda Mizuno",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rWuY4L7xZ0tfGMTAqlQSKw=="
+    },
+    {
+      "name": "Siena Mizuno",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/12/2025",
+      "usta_id": "gKU8vl1yteiWkiHNEMQFRg=="
+    },
+    {
+      "name": "Garrick Morita",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HuJdvi8YXN5bPh3R8pWApA=="
+    },
+    {
+      "name": "Lisha Nagamine",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "JzhdgpQzM4k9vSTq7OPkvw=="
+    },
+    {
+      "name": "Kip Nagata",
+      "gender": "Male",
+      "city": "Papaikou",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9mDqqSNIkEZTt2hdCzt9WQ=="
+    },
+    {
+      "name": "Janice Nakahara",
+      "gender": "Female",
+      "city": "Pahoa",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QwxSCK4vji5pKwDEN/ic2Q=="
+    },
+    {
+      "name": "Junette Nakamura",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C5kbxjgfO1rghflsf2e0rA=="
+    },
+    {
+      "name": "Susan Nakamura-Koge",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SZbpX7Vht2nsOd7QQreyOQ=="
+    },
+    {
+      "name": "Paige Nakano",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "yx9q+e3IGvN4joag/Mqiwg=="
+    },
+    {
+      "name": "Lori Nekoba",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v5mlV1Cht+cyoYKJEqTSYQ=="
+    },
+    {
+      "name": "Kate Newell",
+      "gender": "Female",
+      "city": "Keaau",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "w0lXhxz+qrHvvonMN2qmNw=="
+    },
+    {
+      "name": "Adamhung Nguyen",
+      "gender": "Male",
+      "city": "Pahoa",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mlbJUIhd3WxTzk9KUhzRCg=="
+    },
+    {
+      "name": "Grant Nishida",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FCCUYJz6X+gl5gXjuc3gMg=="
+    },
+    {
+      "name": "JENNY NISHIDA",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BnSSEVmpYWIpARjjOPGdiQ=="
+    },
+    {
+      "name": "Aaron Nishiura",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CI/kDo8f6yPlg1TfvAEk/Q=="
+    },
+    {
+      "name": "Kelvin Nishiura",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wjm1ZncZMDzggiz3vhfGSg=="
+    },
+    {
+      "name": "Diane Noda",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T+DGD3R5x2B/aBR76J4vmA=="
+    },
+    {
+      "name": "Clarysse Nunokawa",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YPo4rmd1sO7rX5L2ChPx8Q=="
+    },
+    {
+      "name": "Michelle Oishi",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bCw/1JV4ArOCN6VHBCQ/Jw=="
+    },
+    {
+      "name": "Glenn Okada",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6OuNUKOhlDdX81GQLXCzOw=="
+    },
+    {
+      "name": "Alyssa Okamura",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+bKOIDKm+D8gOanT0blbFA=="
+    },
+    {
+      "name": "Dave Okamura",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fl/6RHz6LFQbq6FJPp7sTQ=="
+    },
+    {
+      "name": "Kerri Okamura",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fHj9eCoNggORnaJEOLS7EA=="
+    },
+    {
+      "name": "RYAN OKAMURA",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yNWHXSA52n0H57iyOAK/5Q=="
+    },
+    {
+      "name": "Michael Okumoto",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UhL5HOVT24MaIsavIAkr8A=="
+    },
+    {
+      "name": "KATHLEEN OLDFATHER",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xQ15bfqW57sywmXkRxHVkw=="
+    },
+    {
+      "name": "Ellen Oliverio",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/24/2024",
+      "usta_id": "XfPpU50g1byErN2BsguCRA=="
+    },
+    {
+      "name": "Steven Ono",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9edjbRctQog1kCHvW+7fSQ=="
+    },
+    {
+      "name": "Lester Oshiro",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g6PugFhNPs4PJ3/6Q2Z6Vw=="
+    },
+    {
+      "name": "Stephanie Oshiro",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oWSeD0zRRRaRkxgHVZANZA=="
+    },
+    {
+      "name": "Callie Oyama",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OaAVEHWrx+Q8rM9Pcr8U4g=="
+    },
+    {
+      "name": "Norine Parish",
+      "gender": "Female",
+      "city": "Holualoa",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JS73TgunIib+lKUZiPTeBw=="
+    },
+    {
+      "name": "Charlene Pascual",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LILbn12xghtVuZSUPPwEyg=="
+    },
+    {
+      "name": "Megan Pascual",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s2Fo4VnpDFDmc3W1H6Xj+Q=="
+    },
+    {
+      "name": "Melissa Pierce",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UljxAJRKc3T1qi88J8c0rg=="
+    },
+    {
+      "name": "Judith Pratt",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/MeUHXlTtICEIa9QRTKhow=="
+    },
+    {
+      "name": "Elaine Reed",
+      "gender": "Female",
+      "city": "Volcano",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bF9UGNCF8WYrTUJ97TA82g=="
+    },
+    {
+      "name": "Christina Requelman",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nF8hDah3tM+JQRW0ViLtug=="
+    },
+    {
+      "name": "John Requelman",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "40NtwdQ081bhlf4FxmSCMA=="
+    },
+    {
+      "name": "Ryp Ring",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/24/2024",
+      "usta_id": "FoVXmW9czBS/zCwm9zbPwA=="
+    },
+    {
+      "name": "Mac Rivera",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "to+VuCloWwoE1B3xr9GItQ=="
+    },
+    {
+      "name": "Merceda Rivera",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oBYBvPZ3Fki5qRByEXHj7w=="
+    },
+    {
+      "name": "Sean Roberts",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "14GpZ8z5WgIRyKXHMQ/VZw=="
+    },
+    {
+      "name": "Yarett Rosario",
+      "gender": "Male",
+      "city": "Laupahoehoe",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/2/2024",
+      "usta_id": "YYR0eIMNgcILFpE0c0393Q=="
+    },
+    {
+      "name": "Mary Ryan",
+      "gender": "Female",
+      "city": "Kurtistown",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DG9BqOl/vWWuE1WJfdERPQ=="
+    },
+    {
+      "name": "Toni Sakai-Kawada",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GbF3ylkSVvWclL7YSd95tQ=="
+    },
+    {
+      "name": "Kylan Sakata",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/5/2025",
+      "usta_id": "ZgdeB+ZvdGtE1C9cb+h7/w=="
+    },
+    {
+      "name": "Tomoko Sakishima",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6dQtgLX/XJzx0NXeNA0iZA=="
+    },
+    {
+      "name": "Warren Sako",
+      "gender": "Male",
+      "city": "Kurtistown",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Jfr0McrB3epyOvVQN2ikQ=="
+    },
+    {
+      "name": "Marcie Saquing",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DSmygIenSFr6EbjHR2F/uw=="
+    },
+    {
+      "name": "Meg Saunders",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hba6sfQq2hciKMdPP1tvUg=="
+    },
+    {
+      "name": "Nina Segawa",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yilv/kkagcHy0d9dyolHBw=="
+    },
+    {
+      "name": "Lance Sewake",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2lWffn6i7GOVam69e1xNIA=="
+    },
+    {
+      "name": "Donna Shibuya",
+      "gender": "Female",
+      "city": "Naalehu",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "seJSCFR9AdWq+Y4U82Ew4Q=="
+    },
+    {
+      "name": "Ezri Shin-Laakea Weiss",
+      "gender": "Male",
+      "city": "Keaau",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/28/2024",
+      "usta_id": "/eCNrdW/2i15nJONB+UkLQ=="
+    },
+    {
+      "name": "Roy Shioji",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jV5ikKs+l/PEEsoF58JC3Q=="
+    },
+    {
+      "name": "Jordan Simeon",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "5iIPDMYFYyQAqLFc1QhPtw=="
+    },
+    {
+      "name": "Duane Sleightholm",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "uezwgBZzF+poA3F+RwfXqg=="
+    },
+    {
+      "name": "Michelle Smith",
+      "gender": "Female",
+      "city": "Kamuela",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Ic3N7GvyKshuXQ8lrcDibQ=="
+    },
+    {
+      "name": "Jayneen Souza",
+      "gender": "Female",
+      "city": "Keaau",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "quQpTbhPZUs8L4WANs5zMg=="
+    },
+    {
+      "name": "Lauren Sugai",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "awZUMyips8rqM6lXFtKCEw=="
+    },
+    {
+      "name": "Glenn Tada",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nDln8uSnxvn3AJVMetRFcA=="
+    },
+    {
+      "name": "Karyn Tada",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nDln8uSnxvlawxdBw70I/g=="
+    },
+    {
+      "name": "June Taguma",
+      "gender": "Female",
+      "city": "Kailua Kona",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0GUpOgqX4ctKOE0+nGSpBg=="
+    },
+    {
+      "name": "Patti Taira-Tokuuke",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0yY3olAjOxY53G+Lg+u7sA=="
+    },
+    {
+      "name": "Jace Taka",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "erYdqOYYr4mhAlmqQUaGJg=="
+    },
+    {
+      "name": "Marianne Takamiya",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lcmZ/uClXydlp5ZIrp4ZBw=="
+    },
+    {
+      "name": "Glenn Takase",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gr4Sj1PnqFJzvlJ4pOnYPg=="
+    },
+    {
+      "name": "Dean Takebayashi",
+      "gender": "Male",
+      "city": "Keaau",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "la+Z8WwOFasfCWNBP4O9Nw=="
+    },
+    {
+      "name": "Chika Tamura",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "XjoDvRy0l1wgrFs8j+O0tg=="
+    },
+    {
+      "name": "Sheila Tamura",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cgvmVrPnRflGfzoh+wBAOA=="
+    },
+    {
+      "name": "Gwen Tanaka",
+      "gender": "Female",
+      "city": "Honomu",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dDMkUodn7Lmis5eS/D3p9w=="
+    },
+    {
+      "name": "Satoshi Tanaka",
+      "gender": "Male",
+      "city": "Honomu",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7d+pxR133tEo0sjYc+r19A=="
+    },
+    {
+      "name": "Jennifer Tanouye",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "rQlQqdCXDG0Nx+WibaxlFg=="
+    },
+    {
+      "name": "Debra Tatsuno",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zr/4bups5WNENmXBPoAiZA=="
+    },
+    {
+      "name": "Ernest Texeira",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mSEvtX+4OYuUwzJFrQscSw=="
+    },
+    {
+      "name": "Jon Tokuuke",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uujKqM0HkWW0hoDZGBub+w=="
+    },
+    {
+      "name": "Samantha Tomori",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y4ueGT/hLzZgsGAMFp0JZQ=="
+    },
+    {
+      "name": "Nicholas Tran",
+      "gender": "Male",
+      "city": "Pepeekeo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uGNHf0rQZ+HH4z2K7KWPXg=="
+    },
+    {
+      "name": "Trang Trang",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HGMelQ6hoFtf4mU8+I93IA=="
+    },
+    {
+      "name": "Kathy Tsugawa",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2CpKWkEhoY8ork5iRrQgdw=="
+    },
+    {
+      "name": "Misti Tyrin",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DtQ2HmYXh1iDbJjAtDtWlQ=="
+    },
+    {
+      "name": "Kristi Uehana",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ORDxCywKj/bZuyqlRTr35A=="
+    },
+    {
+      "name": "Shea Uehana",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/2/2025",
+      "usta_id": "TkZ2XjW+W3Vthxs2yP0t/Q=="
+    },
+    {
+      "name": "Yuko Uehana",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MwnXD+S8vb3CLMm5ZVeJrw=="
+    },
+    {
+      "name": "Andrea Ueno",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5oHYYnHFBHKLsO8/+gh27Q=="
+    },
+    {
+      "name": "Billie Vieira",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vnQkmXmMnVPMqXRWg1PheA=="
+    },
+    {
+      "name": "Darnella Villanueva",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oPv/6Ixrx4O/Yh2IZMWTSA=="
+    },
+    {
+      "name": "Loyd Villanueva",
+      "gender": "Male",
+      "city": "HILO",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Ico+l1oe7wYaOOpDKnxnQ=="
+    },
+    {
+      "name": "Daniel Violette",
+      "gender": "Male",
+      "city": "Pahoa",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dut5hIcFcs8g/ZUXyqsj4Q=="
+    },
+    {
+      "name": "Alyxander Wakano",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+xUb9+CnHHuhw4i+4xIwFQ=="
+    },
+    {
+      "name": "Cory Wakano",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4TPiEg52MsGxX21ucwR9Kw=="
+    },
+    {
+      "name": "Kimiona Watkins",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n3/hOgTNTpP3kVyIRt8qVw=="
+    },
+    {
+      "name": "Sabina Wery",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kN17VP8I5oCz383eUJS2Ng=="
+    },
+    {
+      "name": "Hanna Wilson",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RHPoL0XF1J7J2vRtOtEb6Q=="
+    },
+    {
+      "name": "Malia Wong",
+      "gender": "Female",
+      "city": "Honomu",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d96Zq9TgISGOK6tWCMikgQ=="
+    },
+    {
+      "name": "Ipolani Wright",
+      "gender": "Female",
+      "city": "Keaau",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XmvgI/HbK8n7WqjGUa5ZNA=="
+    },
+    {
+      "name": "Wayne Yamada",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "CyRzq8Veoz/j5eMc1EMdcA=="
+    },
+    {
+      "name": "Nolan Yamaki",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gaPGb50zhmhpxw36KSZnWw=="
+    },
+    {
+      "name": "Grant Yamamoto",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q9N25A6B9qN80jUlldUqXg=="
+    },
+    {
+      "name": "Jamie Yamamoto",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "gE9SyJSZ2t6roExQv9QWMg=="
+    },
+    {
+      "name": "Lori Yamamoto",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HQcJAlVWanLObKokztk44A=="
+    },
+    {
+      "name": "Rae Yamamoto",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/16/2025",
+      "usta_id": "QNyRjX82TRx3SyO0Wz4O1A=="
+    },
+    {
+      "name": "Garth Yamanaka",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TfVERTOQlqOAfqvLZr0YLQ=="
+    },
+    {
+      "name": "Irene Yamanaka",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IYuq2/GgPnheBAvBoeVM5Q=="
+    },
+    {
+      "name": "Conner Yoshimoto",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c9bKJWEYQpt6joB3QS+Mxw=="
+    },
+    {
+      "name": "J Yoshimoto",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mJl+m9AU7dfYx9VDuG8b6A=="
+    },
+    {
+      "name": "Merle Yoshino",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9cBAazN6lURF1K4RNyhFcg=="
+    },
+    {
+      "name": "Estrelita Young",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YSK3neMhaKgoXv7VyZfaRA=="
+    },
+    {
+      "name": "Alex Zavarro",
+      "gender": "Male",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/11/2024",
+      "usta_id": "v+ydyQ1qP1+d9v0bTAIkCg=="
+    },
+    {
+      "name": "Rhonda Zavarro",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bvKpeQqTqJEV1fEZbw87Dw=="
+    },
+    {
+      "name": "Britta Zimmer-Long",
+      "gender": "Female",
+      "city": "Hilo",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/GnmqtNcZExlxuhyoHcnVg=="
+    }
+  ]
+}

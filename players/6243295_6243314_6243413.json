@@ -1,0 +1,6237 @@
+{
+  "sectionId": "6243295",
+  "districtId": "6243314",
+  "areaId": "6243413",
+  "players": [
+    {
+      "name": "Alex Abrams",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/3/2025",
+      "usta_id": "t9cRN137kC0oxcFseUTr5A=="
+    },
+    {
+      "name": "Tom Adamski",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/25/2025",
+      "usta_id": "JA/7NU7CTEEKnCAfS/xb7Q=="
+    },
+    {
+      "name": "Joan Aiello",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Yot/yK2SWnaSATrP3tYRw=="
+    },
+    {
+      "name": "Kyra Albanese",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "szmYysqKVzsKYtTIoR2YYQ=="
+    },
+    {
+      "name": "Cynthia Albrecht",
+      "gender": "Female",
+      "city": "Lockport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LitezQhZBo3tMRjh+slPQA=="
+    },
+    {
+      "name": "Kathleen Alfano",
+      "gender": "Female",
+      "city": "WELLINGTON",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PCPi5VMOdifodifkjDVPEA=="
+    },
+    {
+      "name": "Rick Alfano",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "k5o0BQU1WmFIoTvyHL0erw=="
+    },
+    {
+      "name": "Shelley Alfieri",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2sYKjQEimxLx4jfvQEwRBg=="
+    },
+    {
+      "name": "Leslie Algase",
+      "gender": "Female",
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "3Sj515utqDq6LrDajTgS6A=="
+    },
+    {
+      "name": "Brad Allen",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T804CgE8cwZVDiEmEerzqg=="
+    },
+    {
+      "name": "Jesse Allen",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T804CgE8cwaUBURHEppdNg=="
+    },
+    {
+      "name": "Judy Allen",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HEc9bQY9Hp9xTR4cFJ/5Eg=="
+    },
+    {
+      "name": "Leslie Allen",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ajtYhtLUzty5K5l4esZsvA=="
+    },
+    {
+      "name": "Nathan Allen",
+      "gender": "Male",
+      "city": "Macedon",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E4wIZlK9XjPXIvqtEFiaqQ=="
+    },
+    {
+      "name": "Beth Anderson",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "k72thHC6qTlDEqqBhEGCdQ=="
+    },
+    {
+      "name": "Jennifer Anthony",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Iy/me00wrMRntuYn8ZFadQ=="
+    },
+    {
+      "name": "Julia Applebaum",
+      "gender": "Female",
+      "city": "Saratoga Springs",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u/CBw8k7wnVJ+Orc5rPHUw=="
+    },
+    {
+      "name": "LISA AQUINO",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ElvXdLBtEOZT1iRyFkrvUg=="
+    },
+    {
+      "name": "Rachel Aquino",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "KzdFIXJCHJr4YmEUQJIMNQ=="
+    },
+    {
+      "name": "Galo Arguello",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "26SN9XCM0Z49rmQ4x2ThWQ=="
+    },
+    {
+      "name": "Anne Armenia",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "WN2xZllwbGIXzF9Er7lnuw=="
+    },
+    {
+      "name": "Jeff Arywitz",
+      "gender": "Male",
+      "city": "PENFIELD",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fE1HTXnbw/1qX95oIVMxyQ=="
+    },
+    {
+      "name": "Kim Athans",
+      "gender": "Female",
+      "city": "East Amherst",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZJaNGjId8Sc4P+AZe3T6pQ=="
+    },
+    {
+      "name": "Grant Avery",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/11/2024",
+      "usta_id": "s+Kzl2O5sSCS5SFd+V2QJw=="
+    },
+    {
+      "name": "Cally Babigian",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "QItaGhyFupPChFBundmf0w=="
+    },
+    {
+      "name": "Chris Bailey",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qAMLcUpRX9FDkpRbTHOVog=="
+    },
+    {
+      "name": "Alicia Bajdas",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "E9hLSvZWdrGXQwKOOL9v7g=="
+    },
+    {
+      "name": "Jennifer Baker",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/4/2025",
+      "usta_id": "/KsdX7b61gYRNzU3GMIidA=="
+    },
+    {
+      "name": "Jennifer Baker",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8TLtSEZVUIU5gZaGMYJSKg=="
+    },
+    {
+      "name": "Toni Baller",
+      "gender": "Female",
+      "city": "Pultneyville",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "A9fOHjC9PDP6QARFVLUL1A=="
+    },
+    {
+      "name": "Dominique Bandari",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "CjejvUM0xQOjoNs9vpb6fg=="
+    },
+    {
+      "name": "Erica Barnabas",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "vh3kueeo4MsHev1Ng1Yf7g=="
+    },
+    {
+      "name": "Rajesh Barnabas",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oNTAtnk5NZAeH8sqy9bR1w=="
+    },
+    {
+      "name": "Calli Barry",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/20/2024",
+      "usta_id": "jf+N7jqYGAmXmQ9fBGYkCg=="
+    },
+    {
+      "name": "Matthew Barry",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "MML8wTmc7vFG50NkoRj4vg=="
+    },
+    {
+      "name": "Mathieu Barthelemy",
+      "gender": "Male",
+      "city": "Encinitas",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D519A6KRu1cigNK/0gURTg=="
+    },
+    {
+      "name": "Susan Bartl-Conley",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "2/26/2024",
+      "usta_id": "Vk1m4by4XsQ="
+    },
+    {
+      "name": "Heather Bartlett",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/18/2025",
+      "usta_id": "xzqmjEq47bmhAvKS3vVqpQ=="
+    },
+    {
+      "name": "Michael Batek",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/29/2023",
+      "usta_id": "XBoc18s4cY5j7F3bNeAc4Q=="
+    },
+    {
+      "name": "Linda Becker",
+      "gender": "Female",
+      "city": "Boynton Beach",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/1/2024",
+      "usta_id": "iSHobaoAFY9VGfOrLoIQYA=="
+    },
+    {
+      "name": "Kim Bender",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "WQQCllY8tTkTL4cIBmAhlw=="
+    },
+    {
+      "name": "Amy Bennage",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "524hYhaXGlWKmshXFj8uZw=="
+    },
+    {
+      "name": "Katie Bentley",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "idalmITxhB2YlQA75lsIag=="
+    },
+    {
+      "name": "Rachel Berk",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "9txE7enaqOJowZCdR5fjRA=="
+    },
+    {
+      "name": "Elizabeth Berry",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gzAlWTtHtVBF7gaIxo2mBg=="
+    },
+    {
+      "name": "Felicia Berst",
+      "gender": "Female",
+      "city": "Buffalo",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UqcsN7i/VW9VgEFlCcKpPQ=="
+    },
+    {
+      "name": "Anto Beslic",
+      "gender": "Male",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IruzmT0WklADe4kddhiw9Q=="
+    },
+    {
+      "name": "Katie Betters",
+      "gender": "Female",
+      "city": "Victor",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "HxEzwp/wZ/M1MXmuNvDcpg=="
+    },
+    {
+      "name": "Neerja Bhatnagar",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aQ3RToZG0JF8uhkAxHqOyQ=="
+    },
+    {
+      "name": "Rachel Bigby",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F+78vgSqplD5DYiCRlDWzA=="
+    },
+    {
+      "name": "Laura Bingaman",
+      "gender": "Female",
+      "city": "Macedon",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "yz6YNbfOv2B7UIK97Kj8bQ=="
+    },
+    {
+      "name": "Julie Blowers",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "YOZXo9LXD5HSldUZSvfMpg=="
+    },
+    {
+      "name": "Taura Blyth",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hFCDIpTwCPCLGHDoHDuPLw=="
+    },
+    {
+      "name": "Lynne Bommele",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/27/2025",
+      "usta_id": "Gl3sRbSameK0cMAMuqY3lA=="
+    },
+    {
+      "name": "Griffin Bond",
+      "gender": "Male",
+      "city": "Canandaigua",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "pvk8tFglRFmUXMIOVauLhw=="
+    },
+    {
+      "name": "Laura Bond",
+      "gender": "Female",
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1usMKyfSo4SCoSBvyZBDdA=="
+    },
+    {
+      "name": "Matthew Bond",
+      "gender": "Male",
+      "city": "Canandaigua",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zM3NOn8i2UEGIAtDSLdRng=="
+    },
+    {
+      "name": "JODIE BORLAUG",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1rMU7E8RYIdVJEHCtjQ09Q=="
+    },
+    {
+      "name": "Anirban Bose",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j0CBcB2OCTa3fqAn917ZZw=="
+    },
+    {
+      "name": "Rose Bothner",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "ZnByJVGU9+dDWU7Wl7dDwA=="
+    },
+    {
+      "name": "Katey Bourne",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "g4/YDJZBcGx/JGJU4F26kQ=="
+    },
+    {
+      "name": "Laura Boyce",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "3wBr9p3T9OFwgdyTTfGyEQ=="
+    },
+    {
+      "name": "Stephanie Braveman",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "MY13AgsU4WS4Jkzvd3NwKQ=="
+    },
+    {
+      "name": "Marcia Brayer",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ueg665OOhl5R34FyLuCD/g=="
+    },
+    {
+      "name": "Susan Brekovsky",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KTGvNQv3zi7Gz1NYIgK4XA=="
+    },
+    {
+      "name": "Amanda Brienzi",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "VSDuXlY7IjlnIPzwlZw9mg=="
+    },
+    {
+      "name": "Garrett Briggs",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ppWIHKMQOXVYbcvelelTbg=="
+    },
+    {
+      "name": "Victoria Briggs",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zEZlqBcY6fZpn4Py4y07Cw=="
+    },
+    {
+      "name": "Chad Bright",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4gJZaJb27juAxj2wINgRgA=="
+    },
+    {
+      "name": "Noah Britton",
+      "gender": "Male",
+      "city": "Schenectady",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0+0xAl3xT0ZcaiMBT14HHQ=="
+    },
+    {
+      "name": "William Britton",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NCpGDjojWty7DtPqK5PgfQ=="
+    },
+    {
+      "name": "Bridget Bronson",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "KAv7rdeuXDTe8Abw9MeXKw=="
+    },
+    {
+      "name": "Kate Brooker",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "WMMOSA6Wm0zBxB7jy54Ocg=="
+    },
+    {
+      "name": "Geoffrey Brougher",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/21/2024",
+      "usta_id": "9O3MH7pkxHfD3AbIITivuw=="
+    },
+    {
+      "name": "Joanna Brougher",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/5/2025",
+      "usta_id": "niFms2TSt9EpiGltScOU2A=="
+    },
+    {
+      "name": "Anna Brown",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "bfVrynJ39IrKo0NgyL8UNQ=="
+    },
+    {
+      "name": "Graham Brown",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "de6KTyR7AYYRs7J8n7mhrA=="
+    },
+    {
+      "name": "Jake Brown",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9btjq+rohTnk2NnZMp5Qbw=="
+    },
+    {
+      "name": "Paula Brown",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QPLIvGnP1QSWazNQ7CpcCg=="
+    },
+    {
+      "name": "Nicki Brugler",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/17/2024",
+      "usta_id": "7BASivLcVBW8h76p4VO5Kg=="
+    },
+    {
+      "name": "Kristine Bruneau",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "FV0yRhFAI+iSerzZbBh6bA=="
+    },
+    {
+      "name": "Katie Brzezinski",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "jRNhh8ZmAgieREJOmwz1jQ=="
+    },
+    {
+      "name": "Alexandra Buckley",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "y280Hd/L6LjueJoWom2HYw=="
+    },
+    {
+      "name": "Steven Buckley",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SgbJ/S5y6ICytr3Q2bkMgw=="
+    },
+    {
+      "name": "Cliff Bundick",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TlYqRoYhC+Fl/7zTdOEpxQ=="
+    },
+    {
+      "name": "Michael Bupp",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f1LhNdSZFDPSi9IsdXr48w=="
+    },
+    {
+      "name": "Christina Burdett",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "+oknOnbjRx/xLPO+ZsGcYQ=="
+    },
+    {
+      "name": "Liv Burkey",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "8O1A2aqNDQMZ27b0qt0aYA=="
+    },
+    {
+      "name": "Susan Burt",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "rhI9AsrLspiauolaS/ZWlg=="
+    },
+    {
+      "name": "Caroline Burton",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kzzTUwmxgVO8DZa8z629Mg=="
+    },
+    {
+      "name": "Andrew Buschert",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h09RQxTIzz/VYNI7p6oe1Q=="
+    },
+    {
+      "name": "Laurelle Byrne-Cody",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "pehAsomArUp1Z7LBX2fyRA=="
+    },
+    {
+      "name": "Steve Call",
+      "gender": "Male",
+      "city": "Scottsville",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/29/2025",
+      "usta_id": "94VCLwTX9z3j3iDd00k0Fg=="
+    },
+    {
+      "name": "Christopher Cameron",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vz/wtsG86vS2VDRAavZJQA=="
+    },
+    {
+      "name": "Julie Camp",
+      "gender": "Female",
+      "city": "Walworth",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4RDV5cOg8LSK7+2ON3v4+Q=="
+    },
+    {
+      "name": "Bruce Canfield",
+      "gender": "Male",
+      "city": "Macedon",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/20/2025",
+      "usta_id": "HmD4pY656/BhEVRnNY7tpw=="
+    },
+    {
+      "name": "Bray Caroline",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "2qCIqt8AJ8JFxi/sse1hBw=="
+    },
+    {
+      "name": "Alex Casale",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bl127cj8A+RMFlaIEsJvlQ=="
+    },
+    {
+      "name": "Manuel Castillo",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CO/MqnK/XM3c02G4Zt1+gA=="
+    },
+    {
+      "name": "Jamie Cesere",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "F9UwVcKHgdMQiaftaQjF9w=="
+    },
+    {
+      "name": "Rayaan Cheema",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/26/2023",
+      "usta_id": "psCQQ/luhON4O5LYAFvDMQ=="
+    },
+    {
+      "name": "Monica Cherry",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "mKdaD2X7m3lrxFwSKUCFOw=="
+    },
+    {
+      "name": "Patricia Chodak",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "66nyc9VLO6klzRSOBn0+EA=="
+    },
+    {
+      "name": "Sandra Chu",
+      "gender": "Female",
+      "city": "Geneva",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/20/2024",
+      "usta_id": "mPej9S/3yZbAh+uEpRZPLQ=="
+    },
+    {
+      "name": "Ashley Chung",
+      "gender": "Male",
+      "city": "WEBSTER",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d7HPX0Vm7DYplBZYsLFJDg=="
+    },
+    {
+      "name": "Matt Cicero",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/24/2024",
+      "usta_id": "itBmKiHtbjWBw4WudVabRw=="
+    },
+    {
+      "name": "Penny Cipolla",
+      "gender": "Female",
+      "city": "Buffalo",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NHIrja95WR+eUaC+hd+jsg=="
+    },
+    {
+      "name": "Mary Clare",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j0O61di5FsQtx/DTBMnFwg=="
+    },
+    {
+      "name": "Greg Clarevsky",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "Rwy+LPx9Ovu1cnw2mYW2Jw=="
+    },
+    {
+      "name": "Anthony Clemens",
+      "gender": "Male",
+      "city": "Avon",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/6/2025",
+      "usta_id": "6IsuD3uf8X32mLQP3Ra3YQ=="
+    },
+    {
+      "name": "Caroline Coakley",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "P4RgcWZFCGpzBRqord34xw=="
+    },
+    {
+      "name": "Amanda Coffey",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "MP1BrfuLqF+dXk3xy9WZQw=="
+    },
+    {
+      "name": "Gilbert Collins",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZVP1ZZzUhnawbkbfWLyH5Q=="
+    },
+    {
+      "name": "Tricia Collins",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "OG+N4VDqKWtkblUrrJplhg=="
+    },
+    {
+      "name": "Karen Conners",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "597hXdZW4Mcv6V+1UjlUSg=="
+    },
+    {
+      "name": "Lori Connolly",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1OhVupreZgahfgjs9JD27Q=="
+    },
+    {
+      "name": "Maureen Corcoran",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "nmAncFF9PyDj2eGXaXttSw=="
+    },
+    {
+      "name": "Stephanie Corey",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/16/2024",
+      "usta_id": "v6wO5hK+wPtj3op/0xCZnw=="
+    },
+    {
+      "name": "Courtney Cornell",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "s/t+6PuZAhJxgqSYtzO5cA=="
+    },
+    {
+      "name": "Courtney Cotrupe",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "FOZZ11okRUzhJ8WsE+QxgQ=="
+    },
+    {
+      "name": "Sandra Couture",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ObsWxC6trWyfElxQkLf1Kg=="
+    },
+    {
+      "name": "Donna Covannon",
+      "gender": "Female",
+      "city": "Ontario",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/9/2024",
+      "usta_id": "Idwthw7K5olV0HioeVCdcw=="
+    },
+    {
+      "name": "Virginia Crandall",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oW21lCu0dJGdMwDTgUrSbw=="
+    },
+    {
+      "name": "Theresa Croce",
+      "gender": "Female",
+      "city": "HILTON",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cb5O1BMcOmGTVObV1nDb7Q=="
+    },
+    {
+      "name": "Chris Crockett",
+      "gender": "Male",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wdAVTOm9DbWcxNAG4RF7KA=="
+    },
+    {
+      "name": "Adalyn Cross",
+      "gender": "Female",
+      "city": "Scottsville",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/1/2025",
+      "usta_id": "BqWA0Mr+XiLdwa7rT/l7eA=="
+    },
+    {
+      "name": "David Cross",
+      "gender": "Male",
+      "city": "Scottsville",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YeHiKFjnJwXaDdKNA7gcRw=="
+    },
+    {
+      "name": "Olivia Cross",
+      "gender": "Female",
+      "city": "Scottsville",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/26/2025",
+      "usta_id": "Q1uUi+0ZxLtXliGTHtthVg=="
+    },
+    {
+      "name": "Amy Crossed",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JB7Ua7kT96law70jAZ2cnA=="
+    },
+    {
+      "name": "Erin Crowley",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "9qgpnTwaHkfux6NHAprtEw=="
+    },
+    {
+      "name": "Kelly Crowley",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "2wGSS8Fod2G8Ak9LCQ8/9A=="
+    },
+    {
+      "name": "Kimberly Cufari Chin",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "kW9YGOLfy5pqCGUXlEqGaQ=="
+    },
+    {
+      "name": "Shannon Cunniffe",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "B1qmNCcwv6HTA/553+6lTg=="
+    },
+    {
+      "name": "Kate Dalton",
+      "gender": "Female",
+      "city": "Sarasota",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7bELBLUND/qpIVRGwIHwbQ=="
+    },
+    {
+      "name": "Nam Danh",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tr/zUyniz8WgR8Bj7vAtKw=="
+    },
+    {
+      "name": "Kasia D'Anza",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "UOV1XC50MxKK+SCeW0RvvQ=="
+    },
+    {
+      "name": "Blaire Davis",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7BASivLcVBVpIEw9h4yM7g=="
+    },
+    {
+      "name": "Tarsha Davis",
+      "gender": "Female",
+      "city": "Austin",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "caZTwRNHodFWjb1pL6k3gA=="
+    },
+    {
+      "name": "Donna Decarolis",
+      "gender": "Female",
+      "city": "Buffalo",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q5IixGYzGXuDgP+bk9Skhw=="
+    },
+    {
+      "name": "Deborah DeCicco",
+      "gender": "Female",
+      "city": "Canandaigua",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d6/WFYsarXSLPtX0c6GmNw=="
+    },
+    {
+      "name": "John Dedrick",
+      "gender": "Male",
+      "city": "Allegany",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lsP+uHiY+2aEo3l4uk+Ecg=="
+    },
+    {
+      "name": "Mary Sue Dehn",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/12/2025",
+      "usta_id": "xdSImsnu4ELzlCv5wbOzIw=="
+    },
+    {
+      "name": "Jamie Delladio",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cTBV2dzYhGHicXtGNZWA+g=="
+    },
+    {
+      "name": "Claire Delmonte",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "g4/YDJZBcGyOAbmJqSMlTg=="
+    },
+    {
+      "name": "Justin Demartin",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/2/2025",
+      "usta_id": "c0Z+xedBqkpf658PHJ6EeQ=="
+    },
+    {
+      "name": "Meredith Demerchant",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "9dFIIiok/6UytwRZjbO+VQ=="
+    },
+    {
+      "name": "Dawn Deperrior",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vlMqTkgVKkymHg3cqVIvug=="
+    },
+    {
+      "name": "Laurin Derrick",
+      "gender": "Female",
+      "city": "PITTSFORD",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "vGwbmIWyKisPKLbJA+fjVA=="
+    },
+    {
+      "name": "Julia Dey",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/1/2024",
+      "usta_id": "E0DGGgFGaQ249A6n6Hfj9Q=="
+    },
+    {
+      "name": "John-Charles Dimperio",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/29/2024",
+      "usta_id": "klAkY6VOYTVcfA6OHkviSw=="
+    },
+    {
+      "name": "Kathleen DiPasquale",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "/buzgb9LhpZDklqzewXc6g=="
+    },
+    {
+      "name": "Ishan Dixit",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d8yhoEa1wyCYI8h6NAPBnA=="
+    },
+    {
+      "name": "Larissa Dobrzynski",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "M1xO9Hbq94w+OGEGZhUuUA=="
+    },
+    {
+      "name": "Sarah Dobrzynski",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "13r4czhZd+O7Zj8tA+xrfA=="
+    },
+    {
+      "name": "Nanette Domanti",
+      "gender": "Female",
+      "city": "DELRAY BEACH",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uWXcP3Y7bVudd31sH/LnEQ=="
+    },
+    {
+      "name": "Michelle Donahue",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bLWFegPLpgc6O+qkyThcmg=="
+    },
+    {
+      "name": "Terry Donahue",
+      "gender": "Female",
+      "city": "Buffalo",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "x2hDNJaxOQBpvbZPeDl6qQ=="
+    },
+    {
+      "name": "Dale Dorsett",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0TWCkgjeRe5VJrQIF1AncQ=="
+    },
+    {
+      "name": "Gail Dowler",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TB1HzSDpMQyz4I+Zkaap2w=="
+    },
+    {
+      "name": "Emilie Drumm",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "n1FCVWrrVs95V5Enxa8QVA=="
+    },
+    {
+      "name": "Alinda Drury",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bfRnYZ4PVWudvU2W5hjeHA=="
+    },
+    {
+      "name": "Pamela Duffy",
+      "gender": "Female",
+      "city": "Macedon",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "mDXhDMcx0G48hxm1mHNdlg=="
+    },
+    {
+      "name": "Inna Duzinkevych",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "97/MKSH9Ikmntb8mbnSUgQ=="
+    },
+    {
+      "name": "Amanda Dwyer",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YNapovLam2OitADna7crwg=="
+    },
+    {
+      "name": "Ron Dyson",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h+/+nIeY8xnQRAMBQCHt6w=="
+    },
+    {
+      "name": "Jade Eakins",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "uL5YfrHV8AREFgBde5GfSw=="
+    },
+    {
+      "name": "Jane Eckhardt",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DYNV2XCUagil2R+VsfkTyg=="
+    },
+    {
+      "name": "Carol Eisenman",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bJlMeTr4la/E7qShDFBifA=="
+    },
+    {
+      "name": "Lauren Elker",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "4Fzm0+Tq9JH2QmFe71HDDQ=="
+    },
+    {
+      "name": "Robert Estephan",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D6K80Fi4GWVjeAL6N0iGmQ=="
+    },
+    {
+      "name": "Scott Fairchild",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D8lf0PB8WEm233U/uGqgSA=="
+    },
+    {
+      "name": "Rich Farrell",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "wLHFnzx3Uchw/g+3ED0/Ag=="
+    },
+    {
+      "name": "Jamie Feingold",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "75k0lQwDJ0UiE7TRRCXmRg=="
+    },
+    {
+      "name": "Kathryn Feltner",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "G1k0Er4ddfz7Mjqgl1KwRw=="
+    },
+    {
+      "name": "Avery Fero",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "LgB919gcHgb7K9KhpRE5sQ=="
+    },
+    {
+      "name": "Nancy Fiedler",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "gzul/hDqnkK2XCiUbHMocQ=="
+    },
+    {
+      "name": "Chris Fisher",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "itYCnWmt3F6aCppJdJI0MQ=="
+    },
+    {
+      "name": "Keegan Fisher",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "0gb2YuE0yYFvMBAnS7l23Q=="
+    },
+    {
+      "name": "Sarah Fisher",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "mIXFzOlwz14RRpXO9RECpQ=="
+    },
+    {
+      "name": "Cate Fitzpatrick",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "KCbmUwz28s9zqHaATCKunw=="
+    },
+    {
+      "name": "Kelly Fitzpatrick",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ZA8+I04RwO4eatAlI+PA3A=="
+    },
+    {
+      "name": "Mari Fitzsimmons",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "0pHVGxEhfKF1o1GItRPdZQ=="
+    },
+    {
+      "name": "Deborah Flynt",
+      "gender": "Female",
+      "city": "FAIRPORT",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "elT53tLUgztPJgfXw4JJWw=="
+    },
+    {
+      "name": "Margaret Foo",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "vEMSSkdoyNs4iNFjspOMMw=="
+    },
+    {
+      "name": "Maria Fornuto",
+      "gender": "Female",
+      "city": "Victor",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "h9+nfyXW92vDE90FYsjq6w=="
+    },
+    {
+      "name": "Nathaniel Foster",
+      "gender": "Male",
+      "city": "Clifton Springs",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "1cDI+Yy6BJhSzqOqY/oz3Q=="
+    },
+    {
+      "name": "Jackie Fox",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qM46prTf9uoIndmQagq3AA=="
+    },
+    {
+      "name": "Margo Fox",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "qwRgbZbnFbdNDGCHETaePg=="
+    },
+    {
+      "name": "Georgia Franklin",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "GKJliYDOF7pGYXlTPIvBcw=="
+    },
+    {
+      "name": "Catherine Fuller",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/27/2025",
+      "usta_id": "yofU37r9oaHuAE1+5dGUQw=="
+    },
+    {
+      "name": "Taylor Futerman",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Yd2c46An2AtgktrxVDfSGA=="
+    },
+    {
+      "name": "Meredith Gager",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "32V55ExgybsjXkVr0wJOwQ=="
+    },
+    {
+      "name": "Amanda Galley",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "VF97PZRZmyBmynW9Tfle7A=="
+    },
+    {
+      "name": "Julie Gambill",
+      "gender": "Female",
+      "city": "Victor",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/26/2025",
+      "usta_id": "FX9SofVNK/b8W2+za0PIKg=="
+    },
+    {
+      "name": "Laurel Garber",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "9txE7enaqOJanELDzblW/g=="
+    },
+    {
+      "name": "Melissa Garofalo",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HrZsuBQ1eYWqLkDuvlyjBA=="
+    },
+    {
+      "name": "Holly Geary",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1sp6ZgJxm9B+t2bXphsAJA=="
+    },
+    {
+      "name": "Kelly Geary",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/3/2025",
+      "usta_id": "v8pLK8jqUpL65/OqI9dOew=="
+    },
+    {
+      "name": "Bernadette Gens",
+      "gender": "Female",
+      "city": "Fredonia",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "GVGyhkjWaiNMbx0w0NJ2Pg=="
+    },
+    {
+      "name": "Shelby George",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M+6fxnkWp88dZmwGSaI8NA=="
+    },
+    {
+      "name": "Dawn Gershenfeld",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "61F0ZXC+t/c6r062Gys3Nw=="
+    },
+    {
+      "name": "Riley Gianniny",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "sGOqFNjyNtDD0GckprGsEQ=="
+    },
+    {
+      "name": "David Gibbons",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h9egglwWdsIxh2ZiGQt2hA=="
+    },
+    {
+      "name": "Kate Gibbons",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jBaKaFj3UN3VSO+357jtDA=="
+    },
+    {
+      "name": "Richard Gifford",
+      "gender": "Male",
+      "city": "Retsof",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "We4xo+GH8M26lrWbE2Udag=="
+    },
+    {
+      "name": "Victoria Gilbert",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J+ZCLCnsFWL+lDBQAQMP4g=="
+    },
+    {
+      "name": "Josh Gingrich",
+      "gender": "Male",
+      "city": "West Henrietta",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "01oRiPX1FtbZOauP6mXlWA=="
+    },
+    {
+      "name": "Wendy Gladstone-Brown",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QqRWPIZLPO4yqnnKKn7Z8w=="
+    },
+    {
+      "name": "Debra Go",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hOJwhN69SPmszgtxph0N0w=="
+    },
+    {
+      "name": "Julie Goldblatt",
+      "gender": "Female",
+      "city": "PITTSFORD",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1VsIi7dJzGm2g7TcDPnPjg=="
+    },
+    {
+      "name": "Yelena Goncharov",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/25/2024",
+      "usta_id": "rt4XoQ1k9yaA1YcVE1yJ9g=="
+    },
+    {
+      "name": "Carolina Gonzalez",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/22/2025",
+      "usta_id": "iKmbyEk8f9I39AALOA0xtQ=="
+    },
+    {
+      "name": "Eliza Gonzalez",
+      "gender": "Female",
+      "city": "Brockport",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "QqRWPIZLPO4uhzMPAA79MQ=="
+    },
+    {
+      "name": "Elizabeth Goodman",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PovZC5HPFayS56oR++LVyw=="
+    },
+    {
+      "name": "Kenneth Gordon",
+      "gender": "Male",
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "OU5mcWnuPiDu7RORPHkysA=="
+    },
+    {
+      "name": "Leah Gordon",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "4h16ybobvI+dv64hh7oVdw=="
+    },
+    {
+      "name": "Katherine Gorom",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "JC4utvv15CF0gYSMO9yxvA=="
+    },
+    {
+      "name": "Cheryl Gossin",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/2/2024",
+      "usta_id": "3qAbFvNzbRvi/xUWLR2Cog=="
+    },
+    {
+      "name": "Carolyn Grant",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "zNVNf4soDD+CsqVuSLxWKA=="
+    },
+    {
+      "name": "Alana Green",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "Nba3YIMMu2uJni5pzJJKCg=="
+    },
+    {
+      "name": "James Green",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6M4bdn318TVzhzEickkzPQ=="
+    },
+    {
+      "name": "Lori Green",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w/iobcKwooItQcuhKMpYYw=="
+    },
+    {
+      "name": "Abbey Greendyke",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "FJJGdEhbZXSNFlzFVcJTwQ=="
+    },
+    {
+      "name": "Amy Grower",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "7UY+kskmEmRYdvZRBbw7vg=="
+    },
+    {
+      "name": "Madelyn Gruber",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "dLtWj2zEU3u8t4+Y1irHCg=="
+    },
+    {
+      "name": "Rotem Haddas",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "BHJqpI60UKUx7+pCo+uJKQ=="
+    },
+    {
+      "name": "Julie Haggerty",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/16/2024",
+      "usta_id": "ZifqbugY65kstEsT7psQkQ=="
+    },
+    {
+      "name": "Kassie Haitz",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "z/HqO3X/OqeLbiSSoWSAoQ=="
+    },
+    {
+      "name": "Lisa Hall",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "6O6b9NNi9pDkjR/hF9ey1g=="
+    },
+    {
+      "name": "Kerry Hallock",
+      "gender": "Female",
+      "city": "Scottsville",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "2EXnWkCDSPuQkX3YBiQrIg=="
+    },
+    {
+      "name": "Jesse Hamlin",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Y50W8oUwyelJoFVLo1xvOw=="
+    },
+    {
+      "name": "Irene Hammons",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "o3UbUa8SjIHpEreDdg94TQ=="
+    },
+    {
+      "name": "Courtney Handy",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "DEww33DjQAXMo0ruAzs4hw=="
+    },
+    {
+      "name": "Michael Hankin",
+      "gender": "Male",
+      "city": "Geneva",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/20/2024",
+      "usta_id": "nllvU3FDOJNJ9iIIH/y+sg=="
+    },
+    {
+      "name": "Mary Hanna",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "9hJIPIGLjEupyfS0w9n0Dg=="
+    },
+    {
+      "name": "Esslie Hanson",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "jitx1aZWPJ/UnMPmWYosmg=="
+    },
+    {
+      "name": "Martine Haralambides",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "m8uGc89gK/vb/gp6b0SwKA=="
+    },
+    {
+      "name": "Ashley Harman",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "3Hz92iGU+7n+4LH1JRaRJQ=="
+    },
+    {
+      "name": "Louise Harris",
+      "gender": "Female",
+      "city": "LONGBOAT KEY",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JgUNOAQ6ekrJTrshuJD5AA=="
+    },
+    {
+      "name": "Gregg Hartvigsen",
+      "gender": "Male",
+      "city": "Geneseo",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N5MxtS3G7gvFgbP0Cu2b9Q=="
+    },
+    {
+      "name": "Brenda Harvey",
+      "gender": "Female",
+      "city": "Walworth",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eH8IiK6JFjbQoYb3NcZRoA=="
+    },
+    {
+      "name": "Tonya Harvey",
+      "gender": "Female",
+      "city": "Victor",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MQ47lONfKVK2hBmG1GhRog=="
+    },
+    {
+      "name": "Lisa Hayes",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "whTY6jr7DdmvkTs7tkQCOQ=="
+    },
+    {
+      "name": "Chad Heatwole",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9vmt4GJZPIFzyAQxvOU0uw=="
+    },
+    {
+      "name": "Norah Hegarty",
+      "gender": "Female",
+      "city": "Macedon",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vfTiWpra8YMfZh6IgTzFsQ=="
+    },
+    {
+      "name": "Stephen Heinzelman",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z0AaehOGHO2y79cve3Y8pg=="
+    },
+    {
+      "name": "Lauren Henderson",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "7UepZRglPCbEaPS4I+O8vA=="
+    },
+    {
+      "name": "Pam Hensel",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "faW/xPZD0LG2LRJsz7936A=="
+    },
+    {
+      "name": "Rachel Herrmann",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5vmMK5Mg0S5Acm/ymwkYIA=="
+    },
+    {
+      "name": "Eric Hetzke",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JKO/KWknJqZcrAjnLO4IKA=="
+    },
+    {
+      "name": "Allyson Hiranandani",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "h1SxPrbcbPVuhVpLpAYiaA=="
+    },
+    {
+      "name": "Monica Hodis",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kXiRGOBe+bnsurpLUpg9ew=="
+    },
+    {
+      "name": "Sarah Holland",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ftWalvyCb5BSJvo57uY7gw=="
+    },
+    {
+      "name": "Elena Hollands",
+      "gender": "Female",
+      "city": "East Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/2/2025",
+      "usta_id": "0+Ckkv6TjZZr+C4nhJ1atg=="
+    },
+    {
+      "name": "Caitlin Holtz",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/7/2025",
+      "usta_id": "KOawiRutCRhAWukpU7ivwQ=="
+    },
+    {
+      "name": "Maribel Honeyford",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "CXKhPg1Lkn4vSKgdRmy0MQ=="
+    },
+    {
+      "name": "Skip Horn",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AIE6L7eFn3xpYb9V8gGeGA=="
+    },
+    {
+      "name": "Marc Horton",
+      "gender": "Male",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/22/2023",
+      "usta_id": "2DL1OWAeyhMLw3R3CBOXnA=="
+    },
+    {
+      "name": "Tina Hsu",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "KwXJCcl9/5xyA0K9pluiyQ=="
+    },
+    {
+      "name": "Hannah Huang",
+      "gender": "Female",
+      "city": "Henrietta",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/4/2025",
+      "usta_id": "w6PvDr/Xn2QQWRo1gO9/hw=="
+    },
+    {
+      "name": "Zhijian Huang",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/8/2024",
+      "usta_id": "D4R1fVnprw0O1Yh/u4Od3g=="
+    },
+    {
+      "name": "Aaron Huber",
+      "gender": "Male",
+      "city": "BILLINGS",
+      "state": "MT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MMl8StB1OdrCnU1Avv5rMQ=="
+    },
+    {
+      "name": "Traci Huber",
+      "gender": "Female",
+      "city": "BILLINGS",
+      "state": "MT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2m1TG6tO+35fuNM5fCgG7g=="
+    },
+    {
+      "name": "Caryn Hughes",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "113iBLONiP/c5922DGxn3w=="
+    },
+    {
+      "name": "Kayla Hunt",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/15/2025",
+      "usta_id": "Unpt8lAdK1cn1iGkub7Fcw=="
+    },
+    {
+      "name": "Nick Hunter",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8JW0phqK4LpuLf4wJHmjWA=="
+    },
+    {
+      "name": "Zhimin Huo",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bn2faE2bADVUhF3zohGEOw=="
+    },
+    {
+      "name": "Tim Inthirak",
+      "gender": "Male",
+      "city": "West Henrietta",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "kuwJQiw/7jpcUN3FENz2Mw=="
+    },
+    {
+      "name": "Greg Irwin",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "zOh6oqGoOgeFTy1pKfWQIg=="
+    },
+    {
+      "name": "Alison Jameson",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sn524osBHcWPxgqohNRgSg=="
+    },
+    {
+      "name": "Liping Jia",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/27/2024",
+      "usta_id": "4OkVU9TvaYuAJwxqaDRHuw=="
+    },
+    {
+      "name": "Elizabeth Johnson",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C6Ra/QoT3UVefH0adwGCow=="
+    },
+    {
+      "name": "Amy Judson",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Cf9lxGCC0q/xQyE0nsWSZQ=="
+    },
+    {
+      "name": "Lauren Kaduc",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1uxxY0+j9ilqbI7/yuI+JQ=="
+    },
+    {
+      "name": "Lisa Kahn",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "2zdVS2S9fd0W7ojVpwelrw=="
+    },
+    {
+      "name": "Heather Kaltenbach",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XhPDavjJ0yYFTo7tIr3eGA=="
+    },
+    {
+      "name": "Jennifer Karr",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "OS4cvCrkegYKFyCCzvBYlQ=="
+    },
+    {
+      "name": "Karen Keegan",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "P4Tz9IT5vSeeo99B98invw=="
+    },
+    {
+      "name": "Sara Kelch",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1QCwiLi6tIZiwkpRqQEx1w=="
+    },
+    {
+      "name": "Patrick Kelly",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2E4Gkcwoq2RSbt+B65y/RA=="
+    },
+    {
+      "name": "Trey Kernan",
+      "gender": "Male",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/5/2025",
+      "usta_id": "AxovsvPizZY/EmdJcaVtwg=="
+    },
+    {
+      "name": "Rebecca Kerr-jarrett",
+      "gender": "Female",
+      "city": "Brighton",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/15/2024",
+      "usta_id": "pVN2guVfpSwaRnUsJ8lBwg=="
+    },
+    {
+      "name": "Adam Khalil",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ahsFOSLPzmvlGhF4EzSIMg=="
+    },
+    {
+      "name": "Toni Kiddie",
+      "gender": "Female",
+      "city": "Victor",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/28/2025",
+      "usta_id": "a8h5uP1b3w0FSDMw1GO5Eg=="
+    },
+    {
+      "name": "Claudia Killigrew",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "t21kgtsISm3sbTsVOK1lGQ=="
+    },
+    {
+      "name": "Kathleen Kilmer",
+      "gender": "Female",
+      "city": "WEBSTER",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O5CZrozsRwTw9z5h2pwUuw=="
+    },
+    {
+      "name": "Ray Kim",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MU0WVOOBeOotNGWHoGPTKw=="
+    },
+    {
+      "name": "Tien Kim",
+      "gender": "Female",
+      "city": "West Henrietta",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "tVdDfbQdU++eIE7Aw7xySA=="
+    },
+    {
+      "name": "Caitlin Kireker",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "l3jGe6X3tGntvdKspeE8/g=="
+    },
+    {
+      "name": "Trudie Kirshner",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "p8t4duryPT90DUriZzrxGw=="
+    },
+    {
+      "name": "Rita Kladstrup",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "u2e0UL0oDW7KTN4dAhLj4w=="
+    },
+    {
+      "name": "Benjamin Klempka",
+      "gender": "Male",
+      "city": "Farmington",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qjs4nE9z5U1I1pnXpx7pFQ=="
+    },
+    {
+      "name": "Emily Klempka",
+      "gender": "Female",
+      "city": "Farmington",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DQotxB6pBjJhJ7gsQ1HGWA=="
+    },
+    {
+      "name": "Stacey Klimtzak",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "rUNNd2Q5cUEGI7hucaT31w=="
+    },
+    {
+      "name": "Anthony Klintworth",
+      "gender": "Male",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "Jp+U/LyaCCqFvAQzEOBlkQ=="
+    },
+    {
+      "name": "Beth Klintworth",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KonPYFh3sOi890LXJ81ShQ=="
+    },
+    {
+      "name": "Cassandra Knight",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "wVsFz2ViqnVfArArmmf9Fw=="
+    },
+    {
+      "name": "Eugene Kobyakov",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ggU7py+QMWA/OaBYprCEYw=="
+    },
+    {
+      "name": "Kirill Kobyakov",
+      "gender": "Male",
+      "city": "Binghamton",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rpHEEX2GDy5uCeFy6YBmUA=="
+    },
+    {
+      "name": "Kris Kohler",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "61Yz9irCys+GOU4IOpvtaQ=="
+    },
+    {
+      "name": "Martha Kohn",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lHGjiIjP/JEDxEd3OfQGhQ=="
+    },
+    {
+      "name": "Anne Komanecky",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/24/2024",
+      "usta_id": "6ce3kSCCA8sYox2NO9mRUg=="
+    },
+    {
+      "name": "Laura Kottkamp",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2024",
+      "usta_id": "jCK30VTchTz4AT/c6ZXB3w=="
+    },
+    {
+      "name": "Sierra Kovar-Peltz",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IVPGtrqxgd4Bu1uOh9ZvQA=="
+    },
+    {
+      "name": "Lisa Kreienberg",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "wU2GiYE60B9s7l/GvIcyaQ=="
+    },
+    {
+      "name": "Kathleen Krenzer",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FiZ7D0JleN4bzIMIx7hyDA=="
+    },
+    {
+      "name": "Terry Krocke",
+      "gender": "Male",
+      "city": "Walworth",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7uDqMQ7h9pWgFdYWMJHUIw=="
+    },
+    {
+      "name": "Carly Krystyniak",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/13/2024",
+      "usta_id": "088X4RAR/dlSO8piSmyytw=="
+    },
+    {
+      "name": "Caroline Kunze",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t9jBFi8pSnoMPWTDST+s1A=="
+    },
+    {
+      "name": "Konstantin Kunze",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "we2Eok9LTs892cih7vy4Kw=="
+    },
+    {
+      "name": "Caroline Kurzweil",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LouBou8+F3YTsl/msc6t6w=="
+    },
+    {
+      "name": "Grace Kurzweil",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O1CWu9jGJjoF3ebXxdqVQw=="
+    },
+    {
+      "name": "Jim Lancer",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GcJ/V+NiBv/46yjQ9J4GLA=="
+    },
+    {
+      "name": "Lisa Lange",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dnhk7cpYA62y6wObh2T3IA=="
+    },
+    {
+      "name": "Justin Lansinger",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UceCqSYAF6SFruEhY9mZEg=="
+    },
+    {
+      "name": "Bridget Larimer",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1tGElOg2vNnI+C0d3rFFTg=="
+    },
+    {
+      "name": "Kathleen LaRocco",
+      "gender": "Female",
+      "city": "Stuart",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4RFo07IPBH4iDGRpyEba0w=="
+    },
+    {
+      "name": "Aarne Lees",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q8mkQmD4yzJrfmaixXHo1A=="
+    },
+    {
+      "name": "PAULA LEHMANN",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "kI96UXrdiihW+nYDmAOm5w=="
+    },
+    {
+      "name": "Bridget Leipold",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/7/2025",
+      "usta_id": "uxtrK35wEfnZsg0u8rTF9A=="
+    },
+    {
+      "name": "Katie Lennox",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "OpvDjrDhOjMPi2EjGj/WgA=="
+    },
+    {
+      "name": "Candice Leonard",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vGwTvh90gxNFWnN5E5rttQ=="
+    },
+    {
+      "name": "Elizaveta Letoshko",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "kgnygI8dqyudlLoa5nnTXg=="
+    },
+    {
+      "name": "Alice Lewis-Hickey",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aWuZhzy6cHBVXwURhGiFFw=="
+    },
+    {
+      "name": "Wen Li",
+      "gender": "Female",
+      "city": "West Henrietta",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "EtHhguRGtH4aCZE6uC7EPA=="
+    },
+    {
+      "name": "Mitch Linder",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r+nalLbhDGJSkdNetp1TXA=="
+    },
+    {
+      "name": "Anthony Lisi",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p/JQ1PARj8RNbg5Tp5HsFg=="
+    },
+    {
+      "name": "Benjamin Liu",
+      "gender": "Male",
+      "city": "FAIRPORT",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EMhBZUS90wvCWooskCX6rA=="
+    },
+    {
+      "name": "Mark Liu",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "J2mzn7NXMtU8yC3kNHOerA=="
+    },
+    {
+      "name": "Natalie Loh",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/16/2025",
+      "usta_id": "PKvCoasfvf0/Iw0GcsHgzw=="
+    },
+    {
+      "name": "Sarah LoVerdi",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1Z6EXCDcLV+szWKrOZLnAQ=="
+    },
+    {
+      "name": "Pam Lowe",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "7+58ZW1umQCUFvKC9N2Otw=="
+    },
+    {
+      "name": "Julie Lunghino",
+      "gender": "Female",
+      "city": "East Amherst",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hOZhjc7V6frI8qN9hKJENg=="
+    },
+    {
+      "name": "Sarah Lunn",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "VcHfRePIxljbNrDMWw1MuA=="
+    },
+    {
+      "name": "Tyler Luong",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/81WKdZAqdg20IZDWIdDrQ=="
+    },
+    {
+      "name": "Tim Lyon",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sm0whJero/mf/54LzYMi0g=="
+    },
+    {
+      "name": "Christina Maccracken",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "pobLfwYNkRdJsxPcj5ySOw=="
+    },
+    {
+      "name": "Daniel Maffia",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yZsEt9h8M7wkegQg1HoO4A=="
+    },
+    {
+      "name": "Catherine Magee",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "G1k0Er4ddfzLCVGyCvqP/g=="
+    },
+    {
+      "name": "Patti Mahar",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F1JPnAFFI1vLtcrJz2GKLA=="
+    },
+    {
+      "name": "Kelly Makarowsky",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Gy30rABnSzFBTdQlDBG59A=="
+    },
+    {
+      "name": "Chelsea Malley",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "fahmk1/xMwq90bWqfwIjHw=="
+    },
+    {
+      "name": "Michael Mares",
+      "gender": "Male",
+      "city": "Sodus",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8CG6DpEgW1PYIPlxJT49OA=="
+    },
+    {
+      "name": "Chris Mariano",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "QvMd5Wzsckr1E4QQznN6Ag=="
+    },
+    {
+      "name": "James Marino",
+      "gender": "Male",
+      "city": "Victor",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v8C93bmxiXHjiTBqscSroQ=="
+    },
+    {
+      "name": "David Marshall",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f85lDR6eYOOWUrTdcJ2JJw=="
+    },
+    {
+      "name": "Ann Martin",
+      "gender": "Female",
+      "city": "Victor",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hujbdnIVIt8za7Tx4EJGiA=="
+    },
+    {
+      "name": "Marguerite Martin",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Y50W8oUwyeksKLijaZxItg=="
+    },
+    {
+      "name": "Matthew Mason",
+      "gender": "Male",
+      "city": "PENFIELD",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jFDBtnOC6A3hcfwPP3srCA=="
+    },
+    {
+      "name": "Jeff Mastin",
+      "gender": "Male",
+      "city": "Victor",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/25/2025",
+      "usta_id": "cdo6fYqzxVCU7X3ubmjWYw=="
+    },
+    {
+      "name": "Maria Mauntel",
+      "gender": "Female",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "YGnH26LTROr76L6sTPxGEw=="
+    },
+    {
+      "name": "Joseph McClaney",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PBDWqYiCoVt3suyn+IZ+FQ=="
+    },
+    {
+      "name": "Lisa McConnell",
+      "gender": "Female",
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pwtpvi+JBkjf9cFyjS+7jA=="
+    },
+    {
+      "name": "Beth McDermott",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kzXlXhX7gkfKtzgba7y8BA=="
+    },
+    {
+      "name": "Laura Mcdonagh",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/2/2024",
+      "usta_id": "IZU5JIzr7GUGda8HdbE0XA=="
+    },
+    {
+      "name": "Courtney McDonough",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "EsieezkNjtNbfvh3HXISnw=="
+    },
+    {
+      "name": "Anne McFarland",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "h9fWWRo8FHCpjVNaVfwaeg=="
+    },
+    {
+      "name": "Roseann McGee",
+      "gender": "Female",
+      "city": "Estero",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6pmf5XH6f7eM7MoIztQpjA=="
+    },
+    {
+      "name": "Brendan McGlynn",
+      "gender": "Male",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "dSvW4gwfEyA7E6HEB+7N5g=="
+    },
+    {
+      "name": "Karen McGraw",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "h1SxPrbcbPWvSdpaxKz+8Q=="
+    },
+    {
+      "name": "Jacqueline Mckenna",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ay7U6YSOrISTn32nBOUdNQ=="
+    },
+    {
+      "name": "Martha McKenna",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2024",
+      "usta_id": "6ZYsA57R2VG2ia1OnKh3rg=="
+    },
+    {
+      "name": "Deborah McKnight",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jolaBlH23LPiiF6XMmyqxw=="
+    },
+    {
+      "name": "Joseph Mead",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/20/2024",
+      "usta_id": "dqRsOPledNlEWSlTobAajw=="
+    },
+    {
+      "name": "Amy Mealey",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "l08B8ckS3E9DO7nrJdo6eA=="
+    },
+    {
+      "name": "Cynthia Medley-Evanetski",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iHfDO4A++HSShhFdmkwS1w=="
+    },
+    {
+      "name": "Kurt Meichtry",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fH+/3dypJM+cWFYteQdFjQ=="
+    },
+    {
+      "name": "Jason Mejak",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/26/2025",
+      "usta_id": "qXo8y1Vq+UV1AUaZ5PJQqg=="
+    },
+    {
+      "name": "Joanne Mendiola",
+      "gender": "Female",
+      "city": "Buffalo",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lAa3ivktU1aAz51fNbYmpw=="
+    },
+    {
+      "name": "Lori Merkel",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FcM7uNyyCNbW7Mswxn7/kQ=="
+    },
+    {
+      "name": "Teresa Metcalfe",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bCeOrVI3uGj2/gMAz2QhYA=="
+    },
+    {
+      "name": "Aldo Mey",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j5S7w+l2V6HcPClRtYu02w=="
+    },
+    {
+      "name": "Regina Michener",
+      "gender": "Female",
+      "city": "WEBSTER",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "x3p9vqZprPw17+SUg0yZbQ=="
+    },
+    {
+      "name": "Andrew Miller",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fy8OtlFfJmvI79R3IUxL3w=="
+    },
+    {
+      "name": "Andrew Miller",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yv4iNo4RlPsmvHYb782VmA=="
+    },
+    {
+      "name": "Grace Miller",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KvPwhDB8OhQ/AEVUYUq2+w=="
+    },
+    {
+      "name": "John Miller",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jVphfNskLwVk8PTZjACXew=="
+    },
+    {
+      "name": "Sara Miller",
+      "gender": "Female",
+      "city": "Farmington",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "98jE9uUXikYNSJy1Y/qWIA=="
+    },
+    {
+      "name": "Jane Milliman",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "QuuDtl14N9k645hpNJncBg=="
+    },
+    {
+      "name": "Pat Mitchell",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "f2MhpsQXkQzja8I3BupQzA=="
+    },
+    {
+      "name": "Selwyn Mitchell",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2R8wUR5ON7dK0Xkh/kbKBQ=="
+    },
+    {
+      "name": "Ankur Mody",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kMIGcInlJuEUT4+9p805ag=="
+    },
+    {
+      "name": "Sambit Mohapatra",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wrMSCsMclEqjxjxLJR8DDQ=="
+    },
+    {
+      "name": "Chris Monaghan",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "5bEomRV8ofRaYZ3FLx8DTQ=="
+    },
+    {
+      "name": "Arlene Monte",
+      "gender": "Female",
+      "city": "East Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MrWJJUhqp3/X0sMC5+yKXg=="
+    },
+    {
+      "name": "Meghan Moore",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "74FiAx10IhUYbLIKwj8sjw=="
+    },
+    {
+      "name": "Adam Moran",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6bHncQ8F8FCmVB1WTKrARg=="
+    },
+    {
+      "name": "PK Morley",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "zi0bfzRsiyVWbQWfwMAjwg=="
+    },
+    {
+      "name": "Cecile Morris",
+      "gender": "Female",
+      "city": "Buffalo",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fN713A1OFWv+BBS35XHFrQ=="
+    },
+    {
+      "name": "Sarah Morrissette",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "XjTXNVCUt7zbW+XVzKvqjA=="
+    },
+    {
+      "name": "Alexandra Morse",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "jOm8hjju9QNPsn6zuTybyA=="
+    },
+    {
+      "name": "Maureen Morse",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "bSl3sUjMd7W2fi1sX9aE/w=="
+    },
+    {
+      "name": "Brian Mosher",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OLFjRuJ/uQxg0koVf7Ofag=="
+    },
+    {
+      "name": "Kathleen Mosher",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RjuVyfUr2WCN6UgXP62xSQ=="
+    },
+    {
+      "name": "Ryan Mott",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FMTOmiXUGK0eh60oLFr1vA=="
+    },
+    {
+      "name": "Sarah Muhlbauer",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "qY38Fqxupz1COYzwp2f5Yw=="
+    },
+    {
+      "name": "Laura Mullin",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/23/2025",
+      "usta_id": "g6b6+oW7KhbJVyrGcyBWfQ=="
+    },
+    {
+      "name": "Jane Mulvehill",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QM2JpjYDybCh7pa7qpptFA=="
+    },
+    {
+      "name": "Margaret Murphy",
+      "gender": "Female",
+      "city": "NAPLES",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Y0eL6TWcsLhJid7ooVIaZw=="
+    },
+    {
+      "name": "Carly Napie",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "h1SxPrbcbPVMPxNqespliA=="
+    },
+    {
+      "name": "Ali Napier",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "7XQ7HqoSPG/jOanc2Es6dg=="
+    },
+    {
+      "name": "Sharon Napier",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FcfL0SozdIwAV0CqT28Mxw=="
+    },
+    {
+      "name": "Devon Natapow",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ElYJsEXRavY9NyqJNgeoQw=="
+    },
+    {
+      "name": "Karen Nead",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bcA+YXwwpnGUhBBPFdKRdg=="
+    },
+    {
+      "name": "Michelle Neal",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "lLVyeoEfcWWQjqUmCtgZPw=="
+    },
+    {
+      "name": "Claudia Nealon",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1F/YMCv2qoO8Nsqavb060A=="
+    },
+    {
+      "name": "Uliana Nedelko",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8UJzz3ZYhL2fmP8FuiF02w=="
+    },
+    {
+      "name": "Yulia Nedelko",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j4mI/5u+c/DOvrYhUXEWxA=="
+    },
+    {
+      "name": "Bridget Negri",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "L3DVesDm0Z6ziQH0BhjDDQ=="
+    },
+    {
+      "name": "Matt Nespoli",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/6/2023",
+      "usta_id": "UuTPvNLJ58EvDDVoaLEwCQ=="
+    },
+    {
+      "name": "Caroline Nestro",
+      "gender": "Female",
+      "city": "Springwater",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "A0oQGzPWtKyuBAc5ri+v9A=="
+    },
+    {
+      "name": "Deborah New",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v6Mzb0TeHzJD0ekg3RzhNA=="
+    },
+    {
+      "name": "Mandy Newell",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "oGn1qcT1HgdBSlLnMcdCKw=="
+    },
+    {
+      "name": "Paula Newlands",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "nDVIhlPtWccMG9YdibJqew=="
+    },
+    {
+      "name": "Kevin Nowack",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gncyFahEQXtPuBiwXtwXyA=="
+    },
+    {
+      "name": "Carolyn Nutting",
+      "gender": "Female",
+      "city": "PITTSFORD",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "E9yLzoJILYv5S4KruUOrLw=="
+    },
+    {
+      "name": "Nancy O'Brien",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3iejvYQGKESYkUTNFD56Iw=="
+    },
+    {
+      "name": "Joan O'Byrne",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/20/2025",
+      "usta_id": "JPlxmZVfQuBRkHmvagxnvQ=="
+    },
+    {
+      "name": "Catherine Odenbach",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/28/2024",
+      "usta_id": "YCo89PDoOsOMRJTvvXOw5A=="
+    },
+    {
+      "name": "Julie Odenbach",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "3azAFt9DAUIAcMQfKsRNDQ=="
+    },
+    {
+      "name": "Sara Odenbach",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "l3jGe6X3tGmkj8cfnhDBhw=="
+    },
+    {
+      "name": "Tenley Odenbach",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "H6Boi9+v41S/zJEMfI80Aw=="
+    },
+    {
+      "name": "Susan Odonovan",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D6K80Fi4GWUi6mfnWTd6aQ=="
+    },
+    {
+      "name": "Maryann Ogden",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "TA0OyWnr4gNquF4KTOpU3g=="
+    },
+    {
+      "name": "Alaina Okeefe",
+      "gender": "Female",
+      "city": "Geneseo",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/13/2024",
+      "usta_id": "B2KDqt+hV5S7qfKmpVJUKg=="
+    },
+    {
+      "name": "Allison O'Malley",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "CFjS2cbAm9nL2WKEMjyYTQ=="
+    },
+    {
+      "name": "Ruth ORegan",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "YoXcfV4rZj9NGvIXtgvDKg=="
+    },
+    {
+      "name": "Amber Orlando",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g5lasjv/zT9nKbIIm2/nsA=="
+    },
+    {
+      "name": "Mark Orloff",
+      "gender": "Male",
+      "city": "Scottsville",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "06UVYh3gp5WoQXLbAB1NAA=="
+    },
+    {
+      "name": "Renee Ortiz",
+      "gender": "Female",
+      "city": "FAIRPORT",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y//E0vy4g9udB1YM78xS6A=="
+    },
+    {
+      "name": "Lauren Paddock",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "fahmk1/xMwp4EtscGxZ0CQ=="
+    },
+    {
+      "name": "Joanne Parkes",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ip38Z5qP39FssRzyvEjqxQ=="
+    },
+    {
+      "name": "Hillarie Parrinello",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "NOaeQNWX6Hrw2dvWic2aKA=="
+    },
+    {
+      "name": "Kathy Parrinello",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "x6QLS1RQ4keVlr0mARhBsQ=="
+    },
+    {
+      "name": "Sheri Parrinello",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "2CEqkK2Yb5gZ6/BzhvBfdg=="
+    },
+    {
+      "name": "Linda Partelow",
+      "gender": "Female",
+      "city": "Lyons",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mr4acSSn5AyAby55NK3I+A=="
+    },
+    {
+      "name": "Julie Pasternack",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "9XRnh9vvjmQHa4fGlpVvTQ=="
+    },
+    {
+      "name": "Mark Pastorella",
+      "gender": "Male",
+      "city": "Spencerport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y1bOvZamwNgVbV21BEfi2A=="
+    },
+    {
+      "name": "Jennifer Paul",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "6ZYsA57R2VGGaUJUpINQEg=="
+    },
+    {
+      "name": "Christopher Peets",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1zJAh+oEtg5TzJe5YpujYg=="
+    },
+    {
+      "name": "Nicole Pereira",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "da1Zid9YN8ROAnh21MD9nw=="
+    },
+    {
+      "name": "Karen Perna",
+      "gender": "Female",
+      "city": "Williamsville",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oMUt5kkXWcpRP76UlWMqiw=="
+    },
+    {
+      "name": "Marni Phillips",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "pzrBO9urtpvAVgfJLXMUdw=="
+    },
+    {
+      "name": "Sandra Picerno",
+      "gender": "Female",
+      "city": "BUFFALO",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8lF5JWk4MCy8ml0BzUG/nw=="
+    },
+    {
+      "name": "Lynn Pierce-Morey",
+      "gender": "Female",
+      "city": "Farmington",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bdIcFPIZ1Uw94junYnnbdw=="
+    },
+    {
+      "name": "David Pillinger",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "rUBYnaPX2WCWqVDZ4NhlXg=="
+    },
+    {
+      "name": "Ann Pillman",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "z/4lInuWEDlp7Td/5Agp8w=="
+    },
+    {
+      "name": "Trish Pino",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Um3Wrj8yi025LXixONiB8w=="
+    },
+    {
+      "name": "Steven Plouffe",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/18/2025",
+      "usta_id": "WE9K65hnYC6bKMfIyZjo7w=="
+    },
+    {
+      "name": "Stacey Pollack",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/12/2025",
+      "usta_id": "0B3Qg64O3G0x241dWFDwmw=="
+    },
+    {
+      "name": "Kaylee Pollitt",
+      "gender": "Female",
+      "city": "Henrietta",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "rPGSEK3NVEjqOGe5010ECQ=="
+    },
+    {
+      "name": "Jennifer Ponce",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4gJZaJb27jv26agWkVrvZg=="
+    },
+    {
+      "name": "Scott Pranis",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "n5IBk4wIzHXwddZs948LHA=="
+    },
+    {
+      "name": "Linda Pringle",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "0KNTG9RHwDtTaItZvmS3OQ=="
+    },
+    {
+      "name": "Nicholas Proukou",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/28/2025",
+      "usta_id": "B9el8iOrNHG7xy4FBL4EXw=="
+    },
+    {
+      "name": "Chad Pruner",
+      "gender": "Male",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+49/eOijNSHrAGYZKIPqhQ=="
+    },
+    {
+      "name": "Courtney Pulire",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "k5vKW9QCgAyKmr7NgUL/7g=="
+    },
+    {
+      "name": "Laurie Quackenbush",
+      "gender": "Female",
+      "city": "Penn Yan",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "nQSE8TYA19l+gGA3RdRC5Q=="
+    },
+    {
+      "name": "Vimal Seshadri Raguraman",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "qj+4ztspE2lusMMQWVz65g=="
+    },
+    {
+      "name": "Heather Ralph",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "zKxggw6mnl/R80YOiNp6Rw=="
+    },
+    {
+      "name": "Amy Ramage",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "nP37E9wYYN12f0bPDVHmQQ=="
+    },
+    {
+      "name": "Hayley Reed",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/17/2024",
+      "usta_id": "vfTiWpra8YOThmFgSZsB9Q=="
+    },
+    {
+      "name": "MAGGIE REILLY",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yv4iNo4RlPsZHLXiWEBbmA=="
+    },
+    {
+      "name": "Luanne Reinis",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "yBIWLkE1xRyURyRZO1iWtg=="
+    },
+    {
+      "name": "Kayla Relph",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V8VzjiTA8TuEROhFE5rjnQ=="
+    },
+    {
+      "name": "Stephen Repass",
+      "gender": "Male",
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gtpLoI2Zt3L1JUnYBsb8+w=="
+    },
+    {
+      "name": "Sara Ressler",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2024",
+      "usta_id": "wk89/b8vCRjfK2KarjOagQ=="
+    },
+    {
+      "name": "Amit Revankar",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CFjS2cbAm9nfmjp0DbaodQ=="
+    },
+    {
+      "name": "Marie Revekant",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "hXZSkFidt7KTW5N0P6oKqQ=="
+    },
+    {
+      "name": "Susan Reynolds",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/15/2024",
+      "usta_id": "KexybbEuxdXWp/kLBRLcUg=="
+    },
+    {
+      "name": "Trevor Ritchie",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9N9ZayQN/ftSWB8shIgSOQ=="
+    },
+    {
+      "name": "Carli Rivers",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZwwnFWzXOeAIekveCuTtWw=="
+    },
+    {
+      "name": "Cion Robert",
+      "gender": "Female",
+      "city": "PITTSFORD",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "EeH4WL6UcE00OFxNA38k6g=="
+    },
+    {
+      "name": "Melanie Robinson",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "v3IKH/hZ2g/sHUUtmXCc1g=="
+    },
+    {
+      "name": "Ryan Robinson",
+      "gender": "Male",
+      "city": "Marion",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "luHB8IBlzAo9Htv9J7+I2A=="
+    },
+    {
+      "name": "Laura Rocca",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "0u7Uzx3TmJcCQ3K5Gua4QA=="
+    },
+    {
+      "name": "Alissa Roger",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1rMU7E8RYId20jv0kNK7rw=="
+    },
+    {
+      "name": "Tammy Roman",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sWaQrT3JtWtbuVNe+H/DKw=="
+    },
+    {
+      "name": "Erika Rosenberg",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ykRbK9Von0fDjQcuSqTA1g=="
+    },
+    {
+      "name": "Lauren Rubin",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "10/2/2024",
+      "usta_id": "9CQPnewoC63NGAXpOxKm4w=="
+    },
+    {
+      "name": "Ginger Ruff",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "PxFtoi+h2ONnYyrv7hpsMA=="
+    },
+    {
+      "name": "Mary-Beth Rumble",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hbvpgDkBaNjnRiAVJBT9xQ=="
+    },
+    {
+      "name": "Abigail Runner",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "umjj8lj3+H9zhJqslBj/RA=="
+    },
+    {
+      "name": "Tricia Rupright",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cb+tMVoq+0GpyG3viAs27g=="
+    },
+    {
+      "name": "Carol Ryan",
+      "gender": "Female",
+      "city": "Macedon",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "se6SVAk24OlsWOumbbX7tw=="
+    },
+    {
+      "name": "Gary Saffran",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/24/2025",
+      "usta_id": "i0FmCW9JgePAfZvTfHG9Fw=="
+    },
+    {
+      "name": "Jacob Saffran",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LS8NdG6dJT8NdL8cpt0PoQ=="
+    },
+    {
+      "name": "Laurie Saffran",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aQa1G/9fzxf03bUoNQSrRQ=="
+    },
+    {
+      "name": "Robert Salmon",
+      "gender": "Male",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gpSeVtg6300mV+lcddpDVw=="
+    },
+    {
+      "name": "Juliana Sass",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "dG3SgFBLq3iFq2P3vdJyhw=="
+    },
+    {
+      "name": "Kathleen Savage",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3jco8/yStLPPu0sk8LL4IA=="
+    },
+    {
+      "name": "Nicole Sayers",
+      "gender": "Female",
+      "city": "Mendon",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B1qmNCcwv6G8xYZqV2l/bg=="
+    },
+    {
+      "name": "Laura Scarpati",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "9txE7enaqOLjruMQEWyxFA=="
+    },
+    {
+      "name": "Astride Schifano",
+      "gender": "Female",
+      "city": "Scottsville",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aJghBIHvGXRj8vwY7Zjpsw=="
+    },
+    {
+      "name": "William Schoepfel",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2024",
+      "usta_id": "NsR28KfuT7waokdIQK1kiQ=="
+    },
+    {
+      "name": "Elizabeth Schuber",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IxufiUPXQb0BzsYirqO9dA=="
+    },
+    {
+      "name": "Daniel Seaberg",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ESroOLUHVVXhZhCFaYaERQ=="
+    },
+    {
+      "name": "Kristi Seaver",
+      "gender": "Female",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RthtuxYVv4YzGi1UdME5mQ=="
+    },
+    {
+      "name": "Scott Seaver",
+      "gender": "Male",
+      "city": "Fairport",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "404C45LO0BGWJMavvYYPsA=="
+    },
+    {
+      "name": "Alexandria Sebastian",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "JuyFAE5BQtxZnBXyDrwJzg=="
+    },
+    {
+      "name": "Jessica Shanahan",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "dtQ9qr42kVlXdEb44qcWTQ=="
+    },
+    {
+      "name": "Elizabeth Sharpe",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "efqZBd0L290M1etMv1Om1w=="
+    },
+    {
+      "name": "Anne Shea",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "whTY6jr7DdmTVoSGDrBULg=="
+    },
+    {
+      "name": "Stephanie SheakGreen",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SzF5mGWqPnx+F4HbvimAMQ=="
+    },
+    {
+      "name": "Kirill Shebalin",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w2E2VfzNfFvCLk755SuKmg=="
+    },
+    {
+      "name": "Jeannine Sheehan",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "+/cBWgDZt1viv1bgUG42JA=="
+    },
+    {
+      "name": "Katie Shepard",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2rIcW3HkokYzA4EGDVpCcA=="
+    },
+    {
+      "name": "Kyle Sherry",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DPcUATYghS1Hnn1GeQHH8A=="
+    },
+    {
+      "name": "Lynne Shoars",
+      "gender": "Female",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NzRt4eBu6p2lojX4kMoCDw=="
+    },
+    {
+      "name": "Tom Shone",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "wRuiIbZPLrEIoiCClb3/Cg=="
+    },
+    {
+      "name": "Amanda Siebert",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Z/vt5Mgi7ayKecd5updyIQ=="
+    },
+    {
+      "name": "Beth Siebert",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "d8ibJlr+/snXqm2iSH43hQ=="
+    },
+    {
+      "name": "Jacqueline Sinclair Parker",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ctKMf8VsmioZenCE/6XNnQ=="
+    },
+    {
+      "name": "Tara Skidd",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "qk7QHZg3lNPoynJ52my4AQ=="
+    },
+    {
+      "name": "Alexandra Sloyer",
+      "gender": "Female",
+      "city": "Victor",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "10/29/2024",
+      "usta_id": "JfzIltohcPxCNPq5IgVE3w=="
+    },
+    {
+      "name": "Anne-Marie Smith",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "y280Hd/L6Lg2ex1mPZl0CA=="
+    },
+    {
+      "name": "Jamie Smith",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "mEHDbXA31OGFF3wRqGSl5g=="
+    },
+    {
+      "name": "Darcy Snow",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "nc4F6t/Kxh53mvPIbP2VnQ=="
+    },
+    {
+      "name": "Jody Sokal",
+      "gender": "Female",
+      "city": "Honeoye Falls",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vVQBQh/Q425cUNeuTMDmgg=="
+    },
+    {
+      "name": "Kathleen Spellane",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mYF4S3pWMY1Vy+wwgKNd0w=="
+    },
+    {
+      "name": "Amanda Spencer",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "pFR7ESk/y3NYavUm6Meq0g=="
+    },
+    {
+      "name": "William Spencer",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sgFZOm4qY0t+iaM3rcNaag=="
+    },
+    {
+      "name": "Anna Spin",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "ziGQ152I3NVfQpM8PFNr5w=="
+    },
+    {
+      "name": "Amy Spindler",
+      "gender": "Female",
+      "city": "Macedon",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/18/2025",
+      "usta_id": "mzRJZ368E115XpiqGOv40Q=="
+    },
+    {
+      "name": "Keith Stanley",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "LSQZtEtMdc3Q2AcWZ98rEQ=="
+    },
+    {
+      "name": "Keri Stanley",
+      "gender": "Female",
+      "city": "WEBSTER",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LSQZtEtMdc26E3IVFEa+WA=="
+    },
+    {
+      "name": "Jason Stephens",
+      "gender": "Male",
+      "city": "Northville",
+      "state": "MI",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "2/26/2025",
+      "usta_id": "eB6WPBqJ4jDpSOInCpQXYQ=="
+    },
+    {
+      "name": "Tiffany Stern",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1iVmVhqDJVVwOQcfTwFLbQ=="
+    },
+    {
+      "name": "Anne Stevens",
+      "gender": "Female",
+      "city": "Le Roy",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/11/2024",
+      "usta_id": "jt6HpnAgOQ994Tr7Pls/Jg=="
+    },
+    {
+      "name": "Katy Stevenson",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9hn/sStnVY2lku2SrrZG6Q=="
+    },
+    {
+      "name": "Brian Stohr",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OWu3tM+nLWO56AGWY4aREA=="
+    },
+    {
+      "name": "Darren Stohr",
+      "gender": "Male",
+      "city": "Cuba",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "igrh5k8migMOhMUuMjnarQ=="
+    },
+    {
+      "name": "Ania Stolarczyk",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "hul/eoeRzIk5RC/F+4FMbw=="
+    },
+    {
+      "name": "Claire Stoner",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TNxe1B4fUj+GV/k24uS3og=="
+    },
+    {
+      "name": "J Storey",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "8VIfsT/bHpErzmqi/FI/rQ=="
+    },
+    {
+      "name": "Spencer Strowe",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/26/2025",
+      "usta_id": "zOh6oqGoOgf4mETK0PoD/g=="
+    },
+    {
+      "name": "Emma Sullivan",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Nba3YIMMu2vRQtqp2oGuRQ=="
+    },
+    {
+      "name": "Charlie Swanson",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WxBlEYG+SdVyoQdD/+swbQ=="
+    },
+    {
+      "name": "Jaclyn Swanson",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "sGOqFNjyNtC/qFbJCXJ9fA=="
+    },
+    {
+      "name": "Jamie Syrett",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "88+aCcQ+LRjCBqSsCcIV5Q=="
+    },
+    {
+      "name": "Cathy Tan",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SGF98lP6vKyZG4puchXB9w=="
+    },
+    {
+      "name": "Jeffrey Tankel",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "Q0QZJb0RMs3EW6vWODGO+w=="
+    },
+    {
+      "name": "Jane Taschman",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "cccIUtHeVQYP7raIvyD4wg=="
+    },
+    {
+      "name": "Sarah Taylor",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/5/2025",
+      "usta_id": "0BEGvJy7FwtF2HwKbzXRMg=="
+    },
+    {
+      "name": "Kelley Teitsworth",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KvPwhDB8OhQPXsnwDv65xg=="
+    },
+    {
+      "name": "Brittany Texter",
+      "gender": "Female",
+      "city": "Clarence",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "DQeAL8rjDP1rJRfQYt1cmw=="
+    },
+    {
+      "name": "Elizabeth Thurnherr",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "lsjGt/mSmwX91MiViI/0ww=="
+    },
+    {
+      "name": "Mary Tilton",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "deKHhm0NsSu4EQo4sZSU0g=="
+    },
+    {
+      "name": "Helen Titus",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/YpQV9A7QjkldA2gB1bzRQ=="
+    },
+    {
+      "name": "Lauren Tomasetti",
+      "gender": "Female",
+      "city": "WEBSTER",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yQ4yBw1XY8y0yjqdm/dJuQ=="
+    },
+    {
+      "name": "Patti Tortorella",
+      "gender": "Female",
+      "city": "Naples",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "88dxR/QxAG/MET3IRqDWDA=="
+    },
+    {
+      "name": "Anne Townsend",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "kzkcjeNgdd1rShnrNUo/vA=="
+    },
+    {
+      "name": "Jackson Tran",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/JcRF4TCqJfNjwXExUPgQg=="
+    },
+    {
+      "name": "Robert Tran",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g+FXueg1rr/Y1RiFN0Z1tg=="
+    },
+    {
+      "name": "Tutrinh Tran",
+      "gender": "Female",
+      "city": "Henrietta",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "BYnMy2k70XAoUl84x8owtQ=="
+    },
+    {
+      "name": "Katie Triplett",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "qk7QHZg3lNMujG73PIki+g=="
+    },
+    {
+      "name": "Shashank Trivedi",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mVXbydo4PjF0PWrb3QqPYQ=="
+    },
+    {
+      "name": "Stephen True",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/11/2025",
+      "usta_id": "vb/heCBG1yG1kYwl2CBpSw=="
+    },
+    {
+      "name": "Nicole Tschiderer",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6K570NQg59Fc1R/vrxw2Ag=="
+    },
+    {
+      "name": "Aylin Tunay",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "6EMzTYyATVVyL/kkrFEPfA=="
+    },
+    {
+      "name": "Linh-an Tuong",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "a+d0X9Y3npqoNmFLuXlqyw=="
+    },
+    {
+      "name": "Elena Vahl",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AkMAGbekGxSI4f/byMuJlg=="
+    },
+    {
+      "name": "Julie Vander Horst",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W6NrbhfJQpwyWVDW9gDbKw=="
+    },
+    {
+      "name": "Amiee VanHout",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gQp0QEoRobFBhzdlC/ohRA=="
+    },
+    {
+      "name": "Dennis Vanill",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TepArCVwPBGn/Fdv9VzWpg=="
+    },
+    {
+      "name": "Lydia Varon",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hmVOCAe0wOv4qEzq8GZwjQ=="
+    },
+    {
+      "name": "Taylor Veenema",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EsieezkNjtNLJuKOM5C66w=="
+    },
+    {
+      "name": "David Vega",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mNkIiFAedebBT+qoWKwokg=="
+    },
+    {
+      "name": "Cyndee Verhelle",
+      "gender": "Female",
+      "city": "Naples",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Id5ltwyYRjE0SRPgFD1Kqw=="
+    },
+    {
+      "name": "Elaine Verstraete",
+      "gender": "Female",
+      "city": "MIDDLESEX",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ISJyDtyjKEjrS3yFTNeTlA=="
+    },
+    {
+      "name": "Susan Ververs",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xsEzLAE+sCTGUKmClLG41Q=="
+    },
+    {
+      "name": "Samantha Vindigni",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "c9EK/QnGC+1nEh7yGEK1bg=="
+    },
+    {
+      "name": "Wendy Vitek",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "7YEoH8UQ6THlJ7oskjv7Ew=="
+    },
+    {
+      "name": "Amy Voellinger-Wagner",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "JEluC9iXf4zGrJmxA5onIQ=="
+    },
+    {
+      "name": "Nicholas Waddy",
+      "gender": "Male",
+      "city": "GENESEO",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "x5vWtZjFnkJffq2EkNxMlw=="
+    },
+    {
+      "name": "Connor Wagner",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QGk+KU289TPwTLuEgeQOqg=="
+    },
+    {
+      "name": "Jeff Wagstaff",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/6/2025",
+      "usta_id": "QhBtBQvHJWjXOIZUQBejow=="
+    },
+    {
+      "name": "Jaclyn Walters",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Hutqd7SHFWJAqtSVi2kX4w=="
+    },
+    {
+      "name": "Stephen Watson",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/18/2024",
+      "usta_id": "WXYFNOL/PdRCBPcy9dyreA=="
+    },
+    {
+      "name": "Benjamin Webb",
+      "gender": "Male",
+      "city": "West Henrietta",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/rF5V4DDQiF+P3DlaCzyWw=="
+    },
+    {
+      "name": "Rebecca Webster",
+      "gender": "Female",
+      "city": "HONEOYE FALLS",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "EM41jkrX0Cs/RSnva/Qkbg=="
+    },
+    {
+      "name": "Mark Weimer",
+      "gender": "Male",
+      "city": "Victor",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F6NrKKXHwsFbG5LeK9oizQ=="
+    },
+    {
+      "name": "Susan Weinberg",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ZHCcUMd9N3VvHSSucnCysw=="
+    },
+    {
+      "name": "Brian Weltman",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/11/2024",
+      "usta_id": "nFysfe+UcwEAHYITQHu3hg=="
+    },
+    {
+      "name": "James Whalen",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "njOPsqJssnQUnui2Xd2VOg=="
+    },
+    {
+      "name": "Tessa Wheatley",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lOfGBhZ7b5HNzlTjaPoAHw=="
+    },
+    {
+      "name": "EIleen Whitaker",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "UdACChObvHYGunGI3HjPBg=="
+    },
+    {
+      "name": "Finn Whitaker",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "UdACChObvHYq4HAwRmekNw=="
+    },
+    {
+      "name": "Regan Whitaker",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "bA4elZfHrsSQfh6i3K8OPw=="
+    },
+    {
+      "name": "Jonel Whitcomb",
+      "gender": "Male",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/18/2025",
+      "usta_id": "CWG5FaQFS8r8hBhVifY6hQ=="
+    },
+    {
+      "name": "Grace Williams",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "lOQ0SLsBQqyHYu8dujV4GQ=="
+    },
+    {
+      "name": "Caroline Wilmot",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/24/2024",
+      "usta_id": "wLXAe8nXZSCPe0fB8Cowzg=="
+    },
+    {
+      "name": "Kathleen Wilmot",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dtQ9qr42kVklS+4K6xwFpQ=="
+    },
+    {
+      "name": "Katie Wilmot",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "JocsAGIdBMCv5zmxTMc84A=="
+    },
+    {
+      "name": "Meredith Wilmot",
+      "gender": "Female",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Cf9lxGCC0q9ZJbtTcN78mA=="
+    },
+    {
+      "name": "Shannon Wilmot",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "vvk0FsVSzrioXPb3iJFnBg=="
+    },
+    {
+      "name": "Betsy Wilson",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F/qvNv9icblkYphHKLLHnQ=="
+    },
+    {
+      "name": "Jayne Wilson",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "oQNAHWPzNNUrR6zSF7L5yg=="
+    },
+    {
+      "name": "Alexandra Winner",
+      "gender": "Female",
+      "city": "BUFFALO",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "TMkFLKYL0oWnZOdWqs+PrQ=="
+    },
+    {
+      "name": "Blair Wisner",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "+J14qHf+dwWvF2RgwZJdUA=="
+    },
+    {
+      "name": "Mark Wlodarczyk",
+      "gender": "Male",
+      "city": "Lyons",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eS4B8qqsjbdTO10tA8FW3g=="
+    },
+    {
+      "name": "Leah WOJDA",
+      "gender": "Female",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/2/2024",
+      "usta_id": "5g4n4rwOajfQwqzeKaaNIw=="
+    },
+    {
+      "name": "Kari Wolcott",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "9cVzWQeKOc/FpAKXKyPPTQ=="
+    },
+    {
+      "name": "Alicia Wolk",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "1NsA5ONcCRAacx/0gkM1Xg=="
+    },
+    {
+      "name": "Benjamin Wright",
+      "gender": "Male",
+      "city": "Olean",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "89HDQHwxPuADaNHilr3BvQ=="
+    },
+    {
+      "name": "Cory Wright",
+      "gender": "Male",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "hd2+TvNY+qCc2ODqP0fAbQ=="
+    },
+    {
+      "name": "Susan Wylie",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "yaYnOEDEsW1t6eKGG3XPTA=="
+    },
+    {
+      "name": "Sabrina Xaisanasy",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r06A/Eb97Hlse/YFzREuHw=="
+    },
+    {
+      "name": "Xunyi Xu",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mIM9Ekig9BiAfann6wNDpA=="
+    },
+    {
+      "name": "Yi Xu",
+      "gender": "Male",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2clyQHIzZW+zAfQ5UGBmvg=="
+    },
+    {
+      "name": "Qi Yang",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OhpWL2SnNMx38LoKr7rb+w=="
+    },
+    {
+      "name": "Will Yeoh",
+      "gender": "Male",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A9ysN080Mv34RTwrZgYiqw=="
+    },
+    {
+      "name": "Ethan Yung",
+      "gender": "Male",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0OZbYZjPtf8TeEqDiQFR2A=="
+    },
+    {
+      "name": "Kristen Zablonski",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yEBGC93tQddBYQ8EoGXepA=="
+    },
+    {
+      "name": "Paula Zagrobelny",
+      "gender": "Female",
+      "city": "East Aurora",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "27cNzImQTX3Gv1Jv/w8yOw=="
+    },
+    {
+      "name": "Sally Zamiara",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "U4rKOavk4RflRrI6ipi0Og=="
+    },
+    {
+      "name": "Judy Zhan",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aECbi+JUR8ZGQj0Eotm7KA=="
+    },
+    {
+      "name": "Jing Zhang",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HVoXlrTUYDo+KkeqjUCtMQ=="
+    },
+    {
+      "name": "Xinping Zhang",
+      "gender": "Female",
+      "city": "Pittsford",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "tdRhwuk9Si224H/I2vZksg=="
+    },
+    {
+      "name": "Qian Zhou",
+      "gender": "Female",
+      "city": "Penfield",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/24/2024",
+      "usta_id": "i1bO5JGT+A4/a92TOuzb7Q=="
+    },
+    {
+      "name": "Elizabeth Zutes",
+      "gender": "Female",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "C74+jlAoN4FGzk0FkyerMw=="
+    },
+    {
+      "name": "Anita Zutshi",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "DIEiiNGeUtHukP9wsLY5Xg=="
+    },
+    {
+      "name": "Tanya Zutshi",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b0svI2Ml5OxiyjNXz/ZmRw=="
+    }
+  ]
+}

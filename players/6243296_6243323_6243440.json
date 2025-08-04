@@ -1,0 +1,3857 @@
+{
+  "sectionId": "6243296",
+  "districtId": "6243323",
+  "areaId": "6243440",
+  "players": [
+    {
+      "name": "Steven Achinger",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "qJ4qEc7GqT+Hmh2oS/H4vw=="
+    },
+    {
+      "name": "Tracy Achinger",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yb0lqlG7AvLoKjdvNeAZdQ=="
+    },
+    {
+      "name": "Luis Ahumada",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QmeBxVnxKZ/MpAkY9odhTA=="
+    },
+    {
+      "name": "Lauren Albaum",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aMObGcXJmt2rCUSwlWYC7Q=="
+    },
+    {
+      "name": "Tatum Albert",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AAoAUrbNZ2CCYVQoJSirGQ=="
+    },
+    {
+      "name": "Danielle Albritton",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "kzCRvrX8Cbst8O6cOWPbxw=="
+    },
+    {
+      "name": "Gwen Allen",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X5henQa0xy/ocs5xSgxM8A=="
+    },
+    {
+      "name": "Monica Anderson",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZeHUjMXfe5Cfao+WxadujA=="
+    },
+    {
+      "name": "Yverose Andrews",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/4/2024",
+      "usta_id": "mM2uj38l8SHqj2D9PrGkfA=="
+    },
+    {
+      "name": "Nathaly Arredondo",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O2zOuNoWTQtOrZOSlNlGBQ=="
+    },
+    {
+      "name": "Jubeth Jean Arriesgado",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/25/2025",
+      "usta_id": "ei3xH42bAzevdE8jRQUTmg=="
+    },
+    {
+      "name": "Maechi Ayoola",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5ejF7laZ7dMDc9cJ++iQ5Q=="
+    },
+    {
+      "name": "Alyce Badcock",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/21/2024",
+      "usta_id": "tCRcguUgLfKKI5ztbfetWQ=="
+    },
+    {
+      "name": "Carrie Baddoura",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4OEHElYdCLaPw/cixw5Cow=="
+    },
+    {
+      "name": "Ashley Bailey",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B+07bKnODyiB3dZfgi++vA=="
+    },
+    {
+      "name": "Nolen Bailey",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2024",
+      "usta_id": "uzUfgSWkCLXl6VcfrzB5RA=="
+    },
+    {
+      "name": "Joan Baldava",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2LJyqNTaoBinlTBn6PrxQQ=="
+    },
+    {
+      "name": "Laura Barben",
+      "gender": "Female",
+      "city": "Avon Park",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bepsReYf9zGXgyHLnigXCg=="
+    },
+    {
+      "name": "Bridget Barbour",
+      "gender": "Female",
+      "city": "Thonotosassa",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vjNzCgixI20FzpjEDtK+tQ=="
+    },
+    {
+      "name": "Gina Barfield",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xtTpLtqC5egdt7EtJEIvuA=="
+    },
+    {
+      "name": "Vanessa Barfield",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tP2KtcXAN4ZZJaFp48tgag=="
+    },
+    {
+      "name": "Diane Barrera",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9vxZdi79iDJerkpWRngu5Q=="
+    },
+    {
+      "name": "Stephanie Barron",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X5henQa0xy/iPlWdImBtQA=="
+    },
+    {
+      "name": "Karen Bateman",
+      "gender": "Female",
+      "city": "Mulberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X8L1mNM64AZ3m4RAeIPNwg=="
+    },
+    {
+      "name": "Michael Bayda",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/27/2024",
+      "usta_id": "OLK4QEfsBfPYIcDrZUp0jw=="
+    },
+    {
+      "name": "Deanna Bayless",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "agXkqxJKEiAtXBqsYxtvcQ=="
+    },
+    {
+      "name": "Maya Beck",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TQ3UUPXMOSGMJDtBWDqlGw=="
+    },
+    {
+      "name": "Tessie Beltran",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PWdBznJWdgqWpU+Ch3ZViA=="
+    },
+    {
+      "name": "Sylvia Berke",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "Kce3D9AshDOX3VI9nqOd+g=="
+    },
+    {
+      "name": "Bethany Besancenez",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "6v3qvf6Ur7cmwoZ5ZxionQ=="
+    },
+    {
+      "name": "Jaryd Billups",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/12/2025",
+      "usta_id": "iJVeFFvkX1/OjaJzSxKAJg=="
+    },
+    {
+      "name": "Shelby Binns",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/29/2025",
+      "usta_id": "m/XW0GQ+XFg6Ykc0NzVPnA=="
+    },
+    {
+      "name": "Jenny Black",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tcIllDvkKqq0TO9CghhHNg=="
+    },
+    {
+      "name": "Leslie Blondell",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "JA/7NU7CTEG+MsnMbTBTTA=="
+    },
+    {
+      "name": "Heather Bogdahn",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FA3g8Mjnj1PQtGf2fOY02A=="
+    },
+    {
+      "name": "Heather Bonfil",
+      "gender": "Female",
+      "city": "Plant City",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0CHXAmKGI8pXi9vMlFhPmg=="
+    },
+    {
+      "name": "Michelle Bonilla",
+      "gender": "Female",
+      "city": "RIVERVIEW",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b4X7UBLwXM8ASyImyM05gA=="
+    },
+    {
+      "name": "Jan Borden",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OWz2UC4viMEggielHVKdVQ=="
+    },
+    {
+      "name": "Kathy Borders",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5ufKBB4iNWhGb8OqcEuR9w=="
+    },
+    {
+      "name": "Courtney Boynton",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hREtDuAPqYqw9JkY8dDTJw=="
+    },
+    {
+      "name": "Arabia Brakefield",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5A39lnB82wMIfICR624tdA=="
+    },
+    {
+      "name": "Sonya Braudway",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UoE1YQxkNLSbnrOLRMPXFQ=="
+    },
+    {
+      "name": "Jennifer Brinson",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/14/2024",
+      "usta_id": "nfifyHNcrv/DxX2ofxxXIg=="
+    },
+    {
+      "name": "Elisa Buffington",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZgIfj3j5avcQanuH21j2kQ=="
+    },
+    {
+      "name": "Cindy Burgess",
+      "gender": "Female",
+      "city": "LAKELAND",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "owDtxkeq7hweLBbwE+1VHg=="
+    },
+    {
+      "name": "Debbie Burgess",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AI/b2Nk7hgxbcv+KBxUbYw=="
+    },
+    {
+      "name": "Jennifer Burns",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WK86AQAKAZDxINJ+Z3xJzg=="
+    },
+    {
+      "name": "Melissa Butler",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VYhIguYeDh2AWm1JgVku1g=="
+    },
+    {
+      "name": "Heather Cain",
+      "gender": "Female",
+      "city": "Babson Park",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qquIzrOvZSZiF7KnqQfZ6g=="
+    },
+    {
+      "name": "Carey Campbell",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EpzlOHMdFnQvODQFY122hg=="
+    },
+    {
+      "name": "Sal Campisi",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IrI9t5qjvIF+PxXKIZHX4g=="
+    },
+    {
+      "name": "Sandra Campisi",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KHmkdqiXcPvF8PgukLyDPA=="
+    },
+    {
+      "name": "Leah Carrerou",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vebSPJ2un0nPszxJcf+ABQ=="
+    },
+    {
+      "name": "Laura Carroll",
+      "gender": "Female",
+      "city": "DADE CITY",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y+tPDN7FmYwJqIuM2TYYAw=="
+    },
+    {
+      "name": "Dayna Cassidy",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cN0GHoVEMlLdgOuB7LMpEw=="
+    },
+    {
+      "name": "Beau Charlet",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/15/2025",
+      "usta_id": "0fwneMYo3BZJVWp461ktJg=="
+    },
+    {
+      "name": "Robert Chase",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qnQdgr0fatoyQE/YGWW6sQ=="
+    },
+    {
+      "name": "Jennifer Chevalier",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "upTYnsxvyYdUMju4VdeJHQ=="
+    },
+    {
+      "name": "Jihyeon Choe",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vxyMFjMxNG9r7qhfWn1TAg=="
+    },
+    {
+      "name": "Tiffany Choe",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cQuRbw7ThSudlhhIZTVIXg=="
+    },
+    {
+      "name": "Joe Ciarlante",
+      "gender": "Male",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9XCq8Mkl3wkWPuHFr/St+Q=="
+    },
+    {
+      "name": "Anna Clark",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s8yU3cewk2mQz/jk/qRUSQ=="
+    },
+    {
+      "name": "Brandon Clark",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/29/2024",
+      "usta_id": "FhrWIas+6BKNsbC64j4KmQ=="
+    },
+    {
+      "name": "Lauren Clark",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EFilfmKk6oBoqfobMlVBjQ=="
+    },
+    {
+      "name": "Robert Cleghorn",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "cDmT/ASfG49IxXdeUsAZFg=="
+    },
+    {
+      "name": "Marilyn Clyne",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GLL5gvznCiKBg+prKbhoKQ=="
+    },
+    {
+      "name": "Jenilee Coconato",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r0l3kSZvRmurJvxXOjTVEA=="
+    },
+    {
+      "name": "Paul Colee",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h/DCE+3n66F0Sk4XtjAjBg=="
+    },
+    {
+      "name": "Joanne Collier",
+      "gender": "Female",
+      "city": "Mulberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2MdozrVhMPoTAGvJcyXAMg=="
+    },
+    {
+      "name": "Rosalinda Collins",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CN/XLfnhqPYcw4F+q3rOLA=="
+    },
+    {
+      "name": "Jennifer Copeland",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/28/2025",
+      "usta_id": "cOxfwZh71sdBnUUdw+v8Jw=="
+    },
+    {
+      "name": "Clara Copley",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tiGxbm8VNxhZ8HxYw+uRrQ=="
+    },
+    {
+      "name": "Karola Cordero",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o6E2K4RuQJk9AECFiSPRtg=="
+    },
+    {
+      "name": "JAIME CORTES",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UEwPImsGkEbW31zcd0ICJg=="
+    },
+    {
+      "name": "Rose Coulton",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BKUgrcJjb0ScQ3Q3lGp3fw=="
+    },
+    {
+      "name": "Brittany Craig",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fhkZTERM/dN+XUMXwsProg=="
+    },
+    {
+      "name": "Hilary Crenshaw",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "o5PaNUIpouxY0/9yNVOVwg=="
+    },
+    {
+      "name": "Susan Cruze",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "glVB6QKRGxt43U1lAQMuCA=="
+    },
+    {
+      "name": "Holly Daniels",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5u30mW+cPv2YNIGEcKIN9g=="
+    },
+    {
+      "name": "Kim Daniels",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0EIExuEF9+yVNN3y70ZzVQ=="
+    },
+    {
+      "name": "Brad Dantzler",
+      "gender": "Male",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/14/2024",
+      "usta_id": "xILmj/MiKvxyli2oYI6Jdw=="
+    },
+    {
+      "name": "Melissa Darch",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VQYwQQQKY4v7dlvywD/9Lw=="
+    },
+    {
+      "name": "Svetlana Darrow",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pZJ2oeYfv+w7BR3aCpMJvw=="
+    },
+    {
+      "name": "Ginger Davis",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lO9W2FJpkF60b//WdQhing=="
+    },
+    {
+      "name": "Johnny Davis",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "txSb/KLlkdczBcKyzKuMiA=="
+    },
+    {
+      "name": "Wendy Delgado",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OlcLYSvnNErx3yXAfotn8Q=="
+    },
+    {
+      "name": "Janese Dennis",
+      "gender": "Female",
+      "city": "Lithia",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qLCTO8tebQwH4rJCQgXDng=="
+    },
+    {
+      "name": "Megan Denz",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/8/2024",
+      "usta_id": "QckcUk5hI1wlxQJYP5XLyA=="
+    },
+    {
+      "name": "Amos Dinger",
+      "gender": "Male",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/14/2024",
+      "usta_id": "4rMDgzMWNb+G4GYp+KhfHA=="
+    },
+    {
+      "name": "Susan Dreyer",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nR/MHyV/i3SbBuXKiwKdPg=="
+    },
+    {
+      "name": "Matthew Dugger",
+      "gender": "Male",
+      "city": "Plant City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/5/2025",
+      "usta_id": "WMMOSA6Wm0zV28x7nXpgIg=="
+    },
+    {
+      "name": "Kristi Durden",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/29/2025",
+      "usta_id": "+mk4iyFm2K8MaZ3Ryxq3Jg=="
+    },
+    {
+      "name": "Heather Eadler",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "p85tbJjQBIAMaIZrq7l/Mw=="
+    },
+    {
+      "name": "Debra Edwards",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4plCsbuvnl5u7qNAtMv8Mw=="
+    },
+    {
+      "name": "Jackie Edwards",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LOj6SBGRIa+QQUQNOy3RIg=="
+    },
+    {
+      "name": "Sabina Elmasri",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NeTyik0g9OT67igpGRws0g=="
+    },
+    {
+      "name": "Kimberly Elmhorst",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hSjkeWV+7hugJgWHRrSBEg=="
+    },
+    {
+      "name": "Tina Elortegui",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "dM2iPIssSxeQCDrAXuRYxg=="
+    },
+    {
+      "name": "Lizbeth Engle",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AEb/gs2YP3Dg6SsTERkfDg=="
+    },
+    {
+      "name": "Nicole Escowitz",
+      "gender": "Female",
+      "city": "MULBERRY",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ulX3/Z68ka0tyE7iuKkeNg=="
+    },
+    {
+      "name": "Regina Espitia",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J25lK8MOM1zGV4JGzxFKBg=="
+    },
+    {
+      "name": "Jose Estevez",
+      "gender": "Male",
+      "city": "YONKERS",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IMjrHhwym7DdWQr8PZE6mg=="
+    },
+    {
+      "name": "Amy Evans",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f47LExcRQzokndFG3OrXHQ=="
+    },
+    {
+      "name": "Karen Evans",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Eim2/yFptrHTYVIyTjgePg=="
+    },
+    {
+      "name": "Jessica Fazzini",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/17/2024",
+      "usta_id": "p+UGxPnztNkO2JiQt1Iafw=="
+    },
+    {
+      "name": "Lauren Feaster",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f3Xte1j0wX9qbADd/RWnSA=="
+    },
+    {
+      "name": "Linda Feliciano",
+      "gender": "Female",
+      "city": "Davenport",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2023",
+      "usta_id": "hUlPhAuIl5Zu0Pzwds6mUA=="
+    },
+    {
+      "name": "RICHELE FLOYD",
+      "gender": "Female",
+      "city": "LAKE WALES",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zPuXYKadWyDe9BKcKzR1sw=="
+    },
+    {
+      "name": "Mary Flynn",
+      "gender": "Female",
+      "city": "Ruskin",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b8fqwVqX2NmdNoQPnN4KnA=="
+    },
+    {
+      "name": "Sarah Foushee",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/28/2025",
+      "usta_id": "vooOJ5zZk8jlmmvlw8qNrw=="
+    },
+    {
+      "name": "Forest Fox",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/13/2024",
+      "usta_id": "jErGqesAssAMa3M53iyy/g=="
+    },
+    {
+      "name": "Hilda Franco",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "69i4OpcC9AjXpBWqZXgd4Q=="
+    },
+    {
+      "name": "Kerri Fritsch",
+      "gender": "Female",
+      "city": "Valrico",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DyKreJRZlqmpDVcPbh2jfw=="
+    },
+    {
+      "name": "Kimberly Funk",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pPIlvQ/Wcxaxm/aH++wvkQ=="
+    },
+    {
+      "name": "Catherine Futch",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rmvf+ogym8gM97lOQ30ERQ=="
+    },
+    {
+      "name": "Adriana G.Daunt",
+      "gender": "Female",
+      "city": "Fort Meade",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "XmGalc1Pnoz88fIXtVntUg=="
+    },
+    {
+      "name": "Kristen Garcia",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/28/2025",
+      "usta_id": "p8U41IkG7+Fp0xCAJ42QCA=="
+    },
+    {
+      "name": "Carol Gardner",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yp5i5R61S6bIZiN+RbJg7g=="
+    },
+    {
+      "name": "Scott Gardner",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NvbOOCPQJjQInppW5qiGMg=="
+    },
+    {
+      "name": "Cara Geswelli",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BDGnbh9Xcw2fqPXckRYYYg=="
+    },
+    {
+      "name": "Erica Gill",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gc/xldYS/zDDdjfrLVIkAw=="
+    },
+    {
+      "name": "Ana Gillespie",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bq1hqgNlQqEQeHgXEDacSg=="
+    },
+    {
+      "name": "Nicole Giusto",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RDb0vz2X0+nXqIrBu/spfA=="
+    },
+    {
+      "name": "Jaime Green",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "8S7eios5jYHbtzg7iHJj3Q=="
+    },
+    {
+      "name": "Bryan Grieger",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "DwpZlz+EarG/8S1Hzf/1pA=="
+    },
+    {
+      "name": "Laurie Grieger",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yshx9KSG77btk93mUWgKDg=="
+    },
+    {
+      "name": "Leah Grieger",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "+gTABB2rgxT2LXuUwh1N5Q=="
+    },
+    {
+      "name": "Melissa Grimes",
+      "gender": "Female",
+      "city": "Plant City",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/27/2024",
+      "usta_id": "c0FAY8JB4DwBNP2/emV88Q=="
+    },
+    {
+      "name": "Leilani Guinn",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JsUkW13HzNMXHEJvTKl2MA=="
+    },
+    {
+      "name": "Kenneth Hadley",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MaO4Z4R+clfIWehM5F7uDw=="
+    },
+    {
+      "name": "Mendy Hageman",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/29/2025",
+      "usta_id": "H5rFs9BAHVpSS56FR755BA=="
+    },
+    {
+      "name": "Britni Hall",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/26/2024",
+      "usta_id": "ejtuc3pvWZBEA+4RXHQUTg=="
+    },
+    {
+      "name": "Kerrie Hall",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1DBI7xTLYYeadBDU8201Yg=="
+    },
+    {
+      "name": "Cynthia Hallock",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oPiD/WWvFeOkx1GnL46pyQ=="
+    },
+    {
+      "name": "Senita Hanif",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iXTEdb29drqbvXj7tVqH7Q=="
+    },
+    {
+      "name": "Marquel Harrell",
+      "gender": "Female",
+      "city": "Eagle Lake",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5mchAX9bHuopDrBk2I24vg=="
+    },
+    {
+      "name": "Alan Harris",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Th/V1H0MUjTznKxqV3lSmQ=="
+    },
+    {
+      "name": "Rhonda Harris",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ItGSJhEz/2NNyCyE1rjAdQ=="
+    },
+    {
+      "name": "Julie Hartline",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dGMRXZTGPvZxH8NJZdy2IA=="
+    },
+    {
+      "name": "Alexandra Henderson",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E3GNfUhNC1knZAHI+IjCmQ=="
+    },
+    {
+      "name": "Bret Henricks",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+A7OwuYcw/XG37HFEqfwBA=="
+    },
+    {
+      "name": "Krissy Heybroek",
+      "gender": "Female",
+      "city": "Lithia",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D8Kq+IeaWreiJQ89Jr5BUw=="
+    },
+    {
+      "name": "Michaela Hillenbrand",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xYpSvIj7uIGhrIdOjgIRFw=="
+    },
+    {
+      "name": "Nikki Hoagland",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/4/2024",
+      "usta_id": "oRs1jpDhoRdlBdmESoaa6w=="
+    },
+    {
+      "name": "Karen Hogg",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UONzILdgMU7tT4l2NEM5qg=="
+    },
+    {
+      "name": "Tori Hogg",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/vMsqZz9n6gPIGqZ3oaWkg=="
+    },
+    {
+      "name": "Rachel Hollis",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "RKW0/mUOBlGQ4RHtRBxRyA=="
+    },
+    {
+      "name": "Ginny Houghton",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G7P2ZP0SHLwAT2tTfTkL5Q=="
+    },
+    {
+      "name": "Margaret Huggins",
+      "gender": "Female",
+      "city": "Mulberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dvd0lBZqsuWuLW9LjOIhdw=="
+    },
+    {
+      "name": "Karli Hughes",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pdt04ZMhRZrNuw+VfKZiwQ=="
+    },
+    {
+      "name": "Keri Hughes",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/2/2025",
+      "usta_id": "NoHx/JcTrhSwAW0b87LELA=="
+    },
+    {
+      "name": "Tyra Hunt",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QPLIvGnP1QTI6D53QM66AA=="
+    },
+    {
+      "name": "Hayley Hurd",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j1e6hXpej/ifMUmQeH37gA=="
+    },
+    {
+      "name": "Jan Hyman",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mLPJ2au6OkalHslb1LYp6g=="
+    },
+    {
+      "name": "Karen Ingle",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4O5Irfcscr2QLLuf0GvcGw=="
+    },
+    {
+      "name": "Christine Ingram",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iSbBP39QaY5I2irKlccCOg=="
+    },
+    {
+      "name": "Esaam Ismail",
+      "gender": "Male",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/11/2025",
+      "usta_id": "vLc8vqDtO6dhx8e/w5fmWg=="
+    },
+    {
+      "name": "Jessica Jackson",
+      "gender": "Female",
+      "city": "LAKELAND",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "dRqA5LCi6/7+qIylflYzTA=="
+    },
+    {
+      "name": "Andrea Jahna",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EyhQ9AQUNxUjMhLEIHgl/g=="
+    },
+    {
+      "name": "Mandy Jarrett",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hK7MFhMmDGBtHvxgGZOi9g=="
+    },
+    {
+      "name": "Rosa Jean",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "u40AmmHcYGiM/QbAIHE/zw=="
+    },
+    {
+      "name": "Deborah Joell-Bullock",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yy+jDazXOfoZHvTlKrUjsw=="
+    },
+    {
+      "name": "Angela Johnson",
+      "gender": "Female",
+      "city": "Polk City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N2viSGaUknIdzWRyQF5LLA=="
+    },
+    {
+      "name": "Carol Johnson",
+      "gender": "Female",
+      "city": "Bartow",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tYJc0HC0KhnnEI7T1BR3Eg=="
+    },
+    {
+      "name": "Charlton Johnson",
+      "gender": "Male",
+      "city": "TAMPA",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "LQ8JzM6/n5BVeMVcNkx0bg=="
+    },
+    {
+      "name": "Chelsey Johnson",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "l0oIDL7jKQUHdQfxYXhvsg=="
+    },
+    {
+      "name": "Emily Johnson",
+      "gender": "Female",
+      "city": "LAKELAND",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oILD+tfT2m1Woo+2yDCeug=="
+    },
+    {
+      "name": "Melanie Johnson",
+      "gender": "Female",
+      "city": "Lithonia",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fhP8V57q0tHCvy00Wei3/g=="
+    },
+    {
+      "name": "Briquel Joiner",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uZSRoNS8Gu738L0jivvV+g=="
+    },
+    {
+      "name": "Courtney Jones",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "41Dak4GeaugYcJuMDBEbLw=="
+    },
+    {
+      "name": "Leisa Jordan",
+      "gender": "Female",
+      "city": "Seffner",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+VMTxxSxTrY7s4jXFmIoJg=="
+    },
+    {
+      "name": "Christopher Jurs",
+      "gender": "Male",
+      "city": "LAKELAND",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AHrW7jI27XIPFQiLwNrqzw=="
+    },
+    {
+      "name": "Victoria Karen",
+      "gender": "Female",
+      "city": "Clermont",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Jjeev54xeuJ29DCm2d6FA=="
+    },
+    {
+      "name": "Alexandra Kay",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BLuxRoPLfN5oE4dsRyzj3Q=="
+    },
+    {
+      "name": "Cameron Kay",
+      "gender": "Male",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "jGJejhAKBCrwUJYSt+K15Q=="
+    },
+    {
+      "name": "Justin Kay",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jGJejhAKBCpkUiq5pAKWoQ=="
+    },
+    {
+      "name": "Danielle Kendrick",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O3GTpjT/wOnP9S5G4y8SEg=="
+    },
+    {
+      "name": "Michelle Kilcher",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7QgafcVlANaTTrLecer+DQ=="
+    },
+    {
+      "name": "Bill Kilpatrick",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "9oTnYmKXLFfrUpfLk2Aogg=="
+    },
+    {
+      "name": "Tiffany Osler Kilpatrick",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5NB7uZUvHpTKp58FGagrOQ=="
+    },
+    {
+      "name": "Mike Kitchens",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/13/2024",
+      "usta_id": "dpXM+H6K7AjSMMuDWtpB+w=="
+    },
+    {
+      "name": "Kim Knapp",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pMiwJ9dXKdniZx2OlzULpA=="
+    },
+    {
+      "name": "Dionne Kohl",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gae3K/c4TVbZXjrRJC+4Cg=="
+    },
+    {
+      "name": "Neeraj Kumar",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YbGQiOVNi9jxCFD9fpuujA=="
+    },
+    {
+      "name": "Naveen Kumria",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "41pERFyQlHzj9D0CFGYgBA=="
+    },
+    {
+      "name": "Stella Lalanne",
+      "gender": "Female",
+      "city": "Davenport",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "ADunZQRDmffkCnf7gL5wyA=="
+    },
+    {
+      "name": "Nancy Lamb",
+      "gender": "Female",
+      "city": "LAKELAND",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/28/2025",
+      "usta_id": "+RRcjcOHoVdF6bbS/Bl2rA=="
+    },
+    {
+      "name": "Melanie Langley",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nABJrTmcyxbRG56XEt0DCA=="
+    },
+    {
+      "name": "Brandy Lansford",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DsZsQtr+3J1eKxbqKuOaQQ=="
+    },
+    {
+      "name": "Frank Lansford",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uzSitYeJlLwN4RNvGV14rg=="
+    },
+    {
+      "name": "Angela Larisey",
+      "gender": "Female",
+      "city": "Celebration",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aNuZov6YGXeeTOHGvfxIoA=="
+    },
+    {
+      "name": "Courtney Larson",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gB6hs7FvIfSOb9i+Ap0pqQ=="
+    },
+    {
+      "name": "Jesse Larson",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/21/2023",
+      "usta_id": "TjfTN2Jh4kvX04xAek3Ppw=="
+    },
+    {
+      "name": "Ryan Larson",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2024",
+      "usta_id": "ns+YbycUQHhoWQ9pGhJvvg=="
+    },
+    {
+      "name": "Jen Lay",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JORT//Bq5pAbMHR8i9E+dw=="
+    },
+    {
+      "name": "Robert Lay",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2024",
+      "usta_id": "4+O3ieP1QG5O73tmkUfstQ=="
+    },
+    {
+      "name": "Janet Layug",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "txSb/KLlkdcZwljoGdFhTA=="
+    },
+    {
+      "name": "Linda Leber",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BHWHwl3Q/OvP9WNAULCKlA=="
+    },
+    {
+      "name": "Susan LeFrancois",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/30/2024",
+      "usta_id": "KEJYjEEqTic/02DVo8TjDg=="
+    },
+    {
+      "name": "Leticia Leppert",
+      "gender": "Female",
+      "city": "Tampa",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OQip/WO/ZpaJ4dckdR7NHw=="
+    },
+    {
+      "name": "Kristin Levy",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/16/2025",
+      "usta_id": "C6vJY0bqCTKT2FbSkadKdw=="
+    },
+    {
+      "name": "Nicole Little",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/27/2024",
+      "usta_id": "edSOt6q1zbQdz0fyhOkf2A=="
+    },
+    {
+      "name": "Lauren Lloyd",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nF3Kuc2RaFnimwOjJYvIlA=="
+    },
+    {
+      "name": "Tom Lloyd",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hXqBMiXI/VYoYlS01bTHLw=="
+    },
+    {
+      "name": "Sharon Lockwood",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "XswZ+QdLrdGAl+Ce32/Fzg=="
+    },
+    {
+      "name": "Tiffany Love",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i9tCN9qy44f0ryqQ34bJdQ=="
+    },
+    {
+      "name": "Cory Lovering",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/3/2025",
+      "usta_id": "fMAzZsF4caHTidDClwQCig=="
+    },
+    {
+      "name": "Judy MacDougall",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9oHj8MBYj1/jZAhMRXJY9Q=="
+    },
+    {
+      "name": "Lindsay Mahler",
+      "gender": "Female",
+      "city": "AUBURNDALE",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V0ld/7tKKRf2shVVaDB1Lg=="
+    },
+    {
+      "name": "Amber Maloney",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D1SGnSOsqQdqT+H4+UxqUg=="
+    },
+    {
+      "name": "Paul Mankowski",
+      "gender": "Male",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UXgcrYCvN/8oOuu91D9/eQ=="
+    },
+    {
+      "name": "Denise Maqueira",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b9jvJ2dsTHeRzBCqapbQ5w=="
+    },
+    {
+      "name": "Orienthial Marbra",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DU/FayFxUmpGy+92IbWKdg=="
+    },
+    {
+      "name": "Tina Marcewicz",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/mz+WrC21ZR3erfvjhYJRg=="
+    },
+    {
+      "name": "Sara Margeson",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KF1EpJGV8ckvHsvNcswyqQ=="
+    },
+    {
+      "name": "Jim Maskas",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Ipzxd+/BmWYrtLNKlqIvWA=="
+    },
+    {
+      "name": "Lauren Mason",
+      "gender": "Female",
+      "city": "Haines City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kZI+7nlOdYRglJcOd46soA=="
+    },
+    {
+      "name": "Heather Mcbride",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/2/2025",
+      "usta_id": "erkfQ65igE9l6eQN//K9nA=="
+    },
+    {
+      "name": "Julie McBride",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zFf87e5T3OwYTtaOO0bF1A=="
+    },
+    {
+      "name": "Stacey McCastlain",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G0tftpTEQRkVWklJ5TNHnQ=="
+    },
+    {
+      "name": "Courtney McCrystal",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9BUalrjyCcjah3mx2MhjAQ=="
+    },
+    {
+      "name": "Meagan McGill",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "68FIn7veZPDHbNEELUTkOQ=="
+    },
+    {
+      "name": "Susan McGill",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B5jQYebNlZ86jc8/ooqNcg=="
+    },
+    {
+      "name": "Scott McIntosh",
+      "gender": "Male",
+      "city": "Plant City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mNFGV7ENN5jTGRLujziyOg=="
+    },
+    {
+      "name": "Lisa McKendrick",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EerxgOdP/i08XSbm8Ldr1g=="
+    },
+    {
+      "name": "Brandi Mclaughlin",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/26/2024",
+      "usta_id": "Rhb5BGfd0Fa+BtxJyKZpLA=="
+    },
+    {
+      "name": "Elizabeth McWhorter",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "723FI+cHCREcXxIe9MZCRA=="
+    },
+    {
+      "name": "Sandra McWhorter",
+      "gender": "Female",
+      "city": "LAKE WALES",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5nFABIiPe3nE5xGNUN057g=="
+    },
+    {
+      "name": "Donna Mcwilliams",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/26/2024",
+      "usta_id": "3NtCySTO1twMK1gdaUv7/A=="
+    },
+    {
+      "name": "Kevin McWilliams",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "EFKv5DLfkBNcMAEpjuz3GQ=="
+    },
+    {
+      "name": "Julia Menendez",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/28/2024",
+      "usta_id": "2w0vH423LhPRwOKnI6yvSA=="
+    },
+    {
+      "name": "Elizabeth Merritt",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vnI52Uf/MC6Y/7670Kdzow=="
+    },
+    {
+      "name": "Terree Meyers",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7A4SlSaNmK28FPX/yud+mg=="
+    },
+    {
+      "name": "Cayley Miles",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2025",
+      "usta_id": "3i0eTM/CekOeOCo8pin+NQ=="
+    },
+    {
+      "name": "Jeff Miles",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JPhTYHJSv3qcFKKI9H4GKQ=="
+    },
+    {
+      "name": "Shannon Miles",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ytksmwFuE8q2a0DIPSwIBA=="
+    },
+    {
+      "name": "Caroline Miller",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MdYblsh7HuEFgZR5DHDedw=="
+    },
+    {
+      "name": "Cassie Miller",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mMW2abibDY/y238qg+gSjg=="
+    },
+    {
+      "name": "Corey Miller",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p/rDDlM/7gnpM4AObKINQg=="
+    },
+    {
+      "name": "Danielle Miller",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0utRxGlHnFIxWP8KX4IDDA=="
+    },
+    {
+      "name": "Jaimi Miller",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "YriD4vzWrI3uRQP5H0Qs6g=="
+    },
+    {
+      "name": "Sarah Monti",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2024",
+      "usta_id": "FAJMvJNbzTsXhVO5knrgyw=="
+    },
+    {
+      "name": "Nafari Morris",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mToN7chQhMom0/qLvNa8zA=="
+    },
+    {
+      "name": "Lisa Moseley",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WRYAknnmhC/Tl3MwfRca7g=="
+    },
+    {
+      "name": "Michele Moses",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Nl7xwMxbXgbgRkVL5zUMdw=="
+    },
+    {
+      "name": "Laura Motis",
+      "gender": "Female",
+      "city": "Babson Park",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tN473lZye69yEiOMy0TAeg=="
+    },
+    {
+      "name": "Catherine Mueller",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aTI4Onpc5b0WPmTIECdlkQ=="
+    },
+    {
+      "name": "Cindy Muir",
+      "gender": "Female",
+      "city": "Peachtree Corners",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oCt5TaHTsnzBGM3sj1voSg=="
+    },
+    {
+      "name": "Jeff Mulder",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/4/2024",
+      "usta_id": "5pjxTT67NVflExKrFPBs7A=="
+    },
+    {
+      "name": "Carol Mullins",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z8XG3p0vB9z2b1lkv9gnGQ=="
+    },
+    {
+      "name": "Deanna Murchison",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5HPUrTC96NnJkf6OgTCUTA=="
+    },
+    {
+      "name": "Gloria Murphy",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DwDhzmlpdKkLGvMFwIJCzQ=="
+    },
+    {
+      "name": "Lizette Murphy",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ge5M1Yn2SGPm8hmPHCOcng=="
+    },
+    {
+      "name": "Jennifer Myers",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6cc345K1mriINexsMQLARw=="
+    },
+    {
+      "name": "William Nasello",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jEoyTg2E4GwtIhEAm7/mHQ=="
+    },
+    {
+      "name": "Cynthia Nettles",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+uDAYtYibZbginHGzoBi6g=="
+    },
+    {
+      "name": "Jean Nielsen",
+      "gender": "Female",
+      "city": "Boise",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wxZmtwlpQs4F788/WqINEg=="
+    },
+    {
+      "name": "Brandy Noel",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b6UwwhmSoSopgFOenlUPfw=="
+    },
+    {
+      "name": "Nicole Noel",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Emh1/atwIfImtKnju50wjw=="
+    },
+    {
+      "name": "Lynn Noris",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5fRNWrW4Rf8onoRfOPOXSg=="
+    },
+    {
+      "name": "Sheryl Norman",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2TOIugPR9/C+BHvJB/4G8w=="
+    },
+    {
+      "name": "Teresa Osborn",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2gIC6QOlrgmdZsDiARs8WA=="
+    },
+    {
+      "name": "Stacey Osmon",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9ocWDk9Rken6MW1o5f8xEQ=="
+    },
+    {
+      "name": "Heather Padgett",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nY+4wEvGqA/fKdEC6KusGw=="
+    },
+    {
+      "name": "Christina Paine",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/6/2024",
+      "usta_id": "yLsqQ8vIFY0fiatctSwzmQ=="
+    },
+    {
+      "name": "Rebecca Pate",
+      "gender": "Female",
+      "city": "Lake Alfred",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/16/2024",
+      "usta_id": "CkGIow69/zj0NkUg2+YF8Q=="
+    },
+    {
+      "name": "Blake Paul",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TL2SX6zMdlAem9N55GM81g=="
+    },
+    {
+      "name": "Elizabeth Paul",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q8fIuiockfSI24ir418cTQ=="
+    },
+    {
+      "name": "Lisa Pearce",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xb+Iu/nTIX3WU7hJkPjm9Q=="
+    },
+    {
+      "name": "Kristin Pennewell",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VlMyfyqEQYkV3VN6ZpdGbQ=="
+    },
+    {
+      "name": "Cory Petcoff",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ArgzMBWBxLlPlwZ5kfLRCA=="
+    },
+    {
+      "name": "Lamanda Petcoff",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+r3yAjRCklF1BuCPQ1lFMw=="
+    },
+    {
+      "name": "Meriel' Peterich",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DvaSAD1kjQWuVXY94QI0lA=="
+    },
+    {
+      "name": "Courtney Phillips",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "41Dak4Geauig9+d2Yoourg=="
+    },
+    {
+      "name": "Jane Phillips",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U5hyq5xN+A0l4woRDdGVmA=="
+    },
+    {
+      "name": "Patrick Phillips",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/6/2025",
+      "usta_id": "C6Kc6o4qopud5EiAHamZew=="
+    },
+    {
+      "name": "Courtney Philpot",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sWnlQ7QOI0y4pGJ7DF068w=="
+    },
+    {
+      "name": "Brandye Pickering",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HTjuJI05jInE5v1bdNf28Q=="
+    },
+    {
+      "name": "Janet Platania",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YO+Zaimd4jtqjS5EWvSE8Q=="
+    },
+    {
+      "name": "Billy Pomykalski",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "JLcM8oXHvptdK1HU3ITBCQ=="
+    },
+    {
+      "name": "KANHAIYA PRASAD",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "pRsg4OgcFlZyhl38bN1LEQ=="
+    },
+    {
+      "name": "Anna Previte",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4jfCfP8eMoBkWYtDuwaWhQ=="
+    },
+    {
+      "name": "Ashley Prince",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/1/2024",
+      "usta_id": "4mAiqiFby70r7sI7SFtGaQ=="
+    },
+    {
+      "name": "Deborah Pyle",
+      "gender": "Female",
+      "city": "Wauchula",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LdPQAtJizcGyKZZzA7SvIQ=="
+    },
+    {
+      "name": "Ann Rainer",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7UNndUK+Y8rr2tPj4QIk8g=="
+    },
+    {
+      "name": "Hetal Rajguru",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9btjq+rohTl0x3LgeyIhnA=="
+    },
+    {
+      "name": "Maria Ramka",
+      "gender": "Female",
+      "city": "Bartow",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uRJceu8brkf3ODuC627ETQ=="
+    },
+    {
+      "name": "Sandy Ramsey",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3K+OwXnBnAsutZ/iNtx3Yw=="
+    },
+    {
+      "name": "Rachel Ray",
+      "gender": "Female",
+      "city": "Plant City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rXf3Rl/pLEAehmmTrRkKeQ=="
+    },
+    {
+      "name": "Barry Recht",
+      "gender": "Male",
+      "city": "Davenport",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/19/2023",
+      "usta_id": "aL63ntsuECxR339I0H1eCQ=="
+    },
+    {
+      "name": "Victoria Restrepo",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/1/2025",
+      "usta_id": "obIW69ZpIgy7KYIDfHmX0A=="
+    },
+    {
+      "name": "John Rice",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3xce5yuVRwpV3DmbNEGw+Q=="
+    },
+    {
+      "name": "Marilyn Richmond",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "voBQIapJtyjTHcTEgGaNsA=="
+    },
+    {
+      "name": "Steve Riddle",
+      "gender": "Male",
+      "city": "Plant City",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9kbGAMR6k6FwxTPeLljL4g=="
+    },
+    {
+      "name": "Nyrka Riskin",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F4J6HiQ4k1cy7A+gRM7jDg=="
+    },
+    {
+      "name": "Tracey Ritter",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IZ8d6Vv6zWuk9llWdxIxtg=="
+    },
+    {
+      "name": "Shelley Robinson",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Uwka6UjcMq01JBtHTEi9RA=="
+    },
+    {
+      "name": "Zee Rodriguez",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "BHsJi3S5wDy8BUqiStgurA=="
+    },
+    {
+      "name": "Adam Rogers",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EVWLgy6hOQWc9fMoB2CIwA=="
+    },
+    {
+      "name": "Jennifer Rogers",
+      "gender": "Female",
+      "city": "CRYSTAL RIVER",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fhkZTERM/dMKATpeptD/fg=="
+    },
+    {
+      "name": "Terri Rombola",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "yCESLnReO60mVxDPpclSvQ=="
+    },
+    {
+      "name": "Josh Rucker",
+      "gender": "Male",
+      "city": "Plant City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yzC0j1ciNZy7fYXL9xLBDA=="
+    },
+    {
+      "name": "Alexa Russo",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/9/2025",
+      "usta_id": "+mk4iyFm2K8oIAT7G7pTpg=="
+    },
+    {
+      "name": "Brittany Rutherford",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UmvzQoHNAb1tTQxlPg2TFg=="
+    },
+    {
+      "name": "Kim Ruthven",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OhIe3rNK9IqEAxdEcLuw/g=="
+    },
+    {
+      "name": "Ellen Salm",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TJ+vUmq4b7/st9TY9d8FJg=="
+    },
+    {
+      "name": "Marc Salm",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TJ+vUmq4b7/Sw+33A8lkkA=="
+    },
+    {
+      "name": "David Saltman",
+      "gender": "Male",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/29/2024",
+      "usta_id": "zlkoq0/0DdQ="
+    },
+    {
+      "name": "Denise Saltman",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1cTgNdhZjR66wmS3UiAXdA=="
+    },
+    {
+      "name": "Daniel Santiago",
+      "gender": "Male",
+      "city": "Haines City",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2023",
+      "usta_id": "lvzZR/6OPAd84m0cpyCfOg=="
+    },
+    {
+      "name": "Antonio Santos",
+      "gender": "Male",
+      "city": "Davenport",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "oIkml99QZPLhX/aNsVDmxQ=="
+    },
+    {
+      "name": "Meghan Savant",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9BUalrjyCciozDFu0HQ3vA=="
+    },
+    {
+      "name": "Cynthia Scaletta",
+      "gender": "Female",
+      "city": "Plant City",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tg5QbT17gW7woUvb/ZyRCQ=="
+    },
+    {
+      "name": "Daniela Schick",
+      "gender": "Female",
+      "city": "Lake Alfred",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Xq2gZVhP7Q/gqXIDa99sA=="
+    },
+    {
+      "name": "Kim Schmucker",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "41Dak4GeauhaKSMW0trOVA=="
+    },
+    {
+      "name": "David Sealock",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "8oWQmiGteAaq1R33MgR6lQ=="
+    },
+    {
+      "name": "Kristan Sheffield",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/23/2024",
+      "usta_id": "JA/7NU7CTEHO0GAslJUJIw=="
+    },
+    {
+      "name": "Angie Shoemaker",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1SLd2hF1JJeedVAUJ9iFXA=="
+    },
+    {
+      "name": "Leslie Simmons",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v6KOokuBWjGbfeSOHiQv0A=="
+    },
+    {
+      "name": "Carmelita Siochi",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "GO21iLuzoIz0SXrSWWh1jw=="
+    },
+    {
+      "name": "Diane Skoronski",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I6AZU/d3Q09bJ5gXUtUcLQ=="
+    },
+    {
+      "name": "Amanda Smith",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aAc3Sm7731ffN/cHlk8IWA=="
+    },
+    {
+      "name": "Amber Smith",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9BUalrjyCcgOG4lMttNJCA=="
+    },
+    {
+      "name": "Sandy Smyth",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z3VIuy9ucpQlGDLaLsgEig=="
+    },
+    {
+      "name": "Allison Sorenson",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T+Rkh2yXC0DH2wcFR+pOJA=="
+    },
+    {
+      "name": "John Souther",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3jgXBS+LiBaz7Xg7H2+Nzg=="
+    },
+    {
+      "name": "Jennifer Spann",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tsF1k93nZD12DYyuYHiZzA=="
+    },
+    {
+      "name": "Deb Spears",
+      "gender": "Female",
+      "city": "Lithia",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "F61J1iXsrgLbEMO1u+Vyyg=="
+    },
+    {
+      "name": "Kristin Spencer",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/9/2025",
+      "usta_id": "0O9RxyJpRdzdXeF5IqWsqw=="
+    },
+    {
+      "name": "Elizabeth Spoto",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8cQWyMqFKAgfcUuKAkQXdQ=="
+    },
+    {
+      "name": "Anthony Staiano",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kFe3ZgaUgfyaHzA5p9kmaA=="
+    },
+    {
+      "name": "Elizabeth Stevenson",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "+IjNL2BvUSjwRdZHivW+qA=="
+    },
+    {
+      "name": "Mary Stine",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aYy+XUjOFUnMxudDeI/jSw=="
+    },
+    {
+      "name": "Amber Stolzman",
+      "gender": "Female",
+      "city": "Bartow",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "g0Jo4wfqm4nYlfOsmzUSIw=="
+    },
+    {
+      "name": "Amanda Strawbridge",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "br3nzqDh+mSVbUxZBMY9Nw=="
+    },
+    {
+      "name": "Bevin Strickland",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xMMoCZHZsQLccPEuwZYfbg=="
+    },
+    {
+      "name": "Michael Strickland",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PQCT0FLrZvkS+kFryCuiWg=="
+    },
+    {
+      "name": "Debra Summers",
+      "gender": "Female",
+      "city": "Haines City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RutKe40E5lQcFw50rRbEaw=="
+    },
+    {
+      "name": "Robin Sussingham",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xx0TQAGtc7WhqIE6tay5Mg=="
+    },
+    {
+      "name": "Kacee Swain",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "intwu/VESRaJ0KzaPnv8Wg=="
+    },
+    {
+      "name": "Brian Swinney",
+      "gender": "Male",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Ls03R3J5wvOV13asG1Mvaw=="
+    },
+    {
+      "name": "Bettye Sykes",
+      "gender": "Female",
+      "city": "Fort Meade",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vCbn2bvA5Buh3poBuPIoIw=="
+    },
+    {
+      "name": "Aroma Taicher",
+      "gender": "Female",
+      "city": "Lithia",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2iSiiXanhNvwfWp4LhbE9w=="
+    },
+    {
+      "name": "Ruthie Tait",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iOSNESOWyBZ784p/U+L4Og=="
+    },
+    {
+      "name": "Geraldine Tardy",
+      "gender": "Female",
+      "city": "LAKELAND",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m2Pamz1TSFfIF2ih1+8wKQ=="
+    },
+    {
+      "name": "Desiree Tchipanova",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C0biz8XWNXbblUPiD9k/9w=="
+    },
+    {
+      "name": "Jeri Thom",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EinmNM9hqSoPvvryM4Kvfg=="
+    },
+    {
+      "name": "Sara Thompson",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VVjbFcBh+IXFrtMMKdQBVg=="
+    },
+    {
+      "name": "Crystal Tijerina",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/18/2025",
+      "usta_id": "srt0FuPLQaA/maZQ2aLozA=="
+    },
+    {
+      "name": "Cheryl Tolentino",
+      "gender": "Female",
+      "city": "Celebration",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q+yXs2Ge8v9qdrUe8FCJkw=="
+    },
+    {
+      "name": "Ann Marie Toney",
+      "gender": "Female",
+      "city": "BRADENTON",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uQSFRrNBLTJtDpQ371rH9g=="
+    },
+    {
+      "name": "Haley Tonge",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/28/2025",
+      "usta_id": "vooOJ5zZk8jNovD5leEiwg=="
+    },
+    {
+      "name": "Scott Totten",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "seuRwt8UuXswafkwTrqQHg=="
+    },
+    {
+      "name": "Jonathan Trohn",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "sDhBNSrL8z9JU+GU0+x4aQ=="
+    },
+    {
+      "name": "Monica Trujillo",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ivwy6ePyAgiruigqgEos1A=="
+    },
+    {
+      "name": "Amy Tully",
+      "gender": "Female",
+      "city": "Babson Park",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/23/2024",
+      "usta_id": "KdOTxUu+h1ny49OmD1cQjg=="
+    },
+    {
+      "name": "Kelly Turner",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "JA/7NU7CTEEQWituCx+oow=="
+    },
+    {
+      "name": "Paige Turner",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "POVD5j50S8QK6njkhKwUKw=="
+    },
+    {
+      "name": "Robert van Hart",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/29/2025",
+      "usta_id": "0RO0Vovm3L9N9f5bs3WD/g=="
+    },
+    {
+      "name": "Carolina Vander Poel",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mWsNihtlT5ciuS7HRMomgw=="
+    },
+    {
+      "name": "Dawn VanHorne",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DXd0vXQkVBaRLQCdjU2cxw=="
+    },
+    {
+      "name": "Courtney Wade",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EcfhNvz6eNMyWDaTzuiW+w=="
+    },
+    {
+      "name": "Trey Wampler",
+      "gender": "Male",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "wU2GiYE60B+WuIjCj2U3QA=="
+    },
+    {
+      "name": "Brittany Ward",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zi2QzkGuueEmlVIeQHRsJw=="
+    },
+    {
+      "name": "Theresa Ward",
+      "gender": "Female",
+      "city": "Traverse City",
+      "state": "MI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wrBunUzCi0cpSijqTvMLrA=="
+    },
+    {
+      "name": "Stacey Weeks",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/26/2024",
+      "usta_id": "3NtCySTO1twsBiF41FwMnw=="
+    },
+    {
+      "name": "Alexis Wharem",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/7/2024",
+      "usta_id": "JvWAK9XM2FXMxIpnm74Q1Q=="
+    },
+    {
+      "name": "Judi Whitaker",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m7TgCkgyGcmAjcIxsL9EtA=="
+    },
+    {
+      "name": "Susan White",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AaDJ77uaKUH+gDO6G4MGeg=="
+    },
+    {
+      "name": "Marcia Whitney",
+      "gender": "Female",
+      "city": "Winter Haven",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7qvKQ+Le17D6ouq92cL83Q=="
+    },
+    {
+      "name": "Linde Widick",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ltxdjJfPSRzD9nmjSYnynQ=="
+    },
+    {
+      "name": "Fara Wike",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/24/2025",
+      "usta_id": "us1eRi0vv3ABb5mlqG/ebw=="
+    },
+    {
+      "name": "Elizabeth Willers",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BSt4rxRmFyHB+D/xxxqqJQ=="
+    },
+    {
+      "name": "Diana Williams",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GoDvHzs3P//7CsuB7lNGjQ=="
+    },
+    {
+      "name": "Dang Williamson",
+      "gender": "Female",
+      "city": "LITHIA",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cVwIQY05cHizdaA8zChPEQ=="
+    },
+    {
+      "name": "Brooke Wilson",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xg9V2W5kJyvvJB+Rs5PToA=="
+    },
+    {
+      "name": "Jessica Wilson",
+      "gender": "Female",
+      "city": "Lake Wales",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yS1vL+w4pitCBgi/Vn2irA=="
+    },
+    {
+      "name": "Ryan Wilson",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "Zh4Mw+igPhCSGmKu1b2ojw=="
+    },
+    {
+      "name": "Abby Windham",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "kO0xqqs4UYy1QNBL8yRoyQ=="
+    },
+    {
+      "name": "Geoffry Wong",
+      "gender": "Male",
+      "city": "New York",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/30/2025",
+      "usta_id": "aVsO+DDuyy8XbQviNAxL0Q=="
+    },
+    {
+      "name": "Gretchen Wood",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pltuch+Dp4qydhyh/9tiZQ=="
+    },
+    {
+      "name": "Kandy Wood",
+      "gender": "Female",
+      "city": "Auburndale",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b+jcO48kNu3WL5oTuXTzTw=="
+    },
+    {
+      "name": "Holly Worrell",
+      "gender": "Female",
+      "city": "Davenport",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wdBhYKY9VxdomGNPQONjog=="
+    },
+    {
+      "name": "Patricia Wubker",
+      "gender": "Female",
+      "city": "Windermere",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lNNprpiUzv3zMA45mGt8dw=="
+    },
+    {
+      "name": "Kristin Wyatt",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J1P2MxzFwKLoiWcRXJy4Yw=="
+    }
+  ]
+}

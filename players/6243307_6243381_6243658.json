@@ -1,0 +1,607 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243381",
+  "areaId": "6243658",
+  "players": [
+    {
+      "name": "Chris Adkisson",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MIwrP0Ll60ghmLSHThDv0Q=="
+    },
+    {
+      "name": "Cyrus Adkisson",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vniTnWZWhVAin6cVLcR38A=="
+    },
+    {
+      "name": "Kyle Ball",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7rLjxKy90sLtSOU4xsMJkA=="
+    },
+    {
+      "name": "Sarah Brown",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fhkZTERM/dOHqt+AxuEUrg=="
+    },
+    {
+      "name": "Jaylene Campos",
+      "gender": "Female",
+      "city": "Monticello",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ipzHynCnfPtxzjcrXBWkiA=="
+    },
+    {
+      "name": "Chris Cassagne",
+      "gender": "Male",
+      "city": "Lexington",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iRO+f6CgLoCdE4vb1hqZpA=="
+    },
+    {
+      "name": "Alfie Cheng",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GEBKgSOF1fLxAxX3AbWCag=="
+    },
+    {
+      "name": "Gary Coffey",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/11/2024",
+      "usta_id": "8f1sR791qj9V+fw8+kyV+Q=="
+    },
+    {
+      "name": "Megan Coffey",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/14/2025",
+      "usta_id": "E1lFo3TFF+VAVPDQqvK9ng=="
+    },
+    {
+      "name": "Ched Crouse",
+      "gender": "Male",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Rvw5Qxk6PS0NeOKBKg8aQ=="
+    },
+    {
+      "name": "Thomas Dawes",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "3E8Cu6dXFH7Me6yWISei6A=="
+    },
+    {
+      "name": "Alexander DeMunbrun",
+      "gender": "Male",
+      "city": "SOMERSET",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mvl0jd9JiyTERwiy/g+2Vw=="
+    },
+    {
+      "name": "Jericho Dixon",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "5Evir5X0YdiwQTm2Lt8CCw=="
+    },
+    {
+      "name": "James England",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TsN8R818BxDj4LUddy880Q=="
+    },
+    {
+      "name": "William Flickinger",
+      "gender": "Male",
+      "city": "Jamestown",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Yl0vDdyh6LRJr0lvsQU3EA=="
+    },
+    {
+      "name": "Greg Foley",
+      "gender": "Male",
+      "city": "Stanford",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "P3Nhv0IjFUjIRHygZAQ2Vw=="
+    },
+    {
+      "name": "Lisette Garrett",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/17/2024",
+      "usta_id": "uWtNEEHTv/9ViLacZntVBw=="
+    },
+    {
+      "name": "Christopher Godby",
+      "gender": "Male",
+      "city": "Russell Springs",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "4eywIh1bCD5+QmWi9aV3pA=="
+    },
+    {
+      "name": "Jonathan Gough",
+      "gender": "Male",
+      "city": "Lexington",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QKlocp4UoVSQTbWCuwKNwg=="
+    },
+    {
+      "name": "Dwain Harris",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qTIlzzFnMxlTOuAlbsGYag=="
+    },
+    {
+      "name": "Melissa Harris",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ni4FzHTSmq9r3Najfx+y8w=="
+    },
+    {
+      "name": "Don Humphress",
+      "gender": "Male",
+      "city": "Campbellsville",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "dfrmG5iKs4zHJ4P0kdctfw=="
+    },
+    {
+      "name": "Stephen Humphress",
+      "gender": "Male",
+      "city": "Lebanon",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0XgSsqaIFrgd6zcSOk1hqw=="
+    },
+    {
+      "name": "Gheorghe Ignat",
+      "gender": "Male",
+      "city": "Frankfort",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h2HthTVkOLOhAVZkwY7BcA=="
+    },
+    {
+      "name": "Steve Johnston",
+      "gender": "Male",
+      "city": "Lancaster",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R8xA5xfmguin3dyhI47cIw=="
+    },
+    {
+      "name": "Charissa Kelly",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "P1WnyEcm8LenFK/2Av1NUg=="
+    },
+    {
+      "name": "Ryan Kelly",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "iJid4ra5u/6cifAp3IbGqA=="
+    },
+    {
+      "name": "Skyler Lee",
+      "gender": "Male",
+      "city": "Yosemite",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/10/2024",
+      "usta_id": "Cspei+2+6zvYMN+Tmi654g=="
+    },
+    {
+      "name": "Jackson Martin",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "DqsGMHMhXdGiSScohOBMgg=="
+    },
+    {
+      "name": "Phil McCubbin",
+      "gender": "Male",
+      "city": "Lexington",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rg6XwV8fS0FScZjQCijmsA=="
+    },
+    {
+      "name": "William McCubbin",
+      "gender": "Male",
+      "city": "LEXINGTON",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hIf7MvehumxrKvgMcqReBg=="
+    },
+    {
+      "name": "John McFall",
+      "gender": "Male",
+      "city": "Russell Springs",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "gnLm9PkuguOzFxpr9hYqtg=="
+    },
+    {
+      "name": "Andrew McGuire",
+      "gender": "Male",
+      "city": "Lexington",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "p6I3aLulIXMHM26OZZdXEQ=="
+    },
+    {
+      "name": "Kevin Merritt",
+      "gender": "Male",
+      "city": "Columbus",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RwVRxQoqFLio9urCR+/zOA=="
+    },
+    {
+      "name": "Gregory Miller",
+      "gender": "Male",
+      "city": "Lexington",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GaGEw4Uen8ClLFAU/HFP+Q=="
+    },
+    {
+      "name": "Matthew Neikirk",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bqCCBREuV6wK6Tmy3FAXnA=="
+    },
+    {
+      "name": "Joshua Nichols",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "8SGevz+79thEjqq09fNFuw=="
+    },
+    {
+      "name": "Philip Nunn",
+      "gender": "Male",
+      "city": "Greensburg",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wPvoxgVsrawq8eDrxsjLcw=="
+    },
+    {
+      "name": "Tim Perkins",
+      "gender": "Male",
+      "city": "Columbia",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "EytIfz/JHKClpioU7SWU0A=="
+    },
+    {
+      "name": "Jennifer Phelps",
+      "gender": "Female",
+      "city": "Ashland",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "biqKNDep/tKCATIelQZyqg=="
+    },
+    {
+      "name": "Brianna Phillips",
+      "gender": "Female",
+      "city": "Pine Knot",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/29/2025",
+      "usta_id": "aBYQxgyWprreiNmd6qpeHQ=="
+    },
+    {
+      "name": "Deron Polston",
+      "gender": "Male",
+      "city": "Jamestown",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "YJ05FfgdeHElwiMrbPym4w=="
+    },
+    {
+      "name": "Kaylie Polston",
+      "gender": "Female",
+      "city": "Jamestown",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6SvIfC80LsdSn++62qi3jQ=="
+    },
+    {
+      "name": "Ravi Radhakrishnan",
+      "gender": "Male",
+      "city": "Lexington",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OV+B2PUmk2LESzYrr8D1cg=="
+    },
+    {
+      "name": "Matthew Satterly",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "yHVTs/t1/RhFzom2bPQlyA=="
+    },
+    {
+      "name": "Derrick Smith",
+      "gender": "Male",
+      "city": "Lexington",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pc1wHFkVy0bM4Xc2UDYLkQ=="
+    },
+    {
+      "name": "Allison Sobieck",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "L47ePDJ0RYjfwCtj2imVsg=="
+    },
+    {
+      "name": "Charles Sobieck",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "PYhwGLT6MwYei0UQuwpGEw=="
+    },
+    {
+      "name": "Kimberly Steele",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "BfCiau2JFlAOMIlzxMLDTQ=="
+    },
+    {
+      "name": "Thad Stenger",
+      "gender": "Male",
+      "city": "London",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k7ao7JnRtptiXmYk6qbwfA=="
+    },
+    {
+      "name": "Orleigh Suazo",
+      "gender": "Male",
+      "city": "Louisville",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fVvIc0V8DDF6UuslhJ6yLw=="
+    },
+    {
+      "name": "Camden Tackett",
+      "gender": "Male",
+      "city": "Eubank",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bkAGOAEMKyvDZiYGiWd90Q=="
+    },
+    {
+      "name": "Katelyn Taylor",
+      "gender": "Female",
+      "city": "Science Hill",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "VzDYJX6YIxaoCY2qyBizvA=="
+    },
+    {
+      "name": "Jenny Tharp",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/31/2024",
+      "usta_id": "qVaREN0OEs45xK74qam/Eg=="
+    },
+    {
+      "name": "Ken Tharp",
+      "gender": "Male",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/11/2024",
+      "usta_id": "N72B+cEGXJgSkCNSKhcHlA=="
+    },
+    {
+      "name": "Karla Vanhooser",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kXr3sR/vGDmLRLOnWR2bhA=="
+    },
+    {
+      "name": "Brian Vinsant",
+      "gender": "Male",
+      "city": "STRUNK",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "EFbZG4RDaEbRxVPIIgNOnw=="
+    },
+    {
+      "name": "Amanda Webb",
+      "gender": "Female",
+      "city": "Bronston",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/27/2025",
+      "usta_id": "zDI2l7LGOjXXTSvYn1dkpg=="
+    },
+    {
+      "name": "Ben Williams",
+      "gender": "Male",
+      "city": "Nancy",
+      "state": "KY",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "KTyOcZ1iWKoPQzT1E4o/FQ=="
+    },
+    {
+      "name": "Marla Williams",
+      "gender": "Female",
+      "city": "Nancy",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3c3cpu/S1ZH7/yYAhX1wjA=="
+    }
+  ]
+}

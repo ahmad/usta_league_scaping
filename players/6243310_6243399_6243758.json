@@ -1,0 +1,5237 @@
+{
+  "sectionId": "6243310",
+  "districtId": "6243399",
+  "areaId": "6243758",
+  "players": [
+    {
+      "name": "Scott Abshagen",
+      "gender": "Male",
+      "city": "Warsaw",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "znsnoZrjfRCIdjPTBqugDg=="
+    },
+    {
+      "name": "Emily Ackerman",
+      "gender": "Female",
+      "city": "Claypool",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "LdVro8IVBugL5OmX3VgO7A=="
+    },
+    {
+      "name": "Jennifer Adams",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BpzL6nXmGY8muSYPl6pzvg=="
+    },
+    {
+      "name": "Jon Adams",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rIWcm0US2696gmlZbB3WAA=="
+    },
+    {
+      "name": "Dinesh Agnihotri",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "epvUKrZkdXzdAwuRqHmghg=="
+    },
+    {
+      "name": "Gail Altekruse",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "17BdMOgyWrf8+LtlrGCYLg=="
+    },
+    {
+      "name": "Thiago Amaral",
+      "gender": "Male",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7Nk+ue39LqWVtYPzJSGmEg=="
+    },
+    {
+      "name": "Brandon Amstutz",
+      "gender": "Male",
+      "city": "Ottoville",
+      "state": "OH",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zBLszyT9bBJ0oB2YUIPLpQ=="
+    },
+    {
+      "name": "Charlie Amstutz",
+      "gender": "Male",
+      "city": "Spencerville",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/15/2024",
+      "usta_id": "GbqN6wrd4pvtEEjhdDGbow=="
+    },
+    {
+      "name": "Giri Anand",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ghrAOQTkRK12WN1tidCRTA=="
+    },
+    {
+      "name": "Kylee Anderson",
+      "gender": "Female",
+      "city": "Warsaw",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "l3+F3KmKzQl8TNVSZ9fjCA=="
+    },
+    {
+      "name": "Vicki Armold",
+      "gender": "Female",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lnxxYYcqL+d8Od6gVMpRdQ=="
+    },
+    {
+      "name": "Jason Baldwin",
+      "gender": "Male",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "0wI5Y+dMt43mQjya1WahJQ=="
+    },
+    {
+      "name": "Jennifer Balkenbusch",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "G5fUZiXDWIXN5jUNBwBK7g=="
+    },
+    {
+      "name": "Beverly Bannister",
+      "gender": "Female",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OtI/n9Y/vP8teUmtjV4IIQ=="
+    },
+    {
+      "name": "Ben Bardon",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cqNj4Qvn7w2x9xLLx8QA0g=="
+    },
+    {
+      "name": "Kami Bardon",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sd9ihVEeBenNJ34mEOVuFg=="
+    },
+    {
+      "name": "Brandon Barger",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "fiYq7Ksn2fOd1nRuWoJfhA=="
+    },
+    {
+      "name": "Bruce Barger",
+      "gender": "Male",
+      "city": "Craigville",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2022",
+      "usta_id": "txUfyaDw0EVESnMXQg6FOQ=="
+    },
+    {
+      "name": "Bryant Barger",
+      "gender": "Male",
+      "city": "Craigville",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "INQtLID11HFj9OaGUFSbrg=="
+    },
+    {
+      "name": "Lauren Barger",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/1/2024",
+      "usta_id": "vyQI91R9jnVSEneYcjkc5w=="
+    },
+    {
+      "name": "Nathan Barger",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "sY1SoTYTRCL915K6AFCdLw=="
+    },
+    {
+      "name": "Leah Barnes",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "TvztL83WKyZrLgVQxkefuA=="
+    },
+    {
+      "name": "Spencer Barnes",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QbDhipcBhSz5VbgaJJXrbA=="
+    },
+    {
+      "name": "Emily Bartrom",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1mlfjGP/JA5HF5dEg5+klw=="
+    },
+    {
+      "name": "Adam Basinger",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "E3KnGgdKK8kWQEv1johSCg=="
+    },
+    {
+      "name": "Jennifer Bennett",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tmaK5AcXOXNJq38rQbGInA=="
+    },
+    {
+      "name": "Nick Blume",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "nwNA7KgufimZvjqzJ4ev2w=="
+    },
+    {
+      "name": "Milissa Bohlender",
+      "gender": "Female",
+      "city": "Auburn",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lc0PGHZJv3E1d2zZjpM+Mg=="
+    },
+    {
+      "name": "Nickole Bohnke",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HfkMUCilu2WczTF4dopoBg=="
+    },
+    {
+      "name": "Brandon Borders",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jeo8rGD90V2+Qiwx7z0Zbg=="
+    },
+    {
+      "name": "Marsha Bormann",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FsFIQsNKHx10W0wSmxgBSw=="
+    },
+    {
+      "name": "Amy Boxberger",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "WmvBd8EmwvJCdXFUrw2MnQ=="
+    },
+    {
+      "name": "Drew Boxberger",
+      "gender": "Male",
+      "city": "Leo",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fjjXOwx7IfDVV/pqK88wdA=="
+    },
+    {
+      "name": "Roy Bracht",
+      "gender": "Male",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "XytArdL7icQpET9B0HfKBg=="
+    },
+    {
+      "name": "Lucas Braga",
+      "gender": "Male",
+      "city": "New Haven",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "aZcT5zUIwsJiF4Mkzbdj8A=="
+    },
+    {
+      "name": "Jimmy Brown",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B9+J9rulEG++t/MTTSeWqA=="
+    },
+    {
+      "name": "Kathryn Brown",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DJ2KRiby+tTlIH6supq7Vw=="
+    },
+    {
+      "name": "Timothy Brown",
+      "gender": "Male",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OK5/waKCZezyuDXvnH/waw=="
+    },
+    {
+      "name": "Krysta Buckner",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L9YFD60AOIHRT+b7OhX/uw=="
+    },
+    {
+      "name": "Bailey Buhrt",
+      "gender": "Male",
+      "city": "Syracuse",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rGQK+nQsNPGUB8krio/nIg=="
+    },
+    {
+      "name": "Connie Bulmahn",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kh1qfs4J8CsCAr3KJBBOBA=="
+    },
+    {
+      "name": "Debra Bunt",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "13W616u8ulCiWJVRbmb3tg=="
+    },
+    {
+      "name": "Ronald Bunt",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FPAe8sM7W+7VuD9QW4jC/Q=="
+    },
+    {
+      "name": "Danielle Burke",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "XrYHKhDxuzfbFkZrFDx+8Q=="
+    },
+    {
+      "name": "Nathan Busch",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "10/18/2023",
+      "usta_id": "FlAK08s7jXJ6V/I8tDnXQQ=="
+    },
+    {
+      "name": "Timothy Bussick",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "koEgsEnIZlAisgV4lqg/4g=="
+    },
+    {
+      "name": "Sarah Butcher",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pIqPr1WOpq9Q9Tpx6Y6CBA=="
+    },
+    {
+      "name": "Lisa Byanski",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+cFbAP35YgUOOActYYpnhA=="
+    },
+    {
+      "name": "Kebra Byrd",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0gb2YuE0yYGZB+W903yoJw=="
+    },
+    {
+      "name": "Mary Cahill",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hr6bRhHDL/pdOdDUjThxlw=="
+    },
+    {
+      "name": "Noah Cain",
+      "gender": "Male",
+      "city": "North Manchester",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SjFUNSnSxdzGtd22e4mSVw=="
+    },
+    {
+      "name": "Cindi Camp",
+      "gender": "Female",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CivM36Vwt0GsL4fHvGHTwQ=="
+    },
+    {
+      "name": "Martin Paul Capdevila",
+      "gender": "Male",
+      "city": "Huntington",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "AerP4UWitYlvWsc++pFMJQ=="
+    },
+    {
+      "name": "Candice Chaffee",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FErzFDMPvhfnXn6VEhvSew=="
+    },
+    {
+      "name": "Jennifer Chaffee",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JUxbotuyRDC5D/qqmBI8bQ=="
+    },
+    {
+      "name": "Natalie Chapel",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Z+R+uLicnVsT8UvQsKkiA=="
+    },
+    {
+      "name": "Stephen Christen",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pvl0PQXQWrL/fdPMjnvT3w=="
+    },
+    {
+      "name": "Alyssa Ciocca",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gn8J+02dmL3oGeIVnLF6Hg=="
+    },
+    {
+      "name": "Meagan Clagg",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7WmkopafeCbhERcX/7TBng=="
+    },
+    {
+      "name": "Jessica Clark",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zbiHS00jYyddjTDV25JYUg=="
+    },
+    {
+      "name": "Denise Cleveland",
+      "gender": "Female",
+      "city": "Garrett",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7JwOmr7etRspYljewB4Knw=="
+    },
+    {
+      "name": "Melissa Cleveland",
+      "gender": "Female",
+      "city": "Nappanee",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BRaAvJgyNY0IDhKlmOH8Dw=="
+    },
+    {
+      "name": "Marsha Cly",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ow1cMwNasLhmlUHXsVCRKQ=="
+    },
+    {
+      "name": "Cade Cobler",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/24/2025",
+      "usta_id": "/VTwnKGBDIN118I3dCZpeg=="
+    },
+    {
+      "name": "Andres Cobos",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "D7m42Hnt5oz+Gnncw/N3QA=="
+    },
+    {
+      "name": "April Cohen",
+      "gender": "Female",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DH/rEyBUTIhrEk2PSK0rvg=="
+    },
+    {
+      "name": "Margaret Colclasure",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GcJ/V+NiBv8C3FzYSVnXDg=="
+    },
+    {
+      "name": "Daniel Cole",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OsNwJlJKX8I43hWGv6EMmQ=="
+    },
+    {
+      "name": "Joan Collar",
+      "gender": "Female",
+      "city": "Columbus Grove",
+      "state": "OH",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iDpyP5JlQDUgJqA7gywtxw=="
+    },
+    {
+      "name": "Cameron Cook",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rKBJNvzOKbI38I2HzherTw=="
+    },
+    {
+      "name": "Victoria Cornell",
+      "gender": "Female",
+      "city": "Pierceton",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uHl7UCsX8xtmyi39PhMs3Q=="
+    },
+    {
+      "name": "Diane Cowan",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Buw7DShEMlo2YhcfivRpGw=="
+    },
+    {
+      "name": "James Cowan",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/11/2023",
+      "usta_id": "aLvWjMQPB2QwsTpS1FDZ+Q=="
+    },
+    {
+      "name": "Jim Cowan",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "98NWnwTtaulBNlcaI/MkDA=="
+    },
+    {
+      "name": "John Cowan",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xEHVXtISfbRLBMcB3mqihg=="
+    },
+    {
+      "name": "Johnny Cowan",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "DwRQJ1uhnKY1QFFaUJ68lg=="
+    },
+    {
+      "name": "Kimberly Cowan",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YEiXLJEtOGCXlzlbT/MOQQ=="
+    },
+    {
+      "name": "Andrew Cullen",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "v1nK6ZV735e5qOMm/NjElw=="
+    },
+    {
+      "name": "Maria Curfman",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SoFs/xwO9m68kdJH7SQJog=="
+    },
+    {
+      "name": "Carol Daman",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FEejpb4AUhrXhlNaiP8Cjw=="
+    },
+    {
+      "name": "Brent Davis",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "oILD+tfT2m2ZyOBrlg7wxw=="
+    },
+    {
+      "name": "Kayle Davis",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hv7NVKVfw9B5ofp8IbIMGw=="
+    },
+    {
+      "name": "Rebecca Davis",
+      "gender": "Female",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ggH2QmBKJdm8YxjZnDKIKw=="
+    },
+    {
+      "name": "Sharon Davis",
+      "gender": "Female",
+      "city": "Fair Oaks Ranch",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oDawlUQ8r/4PcqVBU7BTsA=="
+    },
+    {
+      "name": "Aron Dellinger",
+      "gender": "Male",
+      "city": "Warsaw",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/VAvyt3y4wwlCjXnGlhPLQ=="
+    },
+    {
+      "name": "Robin Dellinger",
+      "gender": "Female",
+      "city": "Warsaw",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YwY0VbrtVl7BaC8gPHc1tQ=="
+    },
+    {
+      "name": "Preeti Dembla",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UPihZZCkep20EYyjbA8CDA=="
+    },
+    {
+      "name": "Matt Denny",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SRrjJZ8fewnNoUHsM4D9sQ=="
+    },
+    {
+      "name": "Melissa Denny",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zJGxeZMXHHuAcGKDxsOfLA=="
+    },
+    {
+      "name": "Wyatt Derrow",
+      "gender": "Male",
+      "city": "Auburn",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p3s3rikpGfxuhgLgOW+jIA=="
+    },
+    {
+      "name": "Aidan Derry",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/22/2025",
+      "usta_id": "uT9NF+nGRRSLWywXpBtZyg=="
+    },
+    {
+      "name": "Stephanie Diamante",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6O6b9NNi9pDe9AOI/pD51A=="
+    },
+    {
+      "name": "Cathy Diamente",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YGHdrmfSkwyKfBl8AI4+7A=="
+    },
+    {
+      "name": "Ian Dick",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/3/2024",
+      "usta_id": "RiJGgJhIcp8Osi0AJj/75g=="
+    },
+    {
+      "name": "Kennlee Dick",
+      "gender": "Female",
+      "city": "Auburn",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gBaC1C3GzJykpx2cfVTBNg=="
+    },
+    {
+      "name": "Anne Dickerhoof",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sa4DOlqAVIyXXWvDT7hupA=="
+    },
+    {
+      "name": "Eric Doden",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "y4s9tucdB+0Lpry7DqKuAg=="
+    },
+    {
+      "name": "Maci Doden",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UjE4R+vZ+VerNPtsBgS4nQ=="
+    },
+    {
+      "name": "Rylan Doden",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "vWN5plbTfr1jAe6umUIQBw=="
+    },
+    {
+      "name": "Kathy Dormeier",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PaT3sBprFBAQn0lP6AjS8Q=="
+    },
+    {
+      "name": "Alacia Doty",
+      "gender": "Female",
+      "city": "New Haven",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WQsFQ2F5SnZUJqDeU//PsQ=="
+    },
+    {
+      "name": "Andrea Douthitt",
+      "gender": "Female",
+      "city": "KENDALLVILLE",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c9bKJWEYQptsJrrrcJZzBA=="
+    },
+    {
+      "name": "Jacquie Downey",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0cgUei+dz+jbHqPW7njQhg=="
+    },
+    {
+      "name": "Nicholas Drummer",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GrPcGAal7XS5uqvFm7ECcA=="
+    },
+    {
+      "name": "Johanna Ducker",
+      "gender": "Female",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OPmbjzTqdQOvg+ZqJBzJkA=="
+    },
+    {
+      "name": "John Ducker",
+      "gender": "Male",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fV3rZcVtB4FdGlRfZY+tZw=="
+    },
+    {
+      "name": "Charlie Dull",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "5FBd5ZDtK/XA+xM43rL1qQ=="
+    },
+    {
+      "name": "Anne Duncan",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pY865XhOqyLEHbGSzvTY+w=="
+    },
+    {
+      "name": "Matt Duncan",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6TxptRG084002WwcVhgXLQ=="
+    },
+    {
+      "name": "Libby Eckert",
+      "gender": "Female",
+      "city": "Naples",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xxvYC/RBpqqCldUiPqrxHA=="
+    },
+    {
+      "name": "Ben Eggleston",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C1i8DVygIwwoUYlNV0w8SA=="
+    },
+    {
+      "name": "Jeff Elliott",
+      "gender": "Male",
+      "city": "Columbia City",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/rdrxBDHz48VEJhu2ftk6A=="
+    },
+    {
+      "name": "Jill Ellison",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x6QLS1RQ4kfnxgrbgnBXMQ=="
+    },
+    {
+      "name": "Jonathan Emmert",
+      "gender": "Male",
+      "city": "Ligonier",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9yhUmuDKZh7YC9K1Vo/j6Q=="
+    },
+    {
+      "name": "Luanne Erdos",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9crct9YVWHeD1ZaTZ9IHYw=="
+    },
+    {
+      "name": "Christine Fabina",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WXj/70RDcAGryso/bUtpSg=="
+    },
+    {
+      "name": "Matt Fabina",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "WXj/70RDcAHAmFbptu9Egw=="
+    },
+    {
+      "name": "Lisa Farias",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uttctP1wPvawkb4tg95N1A=="
+    },
+    {
+      "name": "Kendell Feaker",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "NLAggWgg6qZ+o3wMoQqJgg=="
+    },
+    {
+      "name": "Brandon Fehn",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RgUadk9fl87ultGAVVInqA=="
+    },
+    {
+      "name": "Alyssa Finley",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "70zCkTpkM/WAKw4VqvNotQ=="
+    },
+    {
+      "name": "Jon Finley",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wrp4uu/rAW9FA2sQdd3E9w=="
+    },
+    {
+      "name": "Lucy Fisher",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5cXROCXqcHpNRjnMEjft1A=="
+    },
+    {
+      "name": "Zach Fittro",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oLD9LyVfH4cRaPRw7ZNuBQ=="
+    },
+    {
+      "name": "Lisa Foldesi",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q7Dai0edTIVONgzJXLI11w=="
+    },
+    {
+      "name": "Christopher Forrest",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4bqA7RIy8S8xa1cHrwYRMQ=="
+    },
+    {
+      "name": "Rabon Forrest",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4bqA7RIy8S9e4cXWnqQ+aw=="
+    },
+    {
+      "name": "Tarra Forrest",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4bqA7RIy8S/VAOnBeSIBuQ=="
+    },
+    {
+      "name": "Susan Fouts",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "up2m0Dnv/2o="
+    },
+    {
+      "name": "Dana Frappier",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hVqFgfuxa21ao+y1Gq3gmA=="
+    },
+    {
+      "name": "Teresa Freeman",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pFD6o7lK8TMsUDVVbhSTog=="
+    },
+    {
+      "name": "Derek French",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eTHG8JQ4/srp8EodxXyAWQ=="
+    },
+    {
+      "name": "Monica French",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eTHG8JQ4/sq4lFt1vZL6gQ=="
+    },
+    {
+      "name": "Cindy Friend",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KMT65BQEZGC8RFAHMMgmHw=="
+    },
+    {
+      "name": "Ellesyn Fritcha",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JCSm8BJoI2cwOhlKYS13Vw=="
+    },
+    {
+      "name": "Liz Fuze",
+      "gender": "Female",
+      "city": "Columbia City",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "VdnjRC9YShpKP7yVOvV5Hg=="
+    },
+    {
+      "name": "Cris Gage",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QgzykEqX/UnurFhSvdPEUg=="
+    },
+    {
+      "name": "Giovanna Garlati",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wAbEdjOaMpASBWr4/OwOxw=="
+    },
+    {
+      "name": "Sean Garrean",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OACIr3+iAlUG3Riu0WHMPg=="
+    },
+    {
+      "name": "Brad Geisleman",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "YeFJTol2QP0VUYJjqzYG9g=="
+    },
+    {
+      "name": "Michelle Gibson",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zuj82EiOU7cH+9rq2ty1CA=="
+    },
+    {
+      "name": "Pauline Gibson",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RoSvza7UxBtYAqc+W+p/QA=="
+    },
+    {
+      "name": "Erica Glander",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iWd6WDFu1W4u8Ieg70l9yQ=="
+    },
+    {
+      "name": "Vaune Glorioso",
+      "gender": "Female",
+      "city": "Lima",
+      "state": "OH",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jsVdH9//ZxJZsa696hqXRA=="
+    },
+    {
+      "name": "Jon Gnagy",
+      "gender": "Male",
+      "city": "North Manchester",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Adn4VcLOcFl47lXzFGAO1w=="
+    },
+    {
+      "name": "Sue Gnagy",
+      "gender": "Female",
+      "city": "North Manchester",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KkUKWpyJFPve1wkwd5FCFQ=="
+    },
+    {
+      "name": "Amanda Gosheff",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yPV4hDIkUMSsDidtN3Dxhw=="
+    },
+    {
+      "name": "Eftim Gosheff",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vKR/soHwCen7xQEdUCXltg=="
+    },
+    {
+      "name": "Jill Graber",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eS5oymfkRuryspN/BnF08g=="
+    },
+    {
+      "name": "Julie Grabill",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Om7YgPnGiT0H9fsy4IVLLQ=="
+    },
+    {
+      "name": "Bill Graham",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sw4+wrPL7gs5oR0/6aNR7g=="
+    },
+    {
+      "name": "Sea Grandon",
+      "gender": "Female",
+      "city": "Warsaw",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8GZyU+2vd/TU7y0tXuiZVQ=="
+    },
+    {
+      "name": "Joan Greenlee",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y9U7kB8i1YcAADqJjrfrUA=="
+    },
+    {
+      "name": "Penny Gregory",
+      "gender": "Female",
+      "city": "New Haven",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l9DzZSN8mCNPGj6O8GT8hA=="
+    },
+    {
+      "name": "Dan Grismore",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "An6ZTQUz85aOgpOlI5gYqg=="
+    },
+    {
+      "name": "Taelor Grose",
+      "gender": "Female",
+      "city": "Elkhart",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "pDIzfXNJNV3j/k1yJzmnMQ=="
+    },
+    {
+      "name": "Les Grundman",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "gKFG6qy9GX6t0Buap0oueA=="
+    },
+    {
+      "name": "Jay Gulyas",
+      "gender": "Male",
+      "city": "Churubusco",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h/tMNtFJdizXTgJnmBsTFQ=="
+    },
+    {
+      "name": "Gregory Habig",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "c1ci+HE1GrHa0njm5z3qbg=="
+    },
+    {
+      "name": "Adam Hackett",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s0t5s/gD9NpxNfhFvdhGFQ=="
+    },
+    {
+      "name": "Brittany Hall",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WCrfdrRX0jURF+v8lwMm+g=="
+    },
+    {
+      "name": "Sherri Hall",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uv/TU9drsEuCEOgxfY9+CQ=="
+    },
+    {
+      "name": "Eric Hamlin",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EKB5ix1JappDXUQKRe7uBw=="
+    },
+    {
+      "name": "Angie Hansen",
+      "gender": "Female",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P82JfZEc4Rst3hGT/lzUJg=="
+    },
+    {
+      "name": "Steve Haraburda",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P00PvwhjMnLEoAFGqifUjw=="
+    },
+    {
+      "name": "Matt Harmeyer",
+      "gender": "Male",
+      "city": "Columbia City",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/14/2023",
+      "usta_id": "VYjqKerH5qHBJRdZ74aC8g=="
+    },
+    {
+      "name": "Ethan Harris",
+      "gender": "Male",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "LV8C6JaZBebOxtNZJ49gSA=="
+    },
+    {
+      "name": "Kristen Harrow",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nnxdgHyKLFF2nwgAVPf5aA=="
+    },
+    {
+      "name": "Brian Hart",
+      "gender": "Male",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cxbvXR5uz6YbRkIddZwBZg=="
+    },
+    {
+      "name": "Brian Hartz",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/16/2024",
+      "usta_id": "uXiUgwRbBPXDA1kMymaW0w=="
+    },
+    {
+      "name": "Andy Harvey",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XHRvcTFvSSXJIAiWsI9j2Q=="
+    },
+    {
+      "name": "Michelle Hatfield",
+      "gender": "Female",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zmyewK6RiduvCoT8PJZtiA=="
+    },
+    {
+      "name": "Ted Hathaway",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9bnvNh96QZitFWNqYRDjPg=="
+    },
+    {
+      "name": "Lisa Heastan",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y9yoRczcjg6uLJd279IkBw=="
+    },
+    {
+      "name": "Mark Heller",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "efK2cytSkeU55f4Eu4A8FA=="
+    },
+    {
+      "name": "Shelley Heller",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "efK2cytSkeVoKxibhmKTkw=="
+    },
+    {
+      "name": "Karen Hellinger",
+      "gender": "Female",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bm5Aa25OLlsRgXq3Mrl0Tw=="
+    },
+    {
+      "name": "Andrew Helton",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "Nba3YIMMu2smaDrNcLj4ig=="
+    },
+    {
+      "name": "Darren Hess",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kusf07F+Jvp4vCshHJBnUQ=="
+    },
+    {
+      "name": "Stephanie Hess",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "59cdluP21m9I1aS/d/lfJw=="
+    },
+    {
+      "name": "Deb Hewes",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LA229G9ZBdeY6IA/JE/RGA=="
+    },
+    {
+      "name": "Addyson Heyerly",
+      "gender": "Female",
+      "city": "Ossian",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "5vwnqQTKLZC4fXb041qR9g=="
+    },
+    {
+      "name": "Steven Hibler",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qMmDUjX/3Fu2GVmTsSuIgg=="
+    },
+    {
+      "name": "Emily Hike",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2W/ZOdFPk83qw44LGlUIvw=="
+    },
+    {
+      "name": "Sarah Hoffacker",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FRSyn2SzEUf5iPuqpximhA=="
+    },
+    {
+      "name": "Scott Hoffacker",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Fc2PCTGw7MV25P/qrFFkw=="
+    },
+    {
+      "name": "Amy Hoover",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5ygXtCX5AUCyz8zzS5ThGA=="
+    },
+    {
+      "name": "Jeremy Hoover",
+      "gender": "Male",
+      "city": "Grabill",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2024",
+      "usta_id": "opxZ7uljnJWi9r/73ypWTg=="
+    },
+    {
+      "name": "Kendall Hottell",
+      "gender": "Male",
+      "city": "Angola",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vejJiQ/t964Vnfw4X+IFfw=="
+    },
+    {
+      "name": "John Houser",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "11v0iR+agVVIzCqFte8Nsg=="
+    },
+    {
+      "name": "Sandra Hrometz",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/25/2025",
+      "usta_id": "kI96UXrdiiikyZFAfPG70A=="
+    },
+    {
+      "name": "Kristy Huck",
+      "gender": "Female",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qzk+kJXdBbxlUEuReYPFJw=="
+    },
+    {
+      "name": "Shawn Huck",
+      "gender": "Male",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qzk+kJXdBbwXItzj0/z1gQ=="
+    },
+    {
+      "name": "Caroline Hunt",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gaX3zJD8ZzJwRHe5oSBf+A=="
+    },
+    {
+      "name": "Richard Hurley",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uj+vpj4tCdkLgl+cM+ieGw=="
+    },
+    {
+      "name": "Christine Hutchins",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r/ES39u5rHvKIQPtqHaGYw=="
+    },
+    {
+      "name": "Linda Jakacki",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5D9etuD3y36nuvuCCXQfEQ=="
+    },
+    {
+      "name": "Erica Jamison",
+      "gender": "Female",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iXd7tzV9gfHMrgp/uAp09Q=="
+    },
+    {
+      "name": "Abdali Jan",
+      "gender": "Male",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UIe2u9vMUV7bnVsNOmbKGw=="
+    },
+    {
+      "name": "Tim Jank",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wxwnoQ9Jj1vP+PAFD3JfDQ=="
+    },
+    {
+      "name": "Ashutosh Jha",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nhi82myqgki3c9YISZdgdw=="
+    },
+    {
+      "name": "Charles Ji",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1QCwiLi6tIbyRxuwqU696A=="
+    },
+    {
+      "name": "George Joachim",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GtyBhrTKdc7d6XbQI1HCXQ=="
+    },
+    {
+      "name": "Pam Joachim",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F9OelslWRU+nI1wV2tc7+g=="
+    },
+    {
+      "name": "GEORGE JOHN",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CY4GIsO2jqtLbyXRxthnYg=="
+    },
+    {
+      "name": "Anthony Johnson",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MJGRjsmgkOVa69eGy+u5RA=="
+    },
+    {
+      "name": "Daniel Johnson",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/2/2025",
+      "usta_id": "1aQUjiwQatmg4XBbBnfonw=="
+    },
+    {
+      "name": "Erik Johnson",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/2/2024",
+      "usta_id": "vQS4SaO9KhA6l0gTjbLCpw=="
+    },
+    {
+      "name": "Andrew Kajioka",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E0hF2TZvvuBqG+RKZo9FyQ=="
+    },
+    {
+      "name": "Carol Kamin",
+      "gender": "Female",
+      "city": "CHICAGO",
+      "state": "IL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "58H8H9enBZbL6WwKUiRKWA=="
+    },
+    {
+      "name": "Vijay Kamineni",
+      "gender": "Male",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/9/2024",
+      "usta_id": "KBMcpZ/pHu75WLltTnHo1Q=="
+    },
+    {
+      "name": "Danielle Karr",
+      "gender": "Female",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "Y3pyCeYS35CVNbcBhFiKZg=="
+    },
+    {
+      "name": "Shashank Kashyap",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+/PGOLHzGKzQqj3YZjK5+g=="
+    },
+    {
+      "name": "Kimberly Kaufman",
+      "gender": "Female",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R4U/KMpJHtSvKb7dynjgmA=="
+    },
+    {
+      "name": "Mark Kaufman",
+      "gender": "Male",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CEepmmQdU8T93SOV/453NA=="
+    },
+    {
+      "name": "Angela Keene",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/c+i24WkYyTwEd6rzobAkw=="
+    },
+    {
+      "name": "Jenna Keirns",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G8NwQq4glrhV/mShxpIcpg=="
+    },
+    {
+      "name": "Lisa Keirns",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EMhBZUS90wuVnqmHG1gR6w=="
+    },
+    {
+      "name": "Sam Keirns",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BtbwPmTi6OQK5zmuZ6zfVA=="
+    },
+    {
+      "name": "Kara Kelley",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/29/2024",
+      "usta_id": "Ck6RwyG6bZaNSTto4giDcQ=="
+    },
+    {
+      "name": "Richard Kelty",
+      "gender": "Male",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hIEPHurf04vdvjlbPIDFow=="
+    },
+    {
+      "name": "Ryan Kiel",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/1/2025",
+      "usta_id": "3oDtFtVqZv36X2AAZCIDqA=="
+    },
+    {
+      "name": "Holly Kimball",
+      "gender": "Female",
+      "city": "Nappanee",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m08ZF4FbXN9EoVJdoStDNQ=="
+    },
+    {
+      "name": "James Klinger",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h31saG1qqVsm20X5Js9BIA=="
+    },
+    {
+      "name": "Cheryl Klinker",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G5qEI9tIrcSdo3F9528sGw=="
+    },
+    {
+      "name": "Tim Koehl",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SYgKV5Bi2gIEXyzBKgF8Vg=="
+    },
+    {
+      "name": "Joseph Kosnik",
+      "gender": "Male",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zyTFWO+V1RpO+TguD7yk6g=="
+    },
+    {
+      "name": "Roshan Kotian",
+      "gender": "Male",
+      "city": "HUNTERTOWN",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pQUQwF+vXH6gKlcaAWpBVA=="
+    },
+    {
+      "name": "Allison Kowlowitz",
+      "gender": "Female",
+      "city": "Bloomington",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wC3dbBN90vg6CYpR6G/jVg=="
+    },
+    {
+      "name": "Amy Krahn",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "myMmmAxofV+4DvaecaReyw=="
+    },
+    {
+      "name": "Michael Krahn",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/q1hWErIoKWtOifYZTsinw=="
+    },
+    {
+      "name": "Julianne Kratzman",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "IRNfFJH8LSVRXnLytN9l3A=="
+    },
+    {
+      "name": "Damon Kuhlenbeck",
+      "gender": "Male",
+      "city": "CRAIGVILLE",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MrVb0m+bK5VsgcasX3mThg=="
+    },
+    {
+      "name": "Roshen Kulkarni",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/15/2025",
+      "usta_id": "KqsMsTKzL5WMV/kTEqJVfw=="
+    },
+    {
+      "name": "Shantanu Kulkarni",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2yAiWLflUd/MOb8CLjVJCA=="
+    },
+    {
+      "name": "Samir Kumar",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OacMHvzx9Z8TioxBNPSl2A=="
+    },
+    {
+      "name": "Heather Lackey",
+      "gender": "Female",
+      "city": "Warsaw",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KOIZ+rHL68zq/YaPJgt2+A=="
+    },
+    {
+      "name": "Erica Langsen",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/3/2024",
+      "usta_id": "rzdICVz5BSsoTllrVrhkEA=="
+    },
+    {
+      "name": "Brayden LaPan",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "OGQNfyF6fCYCIO1FgwrYgQ=="
+    },
+    {
+      "name": "Sean Lape",
+      "gender": "Male",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/11/2025",
+      "usta_id": "i4ntTm9IuO+DN6svmzhF8A=="
+    },
+    {
+      "name": "Julianne Lassus",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zt1ctRGoaPGbc/wP6tlSsw=="
+    },
+    {
+      "name": "Haley Lawrence-Evans",
+      "gender": "Female",
+      "city": "FORT MYERS",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "95anvUIPNeg+VP+k477drw=="
+    },
+    {
+      "name": "Chanh Le",
+      "gender": "Male",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "LG241AZhHz7Qv8xSf54cbQ=="
+    },
+    {
+      "name": "Chuyen Le",
+      "gender": "Male",
+      "city": "ROANOKE",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kh1qfs4J8CujfNQno7Rmgw=="
+    },
+    {
+      "name": "Alison Lee",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Nr6uRELOQoGXWSG0J5whw=="
+    },
+    {
+      "name": "Nina Levenda",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7OvrCbdLwnTUp4Zw1WsdtQ=="
+    },
+    {
+      "name": "John Lew",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T5+C4k0tvyk0Nw5EM8XSqQ=="
+    },
+    {
+      "name": "David Li",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YkvRtVrxmp7WetWvbqDyPA=="
+    },
+    {
+      "name": "David Libbing",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "qttVzkDgZ/cdb6Gqhr3Zuw=="
+    },
+    {
+      "name": "Steve Libbing",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jP+1PJlSi4bivoi26DNsuQ=="
+    },
+    {
+      "name": "Rachel Loechner",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qeYIpHOYToBsCtWHxefVEA=="
+    },
+    {
+      "name": "Luis Loera",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "519QaNSuKKWzbTps9MHp5g=="
+    },
+    {
+      "name": "Cosimo Lombardi",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/7/2024",
+      "usta_id": "oTg4zf6REYkwykBhZy2WYg=="
+    },
+    {
+      "name": "Deborah Luarde",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UuDtWXbiuqm3K5L095XMBA=="
+    },
+    {
+      "name": "Drew Lunsford",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kAqAW9lNZaOhmiLpUDgx/Q=="
+    },
+    {
+      "name": "Pam Lunsford",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "po0nFVRtTL0eCG+gII5WnA=="
+    },
+    {
+      "name": "Scott Lunsford",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "HjtLYz0aStxlCMNv2FKK8g=="
+    },
+    {
+      "name": "Danielle MacIno",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iO+5fugVNw+2bX5j7ZSf7g=="
+    },
+    {
+      "name": "Lindsay Malloy",
+      "gender": "Female",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uGDCdEc1gTbzAymKvLIBug=="
+    },
+    {
+      "name": "Michael Marietta",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lSheLFA5nDq5qVPCl3OB7Q=="
+    },
+    {
+      "name": "Kathleen Markley",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yD4YxODTtHZTXOAuIN4XPg=="
+    },
+    {
+      "name": "Claire Marks",
+      "gender": "Female",
+      "city": "Columbia City",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mZG+bHC9iEV6UYmvlIsySg=="
+    },
+    {
+      "name": "Stephen Marks",
+      "gender": "Male",
+      "city": "Columbia City",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "LYmDPQm9e12UvHOA9+bIqA=="
+    },
+    {
+      "name": "George Martin",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "EVXTfgKeOmAgO0E/Iat3EQ=="
+    },
+    {
+      "name": "Pollyanna Martin",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EVXTfgKeOmBB4BLmiQq5Qw=="
+    },
+    {
+      "name": "Bradley Mason",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/10/2024",
+      "usta_id": "6rNc2pdz6scEhoBgi4W8Eg=="
+    },
+    {
+      "name": "Brian Mason",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "awi0O36mlNivZSsZCoQoRA=="
+    },
+    {
+      "name": "Brendon Mattiuz",
+      "gender": "Male",
+      "city": "Franklin",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "egiBNGsITGfAZbEzxOQSdA=="
+    },
+    {
+      "name": "Lauren May",
+      "gender": "Female",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wDxNLrZyEmMPmsKvvjumFw=="
+    },
+    {
+      "name": "Brigid McArdle",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sskA15jaEkyrPRj74sby8g=="
+    },
+    {
+      "name": "William McArdle",
+      "gender": "Male",
+      "city": "FREMONT",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/14/2024",
+      "usta_id": "lchuWH/5oN44jSzPIDtZ4A=="
+    },
+    {
+      "name": "Tammy McDaniel",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/c2o6ugxWQq6UZFyaaFQYg=="
+    },
+    {
+      "name": "Tom McDaniel",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QyA0R1KhEIu3XVVRs44tyQ=="
+    },
+    {
+      "name": "Kris McGuire",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "vDsN/G6F+bZx0ZQ9ELedfg=="
+    },
+    {
+      "name": "Jane Meehan",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LD/wD1JG9rG6rJKkKAnkyQ=="
+    },
+    {
+      "name": "Rachel Meek",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bN1NcWEGUBz20UfuC3OxGQ=="
+    },
+    {
+      "name": "Stephen Meier",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "TcDC9jeFI/8BGfrugPByrg=="
+    },
+    {
+      "name": "Abner Mendador",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DIdLsKPxA1oP4r4Ua8ijZw=="
+    },
+    {
+      "name": "Carys Merkler",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "csdTjcl8BmX9U8+bH9kFbA=="
+    },
+    {
+      "name": "Jennifer Messer",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/25/2024",
+      "usta_id": "FxL750iDBQXs9wnCqYEYOw=="
+    },
+    {
+      "name": "Leslie Mey",
+      "gender": "Female",
+      "city": "Churubusco",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LOTTib6HdsZ7xW1J5pI8Pg=="
+    },
+    {
+      "name": "Shelly Meyer",
+      "gender": "Female",
+      "city": "New Haven",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FCdSSqNflckcaScB9rYwpA=="
+    },
+    {
+      "name": "Ann Miller",
+      "gender": "Female",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N8+XBHqRm12JAAe6hVKucw=="
+    },
+    {
+      "name": "Emily Miller",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/7/2024",
+      "usta_id": "PdZNcDIK8j4751f+YFzSww=="
+    },
+    {
+      "name": "Reegan Miller",
+      "gender": "Female",
+      "city": "Goshen",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E2+mHHA++yAuQnFlvi9c4w=="
+    },
+    {
+      "name": "Ed Minnich",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aU3Ffy+rYD8Oha+MobtrXA=="
+    },
+    {
+      "name": "FRANCO MINOLDO GARCIA",
+      "gender": "Male",
+      "city": "Huntington",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "/CZkj6Flf8XLHjOuId9+OA=="
+    },
+    {
+      "name": "Karen Moore",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p2raBrYQW7c4WrPxKzeVNA=="
+    },
+    {
+      "name": "MIKE MORGAN",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0XbC0Rb2dgg5VhpORQEZ6w=="
+    },
+    {
+      "name": "PAM MORGAN",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "0XbC0Rb2dgiWVZ9luVWPsg=="
+    },
+    {
+      "name": "Naomi Muselman",
+      "gender": "Female",
+      "city": "Berne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gv1cyPxm1tmM9VMrUfpidA=="
+    },
+    {
+      "name": "Sumant Nanduri",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "vMotMz7/8Tx8BBoHMHi1uA=="
+    },
+    {
+      "name": "Sreenivasa Nattam",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "UyjzIikMkWSyC0uVWUglXw=="
+    },
+    {
+      "name": "Margaret Neese",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zFkZj/1qRp3cbYJ+rJWAWw=="
+    },
+    {
+      "name": "Erin Neuenschwander",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "wB0aAhy5100Bij7rnTG9kg=="
+    },
+    {
+      "name": "Evan Nichols",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "Nba3YIMMu2txnbSZn17dEw=="
+    },
+    {
+      "name": "John Nichols",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i96xee6NESmhROvbvhWlJQ=="
+    },
+    {
+      "name": "Mindi Nichols",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "+qzd1A1SdHJUqGVrGYqQFg=="
+    },
+    {
+      "name": "Sarah Nichols",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PL0BhleBMH62T13DDkJsPw=="
+    },
+    {
+      "name": "Caroline Nietert",
+      "gender": "Female",
+      "city": "Leo",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8WRFqtvwMnz+yKItJHaPTg=="
+    },
+    {
+      "name": "Igor Nikitin",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "jQhSvFFoeYFttEjxdQUZvg=="
+    },
+    {
+      "name": "Doug Nolt",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i8SrGFwoaVfGTQo1WlgZHA=="
+    },
+    {
+      "name": "Casey Norton",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fUxFvv9n0L+rJhzn2KPz6g=="
+    },
+    {
+      "name": "Dan Norton",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RF4QNqGLpXFG+tEz9fQd3g=="
+    },
+    {
+      "name": "Kristine Norton",
+      "gender": "Female",
+      "city": "Warsaw",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "eeq7ym6g4v33VhbjHywyoQ=="
+    },
+    {
+      "name": "Brandon Olvera",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ADSDkBFbz74MZEf8anj0Yg=="
+    },
+    {
+      "name": "Andrea O'Neill",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6EM5nA4CDDQ3PrXswlDGmA=="
+    },
+    {
+      "name": "Alex Orn",
+      "gender": "Male",
+      "city": "Hamilton",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "19ucD78bULHRyHDLftPPSg=="
+    },
+    {
+      "name": "Jeanne Otis",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hqz/0benfSXvrfX0kU/YWg=="
+    },
+    {
+      "name": "William Otis",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "f9xWkUKExCwmoUVrClzehA=="
+    },
+    {
+      "name": "Cynthia Otten",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6EM5nA4CDDQuSYXbHQ/ydw=="
+    },
+    {
+      "name": "Matthew Otten",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GvEmLwZavs/87w78IjJzSQ=="
+    },
+    {
+      "name": "Richard Otten",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PyVaCmXvxCMv5yb7O6WSsQ=="
+    },
+    {
+      "name": "David Ousley",
+      "gender": "Male",
+      "city": "Claypool",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/14/2023",
+      "usta_id": "WsEwMuxXSGWin1hHxbFJHw=="
+    },
+    {
+      "name": "Craig Owens",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M/DEvPj8tTx1O4G1F4dgGw=="
+    },
+    {
+      "name": "Justin Parker",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "JHncLhQ9hVuhEzbwyW82+A=="
+    },
+    {
+      "name": "Mike Parker",
+      "gender": "Male",
+      "city": "ROCHESTER",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "t2n55FphIfUBGHlSZmkq8A=="
+    },
+    {
+      "name": "Lindsay Penny",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "zzgi0ZHSez+1Pk5ssCEokQ=="
+    },
+    {
+      "name": "Ashley Perfect",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kb5it+K/1XMz/95sKtTNOQ=="
+    },
+    {
+      "name": "Rex Peters",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/5/2025",
+      "usta_id": "FsRuYK2ag1m0fMjHVGrTFA=="
+    },
+    {
+      "name": "Norman Peterson",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2e/96+S1Lpb2drYYzJAQRw=="
+    },
+    {
+      "name": "Penney Phillips",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Yd2c46An2Asf1ot+W+1xlw=="
+    },
+    {
+      "name": "Rhonda Phillips",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gBaC1C3GzJwXB0k7FLkmkA=="
+    },
+    {
+      "name": "Alison Pierce",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "NYkF4ei/ezAppvNyRLXO6Q=="
+    },
+    {
+      "name": "Gregory Ping",
+      "gender": "Male",
+      "city": "Huntington",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jmloGFA4+XkM/ifn2kbi7w=="
+    },
+    {
+      "name": "Judy Pollock",
+      "gender": "Female",
+      "city": "WHITE PIGEON",
+      "state": "MI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GQnWRtfiCXLA+E0DQwIZNg=="
+    },
+    {
+      "name": "Ignacio Poncio",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "givcJNiWIseZb3ps9Th+jg=="
+    },
+    {
+      "name": "Kenneth Powell Ii",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/14/2024",
+      "usta_id": "i2f3dfNWu1HvHSxn+qB9HQ=="
+    },
+    {
+      "name": "Brooke Price",
+      "gender": "Female",
+      "city": "Warsaw",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "kfQj6dhDUQeP4Hsi+ZNhIw=="
+    },
+    {
+      "name": "Linda Prus",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "yyUzp+ODQcIYhn/Gv+UJug=="
+    },
+    {
+      "name": "Natalie Pugh",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z4s0w9JqU6rcg1xS5wrrig=="
+    },
+    {
+      "name": "Josh Quandt",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NDnXsMKdV86ETcQ+m8nbyQ=="
+    },
+    {
+      "name": "Liz Quehl",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Seaq+yiD8KUK/xFWPdfHVA=="
+    },
+    {
+      "name": "Linda Quillen",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "JfJv+t81Q533NSoE5JKalQ=="
+    },
+    {
+      "name": "Ethan Radke",
+      "gender": "Male",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1LCsATlNwF2R1BJtghfqcA=="
+    },
+    {
+      "name": "Jeffrey Radke",
+      "gender": "Male",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "akql77NnK8+Fp85wEfjReA=="
+    },
+    {
+      "name": "Linda Radke",
+      "gender": "Female",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MRhIpo6qCI+gXL02mLgX/w=="
+    },
+    {
+      "name": "Kristen Rajchel",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jIlzA1hGir58hH/NPa+J6A=="
+    },
+    {
+      "name": "Laura Rao",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mGFGi53Jtd9EXRgMG408fA=="
+    },
+    {
+      "name": "Melissa Rapp",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/YeygNIE0Fn70OImGU2+2Q=="
+    },
+    {
+      "name": "Andrew Redding",
+      "gender": "Male",
+      "city": "Indianapolis",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UQT6t6GkWaOMZcn9vj6vng=="
+    },
+    {
+      "name": "Ron Redding",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZN23Ym+kaGmLkqlDpY87yQ=="
+    },
+    {
+      "name": "Seema Reddy",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X18tqkWQn6ohzk+wfeT/dw=="
+    },
+    {
+      "name": "Lynn Reecer",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6PlmIUM0cpg5VLJ5FyU5xw=="
+    },
+    {
+      "name": "Diana Reed",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T6B4he6gRVwy9jF82Yau6A=="
+    },
+    {
+      "name": "Heather Regan",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A/oA8mktEkvZEOXv+eFBTg=="
+    },
+    {
+      "name": "Katie Rhinehart",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1zjwpnUBCxOSPRkr4V5g5g=="
+    },
+    {
+      "name": "Gail Rhoades",
+      "gender": "Female",
+      "city": "Angola",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uhGW96ITscY3rIBFytNwGA=="
+    },
+    {
+      "name": "John Richter",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DAqFOduV5B9DbjzN+ZdfWA=="
+    },
+    {
+      "name": "Joshua Rifkin",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "pSSpgmdUZ4P4eR/HP8mjAg=="
+    },
+    {
+      "name": "Mark Rifkin",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PwWXtRIxSX64p2QTNEVo7Q=="
+    },
+    {
+      "name": "Neal Rifkin",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d06U0QBvxjctncOLV+koDg=="
+    },
+    {
+      "name": "Jamie Rinkenberger",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vdFG3o/8urHK18on5oMfUg=="
+    },
+    {
+      "name": "Leigh Roberson",
+      "gender": "Female",
+      "city": "Yoder",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pImM82ScQaElWngGf+hyfQ=="
+    },
+    {
+      "name": "Alaina Roberts",
+      "gender": "Female",
+      "city": "South Bend",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "TBhLHt+q5nx4VIhaWJXucw=="
+    },
+    {
+      "name": "LeighAnne Roberts",
+      "gender": "Female",
+      "city": "South Bend",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wSq+N1Mt4q4+czLf+sieFQ=="
+    },
+    {
+      "name": "Rachel Roberts",
+      "gender": "Female",
+      "city": "KENDALLVILLE",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/13/2024",
+      "usta_id": "gizJf6cMDcFH7sbScokfng=="
+    },
+    {
+      "name": "Kristina Robertson",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B+9E4Zd9XLi0J5gj4kU3Kg=="
+    },
+    {
+      "name": "Camy Rodenbeck",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gOtEj6IaL5UikDTYazl93Q=="
+    },
+    {
+      "name": "Chris Rodenbeck",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/14/2023",
+      "usta_id": "IAzYZWTjKSAqwZYQ0Y+9Cw=="
+    },
+    {
+      "name": "Tori Rodenbeck",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZY5haHh92S9NkaTQ2KldDg=="
+    },
+    {
+      "name": "Cristian Rodriguez",
+      "gender": "Male",
+      "city": "Huntington",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "Emh1/atwIfKHbyuCXbkarQ=="
+    },
+    {
+      "name": "Charles Rollins",
+      "gender": "Male",
+      "city": "Van Wert",
+      "state": "OH",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5bTLrD2Z8jlkOj339SfEDQ=="
+    },
+    {
+      "name": "Alexander Rongos",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "V/yB6ikr+QpSOdUUoDu9SA=="
+    },
+    {
+      "name": "Jerome Rosales",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Lu+JQCbwt+LH6WHo91xXUw=="
+    },
+    {
+      "name": "Melinda Rosales",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Jjeev54xetikzfrbDa0vA=="
+    },
+    {
+      "name": "Michael Roselle",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/5/2024",
+      "usta_id": "BBQG9XA0DBd/VcRoGwRh2A=="
+    },
+    {
+      "name": "Rosie Roselle",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aZR+859QEdLbQyygmbbI6Q=="
+    },
+    {
+      "name": "Elizabeth Ross-Gulyas",
+      "gender": "Female",
+      "city": "Churubusco",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aCxovRLpUzrNqLyVjoTFhA=="
+    },
+    {
+      "name": "Kathy Roudebush",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/11/2025",
+      "usta_id": "l8gf6SAhqjb0uKISfh27Uw=="
+    },
+    {
+      "name": "Matt Roussel",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "YuK376IirSqoBurVpPWIiw=="
+    },
+    {
+      "name": "Will Rudolph",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gVDYxVkarp3LT28AtNE2ig=="
+    },
+    {
+      "name": "Lydia Ruegsegger",
+      "gender": "Female",
+      "city": "Greenfield",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "fT4QP24jYUDSABnbuLZQdw=="
+    },
+    {
+      "name": "Erasmo Ruggiero",
+      "gender": "Male",
+      "city": "Portage",
+      "state": "MI",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "Gj09BttjFjihFY7Wzf/28A=="
+    },
+    {
+      "name": "Jennifer Runestad",
+      "gender": "Female",
+      "city": "Leo",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/B2VoIV8fycZSkqIoRcYXw=="
+    },
+    {
+      "name": "Molli Runestad",
+      "gender": "Female",
+      "city": "Leo",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QXGO3LjCLzbAXBVN7g0GeQ=="
+    },
+    {
+      "name": "Natali Runestad",
+      "gender": "Female",
+      "city": "Leo",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9edjbRctQogJ0N42kFoAvg=="
+    },
+    {
+      "name": "Tracy Ryland",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "7ukVYCUC3lHbu4bV3YVKTQ=="
+    },
+    {
+      "name": "Maggie Saal",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TYI/Wz1rHHL0PUvAlVOqQg=="
+    },
+    {
+      "name": "Jason Sagan",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z6L5MnkSa+Mosx5ivGy71g=="
+    },
+    {
+      "name": "Kayla Salmon",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LtkpynemeWA3/RRdFrKPvw=="
+    },
+    {
+      "name": "David Salway",
+      "gender": "Male",
+      "city": "OSSIAN",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y4k0hltipXHDjGnodz6+sQ=="
+    },
+    {
+      "name": "Greg Salway",
+      "gender": "Male",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QN/xWvZiaFjJeTg1HG3+nw=="
+    },
+    {
+      "name": "Lisa Salway",
+      "gender": "Female",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bvKhctUB6dExAk1R2Ka2DA=="
+    },
+    {
+      "name": "Kim Sank",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HnnczhnAnX+SuFXeffnR9g=="
+    },
+    {
+      "name": "Michelle Saraiva",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FCeE9AJ+BjBsrmpWLpuBqA=="
+    },
+    {
+      "name": "Jeff Sather",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R6Z3v4KduI+ciG+fVhlNnQ=="
+    },
+    {
+      "name": "Wendy Sather",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IBERfOEjGG6yO9nEQU295g=="
+    },
+    {
+      "name": "Lalitha Sayed",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "eeZX/BVqmbT5xsAirxXujA=="
+    },
+    {
+      "name": "Collin Saylor",
+      "gender": "Male",
+      "city": "AUBURN",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2024",
+      "usta_id": "bH5FSWoxYnt/yzhGth6IcQ=="
+    },
+    {
+      "name": "Bradley Schantz",
+      "gender": "Male",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "rCdfX8dDFhT83I7PubGm/A=="
+    },
+    {
+      "name": "Audra Scheibe",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "9g58qlOHXQTIvWJt/ZMokw=="
+    },
+    {
+      "name": "Anne Schenkel",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c+iy+LgauPWrKn1nQ4LORg=="
+    },
+    {
+      "name": "Jeff Schneider",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "IUzt5AIjFbc+kbtNxH+2YQ=="
+    },
+    {
+      "name": "Larry Schuh",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1vrPvgf7vXG72UtJAWTahQ=="
+    },
+    {
+      "name": "Tiffiny Schwartz",
+      "gender": "Female",
+      "city": "Nappanee",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DvZMKUp+dReczPQouK3cIw=="
+    },
+    {
+      "name": "Tori Schwartz",
+      "gender": "Female",
+      "city": "Nappanee",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QFHzkwypF5MHzH/rGqFoUA=="
+    },
+    {
+      "name": "Maria Sciole",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gS/AqPu+CO+8q0BeuZzHIw=="
+    },
+    {
+      "name": "Michael Scrogham",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "99uZ/ueUU2v0DFJxELeeLA=="
+    },
+    {
+      "name": "Ryan Seale",
+      "gender": "Male",
+      "city": "WARSAW",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "1oMjxTULbPU4IwOSciyUkQ=="
+    },
+    {
+      "name": "Joseph Selking",
+      "gender": "Male",
+      "city": "Decatur",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "A4NbAVlJSPapyrCgVBswxg=="
+    },
+    {
+      "name": "Olivia Selking",
+      "gender": "Female",
+      "city": "Decatur",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dicAobVoB74ScnZLe7GDoA=="
+    },
+    {
+      "name": "Mike Sellers",
+      "gender": "Male",
+      "city": "Pierceton",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xPxpBC787UoHqNnUAGO/sQ=="
+    },
+    {
+      "name": "Harsh Sharma",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/15/2024",
+      "usta_id": "o2HIO+3jEZg6u3TQ1kqEnw=="
+    },
+    {
+      "name": "Abby Shie",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/26/2025",
+      "usta_id": "LrjrTTLh2VJf91WNhTB08A=="
+    },
+    {
+      "name": "Scott Shie",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "dcoAtFkckCUtz9soO6DJXQ=="
+    },
+    {
+      "name": "Travis Shoaf",
+      "gender": "Male",
+      "city": "WARSAW",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I/8mea6UTXmkaYHs1ouVDw=="
+    },
+    {
+      "name": "Gregory Shoda",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NjQnKJL/HuSbukCHmIicyg=="
+    },
+    {
+      "name": "Kenna Shoup",
+      "gender": "Female",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "yDPlBYVpAEH52HtHFwjVcA=="
+    },
+    {
+      "name": "Alexis Sierks",
+      "gender": "Female",
+      "city": "LEESBURG",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "G8NwQq4glrje5oBFMYqNtw=="
+    },
+    {
+      "name": "Kevin Sierks",
+      "gender": "Male",
+      "city": "LEESBURG",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "8gj6vMUiiThU2WH9PvBT2g=="
+    },
+    {
+      "name": "Cheryl Silverhart",
+      "gender": "Female",
+      "city": "Hamilton",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/8/2025",
+      "usta_id": "nlJ19jdaREcsIgqF81GGug=="
+    },
+    {
+      "name": "Bethany Sinclair",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sfRC7zP/N6+uwhukdEq/7A=="
+    },
+    {
+      "name": "Emilie Singleton",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/19/2025",
+      "usta_id": "rQJaoi7+oZw/HwN9ZAbb5Q=="
+    },
+    {
+      "name": "Meriam Singson",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lafGmfcyVSVd095LgcfArQ=="
+    },
+    {
+      "name": "Sherrill Skelly",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QwrLLg7eu7N/lV35Cv7hcg=="
+    },
+    {
+      "name": "Nicole Slaymaker",
+      "gender": "Female",
+      "city": "Warsaw",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GT1PX8uu8xBWSOKlYqKVQQ=="
+    },
+    {
+      "name": "Alexa Smith",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "gjg/5c1/tWsprn2xwhPsKQ=="
+    },
+    {
+      "name": "Ali Smith",
+      "gender": "Female",
+      "city": "North Manchester",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "BoDjQ+oP2t9VirEKKctslA=="
+    },
+    {
+      "name": "Ben Smith",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H6lmdwjQ0H4ZZN3Lpr7q8A=="
+    },
+    {
+      "name": "Eric Smith",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "h1eI3+/XBIRddhGJ20YZvQ=="
+    },
+    {
+      "name": "Jane Smith",
+      "gender": "Female",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tj0BCgop7AAnVCdmFzXdgg=="
+    },
+    {
+      "name": "Mark Smith",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p6ejyrPZ5d150ZpmaKHdsw=="
+    },
+    {
+      "name": "Stephanie Smith",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ecMxdfU2Ci4ttZ/0ThjfCA=="
+    },
+    {
+      "name": "Tobin Smith",
+      "gender": "Male",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zJ6bek6NtHxfrMi9iJ+0+Q=="
+    },
+    {
+      "name": "Chloe Smithley",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4MJTYRJurubd1dkvup+j1Q=="
+    },
+    {
+      "name": "Chandra Snyder",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "jwXGVdL1S2ipkgZdjxTyqg=="
+    },
+    {
+      "name": "Diann Solloway",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/mREhIgo7Hn7WnL4yZPA8A=="
+    },
+    {
+      "name": "James Solloway",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M0MIRyq52KSPXO7B2g38vw=="
+    },
+    {
+      "name": "Diana Spitzer",
+      "gender": "Female",
+      "city": "Marion",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "BQP897xHrDEtRj7i4IdIyg=="
+    },
+    {
+      "name": "Michael Spitzer",
+      "gender": "Male",
+      "city": "Marion",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "IkKx0LjT0j0mXRjt7gZxFQ=="
+    },
+    {
+      "name": "Carol Sprandel",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DeKaOEOXj2vOLc7EvrjimA=="
+    },
+    {
+      "name": "Angela Staedtler",
+      "gender": "Female",
+      "city": "Spencerville",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gFkzMhGnxU0R+t5USmOeCA=="
+    },
+    {
+      "name": "Matthew Stallman",
+      "gender": "Male",
+      "city": "AUBURN",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2mKmKVp9rfWV2/BXCYunBw=="
+    },
+    {
+      "name": "Jay Stanchin",
+      "gender": "Male",
+      "city": "Leo",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LEX1Lrhgk1M5b//KBXGDoA=="
+    },
+    {
+      "name": "Quinn Stanchin",
+      "gender": "Female",
+      "city": "Leo",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CvV3SiOodMVMddkG59zVgg=="
+    },
+    {
+      "name": "Sarah Stanchin",
+      "gender": "Female",
+      "city": "Leo",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fCEpgAiydJvVNpa2dExCxg=="
+    },
+    {
+      "name": "Taylor Stanchin",
+      "gender": "Female",
+      "city": "Leo",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "LEX1Lrhgk1O6kVVFJoBvMw=="
+    },
+    {
+      "name": "Jack Stanley",
+      "gender": "Male",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M+Z7YtTJKobS6JamBzCy6g=="
+    },
+    {
+      "name": "Kimberly Stark",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1dgF+eutc8DWcDhe7rwyvw=="
+    },
+    {
+      "name": "Paige Stauffer",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D40iIT+VXtcCqaLajoamUg=="
+    },
+    {
+      "name": "Tim Stauffer",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4YGPrCY6nNj+o36kT+TXCw=="
+    },
+    {
+      "name": "Leslie Stechschulte",
+      "gender": "Female",
+      "city": "Ottawa",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DtQ2HmYXh1jSwNL5WT3ipg=="
+    },
+    {
+      "name": "Julia Stefanek",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zb0fVyLx55ihroJLgwQsNQ=="
+    },
+    {
+      "name": "Kim Steffy",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "ZY6TOm11QkyIXM410exXVw=="
+    },
+    {
+      "name": "Laura Stetzel",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NPTm7kEZBK7gXD9UNEtyqg=="
+    },
+    {
+      "name": "Melyssa Stock",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "/ifkYOPWFJ5MtsyjSlp49w=="
+    },
+    {
+      "name": "Todd Stock",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FgNFRXR7uK7pLz0lg+iFIQ=="
+    },
+    {
+      "name": "Derek Stoney",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "sQsKR4ofY85ReAkCjDuWOg=="
+    },
+    {
+      "name": "Diane Straessle",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uW3Dsv8oycD+Zf6EshxWVg=="
+    },
+    {
+      "name": "Erica Sullivan",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XCojokaS1R/JpDKbn/26xA=="
+    },
+    {
+      "name": "Maralissa Sullivan",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JMP8QhDdnoc6JhfNeLPQHQ=="
+    },
+    {
+      "name": "Tim Sullivan",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rmyArlabjG/M8H/l2mkb4Q=="
+    },
+    {
+      "name": "Joshua Sutton",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wqJxI3IoMtYPLWCFhiLHsg=="
+    },
+    {
+      "name": "Lana Sutton",
+      "gender": "Female",
+      "city": "WESTFIELD",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KkGtifJiJ6VD3uX6vnkDzw=="
+    },
+    {
+      "name": "Vicki Swanson",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Raks8qk1QrnJXff7673d9w=="
+    },
+    {
+      "name": "Sandra Sweet",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ess7W2nt/2+wv8YIxZjLLA=="
+    },
+    {
+      "name": "Emily Szaferski",
+      "gender": "Female",
+      "city": "Huntertown",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dhx2d5W4Vefq8nFUTet3nQ=="
+    },
+    {
+      "name": "Diego Tapia Finseth",
+      "gender": "Male",
+      "city": "Huntington",
+      "state": "IN",
+      "rating": "6.0",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "lojtumQym/L0OJrczuQPVQ=="
+    },
+    {
+      "name": "Nina Telesca Magnani",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/25/2025",
+      "usta_id": "jSaY41XQ339ewQ322NfkeA=="
+    },
+    {
+      "name": "Larry Thompson",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GAPQiIXfiwSs1CiDfDDHfQ=="
+    },
+    {
+      "name": "Karen Till",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DohBWkeqjOkLCvsHuZ9xyg=="
+    },
+    {
+      "name": "Mark Tipmongkol",
+      "gender": "Male",
+      "city": "Huntington",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "aZcT5zUIwsLuSm4aRDCNNQ=="
+    },
+    {
+      "name": "Courtney Todd",
+      "gender": "Female",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mo77QoneSLXRSRQhJncWtw=="
+    },
+    {
+      "name": "Ley Tolibas",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "9XRnh9vvjmQgLRj1vdRTug=="
+    },
+    {
+      "name": "Elmer Toliver",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/dNkuveevWv5dGER8mddhw=="
+    },
+    {
+      "name": "Anna Topmiller",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "D5ZXdcZ2pc8Gs4P/od6jNg=="
+    },
+    {
+      "name": "Jennifer Topmiller",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D5ZXdcZ2pc+J9/iYxek0CQ=="
+    },
+    {
+      "name": "Joseph Topmiller",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "L6a7XhW3FhbGLO0T+vzNpg=="
+    },
+    {
+      "name": "Carolyn Trier",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "yD4YxODTtHbQ1cxy4RmuLg=="
+    },
+    {
+      "name": "Sarah Tweneboah",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lYPZhkColYKzII5SpXTArQ=="
+    },
+    {
+      "name": "Arfak UdDowla",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iNQg5hmO5GizHz75G6+8yA=="
+    },
+    {
+      "name": "Joel Valcarcel",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hA85wcCSyLwziOuP0ULX2g=="
+    },
+    {
+      "name": "Kristine Valcarcel",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hA85wcCSyLzNOP1qqr7Gsw=="
+    },
+    {
+      "name": "Karl Veracco",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4nMPEmq1xv+SiFG3SYgh6g=="
+    },
+    {
+      "name": "Gonzalo Vivas Ortega",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "1AqFpgff94I4fhML0qdubg=="
+    },
+    {
+      "name": "Carson Vogt",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/26/2023",
+      "usta_id": "k0ET7HwxfrAH4hMhKvvLTQ=="
+    },
+    {
+      "name": "Darren Vogt",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VYwXHz7Z3HH1ixmcf2VFTA=="
+    },
+    {
+      "name": "Jenny Vogt",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "83p4SjC+5rVprv4AGktGrA=="
+    },
+    {
+      "name": "Cindy Volk",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aUdXh9xXK0+VZjG4Ku5z6A=="
+    },
+    {
+      "name": "Krista VonBurg",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IgeDaQBi7RDv5/F3fjaEDw=="
+    },
+    {
+      "name": "Charles Vu",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bn0Uvd4RORE5O8BmpQaipg=="
+    },
+    {
+      "name": "Andrew Wagner",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8tsG39kCDLpLhHZ+0rezng=="
+    },
+    {
+      "name": "Jennifer Walker",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tlw5Kqz35o+7T+nJ4+87lw=="
+    },
+    {
+      "name": "Ann Marie Wallace",
+      "gender": "Female",
+      "city": "Auburn",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sPIrQq1KHlSLZvThGkOzkw=="
+    },
+    {
+      "name": "Nicholas Wallace",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BElcpWv5JAE2TzcO3CSgIA=="
+    },
+    {
+      "name": "Laura Wallstrom",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rQgLTjfaFMPbhS2Xf6v25A=="
+    },
+    {
+      "name": "Brady Warren",
+      "gender": "Male",
+      "city": "Angola",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/9/2025",
+      "usta_id": "GamnLrB0mUfyqZ0NevxSOg=="
+    },
+    {
+      "name": "Craig Wassell",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "waYtl5yyuPwRtjDo7hKdkQ=="
+    },
+    {
+      "name": "Megan Weaver",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4qOY4KR0i0yZ0eKInLIpNw=="
+    },
+    {
+      "name": "Eric Webster",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "e9eCcKGIfjMMNnQC75P26w=="
+    },
+    {
+      "name": "Stephanie Weigert",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qqZX7Z/PC7sT1Y93S3iDNQ=="
+    },
+    {
+      "name": "Peggy Weinrich",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V3Oa7cDaElVO3BQkmXTIcw=="
+    },
+    {
+      "name": "Craig Welch",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WCpZajiLl00LakwL2GMdyA=="
+    },
+    {
+      "name": "Vicki Welch",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SNmIV/BN1fK1p75uaLjI6w=="
+    },
+    {
+      "name": "Natalie Wells",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f9G0DyL8OePotAubJz0DJw=="
+    },
+    {
+      "name": "Taryn Wemhoff",
+      "gender": "Female",
+      "city": "Huntington",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Aa6qZiB2c2fLcfBJNHhFAw=="
+    },
+    {
+      "name": "Tyler Wemhoff",
+      "gender": "Male",
+      "city": "Huntington",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c0CImQZD2/UPp3m3jk/7sA=="
+    },
+    {
+      "name": "Jonah Werst",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jFT6wpKsXSKE3oVO2ghOBw=="
+    },
+    {
+      "name": "Lindsey Westhoff",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z/O9lKinqpaNp3GH5KAnLg=="
+    },
+    {
+      "name": "Timothy Weybright",
+      "gender": "Male",
+      "city": "South Whitley",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Xws//aVV0EIKRwOnHPkJA=="
+    },
+    {
+      "name": "Robert White",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w9lr/wYOYTbQnE9imlzkvA=="
+    },
+    {
+      "name": "Steve White",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rhdbRT5y20y55J07LcVqFg=="
+    },
+    {
+      "name": "Albert Wildrick",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "aT798/Vk7zvjAYca0bGoYA=="
+    },
+    {
+      "name": "Debbie Wildrick",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5/V8J4ZDbmhFRsCxrDg9xA=="
+    },
+    {
+      "name": "Julie Willmert",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "IN",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "bNXbikv4f4Q7GAk+wpommw=="
+    },
+    {
+      "name": "Amy Wills",
+      "gender": "Female",
+      "city": "Roanoke",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QA1cpsTU1oOfzvZA4T5qEQ=="
+    },
+    {
+      "name": "Abby Wilson",
+      "gender": "Female",
+      "city": "Ottawa",
+      "state": "OH",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e4yupNTqQuwCXDQvNqUUIg=="
+    },
+    {
+      "name": "Megan Wilson",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bzRTUee2YvLMn7bgizVCFQ=="
+    },
+    {
+      "name": "Randy Wilson",
+      "gender": "Male",
+      "city": "FORT WAYNE",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FJwGCI2ydshd3/V1DFfltQ=="
+    },
+    {
+      "name": "Hannah Winchester",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CxYa9xZk6Xuz8XM2PRCDpw=="
+    },
+    {
+      "name": "Matthew Winteregg",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GrPcGAal7XSRbzQrhoeZTA=="
+    },
+    {
+      "name": "Yeisol Woo",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/1/2025",
+      "usta_id": "gNh3JO+5skfOZckhAptpaA=="
+    },
+    {
+      "name": "Jennifer Wysong",
+      "gender": "Female",
+      "city": "Nappanee",
+      "state": "IN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hl4W8V0MYCUgK88TzLEIXw=="
+    },
+    {
+      "name": "PETER XAVIER",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LR0OYrwmOGk+3dLRdK/a9g=="
+    },
+    {
+      "name": "Linying Xiao",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/19/2024",
+      "usta_id": "vncoP5N4TJrMSb8X00WMSA=="
+    },
+    {
+      "name": "Ayfer Yarcich",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LMVL7vdD4jotXizeN4SS2A=="
+    },
+    {
+      "name": "Rowena Yu-Mendador",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yMQQG4h8VSic8k2MaSrHaw=="
+    },
+    {
+      "name": "Taylor Zank",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nWhsCbuZ4SMzWI1CS2/7FQ=="
+    },
+    {
+      "name": "Jane Zellers",
+      "gender": "Female",
+      "city": "Winona Lake",
+      "state": "IN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jo2OSQYv56lFiysRJnPy/g=="
+    },
+    {
+      "name": "Virginia Zimmerman",
+      "gender": "Female",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "rB9nh8fHX67DZj05JY/qJw=="
+    },
+    {
+      "name": "Gary Zoller",
+      "gender": "Male",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "deN8FI/FlTcMFkYsORVciQ=="
+    }
+  ]
+}

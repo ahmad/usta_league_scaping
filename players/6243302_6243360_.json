@@ -1,0 +1,6437 @@
+{
+  "sectionId": "6243302",
+  "districtId": "6243360",
+  "areaId": "",
+  "players": [
+    {
+      "name": "James Abruzzo",
+      "gender": "Male",
+      "city": "Lee",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/22/2025",
+      "usta_id": "5+io50CFnd1sFvYA6nA1KA=="
+    },
+    {
+      "name": "Mary Adler",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4TUorrT00cd4eMU4xkLvNA=="
+    },
+    {
+      "name": "Tony Agrillo",
+      "gender": "Male",
+      "city": "Colrain",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/14/2023",
+      "usta_id": "5pNvlWbIrfU5vubtnAmpqg=="
+    },
+    {
+      "name": "Bonnie Allen",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Is5rSHmHXE8sdy5zJXG9jg=="
+    },
+    {
+      "name": "Justin Allen",
+      "gender": "Male",
+      "city": "Lenox",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "xxRul0O7nO1WX5T9A1WjEA=="
+    },
+    {
+      "name": "Lucy Alman",
+      "gender": "Female",
+      "city": "Sunderland",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "/jdLaYVxq0bcUkkqsVe/DA=="
+    },
+    {
+      "name": "Lavalier Alves",
+      "gender": "Male",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0MO8Bi6y/7z6oS0l+m1Uww=="
+    },
+    {
+      "name": "Amy Anderlonis",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ij7l0tGyj3G2JTFkTJuIfA=="
+    },
+    {
+      "name": "Carol Anderson",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WUNtoHWWBIiUe35+M2raMQ=="
+    },
+    {
+      "name": "Elaine Anderson",
+      "gender": "Female",
+      "city": "South Windsor",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pDabFyQU/dLgRdlW8Tml9g=="
+    },
+    {
+      "name": "Susan Anderson",
+      "gender": "Female",
+      "city": "Ashford",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a3IevyAZKGbADS/1e/HN1g=="
+    },
+    {
+      "name": "Leonardo Andrade",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YMKdv6bJ91Utc8zgRaHP5w=="
+    },
+    {
+      "name": "Laurie Andretta",
+      "gender": "Female",
+      "city": "Lee",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JHZtC9xCbeKcaE2bsCZJlQ=="
+    },
+    {
+      "name": "Ricky Andretta",
+      "gender": "Male",
+      "city": "Lee",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RrSFsRtXNqGNbi8s6u0JvQ=="
+    },
+    {
+      "name": "Jackie Apanowitch",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fEE+kkAdzOP5sFJfRhYoGQ=="
+    },
+    {
+      "name": "Doug Arlow",
+      "gender": "Male",
+      "city": "Stafford Springs",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zMQ06isBPu3KNkBkJUsTPA=="
+    },
+    {
+      "name": "Esther Aronson",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TXBp4CcLOLzOZM2GIMwRTg=="
+    },
+    {
+      "name": "Stephen Aronson",
+      "gender": "Male",
+      "city": "Avon",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "54ZGu6kZs1ZqYfmjy4G4+w=="
+    },
+    {
+      "name": "Rani AThreya",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iRxYeVasP3HceXsQ0m3F1Q=="
+    },
+    {
+      "name": "Jeremy Atkinson",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t/VruOWkzqqH5QEeXE2B0Q=="
+    },
+    {
+      "name": "Lisa Aukerman",
+      "gender": "Female",
+      "city": "Ashford",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HLRwMVBc53yTwJbjMJLtJA=="
+    },
+    {
+      "name": "James Ault",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/29/2024",
+      "usta_id": "t+YEdNtl0hutquF7PA5dgw=="
+    },
+    {
+      "name": "Jonathan Avery",
+      "gender": "Male",
+      "city": "Granby",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GHAw7rVK49qpu7fDcTQNlw=="
+    },
+    {
+      "name": "Becky Ayers",
+      "gender": "Female",
+      "city": "Palmer",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8XzSX73HK1Oi9S0kiKcV7A=="
+    },
+    {
+      "name": "Jennifer Ayre",
+      "gender": "Female",
+      "city": "Belchertown",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z8TOTS9VCm4pXQOXDQK//Q=="
+    },
+    {
+      "name": "Nick Azar",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mtvBWq1oTfSpRNrG2Kqaeg=="
+    },
+    {
+      "name": "Joerg Baader",
+      "gender": "Male",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qpcSBxWKfFKNYfeWqSddSg=="
+    },
+    {
+      "name": "Kelly Babich",
+      "gender": "Female",
+      "city": "West Hartford",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kXz3Hbhw3ZELWAo0sYjvJw=="
+    },
+    {
+      "name": "Linda Babich",
+      "gender": "Female",
+      "city": "Fernandina Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lksfrDAwzvtt306yWF7blA=="
+    },
+    {
+      "name": "Carlos Badiola",
+      "gender": "Male",
+      "city": "West Hartford",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AMQsrhhgZkkLCwzlNDQVTw=="
+    },
+    {
+      "name": "Gigi Badiola",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WUQdpBc+c0s7XDU/k0oK7g=="
+    },
+    {
+      "name": "Jacqueline Bagwell",
+      "gender": "Female",
+      "city": "HADLEY",
+      "state": "MA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mefGxaVWPuvUdFLSRpyk1Q=="
+    },
+    {
+      "name": "Dorothea Baker",
+      "gender": "Female",
+      "city": "Great Barrington",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/21/2024",
+      "usta_id": "E0x1s4N49frtpsxfdR4JqA=="
+    },
+    {
+      "name": "Nathan Baker",
+      "gender": "Male",
+      "city": "Vernon Rockville",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AkTez9874R3/wfPgpscZdw=="
+    },
+    {
+      "name": "William Ballen",
+      "gender": "Male",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "qeuyCGNW1kFSk/oT68mFxw=="
+    },
+    {
+      "name": "Sonia Baltazar",
+      "gender": "Female",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7GebB2l1GIA27OzkdP8vxQ=="
+    },
+    {
+      "name": "Kevin Baratta",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/23/2024",
+      "usta_id": "g3XswPEpKHMTm9EP1GIiow=="
+    },
+    {
+      "name": "Adriene Barmann",
+      "gender": "Female",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/7/2024",
+      "usta_id": "su4gwFgEAsa9mhyIAB+Wqg=="
+    },
+    {
+      "name": "Suzanne Baxter",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/WmdeH63qmTlEt/YkoKE6g=="
+    },
+    {
+      "name": "Barbara Beaudoin",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QiWXgRZpoyu8YysLS++TBA=="
+    },
+    {
+      "name": "Priscilla Z Behidj",
+      "gender": "Female",
+      "city": "San Ramon",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R2xC2od/wXYgUDWZvsvLLQ=="
+    },
+    {
+      "name": "BALAJI BELUR",
+      "gender": "Male",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/28/2024",
+      "usta_id": "zQBFXA+ri1Wbp1G7Xq+64A=="
+    },
+    {
+      "name": "Carol Bennett",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OyDzImgkjdho3nv1zpFsEw=="
+    },
+    {
+      "name": "Jerry Bernay",
+      "gender": "Male",
+      "city": "Sanibel",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/5/2024",
+      "usta_id": "9UcFLbq6fBosZftP8dxoDQ=="
+    },
+    {
+      "name": "Jared Berthiaume",
+      "gender": "Male",
+      "city": "Greenfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/10/2024",
+      "usta_id": "xLlVrSZtu3G5959AEpo38A=="
+    },
+    {
+      "name": "Jonathan Besse",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+gBWCn9YKHX0JLDHX4tdHw=="
+    },
+    {
+      "name": "Melissa Besse",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "49bJfgBKUiWRURsJdj4Lcg=="
+    },
+    {
+      "name": "Ritika Bhatt",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r06A/Eb97HkEhE+KNV8UpQ=="
+    },
+    {
+      "name": "Mahdis Bikhof Torbaty",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FKCPk8ZWHpFDGCRTb6hUfw=="
+    },
+    {
+      "name": "Beverly Bloomberg",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xJxc5+y91uq4NJyDi3Q9AA=="
+    },
+    {
+      "name": "Diane Boglisch",
+      "gender": "Female",
+      "city": "Feeding Hills",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "blq69Q4muZO9Zc7EoCavIQ=="
+    },
+    {
+      "name": "John Boisvert",
+      "gender": "Male",
+      "city": "Canaan",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "RVieriQhMZxywAI5/jL3cw=="
+    },
+    {
+      "name": "Sarah Bombich",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GP5jcuAvZmTFCR68GSJfnw=="
+    },
+    {
+      "name": "Liz Bone",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fgsnuYSk919B78eRG42IDg=="
+    },
+    {
+      "name": "Yulia Bougouin",
+      "gender": "Female",
+      "city": "Becket",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bF2xnknMzWApVDNDXLKYDg=="
+    },
+    {
+      "name": "Wendy Bowers",
+      "gender": "Female",
+      "city": "Belchertown",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GeEbXWhYUrcRzNvyDsu4HQ=="
+    },
+    {
+      "name": "Sue Boyea",
+      "gender": "Female",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RPZT9/yRe3Ve9mvY0pTJhw=="
+    },
+    {
+      "name": "Karen Bradway",
+      "gender": "Female",
+      "city": "South Hadley",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Rdo6Bznmr2k3O3L7F6qEw=="
+    },
+    {
+      "name": "Lauren Brady",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "AO5Lddh5qb22yLWiO0GeCw=="
+    },
+    {
+      "name": "Kristina Braithwaite",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N3kvmmepoFu37nlJVwG1zA=="
+    },
+    {
+      "name": "Amy Brennan",
+      "gender": "Female",
+      "city": "Rochester",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rxY+4Rj/egSJnGM5x5SXtw=="
+    },
+    {
+      "name": "Pam Brenner-Newton",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hDjmtEM3bopJLHHjRefReg=="
+    },
+    {
+      "name": "Ira Brezinsky",
+      "gender": "Male",
+      "city": "South Hadley",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gB03fT+i1pd/Ydd+i4BjDw=="
+    },
+    {
+      "name": "Ellen Brodsky",
+      "gender": "Female",
+      "city": "Sheffield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/11/2024",
+      "usta_id": "uuyxWxQLPGycw95l/GYzfw=="
+    },
+    {
+      "name": "Ariella Brody",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PlTU5LPPei2//wu/0Y31ZQ=="
+    },
+    {
+      "name": "Sara Brown",
+      "gender": "Female",
+      "city": "Chicopee",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "d7HPX0Vm7DZNQfWnOSjvGg=="
+    },
+    {
+      "name": "Samuel Bruno",
+      "gender": "Male",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gj09BttjFjimVkwt4ZYeYQ=="
+    },
+    {
+      "name": "Julie Bugeau",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+ciPPahQKUm7x1918f1xyw=="
+    },
+    {
+      "name": "Monica Bunn",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w+kNDE2OgjAFfLERWB9/IA=="
+    },
+    {
+      "name": "Kimberly Burns",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0nfyxZr04PmCuBrd2AGRaA=="
+    },
+    {
+      "name": "Richard Butler",
+      "gender": "Male",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "YmeSOpK8DEVDgxYwl28Krw=="
+    },
+    {
+      "name": "Dave Butts",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vj7C1C5knWF47K3TgUf0CA=="
+    },
+    {
+      "name": "Erica Caban",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZY5haHh92S947buD5GLKLw=="
+    },
+    {
+      "name": "Alexandra Cabral",
+      "gender": "Female",
+      "city": "Southbury",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "THVeE9NJtfdIFCbpxb84Jg=="
+    },
+    {
+      "name": "Carol Cahillane",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/16/2025",
+      "usta_id": "UB+bV+uSRFcGILS9l1cSIA=="
+    },
+    {
+      "name": "Mary Cahillane",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LpiRKjVmWcGIalB4dzDrpg=="
+    },
+    {
+      "name": "Grace Calcano",
+      "gender": "Female",
+      "city": "Easthampton",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bn/5Q90sNZ28yQRyRvdHhQ=="
+    },
+    {
+      "name": "John Callaghan",
+      "gender": "Male",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/19/2025",
+      "usta_id": "XfiqBnI7AFz3mEEuf8OnNw=="
+    },
+    {
+      "name": "Brian Campbell",
+      "gender": "Male",
+      "city": "Erving",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o4ZalVQ6QdwsRFwmhlj+jg=="
+    },
+    {
+      "name": "Robert Campbell",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UBlrBjHxeefY2zxm1+QMmg=="
+    },
+    {
+      "name": "Kelly Canniff",
+      "gender": "Female",
+      "city": "Feeding Hills",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Nuv3n1wn8EWtY/OssbrfA=="
+    },
+    {
+      "name": "LuAnne Carbaugh",
+      "gender": "Female",
+      "city": "Easthampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vRAp3tyPuSVjOV6pvFIoDw=="
+    },
+    {
+      "name": "Arva Carlson",
+      "gender": "Female",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JPxYbpSLILCq4TensdV3dw=="
+    },
+    {
+      "name": "Kristin Carnahan",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "siLkzmgIgI+v/u0VqpJreQ=="
+    },
+    {
+      "name": "Jessica Carona",
+      "gender": "Female",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Al+FXCybwFiZE6FgRpwEA=="
+    },
+    {
+      "name": "Matthew Carona",
+      "gender": "Male",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8CSawfif6IX+xDDGIaNUGw=="
+    },
+    {
+      "name": "Lawrence Casella",
+      "gender": "Male",
+      "city": "LENOX",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/25/2025",
+      "usta_id": "SubsRurBkJ1RsVMwYEveFw=="
+    },
+    {
+      "name": "Carl Casinghino",
+      "gender": "Male",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BHtBs2IaBOrjMGjMjjkPmw=="
+    },
+    {
+      "name": "Alan Cetel",
+      "gender": "Male",
+      "city": "West Hartford",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xtv/UYvbCMoWzbxdnYRLsA=="
+    },
+    {
+      "name": "Cara Chapel",
+      "gender": "Female",
+      "city": "Granby",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hBLltVn4PtY72MSGGG4S7w=="
+    },
+    {
+      "name": "Robert Chasen",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6HpadrWWBzFEKmf6ZZNyHA=="
+    },
+    {
+      "name": "David Chassanoff",
+      "gender": "Male",
+      "city": "Tolland",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w8+JFjFKhmMJC6T4BjSIPA=="
+    },
+    {
+      "name": "Allison Cheney",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uD5HSQryucjtHcRe4b06sg=="
+    },
+    {
+      "name": "Yanis Chibani",
+      "gender": "Male",
+      "city": "Greenfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "57lQ/w7C7IkS/t0xgkjFyA=="
+    },
+    {
+      "name": "Brenna Ching",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BtIKTAO72tZayvR6jiaKIw=="
+    },
+    {
+      "name": "Amnat Chittaphong",
+      "gender": "Male",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "790B2XIj3wTKwhjGudaLOw=="
+    },
+    {
+      "name": "Niels Christiansen",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aSuQfWzz9PC7kkYpu5q08Q=="
+    },
+    {
+      "name": "Maxine Cirillo",
+      "gender": "Female",
+      "city": "Agawam",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8sJd91D3JIBnLJ//hbnFFg=="
+    },
+    {
+      "name": "Patricia Clayton",
+      "gender": "Female",
+      "city": "South Hadley",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GcH45oFvwsue7d3VOzq5eg=="
+    },
+    {
+      "name": "Patricia Coffey",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FW2/YDI1BpjJbhDIjE0uEw=="
+    },
+    {
+      "name": "Craig Cohen",
+      "gender": "Male",
+      "city": "Leverett",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dM1FTKxGZBRQcrO4zKspkA=="
+    },
+    {
+      "name": "Denise Collins",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9CPVGH756pZgYjIajL+oEw=="
+    },
+    {
+      "name": "John Colonese",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/5/2025",
+      "usta_id": "IAzILapRPIIzkaUW48HDQQ=="
+    },
+    {
+      "name": "Irene Colvin",
+      "gender": "Female",
+      "city": "Southwick",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3sS9ojs5vDnX9NvEZ+gzFw=="
+    },
+    {
+      "name": "Rachel Combe",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/BOIFyaPVMP1S1qc4FvVwg=="
+    },
+    {
+      "name": "Janet Compton",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4NE/WE+0iJsUDbn7d/SmmA=="
+    },
+    {
+      "name": "Sean Condon",
+      "gender": "Male",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/6/2024",
+      "usta_id": "ZwsOINXOJFwEVDco301jxA=="
+    },
+    {
+      "name": "Peggy Conley",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KHIk3xNwAGo5cjN5dCuUBQ=="
+    },
+    {
+      "name": "Carol Constant",
+      "gender": "Female",
+      "city": "South Hadley",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZCKgraIIDbmFoLs8CKJpXA=="
+    },
+    {
+      "name": "Kara Conway",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1h/1xn2Cv2mo07iUB80ntA=="
+    },
+    {
+      "name": "Melaina Corduff",
+      "gender": "Female",
+      "city": "East Granby",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g/d9TjVRrSkq5q2Hz1Ccgg=="
+    },
+    {
+      "name": "Richard Corey",
+      "gender": "Male",
+      "city": "Conway",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/1/2024",
+      "usta_id": "kK1bvr4ovUkhKhlEx0EsJA=="
+    },
+    {
+      "name": "Emily Corriveau",
+      "gender": "Female",
+      "city": "WESTFIELD",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7ztBaq5EK5YJxmCpo++Jjg=="
+    },
+    {
+      "name": "Amy Corsetti",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ccFmluU9RT+qvHBpw2gZCg=="
+    },
+    {
+      "name": "Kim Counter",
+      "gender": "Female",
+      "city": "HOLYOKE",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZegHM+Vl1FNfZ6117EEpLQ=="
+    },
+    {
+      "name": "Lauren Crafts",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "femJSeJ9U4xa3gPCFm4TnQ=="
+    },
+    {
+      "name": "Justin Crawford",
+      "gender": "Male",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ng/TA7bUKWRjVWA6aR0spw=="
+    },
+    {
+      "name": "Jennifer Crean",
+      "gender": "Female",
+      "city": "Agawam",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+FjaHkoy8BCxtY10NiT6lw=="
+    },
+    {
+      "name": "Evan Creer",
+      "gender": "Male",
+      "city": "Troy",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2022",
+      "usta_id": "5cu6gT+4H73s/BwnWeOZhw=="
+    },
+    {
+      "name": "Ruth Critcher",
+      "gender": "Female",
+      "city": "Leeds",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uHlBWwAToe6dZHcSBYOR3w=="
+    },
+    {
+      "name": "Jeff Crofts",
+      "gender": "Male",
+      "city": "Monson",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/5/2024",
+      "usta_id": "cpp91c5xowq8EuylZTRLBg=="
+    },
+    {
+      "name": "Donna Croteau",
+      "gender": "Female",
+      "city": "Hampden",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8eFdVjsTCVRW55PcobwVBQ=="
+    },
+    {
+      "name": "Lynn Croteau",
+      "gender": "Female",
+      "city": "Naples",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KQfjnJMPjDuB2VcPwhKW5A=="
+    },
+    {
+      "name": "Cassandra Crowal",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CfJEuwh+t4B4kDJSSzPNcw=="
+    },
+    {
+      "name": "Liv Cummins",
+      "gender": "Female",
+      "city": "Lee",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "MyDuv6wzON3HRm1fLzxSZA=="
+    },
+    {
+      "name": "Elizabeth Czarnecki",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BB8OC41XxUAYmgFEbv9Paw=="
+    },
+    {
+      "name": "Jack Dahan",
+      "gender": "Male",
+      "city": "Prospect",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Ygzo3RbAZf2AGjsBFORjw=="
+    },
+    {
+      "name": "Judy D'Angelo",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ac/AT4+5CvoTMB2FyxnrEg=="
+    },
+    {
+      "name": "Steven Danishevsky",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aFXpUi80RDFVzIrrGfakVw=="
+    },
+    {
+      "name": "JOSE DEJUAN",
+      "gender": "Male",
+      "city": "Farmington",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ydFPWKXh1lWM6jD0dbr2KA=="
+    },
+    {
+      "name": "Melissa Dery",
+      "gender": "Female",
+      "city": "Webster",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/MeUHXlTtIDOm02WskH/QA=="
+    },
+    {
+      "name": "Kim DeShields",
+      "gender": "Female",
+      "city": "South Hadley",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EOhhPSETxl0qf17Z1nh9GA=="
+    },
+    {
+      "name": "Katherine Desmond",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3j6N322hOKatu/rlFFXNog=="
+    },
+    {
+      "name": "Noreen Desroches",
+      "gender": "Female",
+      "city": "Chicopee",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UJueC+GyRIl5PR9au5ml8g=="
+    },
+    {
+      "name": "Dee Dice",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+bKOIDKm+D+uqPdNrcsOOg=="
+    },
+    {
+      "name": "Elena Dieck",
+      "gender": "Female",
+      "city": "Broad Brook",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9xZ1T3D7D1Et44H6QRVqZg=="
+    },
+    {
+      "name": "Marcia Disbrow",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fPTvnuIrgSdw3+ZpZRmkVQ=="
+    },
+    {
+      "name": "Ellen Donnelly",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/11/2024",
+      "usta_id": "OlAUnkh8k/XNB6Blege7yA=="
+    },
+    {
+      "name": "Moira Donoghue",
+      "gender": "Female",
+      "city": "Holyoke",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cu9dWmBcUh78KsUhvH8KkQ=="
+    },
+    {
+      "name": "Thomas Donovan",
+      "gender": "Male",
+      "city": "Manchester",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "wZuXnj+0b2RIRp2otuOqOg=="
+    },
+    {
+      "name": "Penny Doray",
+      "gender": "Female",
+      "city": "Belchertown",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "trk+KmDLcWKNytXCJg8bRw=="
+    },
+    {
+      "name": "Andrew Dorr",
+      "gender": "Male",
+      "city": "NORTH ADAMS",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/14/2023",
+      "usta_id": "OolUF1vIcrGPNsO+ULMQJg=="
+    },
+    {
+      "name": "Valmir DosSantos",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dNwSCpcAGkYtlgV1f3UK1Q=="
+    },
+    {
+      "name": "Hans Doup",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A6di2YLnJqzkCPnTj5Slyw=="
+    },
+    {
+      "name": "Debbie Douville",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P5N9k9jrLTklZ6sEWILaaA=="
+    },
+    {
+      "name": "Tamara Drummond",
+      "gender": "Female",
+      "city": "Belchertown",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "llvS3qcx0Ab0WWEtnWn0LA=="
+    },
+    {
+      "name": "Mary Dumala",
+      "gender": "Female",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rOPVDg7eq2KJDPh4T67QYQ=="
+    },
+    {
+      "name": "Whitney Dunn",
+      "gender": "Female",
+      "city": "LONGMEADOW",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hkIXx+B4U4o0NOVZ45c3dQ=="
+    },
+    {
+      "name": "Kevin Dupont",
+      "gender": "Male",
+      "city": "Naples",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/25/2025",
+      "usta_id": "Oh+gaOB0fD0hKvik640mHg=="
+    },
+    {
+      "name": "Ali Durrani",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0l0misE4elHY20nDEUNIrw=="
+    },
+    {
+      "name": "Virginia Duryee",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5MoI14TsyDN4k073vXQfxw=="
+    },
+    {
+      "name": "Douglas Dyer",
+      "gender": "Male",
+      "city": "South Windsor",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I1qZUevgEY+HT9hRFGABFA=="
+    },
+    {
+      "name": "Kristen Dygon",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GY38E/qkFmbRT51uGxH8hg=="
+    },
+    {
+      "name": "Samantha Edwards",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b6t2Ejpgg6Re1ssdimxQuA=="
+    },
+    {
+      "name": "Fran Eisenberg",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "wf0jFoCSWF567e38Vvg7Qw=="
+    },
+    {
+      "name": "Adeline Ellis",
+      "gender": "Female",
+      "city": "Richmond",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KA8dtBetFIugzuc62E96CA=="
+    },
+    {
+      "name": "Rachel Epstein",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EYWcDfnAuMtJBCTa3gUKSw=="
+    },
+    {
+      "name": "Omar Ezziddin",
+      "gender": "Male",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/12/2024",
+      "usta_id": "Yj8onbOZAZYky6peeZw9xA=="
+    },
+    {
+      "name": "Gerry Fawthrop",
+      "gender": "Male",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a0sK9svli9n02QNInlBeSw=="
+    },
+    {
+      "name": "Kate Fawthrop",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a0sK9svli9m5A+nswBn3KQ=="
+    },
+    {
+      "name": "Roland Fawthrop",
+      "gender": "Male",
+      "city": "Somers",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/21/2024",
+      "usta_id": "0wnux6tOFXNjx+sT8zKMmQ=="
+    },
+    {
+      "name": "Karen Fawthrop-Myers",
+      "gender": "Female",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/1/2025",
+      "usta_id": "WIbNw6jxC8jgXwswfc77Rg=="
+    },
+    {
+      "name": "Laurie Fede",
+      "gender": "Female",
+      "city": "East Hampton",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kil6p3pEyGit1tYXHfObOA=="
+    },
+    {
+      "name": "Wendy Federer",
+      "gender": "Female",
+      "city": "Lenox",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AEjRUI1iIZONCNAqbO14rQ=="
+    },
+    {
+      "name": "Dieter Fehlinger",
+      "gender": "Male",
+      "city": "Thomaston",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "+sGqQgJS5IG3sqytNhemXw=="
+    },
+    {
+      "name": "Amy Ferrero",
+      "gender": "Female",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L6A1tQn19IaKISD7GhhphA=="
+    },
+    {
+      "name": "Chris Ferriter",
+      "gender": "Male",
+      "city": "Holyoke",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nU4MZmu19Vwy5KJF1ZZPow=="
+    },
+    {
+      "name": "Cynni Finn",
+      "gender": "Female",
+      "city": "Granby",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+wvdQmmBiTbAxLnOCNwv1A=="
+    },
+    {
+      "name": "Michael Flannery",
+      "gender": "Male",
+      "city": "Southington",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "13kmVQbf6E3QAk3Bd1FRpA=="
+    },
+    {
+      "name": "Dawn Fleury",
+      "gender": "Female",
+      "city": "Agawam",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2WqhFuRvCwSMTFy98yAVXA=="
+    },
+    {
+      "name": "Pamela Florian",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "0/h1EUeuMOeQ3zuj4uVjtQ=="
+    },
+    {
+      "name": "Michelle Foard",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nJLi04dUtJDHAbQUuMRaWA=="
+    },
+    {
+      "name": "Melissa Follansbee",
+      "gender": "Female",
+      "city": "Stafford Springs",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x66FHZpa3hpe1c4F3B4mog=="
+    },
+    {
+      "name": "Brandon Ford",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "baHdxm6qaJRAQ/Q6mocWww=="
+    },
+    {
+      "name": "Henry Ford",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/25/2024",
+      "usta_id": "chbMdNP3fa+USw7yZnbE6w=="
+    },
+    {
+      "name": "Laurie Ford",
+      "gender": "Female",
+      "city": "Sunderland",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mgth1TBqUNWgY7/KXG5Hmg=="
+    },
+    {
+      "name": "Neecolette Forde",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5rxb+z3SMXC3WVgCqWyBww=="
+    },
+    {
+      "name": "Andrew Fortune",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L/80lk1obzkeWn1sf9Vdqw=="
+    },
+    {
+      "name": "Stephanie Foster",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hmcZJBeC2wsYdJWUEByHkw=="
+    },
+    {
+      "name": "Brian Fournier",
+      "gender": "Male",
+      "city": "Orange",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KL7+R6tFXCT7e6cKZUA+iQ=="
+    },
+    {
+      "name": "Pete Fracasso",
+      "gender": "Male",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "evAVoa0w5LEEpH8kBzyLGA=="
+    },
+    {
+      "name": "Cindy Franklin",
+      "gender": "Female",
+      "city": "Simsbury",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1dFWoZ9Qyp+Ix+BVNhsALQ=="
+    },
+    {
+      "name": "Matthew Frederick",
+      "gender": "Male",
+      "city": "GLASTONBURY",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A2OfM47x/TKQJc2ErtFHOQ=="
+    },
+    {
+      "name": "Michael Freedman",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tnt6pTAx12zmkLT/lNiXfQ=="
+    },
+    {
+      "name": "Tricia Freedman",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bZz2AoBKknH56cm2lrFexQ=="
+    },
+    {
+      "name": "Eli Freund",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E5UatBLovBQ2IfPlPSn9RA=="
+    },
+    {
+      "name": "Diane Friedberg",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SwElEB6i4XvnpXAfUssl+Q=="
+    },
+    {
+      "name": "Paula Friedman",
+      "gender": "Female",
+      "city": "Sanibel",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/9/2025",
+      "usta_id": "6ecpwVRSbNV6KNctRGh78Q=="
+    },
+    {
+      "name": "Ann-Kristin Friedrich",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KDcqwy8avIGZNi8fDOJTLA=="
+    },
+    {
+      "name": "Frank Friguglietti",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3qboa6V4FEqAHzznLlf5FQ=="
+    },
+    {
+      "name": "Toon Fuderich",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ty734Kf+Za69O3iJINLp/g=="
+    },
+    {
+      "name": "Vijay Gaddam",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/8/2024",
+      "usta_id": "nGflaZcn0oLQIVocuTS3eA=="
+    },
+    {
+      "name": "Martha Gagnon",
+      "gender": "Female",
+      "city": "Chicopee",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RWlORIJAIFW1LlUrFqSM+Q=="
+    },
+    {
+      "name": "Andrea Gancarz",
+      "gender": "Female",
+      "city": "Belchertown",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/6/2024",
+      "usta_id": "1ITotB/HfWsRUDowSfoOJA=="
+    },
+    {
+      "name": "John Garde",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5apA5Uhicq5z18vLOOUtaA=="
+    },
+    {
+      "name": "Tara Garstka",
+      "gender": "Female",
+      "city": "West Springfield",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ns2tn/9d9yYG10cJ8EhC5g=="
+    },
+    {
+      "name": "Phoebe Gelbard",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "twx0VSpRnqK/MxEFxIXyzw=="
+    },
+    {
+      "name": "Stephen Gelling",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pfs7OuM0JoYEXOsFw2jUZg=="
+    },
+    {
+      "name": "Julie Gerrish",
+      "gender": "Female",
+      "city": "Fiskdale",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fxd8vsk0bKZeKCajVdMYEw=="
+    },
+    {
+      "name": "Richard Getler",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "WXvrpUslhS9uXn+h7BsGuw=="
+    },
+    {
+      "name": "Peter Ghitman",
+      "gender": "Male",
+      "city": "Shelburne Falls",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oiHbtCzBMf3yOnL2y+xTFQ=="
+    },
+    {
+      "name": "Allison Giddings",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/23/2023",
+      "usta_id": "qLpRVGCrQP0Z3DulSAoNvg=="
+    },
+    {
+      "name": "Jessica Gifford",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iHtk7fwTYJ2GavxI5PLz4A=="
+    },
+    {
+      "name": "Rashel Girshik",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CwjZjfPI78gVfCTlfmV4GQ=="
+    },
+    {
+      "name": "Val Girshik",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/17/2024",
+      "usta_id": "D33VqY9DTD/66I/beST1HQ=="
+    },
+    {
+      "name": "Sarah Gladstone",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2zw8Yy2xqJ63uXnwdDBx6w=="
+    },
+    {
+      "name": "Julia Glybin",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oxHfM8nngmi+RFH8YAczCQ=="
+    },
+    {
+      "name": "Randy Gobeil",
+      "gender": "Male",
+      "city": "ASHFIELD",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MeRWjRoGesQns6n9dVQ0sw=="
+    },
+    {
+      "name": "Emily Godeck",
+      "gender": "Female",
+      "city": "Broad Brook",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HBg4tcbAy8HpInj2Q19j1Q=="
+    },
+    {
+      "name": "Denise Goebel",
+      "gender": "Female",
+      "city": "Chicopee",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X3ftYVhD4WufONDxT1+j2g=="
+    },
+    {
+      "name": "Arnold Goldberg",
+      "gender": "Male",
+      "city": "Lenox",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "6UQSaOteIh0nUIb5xffrFQ=="
+    },
+    {
+      "name": "Susan Goldsmith",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SHCiPW2A1bZIyFu64PjWtg=="
+    },
+    {
+      "name": "David Gordon",
+      "gender": "Male",
+      "city": "West Hartford",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AJo9D3E7sr+9oHE3qHHnRg=="
+    },
+    {
+      "name": "Jennifer Gottlieb",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/1/2025",
+      "usta_id": "fqB8cHYOWnpKJAVQQ7yVQA=="
+    },
+    {
+      "name": "Alanna Grady",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uWPAH9gdYQIFddgFH5fflg=="
+    },
+    {
+      "name": "Gary Granger",
+      "gender": "Male",
+      "city": "New Hartford",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CKRX5olHqyiB518qvp8xDg=="
+    },
+    {
+      "name": "Jacob Greenburg",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2024",
+      "usta_id": "5EhNNvDZAWubh6O5L6wTLg=="
+    },
+    {
+      "name": "Joy Greenleaf",
+      "gender": "Female",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "is0DcCZT7kW0lPvsiINS1g=="
+    },
+    {
+      "name": "Ana Gremli",
+      "gender": "Female",
+      "city": "Chicopee",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TXQAhi8mjrRyoKiIq1FQ2A=="
+    },
+    {
+      "name": "Daniel Griffith",
+      "gender": "Male",
+      "city": "Leverett",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/5/2025",
+      "usta_id": "vH5ufQf/XKXTkZ76P7q6eQ=="
+    },
+    {
+      "name": "Kent Griffiths",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jmfnE0Zo/PDFz3zLn1WVYQ=="
+    },
+    {
+      "name": "Dana Grinshpan",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/28/2024",
+      "usta_id": "rnrikJ7Dg4B2ufp7bvgCIQ=="
+    },
+    {
+      "name": "DeeDee Grinstead",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PaelY329vfrQXDdtUPC5bg=="
+    },
+    {
+      "name": "Steven Grinstead",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "MN4XPCpg67JslSbUbo4WZQ=="
+    },
+    {
+      "name": "Elaine Grocott",
+      "gender": "Female",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kMEZYVhQXQmKFdqniANtHA=="
+    },
+    {
+      "name": "Myrta Groeneveld",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "ZN69JYzakdtSC1ch/UwOxg=="
+    },
+    {
+      "name": "Jennifer Gross",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/19/2024",
+      "usta_id": "TbLUQme08wmipb1Q2Auq6A=="
+    },
+    {
+      "name": "Pamela Grossman",
+      "gender": "Female",
+      "city": "Hillsdale",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/13/2024",
+      "usta_id": "iPLYdXL/Wo7SMt80BGUp1w=="
+    },
+    {
+      "name": "Andres Guerrero",
+      "gender": "Male",
+      "city": "South Windsor",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WCW6xGTN6pZ0uaBDkhkOQA=="
+    },
+    {
+      "name": "Cindy Haddock",
+      "gender": "Female",
+      "city": "Ware",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4VSWUtmvFY8iqEC1eCDeHQ=="
+    },
+    {
+      "name": "Molly Hale",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BNGOI1gBVPx4SDEVf0AeLg=="
+    },
+    {
+      "name": "Jacqueline Haley",
+      "gender": "Female",
+      "city": "Holland",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/1/2024",
+      "usta_id": "2sPl31rPpamIrWvM4dLacw=="
+    },
+    {
+      "name": "Cindy Hamlin",
+      "gender": "Female",
+      "city": "W Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6BMhpD4Dn8cGsI7Q+Lmkig=="
+    },
+    {
+      "name": "Wendy Hammerle",
+      "gender": "Female",
+      "city": "Easthampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QMyE+L4rQLx1XlOqCYiJGg=="
+    },
+    {
+      "name": "Jonathan Han",
+      "gender": "Male",
+      "city": "Farmington",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VHsq4RNw4UbJgv8wp3AS1g=="
+    },
+    {
+      "name": "Marian Hanson",
+      "gender": "Female",
+      "city": "Burlington",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4eflO4uD2K74XPqpU/zJfQ=="
+    },
+    {
+      "name": "Curtis Hardaway",
+      "gender": "Male",
+      "city": "Windsor",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mJTtmVj/tMTbuaEFgXsSiw=="
+    },
+    {
+      "name": "Deborah Hardy",
+      "gender": "Female",
+      "city": "Somers",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8n/uhCDk3PFQ/VORs+kRSA=="
+    },
+    {
+      "name": "Tara Harris",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/3/2024",
+      "usta_id": "idgY5geIko1pyaEjXjCVNg=="
+    },
+    {
+      "name": "Lucy Hartry",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HyVvQ4JllqdDnKDPuvHmwQ=="
+    },
+    {
+      "name": "Doug Hastings",
+      "gender": "Male",
+      "city": "Burlington",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S81yLwQzqPgdbzhrTxyouw=="
+    },
+    {
+      "name": "Lee Herbert",
+      "gender": "Female",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BrPMk9Iq6l1qPdsQVg6lvw=="
+    },
+    {
+      "name": "David Hernandez",
+      "gender": "Male",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hQu84iU1pmaFK0fAF62cqQ=="
+    },
+    {
+      "name": "Jon Heyman",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/2/2024",
+      "usta_id": "VgF8nN5NBXDT/ARdKZLk1Q=="
+    },
+    {
+      "name": "Mika Hirai",
+      "gender": "Female",
+      "city": "Williamstown",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+ti3efaeZTB3uOVTCOYhPg=="
+    },
+    {
+      "name": "Eileen Hirsch",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jNzDWdYGuB9VN6a+oXEkPg=="
+    },
+    {
+      "name": "Jonathan Hirsh",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MtnSZ9Rc0KnggHsT+BKJpg=="
+    },
+    {
+      "name": "Bonnie Hittleman-Lewis",
+      "gender": "Female",
+      "city": "Sarasota",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/24/2024",
+      "usta_id": "CBUSdmQRuIMEJYFZiwpKSg=="
+    },
+    {
+      "name": "Ann Ho",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n9J6+FeLhMahHQPLmeVZyg=="
+    },
+    {
+      "name": "Anita Hoag",
+      "gender": "Female",
+      "city": "White Plains",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BED92cg3zhXzpUz+gE8QxQ=="
+    },
+    {
+      "name": "Harvey Hoffman",
+      "gender": "Male",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/26/2023",
+      "usta_id": "4CqSHL6Y7pbzchaE113rJg=="
+    },
+    {
+      "name": "Christopher Hollot",
+      "gender": "Male",
+      "city": "Easthampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/9/2024",
+      "usta_id": "l97khXw3GIYV+1mUAC2j0A=="
+    },
+    {
+      "name": "Allan Hopkins",
+      "gender": "Male",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Az2DDTC14Z67M/5RTSWxTQ=="
+    },
+    {
+      "name": "Jason Hopkins",
+      "gender": "Male",
+      "city": "FLORENCE",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ep6mVQrg/GXYLiegVq0Okg=="
+    },
+    {
+      "name": "Akos Horvath",
+      "gender": "Male",
+      "city": "Newington",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/10/2025",
+      "usta_id": "1DKRAa8UAuQ2Uxm6pWpwlw=="
+    },
+    {
+      "name": "Molly Houser",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/2/2025",
+      "usta_id": "B+piU6wL5rFSpJ453HKsVA=="
+    },
+    {
+      "name": "Eva Howard",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CAPtH7w+UizAfcQYDG5dNg=="
+    },
+    {
+      "name": "Charles Hruska",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2zw8Yy2xqJ4PiBzXYi1ntQ=="
+    },
+    {
+      "name": "Amy Huang",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WlUXXUGfcA5IXr9Fxwmrmw=="
+    },
+    {
+      "name": "Kevin Huban",
+      "gender": "Male",
+      "city": "Dalton",
+      "state": "MA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "fVLL32Otw8pGeMrWa71yDg=="
+    },
+    {
+      "name": "Robyn Huban",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hESrHbZaEDdDxQGg1UkwZQ=="
+    },
+    {
+      "name": "Ken Hubbard",
+      "gender": "Male",
+      "city": "Montague",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/14/2024",
+      "usta_id": "wAlHL4WsyWdlrHPmsgoKlQ=="
+    },
+    {
+      "name": "Mitchell Hubbard",
+      "gender": "Male",
+      "city": "Easthampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4S+tp4wl55jYFYFapi0qzg=="
+    },
+    {
+      "name": "Meghan Huber",
+      "gender": "Female",
+      "city": "Montague",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zXZWF++vBkWLL8J5DuJX5A=="
+    },
+    {
+      "name": "Bo Hubert",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "tJ1vP1EbzJyM800uRV7Zqw=="
+    },
+    {
+      "name": "Mark Hugo",
+      "gender": "Male",
+      "city": "Windsor Locks",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/26/2025",
+      "usta_id": "3xMykEQHgvvHdApYAqMK+A=="
+    },
+    {
+      "name": "Joe Hung",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ek9FzzFQ86M028uphWNVPQ=="
+    },
+    {
+      "name": "Amy Hunter",
+      "gender": "Female",
+      "city": "Hampden",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "SxY3ia8+PfYfLDXcUWN7Ew=="
+    },
+    {
+      "name": "Mary Husted",
+      "gender": "Female",
+      "city": "South Deerfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O194Hi0tV65T3a4U5cwASg=="
+    },
+    {
+      "name": "Jessica Hutchins",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c+pgx4O1LgYFAsEXgAPoqA=="
+    },
+    {
+      "name": "Gregory Ingram",
+      "gender": "Male",
+      "city": "Lee",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+BTY+36F7mIs31cUD9QzUg=="
+    },
+    {
+      "name": "Mika Inoue",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ad58spHqPAcMtNpHskHMPg=="
+    },
+    {
+      "name": "Devorah Jacobson",
+      "gender": "Female",
+      "city": "Hadley",
+      "state": "MA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "+Z5BHmTNV96QwkY15bJFcg=="
+    },
+    {
+      "name": "Udaya Jagadeesan",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q1r4ZtQwGqVJKM5iQDCu0g=="
+    },
+    {
+      "name": "Catherine Jahne",
+      "gender": "Female",
+      "city": "Simsbury",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UlfQ6cg7r06zVvElDcPgbg=="
+    },
+    {
+      "name": "Steven Jones",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "1tGElOg2vNk/jC0tfghy9A=="
+    },
+    {
+      "name": "Eileen Jordan",
+      "gender": "Female",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tEiKyGh+T7CeF55LFmJcgg=="
+    },
+    {
+      "name": "Julianna Jorel-Yergeau",
+      "gender": "Female",
+      "city": "Monson",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "cAeScqR1ueFyJsL3Z1bdXw=="
+    },
+    {
+      "name": "Peter Judson",
+      "gender": "Male",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ww1YpCjzQ4zYNdrpVNt0Dw=="
+    },
+    {
+      "name": "Matthew Kane",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "8P5+1Wg+YbTBwjDHHHLoBQ=="
+    },
+    {
+      "name": "Miliann Kang",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/11/2024",
+      "usta_id": "0nPtRQoAJ2AutNvlZvpJLA=="
+    },
+    {
+      "name": "Susan Katsoulis",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w59aPN2Z8dJTQme9R6r6Vg=="
+    },
+    {
+      "name": "Jonathan Katz",
+      "gender": "Male",
+      "city": "Bloomfield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/5/2025",
+      "usta_id": "afNvwRRxgUNlLyiquY+znA=="
+    },
+    {
+      "name": "Jessica Kavanagh",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P9+tM7f01jl03tWS/NFXlQ=="
+    },
+    {
+      "name": "Barry Kelley",
+      "gender": "Male",
+      "city": "Simsbury",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "avLSqy99pv2qr2m/c8RhSg=="
+    },
+    {
+      "name": "Brian Kellogg",
+      "gender": "Male",
+      "city": "Hinsdale",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "9c6i4l+CpKQcY5jeNQkiLg=="
+    },
+    {
+      "name": "Cheryl Kellogg",
+      "gender": "Female",
+      "city": "Hinsdale",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "IrI9t5qjvIFKCUQvYBAKOQ=="
+    },
+    {
+      "name": "Fred Kelly",
+      "gender": "Male",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lwtwPONfx2vWbWt+8tGgVA=="
+    },
+    {
+      "name": "Amy Kennedy",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HHlqFL5NDqsa45oK4pLvJA=="
+    },
+    {
+      "name": "Daniel Kennedy",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9r1AgQYtV087lUZefodEUQ=="
+    },
+    {
+      "name": "Margaret Kennedy",
+      "gender": "Female",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GBwdNiWyEN78A44HkFee7w=="
+    },
+    {
+      "name": "Linda Kenyon",
+      "gender": "Female",
+      "city": "Ware",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "58c9kEJfEGSgTdGYwfwutg=="
+    },
+    {
+      "name": "Elizabeth Keppel",
+      "gender": "Female",
+      "city": "Simsbury",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3XTIAzf7V6vW1S2F4CenoQ=="
+    },
+    {
+      "name": "Rob Keppel",
+      "gender": "Male",
+      "city": "Simsbury",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cENpQNcLW4yCpXgHuRjPiQ=="
+    },
+    {
+      "name": "Jonathan Kilbourn",
+      "gender": "Male",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MZgrBooUIgfSwy8vKwcHuw=="
+    },
+    {
+      "name": "Jay Kimmel",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LDj09kbVjIz4YYK+lOr+1g=="
+    },
+    {
+      "name": "Tina Kingston",
+      "gender": "Female",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i6tS4X9qnrHwnGty8f4WPg=="
+    },
+    {
+      "name": "Martha Klay",
+      "gender": "Female",
+      "city": "Great Barrington",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k3VNBEAJmcabee44InnDEQ=="
+    },
+    {
+      "name": "Lawrence Klobutcher",
+      "gender": "Male",
+      "city": "Farmington",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L3jjv+oab8ezdyBxX8+aRw=="
+    },
+    {
+      "name": "MaryAnn Kniska",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/22/2023",
+      "usta_id": "QV1QjXANzrrWbSw4vgWCDw=="
+    },
+    {
+      "name": "Suzanne Koch",
+      "gender": "Female",
+      "city": "Hadley",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oLexO/UikAAp1frn8Jd0Ow=="
+    },
+    {
+      "name": "Ann Kochis",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eUE3jrI/rfYBXjmOTMFwOw=="
+    },
+    {
+      "name": "Estate Kokosadze",
+      "gender": "Male",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J51sGTPJDFDpqhd/QXQjEQ=="
+    },
+    {
+      "name": "Scott Kolb",
+      "gender": "Male",
+      "city": "Simsbury",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "v1ybLf3ORnjC/Qs0XDYSMA=="
+    },
+    {
+      "name": "Elizabeth Kollias",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QDxXFONGSrC7a1M0X9t+Ww=="
+    },
+    {
+      "name": "Thip Kophengnavong",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iL/o/4WPWzjt/z9CL+m5eA=="
+    },
+    {
+      "name": "Daniel Kramer",
+      "gender": "Male",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/26/2024",
+      "usta_id": "rFbdNFmY1Qt772jeVWaXVQ=="
+    },
+    {
+      "name": "Meralee Kratovil",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "edA+eJasIHh7cVVJ5DEdZA=="
+    },
+    {
+      "name": "Mary Beth Kronick",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "AnaB2amDa4wwU9M7JGmNKQ=="
+    },
+    {
+      "name": "Katie Kroon",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7+9a2Z2p/plkHxf2bdql2g=="
+    },
+    {
+      "name": "Lynn Kucejko",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "tfCW2+LCT5l3fWRSHbJUhA=="
+    },
+    {
+      "name": "Michele Kunitz",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dqkUVDqikKmEiShcbO4GPg=="
+    },
+    {
+      "name": "Niels la Cour",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "IFgoUUStGagof2ivWiipvw=="
+    },
+    {
+      "name": "Sarah la Cour",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hc8wGJ249tyVIhFW03TsnQ=="
+    },
+    {
+      "name": "Kevin LaFlamme",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HU2vLgyKCBAak+g3JlQRVg=="
+    },
+    {
+      "name": "Duncan Laird",
+      "gender": "Male",
+      "city": "Williamsburg",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AOM9lpiwJQMCcFuwCPVEcw=="
+    },
+    {
+      "name": "Catherine Landry",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "87F7cm+6SA8qGs2WTo6YCg=="
+    },
+    {
+      "name": "Dawn Lane",
+      "gender": "Female",
+      "city": "Stockbridge",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/10/2024",
+      "usta_id": "EHtStsomU3BpZNvmHLG7Tw=="
+    },
+    {
+      "name": "Robert LaPalme",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3v7gAvdHI6Tnuqa4dOjjrQ=="
+    },
+    {
+      "name": "Marc LaPierre",
+      "gender": "Male",
+      "city": "Feeding Hills",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cmODUAvlep009/7v5JHobg=="
+    },
+    {
+      "name": "Scott Laprade",
+      "gender": "Male",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "01/6K3LRMqaoOCm0uvJKng=="
+    },
+    {
+      "name": "Marcy Larmon",
+      "gender": "Female",
+      "city": "Charlton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "lDkYvBOCyq/7Dbv9RpJRvw=="
+    },
+    {
+      "name": "Mary Lou Laurenza",
+      "gender": "Female",
+      "city": "Hadley",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TEmoEKbMANsRXYYTGZBaWQ=="
+    },
+    {
+      "name": "Daniel Lawren",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/25/2024",
+      "usta_id": "YXYLXSIPxsT2ARojMkL2QQ=="
+    },
+    {
+      "name": "Shawn Lawrence",
+      "gender": "Female",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0IG5YQwfGZU8201Rvb79XA=="
+    },
+    {
+      "name": "Traci Leary",
+      "gender": "Female",
+      "city": "EAST LONGMEADOW",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iepAn0ERwo2ERFnidueD8Q=="
+    },
+    {
+      "name": "Janet Lee",
+      "gender": "Female",
+      "city": "Great Barrington",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4gmj9Wwn/4JyFy1AEhul+Q=="
+    },
+    {
+      "name": "Julia Leedham Rindfuss",
+      "gender": "Female",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KOh8NMAIvFo9k1Dg1YtEIQ=="
+    },
+    {
+      "name": "Bob Leet",
+      "gender": "Male",
+      "city": "Wendell",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fve0qKRb5XyQaZWfMTqCKQ=="
+    },
+    {
+      "name": "Meg Lenihan Hutcheson",
+      "gender": "Female",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "myVpHc0aZGOJJU5ErhMR/A=="
+    },
+    {
+      "name": "Cynthia Leveillee",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mZemW5NziwAOqw7E1we/PQ=="
+    },
+    {
+      "name": "Aimee Leventis",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JBOhgpxrCVSrtl+SP1xZXw=="
+    },
+    {
+      "name": "Marianne Levine",
+      "gender": "Female",
+      "city": "Broad Brook",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/10/2024",
+      "usta_id": "QD7aZIWcB3pdHS8oksSaGA=="
+    },
+    {
+      "name": "Adriane Levy",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/6/2025",
+      "usta_id": "HqUTzSwGGGFzNWoCjto0qg=="
+    },
+    {
+      "name": "Andrea Lewis",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TKpsOC32eUKkJjEOhyaRKw=="
+    },
+    {
+      "name": "Ashley Lewis",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/6/2024",
+      "usta_id": "9HsEAMcrtyYntP8tSbpexQ=="
+    },
+    {
+      "name": "Ben Lewis",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fiuUT9/rKt98nhLvkbKYEw=="
+    },
+    {
+      "name": "Lauren Life",
+      "gender": "Female",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rvzMnEXsMT63+3VfRZ0GMA=="
+    },
+    {
+      "name": "Zhiwei Lin",
+      "gender": "Male",
+      "city": "MC LEAN",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P1omzaApjI36jn0ZR0gHBg=="
+    },
+    {
+      "name": "Noreen Little",
+      "gender": "Female",
+      "city": "Feeding Hills",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EoJut36LdcPUSkWo0xJDvw=="
+    },
+    {
+      "name": "Rachel Logan",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/23/2024",
+      "usta_id": "VgF8nN5NBXCWmb1KgWTetg=="
+    },
+    {
+      "name": "Martha Lopez",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dDMkUodn7LkVr2NqPGEaFg=="
+    },
+    {
+      "name": "Barry Luke",
+      "gender": "Male",
+      "city": "Sarasota",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gn7AN06m5G1bnsSWqUq9wA=="
+    },
+    {
+      "name": "Carol MacColl",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2rYC5/BWyBgxB/3lIBbzfQ=="
+    },
+    {
+      "name": "Joy MacDougall",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R8ojGIPlN/TS7iwqYAejag=="
+    },
+    {
+      "name": "Irene Madden",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yeAA9PAQSLhf+wDETaWO8Q=="
+    },
+    {
+      "name": "Juan Madrid",
+      "gender": "Male",
+      "city": "Greenfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "0MzeeH0M9K+1zfZLZQl+wQ=="
+    },
+    {
+      "name": "Roger Magnus",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pe0BmQQ7CUoP2f5RM0zTLw=="
+    },
+    {
+      "name": "Patrick Magowan",
+      "gender": "Male",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "17g/3LrSP6h3QB04HKHCwQ=="
+    },
+    {
+      "name": "Michael Mah",
+      "gender": "Male",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/23/2024",
+      "usta_id": "VgF8nN5NBXCKQVIcWY39Ug=="
+    },
+    {
+      "name": "Elizabeth Maher",
+      "gender": "Female",
+      "city": "Agawam",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FNCWlB06IJpJzu2bDfHeAg=="
+    },
+    {
+      "name": "Sravya Malempati",
+      "gender": "Female",
+      "city": "EAST LONGMEADOW",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BIN6LN4Eq1MAAg3TGwD+pg=="
+    },
+    {
+      "name": "Natalie Malizia",
+      "gender": "Female",
+      "city": "Fiskdale",
+      "state": "MA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "P37CS3Ga1QrYX9ICi3RWmw=="
+    },
+    {
+      "name": "Nicole Malloy",
+      "gender": "Female",
+      "city": "E Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MFAFduZn8dbcHJ5K5r43uA=="
+    },
+    {
+      "name": "Joshua Mansfield",
+      "gender": "Male",
+      "city": "Three Rivers",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qPeIYgWkOzMchSl1QJF1gw=="
+    },
+    {
+      "name": "Carolyn Marchese",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q+n9thNJay3jsTcSD4p1Wg=="
+    },
+    {
+      "name": "Rachel Mariani",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/20/2024",
+      "usta_id": "SXrdL/TrYPatoeTWaXKlDQ=="
+    },
+    {
+      "name": "Tony Marinello",
+      "gender": "Male",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/24/2024",
+      "usta_id": "OGi313zpVg/FDSmQqdLEOA=="
+    },
+    {
+      "name": "Ann Markes",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cqETkzsADlI12ECCWrqbFQ=="
+    },
+    {
+      "name": "Gwen Marrion",
+      "gender": "Female",
+      "city": "Bolton",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z0twdK6LGEbeioH+S9ckGg=="
+    },
+    {
+      "name": "Anya Martin",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FXTU6MCpmkqK7NMp61MyhA=="
+    },
+    {
+      "name": "Madeleine Martin",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "WX8zopCYWwOFL7XQFB/KcA=="
+    },
+    {
+      "name": "Mina Martin",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AO5Lddh5qb0+rB4YaGrSAw=="
+    },
+    {
+      "name": "Elizabeth Marzano",
+      "gender": "Female",
+      "city": "Agawam",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bjex8kGa0WDmGWef9J4Pjw=="
+    },
+    {
+      "name": "Eileen Masiero",
+      "gender": "Female",
+      "city": "Richmond",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l579AUMcKgy3BUIWzW+d5Q=="
+    },
+    {
+      "name": "Melinda Mason",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4GT1eX1sCXOFpJsCPZqMhw=="
+    },
+    {
+      "name": "Gail Mathes",
+      "gender": "Female",
+      "city": "Feeding Hills",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9tert8ALdjzuxcLSqeeRDg=="
+    },
+    {
+      "name": "Sandra Mauro",
+      "gender": "Female",
+      "city": "Thomaston",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P3Nv48uBS/ZB2TW9xWnznQ=="
+    },
+    {
+      "name": "Dale Maynard",
+      "gender": "Male",
+      "city": "Stafford Springs",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/22/2024",
+      "usta_id": "pRal/piDpeyW4CFGqrgPKA=="
+    },
+    {
+      "name": "Tracy McDonagh",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4D2mB/CG9osFpU42COyBNw=="
+    },
+    {
+      "name": "Brian Mcelhone",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/6/2024",
+      "usta_id": "9YirhcpraYfv6N8Fj++uaw=="
+    },
+    {
+      "name": "Christopher McGrath",
+      "gender": "Male",
+      "city": "Palmer",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "blRZmyjoGShMi9gycaFZnw=="
+    },
+    {
+      "name": "Lori McMahon",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y09PNCOgHDYlXAC26s3WBQ=="
+    },
+    {
+      "name": "Dennis McManus",
+      "gender": "Male",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HBubfOqA2o6hkdfMpLS4jg=="
+    },
+    {
+      "name": "Narae Mcmanus",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/3/2024",
+      "usta_id": "tDayIFU3EjMVmafyP92jWg=="
+    },
+    {
+      "name": "Setsuko McNabb",
+      "gender": "Female",
+      "city": "Glastonbury",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tmeuB9h7tb9EJlBqUIjuRg=="
+    },
+    {
+      "name": "Julie McNeill",
+      "gender": "Female",
+      "city": "Burlington",
+      "state": "CT",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7cmdM2Un+J+C7n6aAUgqvA=="
+    },
+    {
+      "name": "Barbara Meehan",
+      "gender": "Female",
+      "city": "Sunderland",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mgth1TBqUNVn82ABlDFhjg=="
+    },
+    {
+      "name": "T John Megas",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "O967Y6HBjY/leLF9CKB5+Q=="
+    },
+    {
+      "name": "Jane Mellor",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "JpR2vUqTM0VVLy3Yymh5Rg=="
+    },
+    {
+      "name": "Kristina Mentuck",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5AiSfn3dnDIdZqnE4I5mpA=="
+    },
+    {
+      "name": "David Merrill",
+      "gender": "Male",
+      "city": "West Suffield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "ayRxPdd3WQKtrEXqn5qgkQ=="
+    },
+    {
+      "name": "Jorge Messmer",
+      "gender": "Male",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s4lwNlNt7Y9kgTW4bGv7dA=="
+    },
+    {
+      "name": "Ricardo Metz",
+      "gender": "Male",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nm6ILGTE83V+7QnHBTbFIw=="
+    },
+    {
+      "name": "Tim Metzger",
+      "gender": "Male",
+      "city": "New York",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "o/Wk4cEzOE75m39ctd1UsQ=="
+    },
+    {
+      "name": "Rachel Meyers",
+      "gender": "Female",
+      "city": "West Suffield",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QcSuHIymIFltDNsvrhaTrw=="
+    },
+    {
+      "name": "Eugenie Micelotta",
+      "gender": "Female",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uhplvEovsweM/9r3deFcOQ=="
+    },
+    {
+      "name": "Becky Michaels",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "msj4d3aH+Rfv25+/58nYZw=="
+    },
+    {
+      "name": "Alyssa Michalski",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "3kpsOcorPCi4IfpvCFcdpw=="
+    },
+    {
+      "name": "Daniel Milberg",
+      "gender": "Male",
+      "city": "Leeds",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ArlNLV+R7m3+x64m57hMRg=="
+    },
+    {
+      "name": "Andrew Miller",
+      "gender": "Male",
+      "city": "West Hartford",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v+jZvo3Vnsmu0UaARsBC7w=="
+    },
+    {
+      "name": "Elizabeth Miller",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WgyZ3JgvjiJGA5PCaLbyAQ=="
+    },
+    {
+      "name": "Vivian Miller",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "aiAXS+jsUEpYyMbjUYvPiQ=="
+    },
+    {
+      "name": "Nancy Mirkin",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "dDDCU4gqjdXpnAjLuB9vxw=="
+    },
+    {
+      "name": "Elisa Mishory",
+      "gender": "Female",
+      "city": "South Lee",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XNIhu5Un/q1uUVlzrL7oUg=="
+    },
+    {
+      "name": "Frank Mochak",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xtItVLZJzyE="
+    },
+    {
+      "name": "Joseph Moore",
+      "gender": "Male",
+      "city": "Sunderland",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "JcxZjXUU0mI3spNA5neUGQ=="
+    },
+    {
+      "name": "Russell Moore",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CuMvu8zgtTHY0w0/K+z39A=="
+    },
+    {
+      "name": "Jesus Morales",
+      "gender": "Male",
+      "city": "Easthampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WjIsC0e+uUtRhkTBIUnlHQ=="
+    },
+    {
+      "name": "Justin Morales",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "dfPg/sxHqWsCi4yllUIh6Q=="
+    },
+    {
+      "name": "John Morizio",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IQkXmW/8CJw7CXuDXu3Pqg=="
+    },
+    {
+      "name": "Maya Mudambi",
+      "gender": "Female",
+      "city": "Holyoke",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/9/2024",
+      "usta_id": "jBBqp6Vw6Qk7IO/Xa30VQw=="
+    },
+    {
+      "name": "Bridget Mulcahy-Landry",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cJUeFUGZHbtU0ysPxgonlg=="
+    },
+    {
+      "name": "Megan Murphy",
+      "gender": "Female",
+      "city": "Somers",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1A5v6iIp9vNUIJd+T1vEdw=="
+    },
+    {
+      "name": "Moira Murphy",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1zeMxLxXUF4lOMjBW0CBlw=="
+    },
+    {
+      "name": "Dylan Nash",
+      "gender": "Male",
+      "city": "Lenox",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/13/2023",
+      "usta_id": "siLkzmgIgI8O2CtEKcoK+w=="
+    },
+    {
+      "name": "Molly Nash",
+      "gender": "Female",
+      "city": "Lenox",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/13/2023",
+      "usta_id": "siLkzmgIgI+Oz1iXiTCZgg=="
+    },
+    {
+      "name": "Irene Nero",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aEi+WeJYBDpu+2HSic2JpA=="
+    },
+    {
+      "name": "Michael Nero",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iPTl/33pV1ymJ52mX6Yp4Q=="
+    },
+    {
+      "name": "Sara Newland",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jCkMC1+6tKU7fjBMnB+gzA=="
+    },
+    {
+      "name": "Andrea Newmark",
+      "gender": "Female",
+      "city": "Great Barrington",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/6/2023",
+      "usta_id": "K1WycLwsMpJh+eWGPfdpIA=="
+    },
+    {
+      "name": "Albert Nick Pignatelli",
+      "gender": "Male",
+      "city": "Lenox",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "OKxohByuBxWuCS8hSag8dQ=="
+    },
+    {
+      "name": "Eric Nickerson",
+      "gender": "Male",
+      "city": "Slingerlands",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HS5LokLna2xBiksE4HTxTA=="
+    },
+    {
+      "name": "Steve Nickoski",
+      "gender": "Male",
+      "city": "Ashfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/7/2024",
+      "usta_id": "Ezdr2OyWlePhpHZCWbEYIQ=="
+    },
+    {
+      "name": "John Nicoletta",
+      "gender": "Male",
+      "city": "Southwick",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/7/2024",
+      "usta_id": "4DbxZRjf1HUrU4haiAjm5g=="
+    },
+    {
+      "name": "Dana Niedzielska",
+      "gender": "Female",
+      "city": "LENOX",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wIfxRgEG8Up5dDRkP01MTw=="
+    },
+    {
+      "name": "Erin Noonan",
+      "gender": "Female",
+      "city": "Chicopee",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CMdNAUKzSY2iJCkiQ6k2zg=="
+    },
+    {
+      "name": "Elizabeth Norman",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6SBQ14KZ8E5Mp8h7JbhFmg=="
+    },
+    {
+      "name": "James OBrien",
+      "gender": "Male",
+      "city": "LONGMEADOW",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aVRz67rWlTUnUlDG5bzmzw=="
+    },
+    {
+      "name": "Sharon Ofori",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jD+PSPbZ7GP8brjo/0SJgg=="
+    },
+    {
+      "name": "May Oh",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qDuGokyXEmyqYI+jSZfcuA=="
+    },
+    {
+      "name": "Joy Ohm",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lqAB3CeZAkCGGZXUXn+M6A=="
+    },
+    {
+      "name": "RICHARD OJA",
+      "gender": "Male",
+      "city": "Newington",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6wcBoexOTZVdLlCJSG+Ypg=="
+    },
+    {
+      "name": "Kimberly Okey",
+      "gender": "Female",
+      "city": "Somers",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/4/2024",
+      "usta_id": "YyDnfIekJgxat5/9DiJ1Bg=="
+    },
+    {
+      "name": "Stephanie O'Leary",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eif9R7K5zCgOzWYChD1RWw=="
+    },
+    {
+      "name": "Marsha Olson",
+      "gender": "Female",
+      "city": "South Hadley",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2024",
+      "usta_id": "c6vx7UQoRsp88ZaAYBB1vw=="
+    },
+    {
+      "name": "Kirsten Ondrick",
+      "gender": "Female",
+      "city": "Chicopee",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TtHCVaXDyiYKrwRBZD68pA=="
+    },
+    {
+      "name": "Theodore Ondrick",
+      "gender": "Male",
+      "city": "Chicopee",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/18/2024",
+      "usta_id": "++ZJRNDa1EtousJ/VOsD0Q=="
+    },
+    {
+      "name": "Jonathan Orenstein",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OTWLSy1eGiiju2kqJwUXmg=="
+    },
+    {
+      "name": "Jane O'Riordan",
+      "gender": "Female",
+      "city": "Williamsburg",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oMum7OmXl7ySVq222T67sA=="
+    },
+    {
+      "name": "Emmanuel Ortiz-Alvarez",
+      "gender": "Male",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J2Uttw1Izjol2JTHD3NIBQ=="
+    },
+    {
+      "name": "Nancy Ovitsky",
+      "gender": "Female",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/16/2024",
+      "usta_id": "/viqv2ala4C1mO1lXMGpbQ=="
+    },
+    {
+      "name": "Robert Page",
+      "gender": "Male",
+      "city": "Hardwick",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "Oi/XKwIOgBKnSCxPVWMSdQ=="
+    },
+    {
+      "name": "Beverly Paige",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CD06F/56onTkYYpXApE18A=="
+    },
+    {
+      "name": "Jeff Palmer",
+      "gender": "Male",
+      "city": "Montague",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nVkpfMcdF2PltuwlS37t7Q=="
+    },
+    {
+      "name": "Patricia Pancione",
+      "gender": "Female",
+      "city": "Whately",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oHS8w0qft2QMyUyg7RbLdg=="
+    },
+    {
+      "name": "Anne Paradis",
+      "gender": "Female",
+      "city": "Sunderland",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v3e8oVTUhwQbGSI7Ow8kpQ=="
+    },
+    {
+      "name": "June Hyun Jung Park",
+      "gender": "Female",
+      "city": "South Windsor",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t99dQtI++NBEJ/v6BO6cXQ=="
+    },
+    {
+      "name": "Urvi Patel",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CwjZjfPI78gpRRN36CJRwA=="
+    },
+    {
+      "name": "Jordyn Paul",
+      "gender": "Female",
+      "city": "Belchertown",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "C8Vs6Z47qa9o7Z8PHxTh6A=="
+    },
+    {
+      "name": "Lynn Paul",
+      "gender": "Female",
+      "city": "Belchertown",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lg1kFaRtg4zUEqVUvNNRkw=="
+    },
+    {
+      "name": "Nancy Paulides",
+      "gender": "Female",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uhEBKN2oCW6oH3JdT+r1LA=="
+    },
+    {
+      "name": "Stephanie Pellegrini",
+      "gender": "Female",
+      "city": "Feeding Hills",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FR4kKlNFjoEh4HZiXF5N1g=="
+    },
+    {
+      "name": "ELIZABETH PELLETIER",
+      "gender": "Female",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "017tH8LaWN2Sw4wDo3UXWA=="
+    },
+    {
+      "name": "Varick Pelton",
+      "gender": "Male",
+      "city": "Somers",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pRCQ+En2dQYHBFxsK8Ltsg=="
+    },
+    {
+      "name": "Jean Peretti",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vEMSSkdoyNty6jgYYPERpw=="
+    },
+    {
+      "name": "Stephen Perry",
+      "gender": "Male",
+      "city": "AMHERST",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WM7dOeMsPU1xBSeQvI08mw=="
+    },
+    {
+      "name": "Laurie Philbin",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gOcgDHhqkxY0Ee5ac7feYw=="
+    },
+    {
+      "name": "David Pickett",
+      "gender": "Male",
+      "city": "Feeding Hills",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sLq++UXYVdszwFa8J+1xlg=="
+    },
+    {
+      "name": "Ana Pires-Serisser",
+      "gender": "Female",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pnFDawFs6RyU94gcUwoSUA=="
+    },
+    {
+      "name": "Kathleen Pittman",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0PHU22K//uO9BcMAkeiDNQ=="
+    },
+    {
+      "name": "Emma Plaut",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E++YEADcNVAC3363geZ40g=="
+    },
+    {
+      "name": "David Pleet",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/27/2025",
+      "usta_id": "Czt3RBDXI8KB1SA+crlpTQ=="
+    },
+    {
+      "name": "Alexandra Plourd",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KYMuEXje6+wZ3rOqKM5BGQ=="
+    },
+    {
+      "name": "Patricia Poehler",
+      "gender": "Female",
+      "city": "Palmer",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ae4ZRi8p0EWogbB3rN6EuA=="
+    },
+    {
+      "name": "Christian Polanco",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mdDVR1MNZLqWRIMcUYYUQg=="
+    },
+    {
+      "name": "Jamie Polep",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8YHbWXlUQ5Qncv3pElAxtg=="
+    },
+    {
+      "name": "Claire Premo",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EQwCW1mxIKFcPfcL8ghReQ=="
+    },
+    {
+      "name": "Johanne Presser",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/15/2024",
+      "usta_id": "Iu058jUdaJZwq2wPXr5Ykg=="
+    },
+    {
+      "name": "Jeffrey Przekopowski",
+      "gender": "Male",
+      "city": "Holyoke",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fjhK1iFAoYVemeDbArA36A=="
+    },
+    {
+      "name": "Dena Przybyl",
+      "gender": "Female",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uvzGxXDzEpBZKBgWUdRzIg=="
+    },
+    {
+      "name": "Jennifer Puhalski",
+      "gender": "Female",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8cp9eknqUQ/4FbzGUpwZKA=="
+    },
+    {
+      "name": "Jahangir Rahman",
+      "gender": "Male",
+      "city": "New York",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/22/2025",
+      "usta_id": "0gOUDppIiqL5J8vk19RmqA=="
+    },
+    {
+      "name": "Margaret Rakas",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E2pk+2LioC0cbjsjFBu3hQ=="
+    },
+    {
+      "name": "Paul Ratcliffe",
+      "gender": "Male",
+      "city": "Unionville",
+      "state": "CT",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8x8ye2cJ8H2CnJJ6OMrPGA=="
+    },
+    {
+      "name": "Mickey Rathbun",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/8/2024",
+      "usta_id": "KaC+ff2XzSmwmDjH0m7z9Q=="
+    },
+    {
+      "name": "Maureen Ratigan",
+      "gender": "Female",
+      "city": "South Hadley",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "LctdzyQHfImWGhWpAZBFVg=="
+    },
+    {
+      "name": "Julia Rea",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u2KphGeZPu4CnhIfFHbkbQ=="
+    },
+    {
+      "name": "Deborah Reinhart",
+      "gender": "Female",
+      "city": "Pittsfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/2/2024",
+      "usta_id": "Dk1fp8rdX6nOLUfLNAUj0Q=="
+    },
+    {
+      "name": "Kate Reynolds",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rTV8bPSKQrIJ4pXuLT2i9g=="
+    },
+    {
+      "name": "Tamara Ribeiro",
+      "gender": "Female",
+      "city": "Holyoke",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ie2aCm29zm7TuxQyQ43snw=="
+    },
+    {
+      "name": "Lisa Riel",
+      "gender": "Female",
+      "city": "Holyoke",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Lfv2PNcTAYR+GrTCzS5lA=="
+    },
+    {
+      "name": "Adrienne Roach",
+      "gender": "Female",
+      "city": "West Hartford",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "81vnoytlrrChkvgfgkI4ig=="
+    },
+    {
+      "name": "Tod Robberson",
+      "gender": "Male",
+      "city": "WEST HARTFORD",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yJlUYPB7Wdkz8/oaZbFoMw=="
+    },
+    {
+      "name": "Jean Robbins",
+      "gender": "Female",
+      "city": "CAROLINA BEACH",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+eVda8pX55l8cY6XOFr3Jg=="
+    },
+    {
+      "name": "Jana Roberts",
+      "gender": "Female",
+      "city": "Hampden",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QE1swXX18qDPkx1+YtRvgA=="
+    },
+    {
+      "name": "Jeffrey Robinson",
+      "gender": "Male",
+      "city": "South Hadley",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2apLBurh2pLTr9x0DtxzLA=="
+    },
+    {
+      "name": "Patrick Roche",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WwLzqUjFduN5oQlZWVhDng=="
+    },
+    {
+      "name": "Taylor Rodriguez",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RFz90nkw4yGyiYa/kLw0nQ=="
+    },
+    {
+      "name": "George Roebelen",
+      "gender": "Male",
+      "city": "Ellington",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GUVRnyszxgm7nDgb17M3jg=="
+    },
+    {
+      "name": "Marie Roncalli",
+      "gender": "Female",
+      "city": "E Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ogr90c/FhjDh6bV0DyGn8w=="
+    },
+    {
+      "name": "Scotia Roopnarine",
+      "gender": "Male",
+      "city": "AMHERST",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J+Nt0V+IguNiBBt4MvljAg=="
+    },
+    {
+      "name": "Norman Roos",
+      "gender": "Male",
+      "city": "Avon",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IeaI9BosTT2lgrRFeF4dLQ=="
+    },
+    {
+      "name": "Samantha Root",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x+hgJY1xpM1AIQm+bUusoQ=="
+    },
+    {
+      "name": "Diane Rosenkrantz",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "VaPgiVcq/7M4pSJ6fYzuqw=="
+    },
+    {
+      "name": "Therese Ross",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z897siZwPvzvWYKfKhPeGA=="
+    },
+    {
+      "name": "Courtney Roux",
+      "gender": "Female",
+      "city": "Holyoke",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/21/2024",
+      "usta_id": "0k5WeYMnhRfpjNvE/whMKA=="
+    },
+    {
+      "name": "Nancy Roux",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ulbMNNOawcSwmcE2Rax91Q=="
+    },
+    {
+      "name": "Cheryl Ruell",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jttxreWH4fhwerKkrv8+SA=="
+    },
+    {
+      "name": "Marketa Rulikova",
+      "gender": "Female",
+      "city": "Williamstown",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cuXn6ral2AjX3tC7gabAxg=="
+    },
+    {
+      "name": "Tom Russo",
+      "gender": "Male",
+      "city": "Chatham",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "yAuYGG9re9+4WkcCzr9sjQ=="
+    },
+    {
+      "name": "Karen Rutigliano",
+      "gender": "Female",
+      "city": "Granby",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aNWb++z712MiSggjl/QNAQ=="
+    },
+    {
+      "name": "Collette Ryan",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/6/2024",
+      "usta_id": "CgzCzGm2f1HoEwEWeGHEmg=="
+    },
+    {
+      "name": "Michelle Ryan",
+      "gender": "Female",
+      "city": "Stockbridge",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/27/2024",
+      "usta_id": "UZkx1OWhOd2NGyyAm+q81g=="
+    },
+    {
+      "name": "Katie Sabstini",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/22/2023",
+      "usta_id": "KImeW9tnZaVN16NnugJt/Q=="
+    },
+    {
+      "name": "Ashley Sadowsky",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/27/2024",
+      "usta_id": "HZEauUwv+TLHKmpa4gSzEQ=="
+    },
+    {
+      "name": "Mina Safizadeh",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KCtJ2bK3ehZpKuQdyAolpA=="
+    },
+    {
+      "name": "Alison Salka",
+      "gender": "Female",
+      "city": "Somers",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J3WT2MaNdbqHM4AGlIq/zw=="
+    },
+    {
+      "name": "Christine Sanford",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sy9y5MPObirsHlCXX/slWQ=="
+    },
+    {
+      "name": "Valia Santaniello",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/18/2024",
+      "usta_id": "HqjKycMXJqXhqJ7Y/8dcBg=="
+    },
+    {
+      "name": "Debbie Santos",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NrwAkJlFWIeFXicrL/QxPg=="
+    },
+    {
+      "name": "Caroline Sarner",
+      "gender": "Female",
+      "city": "Windsor",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HwwoEvUk+6urEeLusreqdA=="
+    },
+    {
+      "name": "Deanna Sassorossi",
+      "gender": "Female",
+      "city": "Easthampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/16/2024",
+      "usta_id": "EbJBeRKPjeVNFMTE50/bdw=="
+    },
+    {
+      "name": "Marie Sattler",
+      "gender": "Female",
+      "city": "Holyoke",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8ZXy6XulDrWKc+/gnL+yrA=="
+    },
+    {
+      "name": "Jill Scarfo",
+      "gender": "Female",
+      "city": "Thomaston",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "mAOWmDLcyuPcVDo+w1+6jg=="
+    },
+    {
+      "name": "John Scarfo",
+      "gender": "Male",
+      "city": "Thomaston",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/5/2024",
+      "usta_id": "6wJn5tn3P84k96kbSOuasA=="
+    },
+    {
+      "name": "Ashley Schaffer",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1/ELDlHr8rBCW0x7BalsPQ=="
+    },
+    {
+      "name": "Annette Scheidecker",
+      "gender": "Female",
+      "city": "EAST WINDSOR",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MhNIYF+XfxmvcjISyVI5Hw=="
+    },
+    {
+      "name": "Sabine Schneider",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UNNhLrNBn+fnNFDlSDWSbQ=="
+    },
+    {
+      "name": "Bruce Schwartz",
+      "gender": "Male",
+      "city": "Deerfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "1bLnuRz/SudEqKFCrnls+A=="
+    },
+    {
+      "name": "Jacqueline Scott",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rzczQC8Xw7aWByMC2w/RkA=="
+    },
+    {
+      "name": "Silvia Scott",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P4xnNzQQpx1pjh10nx3rQA=="
+    },
+    {
+      "name": "Megan Scully",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "RK9Rcijz7l7gonvMiCJCPQ=="
+    },
+    {
+      "name": "Sharon Scussel",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TBaydANcL7eQ4zmET1kLag=="
+    },
+    {
+      "name": "Chris Seaver",
+      "gender": "Male",
+      "city": "Charlemont",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mx3YzDMu0jZ12oNqPvUPow=="
+    },
+    {
+      "name": "Gabe Seaver",
+      "gender": "Male",
+      "city": "Charlemont",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZXc2xl7Z8DeoTTXF2PigAA=="
+    },
+    {
+      "name": "Kristin Seeley",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7PoxcOHQZIxGZwep8uD/bw=="
+    },
+    {
+      "name": "Sean Seifert",
+      "gender": "Male",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZJsTablBF8NMWtTtPT8b1Q=="
+    },
+    {
+      "name": "Michael Semler",
+      "gender": "Male",
+      "city": "Shutesbury",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "10/13/2023",
+      "usta_id": "/WGNxPIQUnkhB0x9HutWPw=="
+    },
+    {
+      "name": "Emma Serisser",
+      "gender": "Female",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T/pCqPGq7ZS9tk3cwU4eSw=="
+    },
+    {
+      "name": "Robert Servant",
+      "gender": "Male",
+      "city": "Ware",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MS08FOTvurssQwmdhQGvbg=="
+    },
+    {
+      "name": "Georganne Sexton",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "VDiDRqX0U+AZi9Lgbzx4qQ=="
+    },
+    {
+      "name": "Linda Shafiroff",
+      "gender": "Female",
+      "city": "Great Barrington",
+      "state": "MA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aPsI1V9bB5Ju/EEelS//2w=="
+    },
+    {
+      "name": "Tushin Shah",
+      "gender": "Male",
+      "city": "LONGMEADOW",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l6WWkVzihPRjYA4Ik88kuw=="
+    },
+    {
+      "name": "Ken Shell",
+      "gender": "Male",
+      "city": "Hartford",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9SWZHO6g/uNLoZ0TAaRaqA=="
+    },
+    {
+      "name": "Sara Sherry",
+      "gender": "Female",
+      "city": "Southampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bVug0Qjy/Amxf7ANqSmh5Q=="
+    },
+    {
+      "name": "Michael Shields",
+      "gender": "Male",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yUkG5SzjDeg6H1nC0EmN6A=="
+    },
+    {
+      "name": "Cheryl Signet",
+      "gender": "Female",
+      "city": "West Springfield",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ns2tn/9d9ybML24UGneQzw=="
+    },
+    {
+      "name": "Alexis Silk",
+      "gender": "Female",
+      "city": "Greenfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q4KSfxb7sdSVDvpYL4Zu2A=="
+    },
+    {
+      "name": "Gail Sillman",
+      "gender": "Female",
+      "city": "West Newton",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nBOAi5OI5rnw2mTPwR2BcA=="
+    },
+    {
+      "name": "Roberta Silverstein",
+      "gender": "Female",
+      "city": "Lenox",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ixqfKxOb8JPsM0ERxXKstw=="
+    },
+    {
+      "name": "Jairahadeep Singh",
+      "gender": "Male",
+      "city": "SOUTH WINDSOR",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iy5uekwCNf+VP3zc3CaGgA=="
+    },
+    {
+      "name": "Frank Skrzypek",
+      "gender": "Male",
+      "city": "Southampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wN+ttel+Ug3Mhon+F+opJw=="
+    },
+    {
+      "name": "Angela Smith",
+      "gender": "Female",
+      "city": "Suffield",
+      "state": "CT",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "vaQTu3uMuVfBUJ6lsY/RYA=="
+    },
+    {
+      "name": "David Smith",
+      "gender": "Male",
+      "city": "Palmer",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/30/2024",
+      "usta_id": "GoVINeRVZVJYho+DddQRqA=="
+    },
+    {
+      "name": "Jay Smith",
+      "gender": "Male",
+      "city": "Hatfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/10/2024",
+      "usta_id": "GEgMOM8qxxPsJ/Gwr4eV1A=="
+    },
+    {
+      "name": "Robyn Sondak",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AB3BVReT1co0cmvei+GNOw=="
+    },
+    {
+      "name": "Sandra Southwick",
+      "gender": "Female",
+      "city": "Leverett",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qdXEXaiORfblNrqDcpk1VQ=="
+    },
+    {
+      "name": "John Spencer",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "wQevUhEKUxInO0MK97TXfw=="
+    },
+    {
+      "name": "Cyndy Sperry",
+      "gender": "Female",
+      "city": "Williamsburg",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/10/2024",
+      "usta_id": "zhMOxIU8IIq3CsNwxysoTg=="
+    },
+    {
+      "name": "Sowrirajan Srinivasan",
+      "gender": "Male",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xoXRSZd2rYiwDtVKal8YBA=="
+    },
+    {
+      "name": "Brian Stanton",
+      "gender": "Male",
+      "city": "West Springfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RwODakazk1u4uJCmhFwKDg=="
+    },
+    {
+      "name": "James Stapleton",
+      "gender": "Male",
+      "city": "Avon",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D0jDfDpfEecARmDzQxt86g=="
+    },
+    {
+      "name": "Valerie Stauber",
+      "gender": "Female",
+      "city": "Holyoke",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2TmygIYfUyh4JRYgn25wEQ=="
+    },
+    {
+      "name": "Emily Steele",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fVdWHZsRUBhYfT6iXjJRXg=="
+    },
+    {
+      "name": "Richard Steele",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/10/2025",
+      "usta_id": "LicOSJlr34OKJFpQhCcSsg=="
+    },
+    {
+      "name": "Louise Sterling",
+      "gender": "Female",
+      "city": "Agawam",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C5rS8uXOzqtDgdSq9W/f6Q=="
+    },
+    {
+      "name": "Addie Stiles",
+      "gender": "Female",
+      "city": "Hatfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RnG5RcBucu3ab5lOibfq2g=="
+    },
+    {
+      "name": "ALYCE STILES",
+      "gender": "Female",
+      "city": "Feeding Hills",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dDM4e/6JhyZpGUEVxUbvLg=="
+    },
+    {
+      "name": "Liz Stockwell",
+      "gender": "Female",
+      "city": "Avon",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nYQgvGtPmaQsPcbLwDZK/Q=="
+    },
+    {
+      "name": "Suzanne Streeter",
+      "gender": "Female",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3jIvwdI8fz60zDbBbjPMug=="
+    },
+    {
+      "name": "Susan Sturgeon",
+      "gender": "Female",
+      "city": "South Hadley",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TGdzCUGlDpwUR+bd9pBcJw=="
+    },
+    {
+      "name": "Deborah Sullivan",
+      "gender": "Female",
+      "city": "Granby",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VxSiHsLoEZplcCpdCzds8Q=="
+    },
+    {
+      "name": "Michelle Sullivan",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fJbQWcvpnJl2TS420OXchg=="
+    },
+    {
+      "name": "Patricia Sullivan",
+      "gender": "Female",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BQbtObi7tOiVucluhzBMzg=="
+    },
+    {
+      "name": "SAMPATH SUNDARARAJAN",
+      "gender": "Male",
+      "city": "EAST LONGMEADOW",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yul2vKA9GngdK+YN/UJayA=="
+    },
+    {
+      "name": "Peter Suttmeier",
+      "gender": "Male",
+      "city": "Avon",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xpXZ8KXKLQ1nsNitjPEhIg=="
+    },
+    {
+      "name": "Daryll Sverrisson",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ujC0AjonkhdqGnRWb890ow=="
+    },
+    {
+      "name": "Gunnar Sverrisson",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/10/2025",
+      "usta_id": "/NjkTYzwauRYc0wKqr1s7w=="
+    },
+    {
+      "name": "Tucker Swan",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "NFOAXacPMt37iGU7FnvVMg=="
+    },
+    {
+      "name": "Mona Swanson",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PgyB+iYMijcFrKkEXV41VA=="
+    },
+    {
+      "name": "Marianne Swenson",
+      "gender": "Female",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sjIA88HOLuA0+1rgakLv6g=="
+    },
+    {
+      "name": "Michelle Szlajen",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IbYpFtS80VOgLUrjxRI+TQ=="
+    },
+    {
+      "name": "Owen Talbot",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "uX5YGTxtCm/JqK2eQCjbmQ=="
+    },
+    {
+      "name": "Wilson Tan",
+      "gender": "Male",
+      "city": "Lee",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "0XFYD9xO1OuWFDrvXWbZUQ=="
+    },
+    {
+      "name": "Lisa Taylor Kelly",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sZHe3HniYRy1/4h2IVSVsg=="
+    },
+    {
+      "name": "Margaret Teel",
+      "gender": "Female",
+      "city": "Somers",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/vMs1NfFZ+fn+j1OevJ3Pw=="
+    },
+    {
+      "name": "Russell Tencer",
+      "gender": "Male",
+      "city": "Lakeville",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w56686USIDzgAF1JfHnrUA=="
+    },
+    {
+      "name": "Ken Tereso",
+      "gender": "Male",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "excHiH0D5dNIX5U3rRicBw=="
+    },
+    {
+      "name": "Linda Terrinca",
+      "gender": "Female",
+      "city": "Ludlow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dBMbZ7OZvvw0FzA2+8jeNA=="
+    },
+    {
+      "name": "Paul Tetreault",
+      "gender": "Male",
+      "city": "WETHERSFIELD",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AZffXJv/MH78rp63vvaEbw=="
+    },
+    {
+      "name": "Mahmut Tezcan",
+      "gender": "Male",
+      "city": "NEW BRITAIN",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dEMR0rxpzO3oqD8TP3gDRQ=="
+    },
+    {
+      "name": "Amit Thakkar",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SDeQRj7/RKoqQbwgx9n0oA=="
+    },
+    {
+      "name": "Clive Thomas",
+      "gender": "Male",
+      "city": "South Windsor",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jzUw+LiqKm9oBJyUXZzwgA=="
+    },
+    {
+      "name": "Jason Thomas",
+      "gender": "Male",
+      "city": "Wales",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8uqd2GtRTRfH7IiFYD6JlA=="
+    },
+    {
+      "name": "Benjamin Thompson",
+      "gender": "Male",
+      "city": "Williamsburg",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UYrvIOygHnjyANW9VxoOnw=="
+    },
+    {
+      "name": "Samuel Thomson",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZX7It03H2ooF2AnE4YUM/g=="
+    },
+    {
+      "name": "Michelle Thorpe",
+      "gender": "Female",
+      "city": "Lanesborough",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IItLPlo5lQFq+5WtlmCsPw=="
+    },
+    {
+      "name": "Denise Toce",
+      "gender": "Female",
+      "city": "South Windsor",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SVePc2c4I/Vo3ZEKftTnDw=="
+    },
+    {
+      "name": "Tim Todd",
+      "gender": "Male",
+      "city": "Shelburne Falls",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZNEoLXveah1F6sNKE1kGvQ=="
+    },
+    {
+      "name": "Daniel Torres",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XNL1xCB17FpK9Jaq4dcJzA=="
+    },
+    {
+      "name": "Wendy Touchette",
+      "gender": "Female",
+      "city": "Southampton",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2iM6cqfCB/0U5VyJUXIUkw=="
+    },
+    {
+      "name": "Nathan Treloar",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "f+3k62ynnbSMFBjFsuhhQA=="
+    },
+    {
+      "name": "Sue Trompke",
+      "gender": "Female",
+      "city": "GRANBY",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tvHIIZNbX9HRQ8+TVBCQ2Q=="
+    },
+    {
+      "name": "Mary Tudryn",
+      "gender": "Female",
+      "city": "Hadley",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b/w2ZvA0N7oZc01KYn9+kw=="
+    },
+    {
+      "name": "Betty Tuttle",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "f14bCbOr5kqsNWgtlw9h9Q=="
+    },
+    {
+      "name": "Linda Tvrdy",
+      "gender": "Female",
+      "city": "Tyringham",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "84Tj/pn0lEwUCt8+VIgxwg=="
+    },
+    {
+      "name": "Janice Tynan",
+      "gender": "Female",
+      "city": "Great Barrington",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1mkvf24V3P/MEjJnNY4ZtA=="
+    },
+    {
+      "name": "Amber Ubertini",
+      "gender": "Female",
+      "city": "Dalton",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JQmDURQYCjNeLMLPQhHo+A=="
+    },
+    {
+      "name": "Gary Uliasz",
+      "gender": "Male",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YgTmA+Z4jmYGbLgrRTvgQw=="
+    },
+    {
+      "name": "Meredith Ulrich",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/3/2024",
+      "usta_id": "h6FmN/aLn6+GiLjFtxlJYw=="
+    },
+    {
+      "name": "Raul Valdes",
+      "gender": "Male",
+      "city": "Avon",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WUJ/ZrMRR5QyImheT8jAjQ=="
+    },
+    {
+      "name": "Elizabeth Varner",
+      "gender": "Female",
+      "city": "Granby",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZdffU4hLxNnABVSxTjpeZw=="
+    },
+    {
+      "name": "Andrew Varnon",
+      "gender": "Male",
+      "city": "Greenfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "8yeGqvYx+9MdXVBLbhoZsA=="
+    },
+    {
+      "name": "Jorge Vazquez",
+      "gender": "Male",
+      "city": "Spring Hill",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qwYuuxY6If1o5N4xqTv1Ig=="
+    },
+    {
+      "name": "Amy Veres",
+      "gender": "Female",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NRsB3+2vUvU9WgPJIlk0Qg=="
+    },
+    {
+      "name": "Christopher Viale",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/24/2025",
+      "usta_id": "ZI7J+hHgT5qn/FPcehj/uQ=="
+    },
+    {
+      "name": "Evelyn Villa",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bFNYPv31e/0AdiTdnu1fxg=="
+    },
+    {
+      "name": "Marianne Vinal",
+      "gender": "Female",
+      "city": "Wendell",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fve0qKRb5Xx33DGmqavX5g=="
+    },
+    {
+      "name": "Didier Voisin",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s/ERV7m913pO1lZLtGpSOg=="
+    },
+    {
+      "name": "Eric Vosseller",
+      "gender": "Male",
+      "city": "Feeding Hills",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dz10dUTCGwxTjYWYiGenhg=="
+    },
+    {
+      "name": "Patricia Wadsworth",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RKnNGjPRbYW1b7gH8ROXHA=="
+    },
+    {
+      "name": "Toni Wall",
+      "gender": "Female",
+      "city": "Wilbraham",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/3gy2g8OtBrpyZnDL6ffnQ=="
+    },
+    {
+      "name": "Hope Walsh",
+      "gender": "Female",
+      "city": "Somers",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YWUA7r1y9pQkMnAoiqCVIg=="
+    },
+    {
+      "name": "Binca Warren",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/1/2025",
+      "usta_id": "UFBh30YTUK2yz9F3po7y5Q=="
+    },
+    {
+      "name": "Michael Warren",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3l8fU0aS/fF8fsLIS8aD5A=="
+    },
+    {
+      "name": "Shelly Warren",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IatTK/XJ9iCk8SK1+an85Q=="
+    },
+    {
+      "name": "Katie Wartman",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9iryQTxUsvKIuZ9wCeCZSg=="
+    },
+    {
+      "name": "Abby Weaver",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/19/2024",
+      "usta_id": "Ag/E9loAUVTwQC1jB+xt4w=="
+    },
+    {
+      "name": "Erica Weida",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ViYr0ADDSrG2Z2eU37qG1Q=="
+    },
+    {
+      "name": "Ben Weiss",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Un+tUInlJZi0Yxgoy2dEeA=="
+    },
+    {
+      "name": "Caitlyn Welch",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MzVyChlV6FOb3s28UEGtJA=="
+    },
+    {
+      "name": "Paula Welch",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2DL1OWAeyhMrVIqlEwp6QA=="
+    },
+    {
+      "name": "Sara West",
+      "gender": "Female",
+      "city": "ENFIELD",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "69mnhlTiluy+UNnOozghhg=="
+    },
+    {
+      "name": "Pete Westover",
+      "gender": "Male",
+      "city": "Whately",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UsqzZM58Wu5MpE+4kLEt+Q=="
+    },
+    {
+      "name": "Anne Wheeler",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RjmQJfZn+4q/K4JGN0idJA=="
+    },
+    {
+      "name": "Charmaine White",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EAsd6hu/FOzRdpgx6cMhcQ=="
+    },
+    {
+      "name": "Laura Whittemore",
+      "gender": "Female",
+      "city": "Simsbury",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vHWEyQqKK0Uu/AJoXe+20A=="
+    },
+    {
+      "name": "Mary Whitten",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "UZlGBpKUpgOxovbK5XapeQ=="
+    },
+    {
+      "name": "Catherine Wickens",
+      "gender": "Female",
+      "city": "Brimfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pq9oxMd/hnuqCeoF+n26vQ=="
+    },
+    {
+      "name": "Justin Wickens",
+      "gender": "Male",
+      "city": "Brimfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Xj+k7XNPWJoDT0UUzTS/A=="
+    },
+    {
+      "name": "Cameron Wiley",
+      "gender": "Male",
+      "city": "HOLYOKE",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8aEudkn+2LM/Q17II3flQQ=="
+    },
+    {
+      "name": "Amy Willard",
+      "gender": "Female",
+      "city": "West Brookfield",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pp5SZK+UxSV8IFz5C6qFHw=="
+    },
+    {
+      "name": "Cheryl Wilson Maynard",
+      "gender": "Female",
+      "city": "Stafford Springs",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7ww/p6/CPatuMd5M2gEOOw=="
+    },
+    {
+      "name": "Matthew Winnick",
+      "gender": "Male",
+      "city": "Easthampton",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O/fCs6mv+UP62tl8xMoqSg=="
+    },
+    {
+      "name": "Susan Wissler",
+      "gender": "Female",
+      "city": "Lenox",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BnKNz7LYykvZNtsmIlyJMQ=="
+    },
+    {
+      "name": "Leslie Wood",
+      "gender": "Female",
+      "city": "Hampden",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "EAsd6hu/FOxxhoDIAxT+9A=="
+    },
+    {
+      "name": "Rebecca Woodland",
+      "gender": "Female",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/23/2024",
+      "usta_id": "ESk2Y7xfZP6o5WAiTWVLiQ=="
+    },
+    {
+      "name": "Patricia Woods",
+      "gender": "Female",
+      "city": "Holyoke",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wCTL2pOunDrV+EFjKa2nmQ=="
+    },
+    {
+      "name": "Armand Wray",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e8BOM6Bn/EbmWUxmBkUh0g=="
+    },
+    {
+      "name": "Nianqiang Wu",
+      "gender": "Male",
+      "city": "Amherst",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tTN8tvpUfnu/Y8nXOQucig=="
+    },
+    {
+      "name": "Nancy Wyzga",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "CT",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "vI0FdG1/8zYjZB78K6jI/A=="
+    },
+    {
+      "name": "Randy Yanoshak",
+      "gender": "Male",
+      "city": "Florence",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+4aGvvOw7r/LjT6LE7k27w=="
+    },
+    {
+      "name": "Robin Yates",
+      "gender": "Female",
+      "city": "Lenox",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/gHWSUuXV1nMGP6Zt+DTzg=="
+    },
+    {
+      "name": "Chad Yergeau",
+      "gender": "Male",
+      "city": "Monson",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wQBRHscnFCi/J/HL58VYkA=="
+    },
+    {
+      "name": "Alexandra Yevsyuk",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Wod7MVn/XTSLiDj5bBiFw=="
+    },
+    {
+      "name": "mike yevsyuk",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/21/2025",
+      "usta_id": "Ye2nrDsWNeMVOXN2ucFe1w=="
+    },
+    {
+      "name": "Qin Yin",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "llT53wYgMQbE4a3dH+D52A=="
+    },
+    {
+      "name": "Carol York",
+      "gender": "Female",
+      "city": "Tolland",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V9Vco8e8vfDVpG79aslC4Q=="
+    },
+    {
+      "name": "Meghan Youso",
+      "gender": "Female",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e2boNleNEMIyAHnr/4ZSEQ=="
+    },
+    {
+      "name": "David Zaccheo",
+      "gender": "Male",
+      "city": "Greenfield",
+      "state": "MA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i+8Xv+gO5nRKM5PEv1DUbQ=="
+    },
+    {
+      "name": "Nan Zhang",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "MA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/17/2024",
+      "usta_id": "1S1wvDR5QG7Y4pIsu0TbXw=="
+    },
+    {
+      "name": "Christina Zimmerman",
+      "gender": "Female",
+      "city": "Bolton",
+      "state": "CT",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hy3HTS14GKWzP5uE9aSOqw=="
+    }
+  ]
+}

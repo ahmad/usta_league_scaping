@@ -1,0 +1,5837 @@
+{
+  "sectionId": "6243300",
+  "districtId": "6243346",
+  "areaId": "",
+  "players": [
+    {
+      "name": "Jonn Abshire",
+      "gender": "Male",
+      "city": "Souderton",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hDUWPDF/TSEAFhvaxREGCw=="
+    },
+    {
+      "name": "Murtuza Abuwala",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sq5/rLOGex1FL7eHuD5stQ=="
+    },
+    {
+      "name": "George Adams",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/14/2025",
+      "usta_id": "Djx+X9R3rUzDHsUxVSu7rQ=="
+    },
+    {
+      "name": "Leland Addison",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g+5EoSe9DDzY9OUryjTO9Q=="
+    },
+    {
+      "name": "Amy Ahnert",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TnKX5DAMxedcWVA8EH1K7g=="
+    },
+    {
+      "name": "Margaret Albert",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qp73z680u60IjBfWmozFRg=="
+    },
+    {
+      "name": "Valerie Ali",
+      "gender": "Female",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dFaFS9WijP++lN7GVvBilw=="
+    },
+    {
+      "name": "Tom Ally",
+      "gender": "Male",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/26/2025",
+      "usta_id": "4Y9OnPXw+euWw2VXVEOJoQ=="
+    },
+    {
+      "name": "Kurt Althouse",
+      "gender": "Male",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "icB1wkyU+wIzqOfZuFA0Ig=="
+    },
+    {
+      "name": "Laura Ammermann",
+      "gender": "Female",
+      "city": "Saylorsburg",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7CZfpqgCw7+hmkBA+Dxh/w=="
+    },
+    {
+      "name": "Ken Anderson",
+      "gender": "Male",
+      "city": "Doylestown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GVrdhet+p5QiqZc6HmHpkA=="
+    },
+    {
+      "name": "Nicole Andrews",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/u4HBwuaNzvEDvHDkR0BpA=="
+    },
+    {
+      "name": "Olivia Andrews",
+      "gender": "Female",
+      "city": "Harleysville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oLLE9Bgas8s7n63Z3ClDUQ=="
+    },
+    {
+      "name": "Alex Angeles",
+      "gender": "Male",
+      "city": "Stewartsville",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kOTeWWg1cunkoRcaw7arYA=="
+    },
+    {
+      "name": "Kevin Angeles",
+      "gender": "Male",
+      "city": "Stewartsville",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d6/F84XuA29bwS7TAtvceA=="
+    },
+    {
+      "name": "Betty Angelucci",
+      "gender": "Female",
+      "city": "Berwyn",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q1tBbNmIABKygQ2bN0N81Q=="
+    },
+    {
+      "name": "Debbie Anthony",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bxB79QlrnKUMjtCcPeT/LA=="
+    },
+    {
+      "name": "Darla Antonis",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GSL1+gT9c4mkC9Fyxa3KCQ=="
+    },
+    {
+      "name": "Pierette Appasamy",
+      "gender": "Female",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0uaimUNUQhAxBE/g+AZecQ=="
+    },
+    {
+      "name": "Luke Appleman",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "7/21/2025",
+      "usta_id": "B7RbX3IhNUU6XVb5vjrMKg=="
+    },
+    {
+      "name": "Mary Applinbuono",
+      "gender": "Female",
+      "city": "Pocono Pines",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/8/2025",
+      "usta_id": "3QSsSVZMRZfa/oeRZaRGeg=="
+    },
+    {
+      "name": "Anabela Araujo",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M6aVbWQkwlWrI3w5bep5hA=="
+    },
+    {
+      "name": "Felipe Araujo",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "d06U0QBvxje59btYOzbpFQ=="
+    },
+    {
+      "name": "Daniel Arkans",
+      "gender": "Male",
+      "city": "Quakertown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/8/2025",
+      "usta_id": "PbcUGK0tZmovxCwF9m/+tQ=="
+    },
+    {
+      "name": "Evan Armstrong",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/28/2024",
+      "usta_id": "wghqv8Xoa7MJTpol3MkdkQ=="
+    },
+    {
+      "name": "Evan Armstrong",
+      "gender": "Male",
+      "city": "Jackson",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IOsYaTrVPe/TonCQRp6Gbw=="
+    },
+    {
+      "name": "Cindy Ashworth",
+      "gender": "Female",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lyfnLhMYOPWIdUd2U1Kb9A=="
+    },
+    {
+      "name": "Manolo Asprer",
+      "gender": "Male",
+      "city": "Flanders",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EMKcKn5hl/fB+Srx4iEEVg=="
+    },
+    {
+      "name": "Ann Astolfi",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HSIwb3CCh1dPh178d4eVfQ=="
+    },
+    {
+      "name": "Javier Avila",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GUELkOmXDjn6PcOSQwLbYw=="
+    },
+    {
+      "name": "Rodrigo Ayabe",
+      "gender": "Male",
+      "city": "EASTON",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3FQWdtmjlfHUvDEQyQtgEw=="
+    },
+    {
+      "name": "Heather Badami",
+      "gender": "Female",
+      "city": "Blue Bell",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ElKmPsnvxFmqUjBiu9oLqw=="
+    },
+    {
+      "name": "Alison Baily Hallam",
+      "gender": "Female",
+      "city": "Wayne",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oyClHn40cAwnbN8lpg19tA=="
+    },
+    {
+      "name": "Cynthia Balchunas",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RKW0/mUOBlG7tZjqc1FBkw=="
+    },
+    {
+      "name": "Dennis Balcon",
+      "gender": "Male",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6sP/noFySnY7cTpIAADdPw=="
+    },
+    {
+      "name": "Lewis Baldwin",
+      "gender": "Male",
+      "city": "nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s76BOhNGkbs0IbaMKEJElw=="
+    },
+    {
+      "name": "Theresa Baldwin",
+      "gender": "Female",
+      "city": "Berwyn",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YkbwF028TKm8jLQrXtzvLA=="
+    },
+    {
+      "name": "Maryann Baloh",
+      "gender": "Female",
+      "city": "EMMAUS",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3l8fU0aS/fGD/oFRGs6Slg=="
+    },
+    {
+      "name": "Pat Baltz",
+      "gender": "Male",
+      "city": "Stockertown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wPhopMP5E+PUoouIkO0z8A=="
+    },
+    {
+      "name": "LEONARD BANGUG",
+      "gender": "Male",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cfUdcE8g2i95ssuGNtjecA=="
+    },
+    {
+      "name": "Nan Barash",
+      "gender": "Female",
+      "city": "Bryn Mawr",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cyKQgr+ITLSP4oMoit2+Ew=="
+    },
+    {
+      "name": "Corey Barrientos",
+      "gender": "Male",
+      "city": "NAZARETH",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/12/2024",
+      "usta_id": "524hYhaXGlW8Sby3+2EQug=="
+    },
+    {
+      "name": "Ricardo Bayas",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YRB1Gh3ibgPGNP1ioBDb2g=="
+    },
+    {
+      "name": "Adrienne Beck",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3z509zIfDdW/sXM2xZ3YLA=="
+    },
+    {
+      "name": "Christine Beck",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EKdBHqUN/7Zkwo3kHS7yoQ=="
+    },
+    {
+      "name": "Alexander Bell",
+      "gender": "Male",
+      "city": "Hellertown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w56686USIDwygS3Lkw3Sfw=="
+    },
+    {
+      "name": "Mark Belson",
+      "gender": "Male",
+      "city": "EASTON",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yKk6yl8fJgC22/nG7dFpiA=="
+    },
+    {
+      "name": "Joshua Bemporad",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "3kxTRxn3M71I+smc7sz42w=="
+    },
+    {
+      "name": "Dixie Bender",
+      "gender": "Female",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tZet5el4sxCtcNkNN7JnjA=="
+    },
+    {
+      "name": "Kathy Benn",
+      "gender": "Female",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CxTucxU7vde7SwLsso5kFg=="
+    },
+    {
+      "name": "Shelley Berger",
+      "gender": "Female",
+      "city": "Flemington",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2J6dOecIEl+N7dEhIW7U8g=="
+    },
+    {
+      "name": "Elizabeth Bernabeo",
+      "gender": "Female",
+      "city": "Wayne",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hOySevXGWtzL7BhdGp07hQ=="
+    },
+    {
+      "name": "Rutika Bhapkar",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/3/2024",
+      "usta_id": "CfHFQm/qzkENNqbA034DWA=="
+    },
+    {
+      "name": "Anh Bixby",
+      "gender": "Female",
+      "city": "Perkasie",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JUYLcgtxUF0I5m3ZIoSrfw=="
+    },
+    {
+      "name": "Matt Blaske",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "zi0bfzRsiyU4A+nPz5/v7w=="
+    },
+    {
+      "name": "Marilyn Blaustein",
+      "gender": "Female",
+      "city": "Wynnewood",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ptaEnXANF+tud7y0Hl3Fdg=="
+    },
+    {
+      "name": "Ben Blum",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "99LDxYgKoiyBeC9k2rI9eg=="
+    },
+    {
+      "name": "Janet Blume",
+      "gender": "Female",
+      "city": "Douglassville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bn0QIbO7Tor9Nw2ShVnsrg=="
+    },
+    {
+      "name": "Antonio Borie",
+      "gender": "Male",
+      "city": "E Stroudsburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xi/243U8LdSQHdB0L/ytsQ=="
+    },
+    {
+      "name": "Christie Bower",
+      "gender": "Female",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mmo5RAZC8IcWaIjhAhUZlQ=="
+    },
+    {
+      "name": "John Bower",
+      "gender": "Male",
+      "city": "Newtown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pxz7502KCquQbh8VXPHUVg=="
+    },
+    {
+      "name": "Louise Bowman",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xzS5UF7qSmHFumQbVyYqTA=="
+    },
+    {
+      "name": "Jean Boyd",
+      "gender": "Female",
+      "city": "Flemington",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6c7QHF4NVdzlsMowmOMlkA=="
+    },
+    {
+      "name": "Karie Braca",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/18/2023",
+      "usta_id": "+KPW2mYZq1n2xee47qnbyA=="
+    },
+    {
+      "name": "Sara Brackenbury",
+      "gender": "Female",
+      "city": "BETHLEHEM",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lCVpiHxzUHK9CuL8Q1iXkA=="
+    },
+    {
+      "name": "Laura Brasher",
+      "gender": "Female",
+      "city": "Clinton",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E+fwZKHwEiy10+rD1u9sPQ=="
+    },
+    {
+      "name": "Timothy Brezinsky",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "iu9K90iuN3kc9iKLQ78Lmw=="
+    },
+    {
+      "name": "Frieda Brinkmann",
+      "gender": "Female",
+      "city": "Devon",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2ufKb0t5Wr3rLDPD/ySptw=="
+    },
+    {
+      "name": "David Broczkowski",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "YOZXo9LXD5EKrT43PIKyzQ=="
+    },
+    {
+      "name": "Ann Brown",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rgkkcy7gKsTaHo6QVjJJ7A=="
+    },
+    {
+      "name": "F Brown",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Nv2Cybg3nJxDW5YYJQRDXQ=="
+    },
+    {
+      "name": "Patricia Brown",
+      "gender": "Female",
+      "city": "BETHLEHEM",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u7ud+xUgVpToeAwVcUu6DQ=="
+    },
+    {
+      "name": "Robert Brown",
+      "gender": "Male",
+      "city": "BETHLEHEM",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yIXxYSHwj2OwkSJZj5FP1w=="
+    },
+    {
+      "name": "Doreen Burgess",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G35C3cvZaSodBKF5d4fJGA=="
+    },
+    {
+      "name": "Jim Burmester",
+      "gender": "Male",
+      "city": "Willow Grove",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2gPc9WLDvQ+0mvKVcX77OA=="
+    },
+    {
+      "name": "Gerry Burns",
+      "gender": "Male",
+      "city": "East Stroudsburg",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aIzwJjp2Gr6gtOIIeAyHIA=="
+    },
+    {
+      "name": "Irene Burns",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "S8g71hzTaHPAobiTIpZB5Q=="
+    },
+    {
+      "name": "Stephen Butler",
+      "gender": "Male",
+      "city": "Downingtown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fs0RnmrHQi9Sg6cjpcjBhQ=="
+    },
+    {
+      "name": "Shari Butz",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DJN08bk2AznMSk2BSWgJaQ=="
+    },
+    {
+      "name": "Theodore Butz",
+      "gender": "Male",
+      "city": "East Stroudsburg",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZftuVtof30nMf8Y/MTlvPw=="
+    },
+    {
+      "name": "Mia Buyens",
+      "gender": "Female",
+      "city": "Silverdale",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "fsU9/YkW8+5XIrKgmBT4kQ=="
+    },
+    {
+      "name": "Susan Campbell",
+      "gender": "Female",
+      "city": "DOWNINGTOWN",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pu0rS6vqeKU/pF5QgrgJHg=="
+    },
+    {
+      "name": "Eugenio Canete",
+      "gender": "Male",
+      "city": "Edison",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AndVL4fhFnhQrHfg483TuQ=="
+    },
+    {
+      "name": "Regina Carolan",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3oDtFtVqZv3H6DHwDaXeeQ=="
+    },
+    {
+      "name": "Isaac Carpenter",
+      "gender": "Male",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/10/2025",
+      "usta_id": "XiO/+BePo/KnYQdejtZhgQ=="
+    },
+    {
+      "name": "Patrick Carretas",
+      "gender": "Male",
+      "city": "Chester Springs",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0MWxZUMdwp8oiHY89hGDYw=="
+    },
+    {
+      "name": "Rachel Casey",
+      "gender": "Female",
+      "city": "Whitehouse Station",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "6/7/2025",
+      "usta_id": "KwaH38JdJ/9/1mt69UAZ8w=="
+    },
+    {
+      "name": "Debra Castoro",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4LLG9rlbZlvU70AMsV0EkQ=="
+    },
+    {
+      "name": "Jeffrey Cavanaugh",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mjuQKC1kk3B7hg/UC+t4mQ=="
+    },
+    {
+      "name": "Leo Cayanong",
+      "gender": "Male",
+      "city": "Piscataway",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EKKnhRvXjH0nLScmMN2r/A=="
+    },
+    {
+      "name": "Rachel Chadwin",
+      "gender": "Female",
+      "city": "Ardmore",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wd/2byK8fmtaCN5cRBPflQ=="
+    },
+    {
+      "name": "Zach Chamberlain",
+      "gender": "Male",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/22/2025",
+      "usta_id": "GcAD9LkJSRFahdv0/zmd0w=="
+    },
+    {
+      "name": "Ahmad Chaudhry",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GBsNYEVKUMK3vjF2AIiUIA=="
+    },
+    {
+      "name": "Amanda Chauhan",
+      "gender": "Female",
+      "city": "Wayne",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pjmdv1XsaI4vkaoYpLfRjQ=="
+    },
+    {
+      "name": "David Chemidlin",
+      "gender": "Male",
+      "city": "Stewartsville",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "rIFMedX4zL/CACVmaYivTQ=="
+    },
+    {
+      "name": "Meghan Chemidlin",
+      "gender": "Female",
+      "city": "Stewartsville",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j9oXVL7A4OttwNVbiccKNQ=="
+    },
+    {
+      "name": "Amy Chen",
+      "gender": "Female",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JRC0SvDAgRNZEtchgv3wyQ=="
+    },
+    {
+      "name": "Allen Cheung",
+      "gender": "Male",
+      "city": "Downingtown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tZW0/A5vh4PHHRGgSWnTYA=="
+    },
+    {
+      "name": "Shin-Yi Chou",
+      "gender": "Female",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "VxSiHsLoEZq3mp1ANJEuDw=="
+    },
+    {
+      "name": "Lorise Chow",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nAU62w7QRO9HuFRRiwdDuQ=="
+    },
+    {
+      "name": "Amy Christine",
+      "gender": "Female",
+      "city": "Horsham",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/0kBk5upYKe+CLokSZj62g=="
+    },
+    {
+      "name": "Michele Christman",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ZIn3mwBCWBIqv2R1JUeNFw=="
+    },
+    {
+      "name": "Cindy Chung",
+      "gender": "Female",
+      "city": "Gilbertsville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z2XVOPKAx03tcEzNeD19bw=="
+    },
+    {
+      "name": "Krystle Chuong",
+      "gender": "Female",
+      "city": "Douglassville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0K+GJblmrw/ybPdQNDLC+g=="
+    },
+    {
+      "name": "Emily Clark",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3MfgsQVekKZFN9txQjYkqw=="
+    },
+    {
+      "name": "TIFFANI CLARK",
+      "gender": "Female",
+      "city": "Sinking Spring",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/11/2024",
+      "usta_id": "nuTHtxB2cK1LzyocT39XJg=="
+    },
+    {
+      "name": "Susan Clarke",
+      "gender": "Female",
+      "city": "Perkasie",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PBEbZJ1HE1E2TYz9tvMHJQ=="
+    },
+    {
+      "name": "Sara Clarkson",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2j7YVDDMvKd6Mcerhb35mA=="
+    },
+    {
+      "name": "Bayto Cokrlija",
+      "gender": "Male",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "VdMxdkVjFMQR0X8zaAiI2Q=="
+    },
+    {
+      "name": "Morgan Colver",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lAQGTJbvXiEzF6VzAEuDHw=="
+    },
+    {
+      "name": "Lauren Conlon",
+      "gender": "Female",
+      "city": "Merion Station",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mglhVW9r+gdn5i6IXPnmXw=="
+    },
+    {
+      "name": "Katie Conrad",
+      "gender": "Female",
+      "city": "Ambler",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YfiNV88kcEaa+X2JP9R/ww=="
+    },
+    {
+      "name": "Tracey Cousins-Ledwidge",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yXwx+aT69RVKEuLC0e+eig=="
+    },
+    {
+      "name": "Joan Crossan",
+      "gender": "Female",
+      "city": "Mohnton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fqOTG7Nf4YQ7YYq5IqAqtg=="
+    },
+    {
+      "name": "Jeff Crosten",
+      "gender": "Male",
+      "city": "Schwenksville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KQsUNd+I0GSQ9w5oW027jQ=="
+    },
+    {
+      "name": "Catherine Cummins",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YsP1TYzEiP7+emgqSOVyDw=="
+    },
+    {
+      "name": "Kali Curran",
+      "gender": "Female",
+      "city": "Newtown Square",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nx+pWUe0UQy5JGB2zid/Ww=="
+    },
+    {
+      "name": "Emily Curry",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "S5ZB+RqMLf2jlkZnRTaFvQ=="
+    },
+    {
+      "name": "Thomas Dacosta",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y/jlcsyxMi7X/T8aAyZhSw=="
+    },
+    {
+      "name": "L D'angelo",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Nv2Cybg3nJy/k6gQaMkdQw=="
+    },
+    {
+      "name": "Tom DAngelo",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "/AQJ721V2QnoSq8fO3sL3A=="
+    },
+    {
+      "name": "Debra Datesman",
+      "gender": "Female",
+      "city": "Philadelphia",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iVfQFrhraFwRoh6ce2MZHw=="
+    },
+    {
+      "name": "Gary Davidowich",
+      "gender": "Male",
+      "city": "Emmaus",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Px0oMdnPlmItiYZhrKehIg=="
+    },
+    {
+      "name": "Jaime de Lara",
+      "gender": "Male",
+      "city": "Raritan",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UdckIsLXqYDDP3lj8Ay+BA=="
+    },
+    {
+      "name": "Ashlie Dean Moyer",
+      "gender": "Female",
+      "city": "Orwigsburg",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/21/2023",
+      "usta_id": "REv3A3jJC8ohCZauLf087Q=="
+    },
+    {
+      "name": "Gail Deckman",
+      "gender": "Female",
+      "city": "Sinking Spring",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "tUo+AkrctV2KOrPkjQ4jxg=="
+    },
+    {
+      "name": "Benjamin Delannee",
+      "gender": "Male",
+      "city": "Kintnersville",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vvqRpS5e79CamhGe4KVEmg=="
+    },
+    {
+      "name": "Audra Delconte",
+      "gender": "Female",
+      "city": "COLMAR",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g2tnHm6QU/JkkpQ1Zapd3Q=="
+    },
+    {
+      "name": "Edgar Delfin",
+      "gender": "Male",
+      "city": "Stewartsville",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uxaOJ0+waGMU7haJrUzEmw=="
+    },
+    {
+      "name": "Stephen Dempsey",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zon7PKJAZFeafT6Ay50PLw=="
+    },
+    {
+      "name": "Peter Demyan",
+      "gender": "Male",
+      "city": "Hellertown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "xVS1+m/luomUenIuKC9EJA=="
+    },
+    {
+      "name": "Scott DeNardo",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BC3zwe7C906q1yPsHmoZlw=="
+    },
+    {
+      "name": "Daniel DeNucci",
+      "gender": "Male",
+      "city": "Dallas",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/23/2023",
+      "usta_id": "OitzehybperZSeIS0/Gujw=="
+    },
+    {
+      "name": "Eva Di Orio",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "S5ZB+RqMLf1tOZzOdaoX7A=="
+    },
+    {
+      "name": "Colleen Dirosa",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XEiBx0DDydjasTAIKb4FCg=="
+    },
+    {
+      "name": "Michael Disante",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/20/2025",
+      "usta_id": "E8zjEyGoTJmLxSxHyCYFzw=="
+    },
+    {
+      "name": "Stephanie Dodson",
+      "gender": "Female",
+      "city": "Danielsville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "KKEX08Mkc2wzKLLaU/DS4A=="
+    },
+    {
+      "name": "Mary Doherty",
+      "gender": "Female",
+      "city": "East Stroudsburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8RZnd+9PS6H/rsCFC9D1Hg=="
+    },
+    {
+      "name": "Jacqueline Dolac",
+      "gender": "Female",
+      "city": "Bangor",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HJyQyLeEYCKNJC6Q91gQVw=="
+    },
+    {
+      "name": "Judith Dougherty",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "isyHQHZbhzScZV3szeDy5w=="
+    },
+    {
+      "name": "Suzy Dowell",
+      "gender": "Female",
+      "city": "Collegeville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b77hp0o9AEqmqaykyBTgWA=="
+    },
+    {
+      "name": "Mitchell Drabenstott",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kxu40YvkrirDFdkcKW9G6w=="
+    },
+    {
+      "name": "Fyodor D'Souza",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/13/2023",
+      "usta_id": "/5UasEc1V2jroQxeoCzywA=="
+    },
+    {
+      "name": "Annie Duke",
+      "gender": "Female",
+      "city": "Villanova",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4IbrSbawTab5Ch3+dBbUvA=="
+    },
+    {
+      "name": "Colleen Dumas",
+      "gender": "Female",
+      "city": "Wilmington",
+      "state": "DE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fg1k961/Y2ANpDOn3fRQOw=="
+    },
+    {
+      "name": "Tegan Durishin",
+      "gender": "Male",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J5i47rrX9MqnOAkAO2ZNDA=="
+    },
+    {
+      "name": "Kim Dyer",
+      "gender": "Female",
+      "city": "Quakertown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BfCiau2JFlAtj1tp5WO4ag=="
+    },
+    {
+      "name": "Jon Earnist",
+      "gender": "Male",
+      "city": "Hellertown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dH5b07kgILg7Re5kBEItAg=="
+    },
+    {
+      "name": "Sonya Eddings",
+      "gender": "Female",
+      "city": "Tobyhanna",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "15yMJrGkin6yZ8iS5n/Ygw=="
+    },
+    {
+      "name": "Sarah Ehrlich",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+L59R+d8kJU6ss30wvJ3lw=="
+    },
+    {
+      "name": "Laura Eichman",
+      "gender": "Female",
+      "city": "MACUNGIE",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "VcDDEb5+LhWvXhbgNzPafA=="
+    },
+    {
+      "name": "VERONICA ELIAS",
+      "gender": "Female",
+      "city": "Hellertown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tUzkxIQNHgY8KL6tBUaRtw=="
+    },
+    {
+      "name": "Kim England",
+      "gender": "Female",
+      "city": "West Chester",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8vQ/FAmu1Ie/3trNGp/CrA=="
+    },
+    {
+      "name": "JODI ESLINGER",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bhPszos5I5NipdYOWg40LQ=="
+    },
+    {
+      "name": "Nicholas Espinoza",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "9/28/2024",
+      "usta_id": "9AdO14MhsJtBAqiIsYNqpg=="
+    },
+    {
+      "name": "G Evans Gartley",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "99LDxYgKoiyrO4LSZq/9NQ=="
+    },
+    {
+      "name": "Megan Evans Gartley",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "iK3HOO6L1eEo7MCe7AMEHg=="
+    },
+    {
+      "name": "Jennifer Everett",
+      "gender": "Female",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YslLmVYG2PES0B8cXLICIA=="
+    },
+    {
+      "name": "Jon Everett",
+      "gender": "Male",
+      "city": "Emmaus",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xqh8l3DGwWt6MtGJJNyIjw=="
+    },
+    {
+      "name": "Natalie Everhardt",
+      "gender": "Female",
+      "city": "Harleysville",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iuhdvAUYt5gEhDIxv5QsZQ=="
+    },
+    {
+      "name": "Deborah Exley",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mntl/ec+oO4JLeIlYq1dLA=="
+    },
+    {
+      "name": "Christina Faidley",
+      "gender": "Female",
+      "city": "Phoenixville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VawVRdSc2tbzCHWv4o8Fyw=="
+    },
+    {
+      "name": "Yiming Fan",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "iPLYdXL/Wo5LNUmtwX6acw=="
+    },
+    {
+      "name": "Roman Farhad",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "4J9/lBdsNtn8gRhIJt+pKQ=="
+    },
+    {
+      "name": "Ashley Farnesi",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GjvVypi3OorOuRtH3uKChQ=="
+    },
+    {
+      "name": "Steven Farnesi",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f/1CsZDqHoGGerKGjYeCig=="
+    },
+    {
+      "name": "Rick Farris",
+      "gender": "Male",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1npJLkTfLrGlF5w5G5U7Ww=="
+    },
+    {
+      "name": "Creighton Faust",
+      "gender": "Male",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2022",
+      "usta_id": "qtZKG4m+hRwVBDJHQ5jK6Q=="
+    },
+    {
+      "name": "Olivia Fay",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "NOIZu6Sx5U9Bvkrdi+mtpw=="
+    },
+    {
+      "name": "Dominic Ferraro",
+      "gender": "Male",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9aTihjVs6Vr5zrAQXM06PA=="
+    },
+    {
+      "name": "Jorey Ferraro",
+      "gender": "Male",
+      "city": "Fountain Hill",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NNpm+XyAZkO+7hKWSCQ6Mg=="
+    },
+    {
+      "name": "Margaret Mary Fesnak",
+      "gender": "Female",
+      "city": "Lansdale",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SY7tvT7L6pzZdvVznKQiUw=="
+    },
+    {
+      "name": "Anne Fields",
+      "gender": "Female",
+      "city": "Elkins Park",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BcWR+lTNp5s94K5A9eiHlw=="
+    },
+    {
+      "name": "Maddie Figiel",
+      "gender": "Female",
+      "city": "Cinnaminson",
+      "state": "NJ",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "kWC76PhGjwAJ1MW3hTEhzw=="
+    },
+    {
+      "name": "Cindy Fitton",
+      "gender": "Female",
+      "city": "Hellertown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NdZ5azRy2sxc5klf3+AN1g=="
+    },
+    {
+      "name": "Barbara Fletcher",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K+kaZ8npwEMN54QB0Z7Etw=="
+    },
+    {
+      "name": "Carmen Flosdorf",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "cPzAR1fsR5B+76twmnovSw=="
+    },
+    {
+      "name": "Laura Flowers",
+      "gender": "Female",
+      "city": "Pottstown",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8A6aJRLe09ymEtzfaSe41g=="
+    },
+    {
+      "name": "Mike Foux",
+      "gender": "Male",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XOLMkIfP0LPPJct2yHY4nw=="
+    },
+    {
+      "name": "Noelle Frey",
+      "gender": "Female",
+      "city": "Narberth",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iZ/3kSW+vw78ByM2UL28Sw=="
+    },
+    {
+      "name": "Soosyn Fuster-Marin",
+      "gender": "Female",
+      "city": "Phoenixville",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bkXTtyISIrEj6DrgPRfOng=="
+    },
+    {
+      "name": "Joel Garcia",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GwF4T69DQLGy1f6GSUm05g=="
+    },
+    {
+      "name": "James Gatter",
+      "gender": "Male",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "0moCflWXVSo="
+    },
+    {
+      "name": "Todd Geiser",
+      "gender": "Male",
+      "city": "Quakertown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p1wCWBMZYj4QICyhcEyn3A=="
+    },
+    {
+      "name": "Brian Ghessi",
+      "gender": "Male",
+      "city": "FLEETWOOD",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "NCarg20m2bkxQ4EpmAZWuQ=="
+    },
+    {
+      "name": "C Giannaris",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "99LDxYgKoiylNqyuXmASzQ=="
+    },
+    {
+      "name": "Jill Gibbons",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "6ce3kSCCA8tlEp0yy1G3WQ=="
+    },
+    {
+      "name": "James Gilchrist",
+      "gender": "Male",
+      "city": "Orefield",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cUhxrHfcvb+Is+Lufmih3g=="
+    },
+    {
+      "name": "Pat Giles",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TI2G5cq92p1Bddzed5Dnsw=="
+    },
+    {
+      "name": "Irene Giltrow",
+      "gender": "Female",
+      "city": "Upper Black Eddy",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a36oFvZbZgLaFHQbcf5P7w=="
+    },
+    {
+      "name": "Al Go",
+      "gender": "Male",
+      "city": "Philadelphia",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VEAo/PBsDjglo/2aRj8wSw=="
+    },
+    {
+      "name": "Fabio Gomez",
+      "gender": "Male",
+      "city": "Breinigsville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8qslHFtPbrQ863o0L6BiTA=="
+    },
+    {
+      "name": "Shoshana Gosselin",
+      "gender": "Female",
+      "city": "Emmaus",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gKih+S/dgF8xWfLirVMaeQ=="
+    },
+    {
+      "name": "Donna Goughnour",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "4voFLWnOmJ4mb4ZTTY8lUg=="
+    },
+    {
+      "name": "Stacy Gould",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zgb890R3zoh3n3WvluiOng=="
+    },
+    {
+      "name": "Denise Gozdan",
+      "gender": "Female",
+      "city": "Penllyn",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nAYomRdBKs2zbN4c63zElA=="
+    },
+    {
+      "name": "Carrie Grasmeder",
+      "gender": "Female",
+      "city": "Bedminster",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uvJFIbsWPQv6u6jXQkU3Rg=="
+    },
+    {
+      "name": "Joyce Greaser",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "29cHdmpV4KueHAhvnM77SQ=="
+    },
+    {
+      "name": "Kelly Greenberg",
+      "gender": "Female",
+      "city": "GLADWYNE",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xvd5hW/vUagi2MZ/FthTVg=="
+    },
+    {
+      "name": "Justin Greenlee",
+      "gender": "Male",
+      "city": "BETHLEHEM",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SJVuoBOMIb6x1BoIKGwijA=="
+    },
+    {
+      "name": "Jaclyn Groenen",
+      "gender": "Female",
+      "city": "Haverford",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C7wBGKZEzvRVlw/WIv/cww=="
+    },
+    {
+      "name": "Leigh Gronau",
+      "gender": "Female",
+      "city": "Glen Gardner",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "asKEWfADsRTsLfMpXDdUcQ=="
+    },
+    {
+      "name": "Neil Guarino",
+      "gender": "Male",
+      "city": "Riegelsville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/23/2025",
+      "usta_id": "xiHVEBTO0i/aT0nO2GtxVQ=="
+    },
+    {
+      "name": "Jason Guillen",
+      "gender": "Male",
+      "city": "Santa Ana",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bin7qL6u5k3yghrLjkAHPA=="
+    },
+    {
+      "name": "David Guralchuk",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7vJKTNQL+UiPjG/PMo55xQ=="
+    },
+    {
+      "name": "Michele Gurevich",
+      "gender": "Female",
+      "city": "Haverford",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P61Q20K+4ReptKY2INaP2w=="
+    },
+    {
+      "name": "Daniel Guzman",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "qimKM+3b0dKuCdn+MNvyeQ=="
+    },
+    {
+      "name": "Ryannn Guzmann",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "4xDReatmp8YDFFZluthuYA=="
+    },
+    {
+      "name": "Troy Haas",
+      "gender": "Male",
+      "city": "EMMAUS",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uflNBGNJyVIRxxxw8YN55A=="
+    },
+    {
+      "name": "Toni Hamlett",
+      "gender": "Female",
+      "city": "Douglassville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FU/e5Q+FNylb1AxcvujEtg=="
+    },
+    {
+      "name": "Pete Hance",
+      "gender": "Male",
+      "city": "Fogelsville",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f+5qwdXSRUqRqAg8VpW3sQ=="
+    },
+    {
+      "name": "Carol Hauspurg",
+      "gender": "Female",
+      "city": "Bath",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uy65iCqFwZJa/dC7i3WzVw=="
+    },
+    {
+      "name": "Nathan Hawk",
+      "gender": "Male",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/22/2024",
+      "usta_id": "rkFa8VOYMz8rA33A0FUaQA=="
+    },
+    {
+      "name": "Skye Hawk",
+      "gender": "Female",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+L59R+d8kJUiB5iQWkQ7TQ=="
+    },
+    {
+      "name": "Jary Heckler",
+      "gender": "Female",
+      "city": "Souderton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N0cCzduYAEPVIq4hzvUiSg=="
+    },
+    {
+      "name": "Christina Heeter",
+      "gender": "Female",
+      "city": "Norristown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8Df6DG/jA1rY85FPODZM/A=="
+    },
+    {
+      "name": "Lynda Heflich",
+      "gender": "Female",
+      "city": "Doylestown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SPhya2iQSQPHc5cwFtFXKw=="
+    },
+    {
+      "name": "Lance Heil",
+      "gender": "Male",
+      "city": "BATH",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MMfgUiT1oARe7Ic6Tr3JfA=="
+    },
+    {
+      "name": "Bruce Hendershot",
+      "gender": "Male",
+      "city": "Fogelsville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Imunhmb9FvFL96ApnVWRdQ=="
+    },
+    {
+      "name": "Melissa Henning",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QSa2G/7Xp6Kx9Zr0KF6VaA=="
+    },
+    {
+      "name": "Kate Herman",
+      "gender": "Female",
+      "city": "Wyomissing",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/29/2024",
+      "usta_id": "NeMTzCIGyhb6L4INBcoFAg=="
+    },
+    {
+      "name": "Austin Hertzog",
+      "gender": "Male",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TnHinWRFY+NIqdiFBCxUGw=="
+    },
+    {
+      "name": "Liza Hess",
+      "gender": "Female",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/11/2024",
+      "usta_id": "0ygNxS7Z4Ly2rFnjV/yutw=="
+    },
+    {
+      "name": "Shannon Hewitt",
+      "gender": "Female",
+      "city": "West Chester",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yVDCbn9Fskpi/D5Dt40RQw=="
+    },
+    {
+      "name": "Constance Hindle",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D3KlfC0F7B526bZcwzxiqw=="
+    },
+    {
+      "name": "Canh Ho",
+      "gender": "Male",
+      "city": "Lansdowne",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3LZ15tzHryu7a4Ty5V5dMQ=="
+    },
+    {
+      "name": "Todd Hoang",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/8/2024",
+      "usta_id": "d8yhoEa1wyD6fKo3vu+NPg=="
+    },
+    {
+      "name": "Marie Hoffman",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/23/2024",
+      "usta_id": "T+9la5U9VcDQEt/cPz57pQ=="
+    },
+    {
+      "name": "Kayoko Hollinger",
+      "gender": "Female",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/60C/FU3yP450xga/aZOiA=="
+    },
+    {
+      "name": "Max Honer",
+      "gender": "Male",
+      "city": "Newtown",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FPWda9JOiR9UWKwqjv48ww=="
+    },
+    {
+      "name": "charlotte hopkins",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/23/2025",
+      "usta_id": "IjUYtNzuqD7Z+8WapymYDg=="
+    },
+    {
+      "name": "T Horvath",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "99LDxYgKoizqd6Bd/ojMdA=="
+    },
+    {
+      "name": "Molly Hottenstein",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MCU68LerMvScB4GZpgRBkw=="
+    },
+    {
+      "name": "Don Houpt",
+      "gender": "Male",
+      "city": "PERKASIE",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s8O8byKmlv6xRYUn9K39tA=="
+    },
+    {
+      "name": "Gail Howard",
+      "gender": "Female",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "lpEk0rNb4pRMKroyr/WYxA=="
+    },
+    {
+      "name": "Carlos Huaman",
+      "gender": "Male",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6K570NQg59EXedBnSuj9NA=="
+    },
+    {
+      "name": "Chris Hudak",
+      "gender": "Male",
+      "city": "Northampton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Swys9ofwv6iXcYnEV4ncyA=="
+    },
+    {
+      "name": "Ann Hugosson",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "exV+8EScEihLR/4vskh8oA=="
+    },
+    {
+      "name": "Karen Huie",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/28/2024",
+      "usta_id": "fsW1VZbf1DncMhCZBgLGWA=="
+    },
+    {
+      "name": "Kathy Hulsizer",
+      "gender": "Female",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sDvzCCgrPrRqGFjGIifgVw=="
+    },
+    {
+      "name": "Marcea Hummel",
+      "gender": "Female",
+      "city": "Berwyn",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DbYPrXazH9X7d8NwjwLZ3Q=="
+    },
+    {
+      "name": "Lori Hunt",
+      "gender": "Female",
+      "city": "EAST PETERSBURG",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oJF+J7IPqjzyer3xERF/PQ=="
+    },
+    {
+      "name": "Yuya Ikeda",
+      "gender": "Male",
+      "city": "Raritan",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jJsBYSTKLPaCwWsQUflnNg=="
+    },
+    {
+      "name": "Ravikanth Iyer",
+      "gender": "Male",
+      "city": "Exton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1vcTs+clqrtBjaLFGCmvKg=="
+    },
+    {
+      "name": "Waldemar Jablonski",
+      "gender": "Male",
+      "city": "Coplay",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mEMgQdLzpLPQq8K9dzU5uQ=="
+    },
+    {
+      "name": "Nadia Jabri",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nj+8KhjH58YUYoqvfkZrAg=="
+    },
+    {
+      "name": "Tina Jago",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dvENESf9MeGmpk8wJ6noIw=="
+    },
+    {
+      "name": "Dhruv Jain",
+      "gender": "Male",
+      "city": "SPOKANE",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "TIccoVoIYLtkBmvH7O1J5Q=="
+    },
+    {
+      "name": "Lakshminarayana Jampanaboyana",
+      "gender": "Male",
+      "city": "Breinigsville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dDLS/PnJtOux1jy4KR54tA=="
+    },
+    {
+      "name": "Manan Jani",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2m+wTF8xq/PX0Qi5TetE+g=="
+    },
+    {
+      "name": "Stacey Jarrell",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UJVeiaRJVcCguaL+inGhTw=="
+    },
+    {
+      "name": "Janet JenningsOchs",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IkKx0LjT0j30ZE5Hdq0poA=="
+    },
+    {
+      "name": "Indrajeet Joglekar",
+      "gender": "Male",
+      "city": "Exton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L1wFcjpJJaYNeuLHiKfLHg=="
+    },
+    {
+      "name": "Eric Johnson",
+      "gender": "Male",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "01wJ4riJaberuTdq8wvlcQ=="
+    },
+    {
+      "name": "Chuck Jones",
+      "gender": "Male",
+      "city": "Glenside",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UNjdfm6WwuA2bDwC8PwiUA=="
+    },
+    {
+      "name": "Tatyana Kansburg",
+      "gender": "Female",
+      "city": "Albrightsville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VBlHr8qMssIC/afepKmfZw=="
+    },
+    {
+      "name": "Aditya Karnik",
+      "gender": "Male",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aNTAUfDmrZjXTtF00RhzxA=="
+    },
+    {
+      "name": "Dawn Keaton",
+      "gender": "Female",
+      "city": "Yardley",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yorTrq6t1o3S7b8GVwhbcg=="
+    },
+    {
+      "name": "Walter Keiper",
+      "gender": "Male",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "eD/8n7O2Opg="
+    },
+    {
+      "name": "Patricia Keleman",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "snVq8wD1HE2i8od/8UBeVg=="
+    },
+    {
+      "name": "Mike Kelly",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/26/2025",
+      "usta_id": "GVhHMoQf/Ok1dUHlaJBOtA=="
+    },
+    {
+      "name": "Joan Kern",
+      "gender": "Female",
+      "city": "High Bridge",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r0lqsk/uYzGvKkuUgbOnzA=="
+    },
+    {
+      "name": "Marcus Kessler",
+      "gender": "Male",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qWwkIeoeOMrqDACQJDH9bg=="
+    },
+    {
+      "name": "Qasim Khan",
+      "gender": "Male",
+      "city": "Trenton",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PO/UGddCJOCEG197V8ttYg=="
+    },
+    {
+      "name": "Don Kim",
+      "gender": "Male",
+      "city": "State College",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XZpO/0vGJe4MT3R220TlVg=="
+    },
+    {
+      "name": "Thomas Kirkwood",
+      "gender": "Male",
+      "city": "Shawnee ON Delaware",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "DwDhzmlpdKmnBebyIy53FA=="
+    },
+    {
+      "name": "Lisa Kirshner",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NPujcC0GSqPrZjWwKu5StQ=="
+    },
+    {
+      "name": "Ko Kiuchi",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hYj6x+FNqNy0JTP1soMYeQ=="
+    },
+    {
+      "name": "Lisa Klaire",
+      "gender": "Female",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uc+AXBEnfQHSGW5SwJMSOw=="
+    },
+    {
+      "name": "Kerri Klein",
+      "gender": "Female",
+      "city": "Collegeville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "naseRofMi4hV6pcoDG+qbg=="
+    },
+    {
+      "name": "Torrie Kline",
+      "gender": "Female",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DYZchCiAjJ9+1vd1d10kcA=="
+    },
+    {
+      "name": "Josh Knappenberger",
+      "gender": "Male",
+      "city": "LEHIGHTON",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2024",
+      "usta_id": "PL0BhleBMH7THJfBPsYtvg=="
+    },
+    {
+      "name": "Maia Knowles",
+      "gender": "Female",
+      "city": "Wind Gap",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "mykJYzXBy+zIRJB/uKnRRQ=="
+    },
+    {
+      "name": "Alex Knyazkov",
+      "gender": "Male",
+      "city": "Doylestown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y0QfBo3742nutu3hZ1wTqw=="
+    },
+    {
+      "name": "Yevgen Knyazkov",
+      "gender": "Male",
+      "city": "Doylestown",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y0QfBo3742ntMPouh5eK8g=="
+    },
+    {
+      "name": "Xiangxing Kong",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/16/2023",
+      "usta_id": "a6xTBUKljPW1af1Ok/v8dQ=="
+    },
+    {
+      "name": "Merry Krauz",
+      "gender": "Female",
+      "city": "Pocono Summit",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VXeBKYa8cP1ZQenyr+BUIw=="
+    },
+    {
+      "name": "Joel Krieger",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "/mz+WrC21ZTwdTWVsa29mg=="
+    },
+    {
+      "name": "Gwin Krouse",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z0E1rqeaPs/rwXs7gG9H3Q=="
+    },
+    {
+      "name": "Linda Kubinsky",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "6ce3kSCCA8vkqpgp16Iq5w=="
+    },
+    {
+      "name": "Derek Kulp",
+      "gender": "Male",
+      "city": "ALLENTOWN",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W+wNeIa3D1VBr2ewbHxXAw=="
+    },
+    {
+      "name": "Theresa Kunsman",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "m0QgbZGswsNPMOQFx8N6rw=="
+    },
+    {
+      "name": "Susan Kurtz",
+      "gender": "Female",
+      "city": "Jeffersonville",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AzfXUI4yy+PXdDl7NZD9hA=="
+    },
+    {
+      "name": "Yevgen Kuryanov",
+      "gender": "Male",
+      "city": "Doylestown",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PsrHg8YcWPD0wqjD0fvSPA=="
+    },
+    {
+      "name": "Lisa Laputka",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n0bqTiKCC+6D6DxtCEXA9A=="
+    },
+    {
+      "name": "Elaine Lawrence",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VGvVCAHTfmo4/8L70x2xsg=="
+    },
+    {
+      "name": "Sarah Lazarchak",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/3/2024",
+      "usta_id": "aFXpUi80RDGbljAN6HaTBQ=="
+    },
+    {
+      "name": "Francis Lazo",
+      "gender": "Male",
+      "city": "Orefield",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VWHMKW1BK+rB6XWm/97Crw=="
+    },
+    {
+      "name": "Michelle Lebby",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/5/2025",
+      "usta_id": "RUbDKgO5dv2ZhTcK6nSEew=="
+    },
+    {
+      "name": "Rachel Lebiedzinski",
+      "gender": "Female",
+      "city": "Royersford",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yFM8cu8r7/GwHDf2rQ5ODw=="
+    },
+    {
+      "name": "Frances Lee",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/9/2024",
+      "usta_id": "GiVXdNaGku+AE1AROHPfmQ=="
+    },
+    {
+      "name": "James Lee",
+      "gender": "Male",
+      "city": "Broomall",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bLDYMJW4RTSYNKo77L0nug=="
+    },
+    {
+      "name": "Renee Lentz",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jkg+dBYEwXVfktzNVp2ULA=="
+    },
+    {
+      "name": "Kim Levengood",
+      "gender": "Female",
+      "city": "East Greenville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/13/2024",
+      "usta_id": "4ecF9eHeHKtfrEBwaHSoug=="
+    },
+    {
+      "name": "Ziang Li",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/1/2024",
+      "usta_id": "wUx+Jdg9uWQzxXnf/QbExg=="
+    },
+    {
+      "name": "Laval Liahkim",
+      "gender": "Male",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UUfTBHyzk8Q4OEc2g5nCUA=="
+    },
+    {
+      "name": "Richard Lichtenwalner",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/17/2025",
+      "usta_id": "YnhmkqOmskJHsy0y8FYe5g=="
+    },
+    {
+      "name": "Norbert Lienhard",
+      "gender": "Male",
+      "city": "Jim Thorpe",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Advotptz0+JpR1HC9GRlA=="
+    },
+    {
+      "name": "Natalia Lindner",
+      "gender": "Female",
+      "city": "Quakertown",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/5/2025",
+      "usta_id": "dQzqnvrsRxoTPDNDyTDQ/A=="
+    },
+    {
+      "name": "Kimberly Liscinski",
+      "gender": "Female",
+      "city": "Albrightsville",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "2thAnVVbTRohTY7nGxQ63A=="
+    },
+    {
+      "name": "Claire Lochner",
+      "gender": "Female",
+      "city": "Brodheadsville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bV2ugfqfClLx0/Hn5SyTMQ=="
+    },
+    {
+      "name": "Lori Long",
+      "gender": "Female",
+      "city": "Emmaus",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HWsxv6bI0iEGTgJFQduEKg=="
+    },
+    {
+      "name": "Angelita Longo",
+      "gender": "Female",
+      "city": "Hellertown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/24/2025",
+      "usta_id": "N1nE+NUxfwz+s5scn93aQg=="
+    },
+    {
+      "name": "Debra Lorah",
+      "gender": "Female",
+      "city": "Schnecksville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AZtexwNWgFZC15pNg1tFeA=="
+    },
+    {
+      "name": "Samuel Lux",
+      "gender": "Male",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vcRTGCI8kiswJArPGvo0/Q=="
+    },
+    {
+      "name": "Diane Lyons",
+      "gender": "Female",
+      "city": "Emmaus",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DyDZu8zSTo9hYff/XF99Mw=="
+    },
+    {
+      "name": "Kenneth Lyons",
+      "gender": "Male",
+      "city": "Emmaus",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "eHu/c7Blw90Rhd7nvIg8ZA=="
+    },
+    {
+      "name": "Fanny Ma",
+      "gender": "Female",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z+7aG2hsshWM6P6aEPxsFA=="
+    },
+    {
+      "name": "Robert MacAluso",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YrstFH9ml6A+ZTAllx+qmA=="
+    },
+    {
+      "name": "Pat Maggitti",
+      "gender": "Female",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3URs/6YzNrjyzvb8Yr+LmQ=="
+    },
+    {
+      "name": "Kathy Magnusson",
+      "gender": "Female",
+      "city": "Belvidere",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rd5zpL1uAPPFASyOQ11jeQ=="
+    },
+    {
+      "name": "Alex Mamutuk",
+      "gender": "Male",
+      "city": "EASTON",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q9qgbCRdZsXurzn4orMfww=="
+    },
+    {
+      "name": "Heather Maraldo",
+      "gender": "Female",
+      "city": "Gilbertsville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kqwXabb12ye4OcuOT5taOQ=="
+    },
+    {
+      "name": "Krista Marsh",
+      "gender": "Female",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7ZAI1pkZWzFk9fn4zhZqGw=="
+    },
+    {
+      "name": "Ashley Marshall",
+      "gender": "Female",
+      "city": "Slatington",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/5/2024",
+      "usta_id": "EHLlVMA7+ZOIimgIuAOy1g=="
+    },
+    {
+      "name": "Adelo Mascarinas",
+      "gender": "Male",
+      "city": "Middlesex",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j2NAdpLDMMIeKpL5MbOcMA=="
+    },
+    {
+      "name": "Helen Matthews",
+      "gender": "Female",
+      "city": "Philadelphia",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6J1BCH36nvE4fpOOwBdo/w=="
+    },
+    {
+      "name": "Avery McCall",
+      "gender": "Female",
+      "city": "Bath",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fVgrOgM6DbRclOKugeqJgA=="
+    },
+    {
+      "name": "Marie L McCall",
+      "gender": "Female",
+      "city": "Bath",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o5PaNUIpouz+WkcYY+LZ7g=="
+    },
+    {
+      "name": "Michelle McCall",
+      "gender": "Female",
+      "city": "Chester Springs",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ipWES4BQEeuxM4Fmw/jxaQ=="
+    },
+    {
+      "name": "Barbara McCarthy",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7/urWXURbbUT9XG5wQHduQ=="
+    },
+    {
+      "name": "Isabel McDevitt",
+      "gender": "Female",
+      "city": "Philadelphia",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6bHncQ8F8FAu2slRdd/Fxw=="
+    },
+    {
+      "name": "Jeannine McGhie",
+      "gender": "Female",
+      "city": "STOCKBRIDGE",
+      "state": "VT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+wFbEBZDnnxLUI77bAB4vg=="
+    },
+    {
+      "name": "Karli McGill",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ur56Zxjm2PQMydtVrUdZuw=="
+    },
+    {
+      "name": "Robyn McNeil",
+      "gender": "Female",
+      "city": "Phoenixville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u7FuN7p/BKr0BbkNqwPyAg=="
+    },
+    {
+      "name": "Randy Mele Jr",
+      "gender": "Male",
+      "city": "Perkasie",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "wX0k1/Ftz61+dIUBeHptCw=="
+    },
+    {
+      "name": "Laurie Memis",
+      "gender": "Female",
+      "city": "Lower Gwynedd",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bcHxSXTmeHU="
+    },
+    {
+      "name": "Gavin Meyers",
+      "gender": "Male",
+      "city": "Whitehall",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ilfVid+snmaZlfRWQbGd5A=="
+    },
+    {
+      "name": "Jose Meza Cuadra",
+      "gender": "Male",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cUhxrHfcvb/8Hh253us5Lw=="
+    },
+    {
+      "name": "David Michilashvili",
+      "gender": "Male",
+      "city": "Wilkes Barre",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/31/2024",
+      "usta_id": "FhrWIas+6BIUgKCtym6L8Q=="
+    },
+    {
+      "name": "Deanne Milburn",
+      "gender": "Female",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yRWdjgDMijwB9OSTCUQ6Tg=="
+    },
+    {
+      "name": "Amanda Miller",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ykyUafSKrC3WAkQxwG6WTQ=="
+    },
+    {
+      "name": "Andrew Miller",
+      "gender": "Male",
+      "city": "Fleetwood",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "7YZ/eoLJTuw5aE1ovsDuLg=="
+    },
+    {
+      "name": "Denise Miller",
+      "gender": "Female",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9qtJxoUO8hPYUdk3L57KPg=="
+    },
+    {
+      "name": "Julia Miller",
+      "gender": "Female",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j55EaxxBi+VbIITdlwO/5Q=="
+    },
+    {
+      "name": "Sharon Miller",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IxXPRi1EAsTJYYfMc/yUuw=="
+    },
+    {
+      "name": "Susan Miller",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MTZdgu/g8Lgj093jwy6vCA=="
+    },
+    {
+      "name": "Lorie Mitchell",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "doDfaZ7eAVwIQwXhDkoeOg=="
+    },
+    {
+      "name": "Samip Modi",
+      "gender": "Male",
+      "city": "Breinigsville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/20/2025",
+      "usta_id": "QaT1asUcNsVgliRIjScoUw=="
+    },
+    {
+      "name": "Marianne Monteleone",
+      "gender": "Female",
+      "city": "Jim Thorpe",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k/GQKVYJJuMUVOQO654HFg=="
+    },
+    {
+      "name": "Laura Moog",
+      "gender": "Female",
+      "city": "Kutztown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s9KWu5YYxzWlvgD/MLr9Zw=="
+    },
+    {
+      "name": "Debbie Morgan",
+      "gender": "Female",
+      "city": "Tannersville",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OPmjETvVBOSPChm0F9RD1w=="
+    },
+    {
+      "name": "Kim Morris",
+      "gender": "Female",
+      "city": "Plymouth Meeting",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K4Z99ayS6u7+5TubKjwvyA=="
+    },
+    {
+      "name": "Carol Morse",
+      "gender": "Female",
+      "city": "Washington",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lIzb/nyp3PSXFBDmIsV0gQ=="
+    },
+    {
+      "name": "Constance Moyer",
+      "gender": "Female",
+      "city": "EASTON",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SRrjJZ8fewk47FIWisoRuQ=="
+    },
+    {
+      "name": "Linda Mudditt",
+      "gender": "Female",
+      "city": "Jamison",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "el4l3zUU4pVKo5iQq/SefQ=="
+    },
+    {
+      "name": "Felipe Munoz",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1F/YMCv2qoMf9WRnpRM3DA=="
+    },
+    {
+      "name": "Matthew Nagy",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ZKjbk5L6joVnUaGj2Yeqdg=="
+    },
+    {
+      "name": "Christina Naughton",
+      "gender": "Female",
+      "city": "Newfoundland",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5ccnyylvxZF85PDOgicrvg=="
+    },
+    {
+      "name": "Eiman Nazif",
+      "gender": "Female",
+      "city": "BETHLEHEM",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "J8GDRXWBbFssStJQZSviNw=="
+    },
+    {
+      "name": "Eileen Neff",
+      "gender": "Female",
+      "city": "Green Lane",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ACuIYI/lox7VyhDa+SblSw=="
+    },
+    {
+      "name": "Jacob Nelson",
+      "gender": "Male",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y60C2qshO4yDZ1R47VqWsg=="
+    },
+    {
+      "name": "Jennifer Nelson",
+      "gender": "Female",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "995DnXBR0B1hnmd95k4Yuw=="
+    },
+    {
+      "name": "Kelly Nguyen",
+      "gender": "Female",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v7pGCSU9gHfvhnfwnWYgHQ=="
+    },
+    {
+      "name": "Quang Nguyen",
+      "gender": "Male",
+      "city": "Paoli",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hYaVtHU2qJtEFEPpndnSnQ=="
+    },
+    {
+      "name": "Kathy Obrien",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "RhVfE3BCsoFX1JJGs8aB8w=="
+    },
+    {
+      "name": "Pikai Oh",
+      "gender": "Female",
+      "city": "Bala Cynwyd",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wxh8/5arRzxoJMmAxy4Fwg=="
+    },
+    {
+      "name": "Ayoola Oladejo",
+      "gender": "Male",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/16/2023",
+      "usta_id": "6IsuD3uf8X1vZ1NIRiYW/w=="
+    },
+    {
+      "name": "Maggie O'Leary",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H8RI5lfHkfnDhzngdtZYkA=="
+    },
+    {
+      "name": "Steve Olshevski",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "psIbUA7jovYYul5CZNPrrQ=="
+    },
+    {
+      "name": "Tim Olver",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "zro1J80C+nzpD+4VMG2QPA=="
+    },
+    {
+      "name": "Jennifer O'Malley",
+      "gender": "Female",
+      "city": "Green Lane",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "/raPrQPqmB5viS2/gE/TzQ=="
+    },
+    {
+      "name": "Tony OMalley",
+      "gender": "Male",
+      "city": "Emmaus",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/6/2024",
+      "usta_id": "ERe0RHedPo6svM2ICoQuxQ=="
+    },
+    {
+      "name": "Jaroslaw Oniszczuk",
+      "gender": "Male",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZIn3mwBCWBJHxdS28wzG+Q=="
+    },
+    {
+      "name": "Timothy Oppelt",
+      "gender": "Male",
+      "city": "NAZARETH",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/5/2024",
+      "usta_id": "9dCj1XiRtex2TZW+91bzZA=="
+    },
+    {
+      "name": "Daniele Ouellet",
+      "gender": "Female",
+      "city": "Blue Bell",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6GLTxKzP2oVuXuvVopnqUw=="
+    },
+    {
+      "name": "T Owens",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "5bpIWG/D+1l3KcVn/YI9xw=="
+    },
+    {
+      "name": "Karen Oxholm",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wuxwrIO5sB+88wWmhd9yDg=="
+    },
+    {
+      "name": "Carolyn Pace",
+      "gender": "Female",
+      "city": "Pocono Lake",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jKJ5/0QlArB72RL85QClrA=="
+    },
+    {
+      "name": "Christina Pacis",
+      "gender": "Female",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "wZIWmm89Y0kg5b8pjOeX4g=="
+    },
+    {
+      "name": "Rey Pacis",
+      "gender": "Male",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R21grDEHJFoCBD0BJL9oEw=="
+    },
+    {
+      "name": "Joanne Palumbo",
+      "gender": "Female",
+      "city": "Orefield",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kI7Ipp8fbbkFjI9gvZzAgA=="
+    },
+    {
+      "name": "Wanda Pamphile",
+      "gender": "Female",
+      "city": "Blue Bell",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Jr6f/Jzlakze1GGb12jDA=="
+    },
+    {
+      "name": "Manan Pandya",
+      "gender": "Male",
+      "city": "East Brunswick",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/MCgzZbWtmmr3HWCXEkCOw=="
+    },
+    {
+      "name": "Marianne Paparone",
+      "gender": "Female",
+      "city": "Ambler",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "30lGjwCyqpE0W1YDduuFOg=="
+    },
+    {
+      "name": "Dominic Parfianowicz",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "vECk3/dF5fpMEZGPfs32pQ=="
+    },
+    {
+      "name": "Jacob Parfianowicz",
+      "gender": "Male",
+      "city": "Elmira",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "vECk3/dF5fq9jv8Q3svh6A=="
+    },
+    {
+      "name": "Rhonda Parris",
+      "gender": "Female",
+      "city": "Wilmington",
+      "state": "DE",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IQy6HFIPy1mQo7Dmyht1lA=="
+    },
+    {
+      "name": "Robert Parsons",
+      "gender": "Male",
+      "city": "BETHLEHEM",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y48kDkY6cHpP7oiVpBOqqA=="
+    },
+    {
+      "name": "Akash Patel",
+      "gender": "Male",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "75Vv1ckUW+dgPONfxgAAjg=="
+    },
+    {
+      "name": "Hardik Patel",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cB6bo8gJL9W3fQ/oe1vbOA=="
+    },
+    {
+      "name": "Ketan Patel",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fgvgCWhy9sBdWD4Obdg4rA=="
+    },
+    {
+      "name": "Manov Patel",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "psIbUA7jovYsnPmNpkBp8A=="
+    },
+    {
+      "name": "Meeta Patel",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1jYSoeS95Ov0dM7w+XrnyQ=="
+    },
+    {
+      "name": "Ravindra Patel",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "UIpCHHl+smIUcDUUoMcJvw=="
+    },
+    {
+      "name": "Ali Patino",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JAAmLhGEmBNPcGRqOQWwEA=="
+    },
+    {
+      "name": "Douglas Patridge",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "psIbUA7jovarhof9VXpW2g=="
+    },
+    {
+      "name": "Lloyd Pearson",
+      "gender": "Male",
+      "city": "Haddon Heights",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5lNS3ystMD2X/YCr5VhW4A=="
+    },
+    {
+      "name": "Cheryl Peechatka-Hoffman",
+      "gender": "Female",
+      "city": "Pocono Summit",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nf1RSubMvqkkaoQ2P6zLgQ=="
+    },
+    {
+      "name": "Ann Jeanette Peiffer",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "XVz2bQqFbehRJj6thLsNeQ=="
+    },
+    {
+      "name": "Devany Penne",
+      "gender": "Female",
+      "city": "Wynnewood",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mMidKZjwIw8no4ef6TcqOA=="
+    },
+    {
+      "name": "Cathy Peoples",
+      "gender": "Female",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2o0XCSqJq1zCHC1mRNxBPQ=="
+    },
+    {
+      "name": "Catherine Pepe",
+      "gender": "Female",
+      "city": "Albrightsville",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EfwoYd10OvW0z7OsbUZH0g=="
+    },
+    {
+      "name": "Beth Perez",
+      "gender": "Female",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "U/9XjBD2BFkWLBtUSFi2MQ=="
+    },
+    {
+      "name": "Linda Perilla",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "69t7jS2LA1OFcS13t9lvWA=="
+    },
+    {
+      "name": "Victoria Perity",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "zU0UC4TUASyxo3BAGjk3vQ=="
+    },
+    {
+      "name": "Rebecca Perkins",
+      "gender": "Female",
+      "city": "Coatesville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gEA28u+mYq1VOTSRZE/FbA=="
+    },
+    {
+      "name": "Cesar Pernia",
+      "gender": "Male",
+      "city": "RIEGELSVILLE",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UJctorYCGjbogSp/J4q1Zg=="
+    },
+    {
+      "name": "Heidi Pernia",
+      "gender": "Female",
+      "city": "RIEGELSVILLE",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wFQ4OuwLke2ubg6RCYDWtg=="
+    },
+    {
+      "name": "Kate Petcavage",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gn6jgD0Zas4XV/QXvS3HqQ=="
+    },
+    {
+      "name": "James Petch",
+      "gender": "Male",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zNxHip+oEz/MHIl1IFeZAg=="
+    },
+    {
+      "name": "Linda Peters",
+      "gender": "Female",
+      "city": "Flemington",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nvtLAKVaxB8oueNaFEdHyg=="
+    },
+    {
+      "name": "Pat Peters",
+      "gender": "Female",
+      "city": "COOPERSBURG",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xTyNJSEfeXYO+3J6xMN7qg=="
+    },
+    {
+      "name": "E Peterson",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "qOwM+I/GmMN6q/qDFr0DXg=="
+    },
+    {
+      "name": "Jeffrey Pham",
+      "gender": "Male",
+      "city": "Mount Laurel",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J0Bx0ZGkl7kg8+Lrgk6pWw=="
+    },
+    {
+      "name": "G Piccini",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Nv2Cybg3nJxk6bZjvN+ljQ=="
+    },
+    {
+      "name": "Francis Pierce",
+      "gender": "Male",
+      "city": "Riegelsville",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/22/2025",
+      "usta_id": "gy2dAWATPYPJFuFW0KYM7Q=="
+    },
+    {
+      "name": "Janice Pigga",
+      "gender": "Female",
+      "city": "NAZARETH",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+ykyvnbW0NSVUgDORKZcJA=="
+    },
+    {
+      "name": "Maria Pollack",
+      "gender": "Female",
+      "city": "Bryn Mawr",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m6nzVwVpG1vZFjxqyFU3RA=="
+    },
+    {
+      "name": "Matthew Potts",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r+d+K/U8eecwgb16r+fCuw=="
+    },
+    {
+      "name": "Jonathan Pranitis",
+      "gender": "Male",
+      "city": "Bath",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AE35DIFC2oht+EAExg5jhA=="
+    },
+    {
+      "name": "Archana Prasad",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gHkBUnVj2KW5HUk/Tltrcg=="
+    },
+    {
+      "name": "Eleanor Price",
+      "gender": "Female",
+      "city": "Cresco",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YGiX6TtDL5V/Qt8OqrbKQw=="
+    },
+    {
+      "name": "Cristina Primrose",
+      "gender": "Female",
+      "city": "East Stroudsburg",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uujKqM0HkWVgxgdtrH5APQ=="
+    },
+    {
+      "name": "Rupal Pujara",
+      "gender": "Female",
+      "city": "Devon",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/14/2025",
+      "usta_id": "2/xEsWG3zzg3WqnqMZTZJg=="
+    },
+    {
+      "name": "Venkata Puvvadi",
+      "gender": "Male",
+      "city": "Chester Springs",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R/ruzTrz/BMvj9QaBxh+0g=="
+    },
+    {
+      "name": "Catherine Quigley",
+      "gender": "Female",
+      "city": "Royersford",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7lr/t3lfZElevvRdL38kVw=="
+    },
+    {
+      "name": "Jai Racherla",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "2TTCUcCXLrVFoDzs1II5mw=="
+    },
+    {
+      "name": "Sara Radaoui",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oUXXIbLpopIOMHlqwkBtXA=="
+    },
+    {
+      "name": "Ramesh Raghav",
+      "gender": "Male",
+      "city": "Breinigsville",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "mJl+RzTyHvOJMQmdp7bqIw=="
+    },
+    {
+      "name": "Randy Ramirez",
+      "gender": "Male",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UUfTBHyzk8RFCuVT8DNuzQ=="
+    },
+    {
+      "name": "Gabriel Raneses",
+      "gender": "Male",
+      "city": "SCIOTA",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "netH3OIwKK2rWupWrl6l3g=="
+    },
+    {
+      "name": "Rajeev Rao",
+      "gender": "Male",
+      "city": "Wayne",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zdejOTo89kkfDKFgaBZLqQ=="
+    },
+    {
+      "name": "Anette Rego",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZND4J6fXObG4OznL+1QrLQ=="
+    },
+    {
+      "name": "Susan Rehrig",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/8/2025",
+      "usta_id": "/w44Psg3quCNX764HGjAug=="
+    },
+    {
+      "name": "Lisa Reiss",
+      "gender": "Female",
+      "city": "Harleysville",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/VuuKLvKpsv+4sCVixgLwg=="
+    },
+    {
+      "name": "Dori Revness",
+      "gender": "Female",
+      "city": "Blue Bell",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lLyJCsiF+uOYul6737pGFQ=="
+    },
+    {
+      "name": "Matthew Ricks",
+      "gender": "Male",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lFp02iFeNg49Gdk4R+KcBA=="
+    },
+    {
+      "name": "Sheila Riddle",
+      "gender": "Female",
+      "city": "Naples",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wLayL74HMOk49/TblVHxng=="
+    },
+    {
+      "name": "Karl Ritter",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "kcFnnBHaGj9BIWKl7mZ0vw=="
+    },
+    {
+      "name": "Thomas Ritter",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jbbdpE+tgq2I9IZrRG+TKg=="
+    },
+    {
+      "name": "Tom Ritter",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1Y6yuZnvSEt+RvV+TybJZg=="
+    },
+    {
+      "name": "Diana Ritz",
+      "gender": "Female",
+      "city": "Orefield",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kqEixPgxYK91x0k5aSyevw=="
+    },
+    {
+      "name": "Ricardo Rivas",
+      "gender": "Male",
+      "city": "Uniondale",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y5QM95n9+uSJ0hQfqL5MUQ=="
+    },
+    {
+      "name": "Annamarie Robertone",
+      "gender": "Female",
+      "city": "Pen Argyl",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vEwik7l425K7PFKnAiyVCQ=="
+    },
+    {
+      "name": "Djafar Rosli",
+      "gender": "Male",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "14Ll9Dd17arq/j96rX3qLQ=="
+    },
+    {
+      "name": "Jenelle Ross",
+      "gender": "Female",
+      "city": "Harleysville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hMtc95CQDclKus44HwU/VQ=="
+    },
+    {
+      "name": "Anne Russell",
+      "gender": "Female",
+      "city": "Blue Bell",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FJdIbbm0qYcGBsyKFJ/cvQ=="
+    },
+    {
+      "name": "Joseph Ruth",
+      "gender": "Male",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/4/2024",
+      "usta_id": "ABCw2ncgMtwjXjZJuH9a8w=="
+    },
+    {
+      "name": "Joseph Ruth",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "DAHPJ5E6yRDLwuiDTWVrMQ=="
+    },
+    {
+      "name": "Michael Sacks",
+      "gender": "Male",
+      "city": "Whitehall",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RHt5TC8369ponvXtzDi3bw=="
+    },
+    {
+      "name": "Mihir Sadadia",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/22/2023",
+      "usta_id": "4/Htrwrc3dK1oLgY70ZVng=="
+    },
+    {
+      "name": "Paramvir Saini",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "D5eQ87WUF17G+LOkTlR+/Q=="
+    },
+    {
+      "name": "Chiharu Sako",
+      "gender": "Female",
+      "city": "Wynnewood",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qDPdkri75ejUXJ+mjc/YjA=="
+    },
+    {
+      "name": "Danielle Salsbury",
+      "gender": "Female",
+      "city": "WEST CHESTER",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sx4iuXMRay620P/y1l3x/g=="
+    },
+    {
+      "name": "Martin Sanchez",
+      "gender": "Male",
+      "city": "Bowling Green",
+      "state": "KY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AvN0rxkT0WTsSfpWc8ZIDg=="
+    },
+    {
+      "name": "Martin Sanchez",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "a1KpZ2rgkYTRLp9rd4cXJw=="
+    },
+    {
+      "name": "Paul Saylor",
+      "gender": "Male",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZT27ZWHUBF0GtNgyJoCZFQ=="
+    },
+    {
+      "name": "Doreen Schaffer",
+      "gender": "Female",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/17/2025",
+      "usta_id": "kMIh1qMZ5Bsd1AcJ/hMPbw=="
+    },
+    {
+      "name": "Andreas Scherffel",
+      "gender": "Male",
+      "city": "Souderton",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O1iDbXRNY3Pz8d9DRx/C9g=="
+    },
+    {
+      "name": "Susan Scherffel",
+      "gender": "Female",
+      "city": "Souderton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tP2KtcXAN4ay2v5776ZnQA=="
+    },
+    {
+      "name": "Stevianne Schleicher",
+      "gender": "Female",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "RUMglZ0r5rTDfVRMAN0s2Q=="
+    },
+    {
+      "name": "Richard Schmieg",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Gj/llhAqbDCUJyOKgxL9lQ=="
+    },
+    {
+      "name": "Clare Schoepp",
+      "gender": "Female",
+      "city": "Ardmore",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5vMMJ8ppiLeevfmLSeDPNg=="
+    },
+    {
+      "name": "Justin Schwartz",
+      "gender": "Male",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/13/2025",
+      "usta_id": "st+fBi4jxxir52a1w9/tbA=="
+    },
+    {
+      "name": "Andrea Schwarz",
+      "gender": "Female",
+      "city": "ALLENTOWN",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "/rERtCXTfvd1Z7u7r9ft5g=="
+    },
+    {
+      "name": "Laurie Schwepfinger",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XoZiAt6/m/36kwtoMLnyHA=="
+    },
+    {
+      "name": "Kelly Scott",
+      "gender": "Female",
+      "city": "KUNKLETOWN",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RnrAChSDjOf6hqCF1Of93g=="
+    },
+    {
+      "name": "Susan Scott",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Czipj84lYACwX2M8/hJ31A=="
+    },
+    {
+      "name": "Matt Scriff",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uSWH/D4FJIFdCGD5L17Q1g=="
+    },
+    {
+      "name": "Suzanne Searfoss",
+      "gender": "Female",
+      "city": "Northampton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "2531fW6iJ+c5+uqPnainfg=="
+    },
+    {
+      "name": "Candy Secor",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "oznhrv51wiMrI5fU9rnfdA=="
+    },
+    {
+      "name": "Despina Secor",
+      "gender": "Female",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qGnaIaL2MQSNE8VrCsEtSA=="
+    },
+    {
+      "name": "Steve Seiler",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "cgr2JojhaqxSzWptP8Rh9w=="
+    },
+    {
+      "name": "Rhonda Shaffer",
+      "gender": "Female",
+      "city": "Birdsboro",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ieGPJSbuBo2opJTbl+coqg=="
+    },
+    {
+      "name": "Shashin Shah",
+      "gender": "Male",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iT+DUYbPNMpiTpxeYvADKA=="
+    },
+    {
+      "name": "Linda Sheftel",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "e3TJkkQwRCW7RM5k/hc79Q=="
+    },
+    {
+      "name": "Cynthia Sherry",
+      "gender": "Female",
+      "city": "Mahanoy City",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "Rz//O0+a2OOyvdOD9pKHPw=="
+    },
+    {
+      "name": "Terri Shoultes",
+      "gender": "Female",
+      "city": "Sellersville",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cOH1CVMVoLlmO5Dg6K9J1Q=="
+    },
+    {
+      "name": "Brett Siegfried",
+      "gender": "Male",
+      "city": "Telford",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zcfWJ/LJM4yPiSYGmMTrBA=="
+    },
+    {
+      "name": "Elena Sifford",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/11/2024",
+      "usta_id": "HqjKycMXJqUUYR6xwjJ/fw=="
+    },
+    {
+      "name": "J Sifford",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "99LDxYgKoiwEN2KJk+9TOw=="
+    },
+    {
+      "name": "Alicia Sikes",
+      "gender": "Female",
+      "city": "Quakertown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i65k+rAdXACTq0w33J9s8w=="
+    },
+    {
+      "name": "Nancy Silverman",
+      "gender": "Female",
+      "city": "Wynnewood",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WSzohF16fEJpeeYt1j0dZQ=="
+    },
+    {
+      "name": "Satinder Singh",
+      "gender": "Male",
+      "city": "Stewartsville",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4yYWPrO/MJV+i6nYqstGGQ=="
+    },
+    {
+      "name": "Sunny Singh",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/16/2025",
+      "usta_id": "YL2HppFLHg+AKN8msFkgXA=="
+    },
+    {
+      "name": "Mona Siwiec",
+      "gender": "Female",
+      "city": "Saylorsburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gPUHCLMPYaDKehC78u5mLQ=="
+    },
+    {
+      "name": "Isidoros Skarlis",
+      "gender": "Male",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QHcelOfFJcbzFnfYa9mlaA=="
+    },
+    {
+      "name": "Bob Skibbens",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/26/2024",
+      "usta_id": "524hYhaXGlV8gs/VdtTEWg=="
+    },
+    {
+      "name": "Ben Skinker",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "fkVvXusLeu0IqkUWr4vSWQ=="
+    },
+    {
+      "name": "Annette Smith",
+      "gender": "Female",
+      "city": "Washington",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BWtdQlPXrqgjHuIHmC6L0w=="
+    },
+    {
+      "name": "Bill Smith",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "3jIvwdI8fz4ghOAfm2GmMA=="
+    },
+    {
+      "name": "Donny Smith",
+      "gender": "Male",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "462v13foBe/r1fjNdVP3nw=="
+    },
+    {
+      "name": "Jared Smith",
+      "gender": "Male",
+      "city": "TAMAQUA",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Uylj4K1LQKVGhtI4z5V+g=="
+    },
+    {
+      "name": "Mark Smith",
+      "gender": "Male",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SxEkwKcJGgJ0Gw4r/KKxog=="
+    },
+    {
+      "name": "Sheryl Smith",
+      "gender": "Female",
+      "city": "Audubon",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C9F6+BZut8B3KNv5XTSgMg=="
+    },
+    {
+      "name": "Steven Smith",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2tGPemgju8x0B4VVmquU+A=="
+    },
+    {
+      "name": "Amiee Snyder",
+      "gender": "Female",
+      "city": "PITTSTON",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0HY1VuOEYm22Lv30ugbXDg=="
+    },
+    {
+      "name": "Laura Sommers",
+      "gender": "Female",
+      "city": "BATH",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7Z8OEz1e1EKu6/y5wab9qw=="
+    },
+    {
+      "name": "Laurie Sparango",
+      "gender": "Female",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "ezKvMjZ8jGt1kIZe/lg54Q=="
+    },
+    {
+      "name": "Bob Springer",
+      "gender": "Male",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "amiDB7JFffCY7bzpOIwzPA=="
+    },
+    {
+      "name": "Ina Springer",
+      "gender": "Female",
+      "city": "CENTER VALLEY",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TmmabJ5OxdLsl8i25cPGvw=="
+    },
+    {
+      "name": "Susan Stefanick",
+      "gender": "Female",
+      "city": "Freeland",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lj4/Cd1CT7MXNZi+nin93g=="
+    },
+    {
+      "name": "Joe Stevenson",
+      "gender": "Male",
+      "city": "Coopersburg",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8o6muP/j2G7V59VrDcP+mA=="
+    },
+    {
+      "name": "Lori Strohl",
+      "gender": "Female",
+      "city": "Palmerton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "AjwrTxnKsQh1PiTc+w0fbw=="
+    },
+    {
+      "name": "Shreyas Sudarshan",
+      "gender": "Male",
+      "city": "KIRKLAND",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/29/2025",
+      "usta_id": "huSaFM1vqv0owUi6FSRMpA=="
+    },
+    {
+      "name": "Rosemary Sudol",
+      "gender": "Female",
+      "city": "Annandale",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iVfQFrhraFwaodlvNf+a9w=="
+    },
+    {
+      "name": "Ann Summa",
+      "gender": "Female",
+      "city": "East Stroudsburg",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "POubH2j3DWf2jJcJIbTbfg=="
+    },
+    {
+      "name": "Sue Summers",
+      "gender": "Female",
+      "city": "Morgantown",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UNv1idYykkknAtn0YqDgzA=="
+    },
+    {
+      "name": "Timothy Surowiecki",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/22/2024",
+      "usta_id": "72YuGiHCDgdCWBMyoWppwg=="
+    },
+    {
+      "name": "Rachel Sverchek",
+      "gender": "Female",
+      "city": "Lehighton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8WisIN0gRCKPIq/LCvKyKQ=="
+    },
+    {
+      "name": "Jason Swails",
+      "gender": "Male",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/6/2024",
+      "usta_id": "WfpwEA5Xp8sFg5Q/7Vmbig=="
+    },
+    {
+      "name": "Kierthi Swaminathan",
+      "gender": "Male",
+      "city": "Emmaus",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "XzmMTYn+K+VuvtUIt2wmGg=="
+    },
+    {
+      "name": "Maria Swenson",
+      "gender": "Female",
+      "city": "East Stroudsburg",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z42WFiA4DjLzWeKLsewejA=="
+    },
+    {
+      "name": "Lilla Szilvasi",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/1/2024",
+      "usta_id": "3zcMQs+SldgjywcQeKmvUA=="
+    },
+    {
+      "name": "Laszlo Szollas",
+      "gender": "Male",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m5l1Lqc+A/gJpokBg69e1A=="
+    },
+    {
+      "name": "Daniel Taboada",
+      "gender": "Male",
+      "city": "FORT WASHINGTON",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/VEt2AG+nnsx9olVPZMl2g=="
+    },
+    {
+      "name": "Gina Talarico",
+      "gender": "Female",
+      "city": "Whitehall",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K+k6gRorvdx1f2yd0VfMMw=="
+    },
+    {
+      "name": "Lisa Tan",
+      "gender": "Female",
+      "city": "Orefield",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t9gETsc9PILTejmzPuknGg=="
+    },
+    {
+      "name": "Elysse Teichman",
+      "gender": "Female",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I7cOtQbenCycrXqOwLMLAg=="
+    },
+    {
+      "name": "Kensler Telfort",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "547ad6rRiT+k7xtdHBMsPw=="
+    },
+    {
+      "name": "Tina Test",
+      "gender": "Female",
+      "city": "Fort Washington",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "brWYhWS54NZd+VJJKXtVdA=="
+    },
+    {
+      "name": "Anand Thakrar",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hkVyW3I5dmyCBNTXNHSI/A=="
+    },
+    {
+      "name": "Susan Dixon Thompson",
+      "gender": "Female",
+      "city": "Burlington",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sYLQpjHnVHQvk6VmB0V9vA=="
+    },
+    {
+      "name": "Naomi Thorpe",
+      "gender": "Female",
+      "city": "Orefield",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PbE4yBsRMPFvx48WJZXSZA=="
+    },
+    {
+      "name": "Sheila Tice",
+      "gender": "Female",
+      "city": "Sciota",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hvAShJlgP9pO1JjCEisV+g=="
+    },
+    {
+      "name": "Lisa Tiger",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/10/2025",
+      "usta_id": "Sc5EM/SYGZajKK2vvvuKzQ=="
+    },
+    {
+      "name": "Brian Tims",
+      "gender": "Male",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qix64j9hT75rkQtRy2A8mw=="
+    },
+    {
+      "name": "Lucy Tims",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZAjD/hXi+RNGK/iHTvD8Bg=="
+    },
+    {
+      "name": "Jason Tolentino",
+      "gender": "Male",
+      "city": "Stewartsville",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k07VLgnjgbFOlrFta0Jffw=="
+    },
+    {
+      "name": "joseph tomaro",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Se3D23+QgS/2mSyUTJ/vuA=="
+    },
+    {
+      "name": "Michelle Tomlinson",
+      "gender": "Female",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0fwxpcx1bbqQn9Q/wgSZTQ=="
+    },
+    {
+      "name": "Troy Tomlinson",
+      "gender": "Male",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UoKJtIrahouFq1cuyb/5xg=="
+    },
+    {
+      "name": "William Towne",
+      "gender": "Male",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SQnhi3NcMhdsLJjG0VhlXQ=="
+    },
+    {
+      "name": "Ann Tracey",
+      "gender": "Female",
+      "city": "Yardley",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RvwiDIZZ5Dnz7uAVoYVOGA=="
+    },
+    {
+      "name": "Edmund Trinidad",
+      "gender": "Male",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ai9kv2u2W6DGC5e+WwzYKQ=="
+    },
+    {
+      "name": "Antonia Tripp",
+      "gender": "Female",
+      "city": "Lansdale",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1eLmN+XphBVXWvyjAG8gng=="
+    },
+    {
+      "name": "Cameron Tuck",
+      "gender": "Male",
+      "city": "Exeter",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t/OA3Zr4T2YkG+GCPpR6qw=="
+    },
+    {
+      "name": "Kim Ulrey",
+      "gender": "Female",
+      "city": "Riegelsville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "czVO3q7Npv4ATs+gC4xyXg=="
+    },
+    {
+      "name": "Karen Unglaub",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zgKQikHQBP3irPyfQURacQ=="
+    },
+    {
+      "name": "Ingrid Unternahrer",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rKoDkygdlJ6eV17qdjmgqg=="
+    },
+    {
+      "name": "Gail Urland",
+      "gender": "Female",
+      "city": "Saylorsburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Crwr4Urz89NMPuFlU8MEYA=="
+    },
+    {
+      "name": "Annette Vail",
+      "gender": "Female",
+      "city": "Reading",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+jK+CR39Xcctpw5IBfcneQ=="
+    },
+    {
+      "name": "Eric van Hoven",
+      "gender": "Male",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fPsvTAOio+cboAS0xHaC2A=="
+    },
+    {
+      "name": "Barbara Vanbuskirk",
+      "gender": "Female",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Kt9Gh/a6Z4vUQIknI3C6dg=="
+    },
+    {
+      "name": "Alexi Vereschaga",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "VUBE20wt54JUmEsFx8HoBg=="
+    },
+    {
+      "name": "Aman Verma",
+      "gender": "Male",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/27/2025",
+      "usta_id": "4yYWPrO/MJW95GkHijC7vQ=="
+    },
+    {
+      "name": "Albert Villanueva",
+      "gender": "Male",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/ZXiKnFk0LPU2UPidsoiJg=="
+    },
+    {
+      "name": "Eugene Viscione",
+      "gender": "Male",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/26/2025",
+      "usta_id": "4Y9OnPXw+euQlgebHmIV1w=="
+    },
+    {
+      "name": "Jesse Vo",
+      "gender": "Male",
+      "city": "EASTON",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l/88tYAKMjV+v3QV+CRy+Q=="
+    },
+    {
+      "name": "Janice Vresics",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/25/2025",
+      "usta_id": "MP1BrfuLqF9sOAxWSyEayw=="
+    },
+    {
+      "name": "Debra Wagner",
+      "gender": "Female",
+      "city": "Emmaus",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "12AkjIKTe9e8SLhjKkcp0g=="
+    },
+    {
+      "name": "Joanne Wagner",
+      "gender": "Female",
+      "city": "Tatamy",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CeIX+xD3zH+HV93fMNR2rg=="
+    },
+    {
+      "name": "Christine Walker",
+      "gender": "Female",
+      "city": "Phoenixville",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ypeSmHfui9XB6VsiyFCkZg=="
+    },
+    {
+      "name": "Marissa Walker",
+      "gender": "Female",
+      "city": "BERWYN",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l08B8ckS3E+pO8dHWL52Gg=="
+    },
+    {
+      "name": "Jack Walls",
+      "gender": "Male",
+      "city": "Chalfont",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "wE42G3gGSA8ZnYLqnjSxyg=="
+    },
+    {
+      "name": "Evelyn Wang",
+      "gender": "Female",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "vRLdZQbDdkhdlvYX7AscXQ=="
+    },
+    {
+      "name": "Jeff Ware",
+      "gender": "Male",
+      "city": "Haverford",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lUCW9N921Mpb5Xz5yF6p6g=="
+    },
+    {
+      "name": "Anna Wasiuk",
+      "gender": "Female",
+      "city": "Easton",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "04+FwKqzO7xv0Oe6Z0tgEA=="
+    },
+    {
+      "name": "Yukiko Watanabe",
+      "gender": "Female",
+      "city": "Breinigsville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YmrM4K8crM/hzGJIs6gOrg=="
+    },
+    {
+      "name": "Ben Waters",
+      "gender": "Male",
+      "city": "Quakertown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cw4oZdoZHarIzVGqezSHiQ=="
+    },
+    {
+      "name": "Harindra Weerakkody",
+      "gender": "Male",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TTtffjKAeWDFsw/Ze/EZLA=="
+    },
+    {
+      "name": "James Werder",
+      "gender": "Male",
+      "city": "POCONO PINES",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1V6S9WU43i+XDXmaR70TLg=="
+    },
+    {
+      "name": "Patricia Werder",
+      "gender": "Female",
+      "city": "Pocono Pines",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g+liPXsLYwCyOpxbHP56Wg=="
+    },
+    {
+      "name": "Nancy Werteen",
+      "gender": "Female",
+      "city": "Orefield",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ps1W7CC6d0jYbrcMOu0W9Q=="
+    },
+    {
+      "name": "Mary Westhuis",
+      "gender": "Female",
+      "city": "East Stroudsburg",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8yDya3nBTgxqpEr3XUqKBA=="
+    },
+    {
+      "name": "Melissa Wetherell",
+      "gender": "Female",
+      "city": "Nazareth",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ki6RmDOycsC5qDbdOrghPQ=="
+    },
+    {
+      "name": "Aileen Widdoss",
+      "gender": "Female",
+      "city": "Zionsville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "X1CvKVBGAy2y0TyQKmf5zA=="
+    },
+    {
+      "name": "Dawn Williams",
+      "gender": "Female",
+      "city": "Mohnton",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N1wmiLGqvw+84blL1GvRXg=="
+    },
+    {
+      "name": "John Willis",
+      "gender": "Male",
+      "city": "East Stroudsburg",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "tO8hfwP3HWUV6UhhDS8UIQ=="
+    },
+    {
+      "name": "Wendy Witt",
+      "gender": "Female",
+      "city": "North Wales",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GrFAFSHKM2MSwEx4J6RseQ=="
+    },
+    {
+      "name": "Beth Witte",
+      "gender": "Female",
+      "city": "Hardwick",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ul5y55wr0xqaW9E3oJw/eQ=="
+    },
+    {
+      "name": "Jacob Wong",
+      "gender": "Male",
+      "city": "LEHIGHTON",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lGq60ymwYl/feGJFB1V5GA=="
+    },
+    {
+      "name": "Tony Wong",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0wfea0c7txGNJeRm2qwlog=="
+    },
+    {
+      "name": "Janet Wood",
+      "gender": "Female",
+      "city": "Orefield",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RHoTRS7QrZoj4I7pmQbKVA=="
+    },
+    {
+      "name": "Shannon Woods",
+      "gender": "Male",
+      "city": "COLUMBIA",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rkfSJM0qCvSv83lRwxSxLQ=="
+    },
+    {
+      "name": "Elizabeth Woolley",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/16/2025",
+      "usta_id": "A6MIzbd/Ol4I2T82Qn+P1Q=="
+    },
+    {
+      "name": "Wendy Worth",
+      "gender": "Female",
+      "city": "Clinton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NWu1CazJRmUqrmT+fLRdjQ=="
+    },
+    {
+      "name": "Nicole Wright",
+      "gender": "Female",
+      "city": "Plymouth Meeting",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Dqq8dOVGiImXpFG9viBmBA=="
+    },
+    {
+      "name": "Ramos Wu",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jMto5+B8G+Cbtd7wc8gqww=="
+    },
+    {
+      "name": "Dicun Yang",
+      "gender": "Female",
+      "city": "Macungie",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v2aachCoHmKaw1x4VkrlBg=="
+    },
+    {
+      "name": "Cecilia Yost",
+      "gender": "Female",
+      "city": "Stroudsburg",
+      "state": "PA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "XqkFK7/60HcuyVc5CKkAlA=="
+    },
+    {
+      "name": "Candace Young",
+      "gender": "Female",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OvBK5K8nqS5MMLrDPKe+Mg=="
+    },
+    {
+      "name": "Richard Young",
+      "gender": "Male",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "10/8/2023",
+      "usta_id": "OU+V12zz6rJypxSvvzRw1Q=="
+    },
+    {
+      "name": "Rod Young",
+      "gender": "Male",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1F/YMCv2qoPMBXGTxFY/0g=="
+    },
+    {
+      "name": "Jonathan Yu",
+      "gender": "Male",
+      "city": "Edison",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t1BTne0M5QnZaOHonp3LXg=="
+    },
+    {
+      "name": "Timothy Zaborowski",
+      "gender": "Male",
+      "city": "Perkiomenville",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "CAPMiuvCI59RuoMZKQE9yA=="
+    },
+    {
+      "name": "Sandy Zapf",
+      "gender": "Female",
+      "city": "Quakertown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6qUX2dlgPlymNSHxaO1jYQ=="
+    },
+    {
+      "name": "Matt Zaun",
+      "gender": "Male",
+      "city": "Allentown",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jb7rBv53qYB7nE1lXelqaA=="
+    },
+    {
+      "name": "Anna Zawierucha",
+      "gender": "Female",
+      "city": "Bethlehem",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E/APa3W1GatEFMNpDF+saQ=="
+    },
+    {
+      "name": "Lisa Zieske",
+      "gender": "Female",
+      "city": "Norristown",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YNSWeqLH1+kN2mMublBzuA=="
+    },
+    {
+      "name": "Andres Zirlinger",
+      "gender": "Male",
+      "city": "Center Valley",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8oL+BSZuwemkjzEygTNkFg=="
+    },
+    {
+      "name": "TERESE ZULKOSKI",
+      "gender": "Female",
+      "city": "Mountain Top",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WbF0BjpxvLLWJNJOJgQaDQ=="
+    }
+  ]
+}

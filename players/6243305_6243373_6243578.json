@@ -1,0 +1,3377 @@
+{
+  "sectionId": "6243305",
+  "districtId": "6243373",
+  "areaId": "6243578",
+  "players": [
+    {
+      "name": "Bridget Allen",
+      "gender": "Female",
+      "city": "Snoqualmie",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QqFWT/KhqZEcWkGXPp6nLg=="
+    },
+    {
+      "name": "Nichole Anglin",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fjEH9Ad9dbmqiDrxFIyEQw=="
+    },
+    {
+      "name": "Elnaz Ansari",
+      "gender": "Female",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XeyvBqeJOAHhGo66pxZIkg=="
+    },
+    {
+      "name": "Danny Anslinger",
+      "gender": "Male",
+      "city": "The Dalles",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9G6icb9ONDuSDy/YHc453Q=="
+    },
+    {
+      "name": "Michelle Anslinger",
+      "gender": "Female",
+      "city": "The Dalles",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QaAODIXF9n2xDh99zKB0qw=="
+    },
+    {
+      "name": "Gina Ariosa",
+      "gender": "Female",
+      "city": "PORTLAND",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/WxCmfPnB3LzvU947j9n4g=="
+    },
+    {
+      "name": "Megan Arriola",
+      "gender": "Female",
+      "city": "Port Orchard",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "s6AVFxCbXGUz3TTxD0hn0g=="
+    },
+    {
+      "name": "Leslie Artman",
+      "gender": "Female",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CtmjgQwfsYjS0ZFd/Odzkw=="
+    },
+    {
+      "name": "Rodolfo Baba",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Fzm0+Tq9JH2ARhU81eqjQ=="
+    },
+    {
+      "name": "Bryson Bachman",
+      "gender": "Male",
+      "city": "Mercer Island",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5mpEKoXh+JDYyp5Nmm2ZQA=="
+    },
+    {
+      "name": "Michelle Baldwin",
+      "gender": "Female",
+      "city": "Mercer Island",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "rBE8hbWxAbq0RMkSynDNvA=="
+    },
+    {
+      "name": "Lolly Bates",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XcvX7leW0dLIb99xP8kBmA=="
+    },
+    {
+      "name": "Ramji Beera",
+      "gender": "Male",
+      "city": "North Bend",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j6uUpTjfsK3bqCzEtocupQ=="
+    },
+    {
+      "name": "MAIMAI BENSON",
+      "gender": "Female",
+      "city": "University Place",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "udjHSCOU3w4LoURY7IvhGA=="
+    },
+    {
+      "name": "Karen Berky",
+      "gender": "Female",
+      "city": "Bend",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fxnEgNtqgCn8+J054Zokuw=="
+    },
+    {
+      "name": "Sarah Besley",
+      "gender": "Female",
+      "city": "Bellingham",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/9/2024",
+      "usta_id": "muY8X01LJaNeLJUznaO/Tg=="
+    },
+    {
+      "name": "Nancy Bettesworth",
+      "gender": "Female",
+      "city": "Spokane",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "63DGPnfM16OTFPG99WhVyw=="
+    },
+    {
+      "name": "Mark Blaisdell",
+      "gender": "Male",
+      "city": "Auburn",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "62KzM6har95FrFtZma8kLQ=="
+    },
+    {
+      "name": "Angela Boice",
+      "gender": "Female",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "icQ+cHljY3vJd/E2KyDqUg=="
+    },
+    {
+      "name": "Tiffany Bowie",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j4mI/5u+c/CVme3iSF4PnQ=="
+    },
+    {
+      "name": "Kathy Brashear",
+      "gender": "Female",
+      "city": "Boise",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D8n27L+pN2yksyxDgwb9IA=="
+    },
+    {
+      "name": "Andria Bronson",
+      "gender": "Female",
+      "city": "Bellingham",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/j4vjzzWvJBw9I13JmKvUA=="
+    },
+    {
+      "name": "Lyndia Brumback",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DdziSGheeuE1234FYEtnCw=="
+    },
+    {
+      "name": "Nick Bryngelson",
+      "gender": "Male",
+      "city": "Bellingham",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NAlCXuPwe5J6cKk7N0Iotg=="
+    },
+    {
+      "name": "Alex Bucklin",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J33P3JvCwIJ2dqvA58H6FA=="
+    },
+    {
+      "name": "Will Calkin",
+      "gender": "Male",
+      "city": "Marcola",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IlY+v+yk2DziPOa4a2RRZw=="
+    },
+    {
+      "name": "Brian Campbell",
+      "gender": "Male",
+      "city": "Kenmore",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "keDReJKWdO/NRPP+p88kPg=="
+    },
+    {
+      "name": "Jillayna Campos",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W964S95U1sdtSGd4SLkj5g=="
+    },
+    {
+      "name": "Trish Carder",
+      "gender": "Female",
+      "city": "Vancouver",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WKVTv1x3w9c6BKVJirlBVA=="
+    },
+    {
+      "name": "John Casale",
+      "gender": "Male",
+      "city": "GIG HARBOR",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q2GEFfuSDStxwJ1A9f493Q=="
+    },
+    {
+      "name": "Chris Casazza",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4RxkNyX19ifFcl6QqHc9ag=="
+    },
+    {
+      "name": "Ellie Cash",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "/gCBG8emaKNVEgdSNL+38A=="
+    },
+    {
+      "name": "Zachary Chai",
+      "gender": "Male",
+      "city": "Bellingham",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/22/2025",
+      "usta_id": "V4skQYvqzoWIx7Nl6n++lA=="
+    },
+    {
+      "name": "Diana Chan",
+      "gender": "Female",
+      "city": "Federal Way",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Uzx0qG9i+c7STOveCJ44AA=="
+    },
+    {
+      "name": "Ashley Chang",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "5.5",
+      "rating_type": "S",
+      "rating_date": "10/1/2024",
+      "usta_id": "V+jg0a6Zxjs6hZsETZ0efA=="
+    },
+    {
+      "name": "Christine Charny",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kLaSU9+iRYJFoRaQcC00Bg=="
+    },
+    {
+      "name": "Belle Chen",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XFyLvouX1dNtWKfSQz7P7g=="
+    },
+    {
+      "name": "Benjamin Chen",
+      "gender": "Male",
+      "city": "Lynnwood",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "hV5NpdIf+zux2/rDHQYKEg=="
+    },
+    {
+      "name": "Denise Chen",
+      "gender": "Female",
+      "city": "Mercer Island",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ihIanFWW3BlyWYkLhbszaQ=="
+    },
+    {
+      "name": "Teanen Chen",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "482a5dEf3ggpBSccgFmkHw=="
+    },
+    {
+      "name": "David Chinn",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pAlRsFfjVgTZvyoKpY/mNg=="
+    },
+    {
+      "name": "Francis Choe",
+      "gender": "Male",
+      "city": "Redmond",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QVPkW5qJDd+JgBrItFSUBQ=="
+    },
+    {
+      "name": "Michalis Chrysanthou",
+      "gender": "Male",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/21/2025",
+      "usta_id": "EcvahhiD5K55B9DWRdhynQ=="
+    },
+    {
+      "name": "Erwin Chung",
+      "gender": "Male",
+      "city": "Newcastle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/15/2024",
+      "usta_id": "4S+r9dJgeOSAZZ1pCPigNA=="
+    },
+    {
+      "name": "Dean Ciano",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "95xOC2o4VFaQolVmcDNEeQ=="
+    },
+    {
+      "name": "Lori Clithero",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XNZD87CZPm2uIqnW94E3hA=="
+    },
+    {
+      "name": "Kris Cohen",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iKR3vcf4ipbjn+9HuGIk5Q=="
+    },
+    {
+      "name": "Derek Coley",
+      "gender": "Male",
+      "city": "Woodinville",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/19/2024",
+      "usta_id": "c9q4RhojF0cSc3W7PAKHCg=="
+    },
+    {
+      "name": "Chris Collins",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MKeM8asA7dXUeM2suruyNQ=="
+    },
+    {
+      "name": "Jack Crossen",
+      "gender": "Male",
+      "city": "Vancouver",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oe4UB5McfF7h0aQl+oUBzQ=="
+    },
+    {
+      "name": "Tri Dang",
+      "gender": "Male",
+      "city": "Mukilteo",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2fLYW6PVJSP//0DPKaZy7Q=="
+    },
+    {
+      "name": "Andrew Dannenberger",
+      "gender": "Male",
+      "city": "REDMOND",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/8/2024",
+      "usta_id": "DxL9XtYkRMTCaPfHD3ehaA=="
+    },
+    {
+      "name": "Jody Davey",
+      "gender": "Female",
+      "city": "RICHLAND",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ahBeW70pRXFNkdHLcYDiAg=="
+    },
+    {
+      "name": "Denise Dawkins",
+      "gender": "Female",
+      "city": "Ridgefield",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rm6CxvlRQ57LJjkRtSQlgQ=="
+    },
+    {
+      "name": "Anirudha Desai",
+      "gender": "Male",
+      "city": "Redmond",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/22/2025",
+      "usta_id": "wWKg8wYuRcGiADpQ3qM/jQ=="
+    },
+    {
+      "name": "Sally Devine Wright",
+      "gender": "Female",
+      "city": "Puyallup",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WvAQo89N6DP6cwwZwsGXFg=="
+    },
+    {
+      "name": "Morgan Diaz",
+      "gender": "Female",
+      "city": "McCleary",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "8/Di7UU+gmitW+EEeMsGGw=="
+    },
+    {
+      "name": "Zheyu Ding",
+      "gender": "Male",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/22/2025",
+      "usta_id": "yDlMWRI5Wy7bg6YMxyDUQg=="
+    },
+    {
+      "name": "Michelle Dombek",
+      "gender": "Female",
+      "city": "Sherwood",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "cSGv8Yk0ZFQDo+uCqLmpog=="
+    },
+    {
+      "name": "Grant Dotulong",
+      "gender": "Male",
+      "city": "Shoreline",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/24/2025",
+      "usta_id": "MP1BrfuLqF9jg8Wtz12zUQ=="
+    },
+    {
+      "name": "Noriko Dozono",
+      "gender": "Female",
+      "city": "Milwaukie",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s3fvSKgmBfpPrLgWIIouwA=="
+    },
+    {
+      "name": "Matthew Eller",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/22/2024",
+      "usta_id": "hY8CxpBKwZmnNoU5f1BUog=="
+    },
+    {
+      "name": "Michael Eng",
+      "gender": "Male",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SbND+TWqgKZXclD8FA3lsw=="
+    },
+    {
+      "name": "Myra Epp",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MhQpeiiJ8Hii9b+aadBctg=="
+    },
+    {
+      "name": "Allison Erickson",
+      "gender": "Female",
+      "city": "Palmer",
+      "state": "AK",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IMn9n8q6ZzVnwd9sh8WHsQ=="
+    },
+    {
+      "name": "Alma Estioco",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LV7VrJ/sdJZMxMMe5x+Deg=="
+    },
+    {
+      "name": "Marie Fahey",
+      "gender": "Female",
+      "city": "Mukilteo",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ivwy6ePyAgh/YcwHEZXIzQ=="
+    },
+    {
+      "name": "Ben Falk",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wzUUgwb+4R/CisoW9h4Bhg=="
+    },
+    {
+      "name": "Hana Farr",
+      "gender": "Female",
+      "city": "Port Ludlow",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K0vpEGhP0TxIGyFXu9VZ5Q=="
+    },
+    {
+      "name": "Scott Fitzsimmons",
+      "gender": "Male",
+      "city": "Lake Tapps",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BEWn4NrP1y4jpBjzbomwDQ=="
+    },
+    {
+      "name": "Ingrid Foster",
+      "gender": "Female",
+      "city": "Woodinville",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lJokTmF8/WOJWwFSiE2XUw=="
+    },
+    {
+      "name": "Gary Fowler",
+      "gender": "Male",
+      "city": "BELLEVUE",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "slOQr7MekhznAwL6PDUAuw=="
+    },
+    {
+      "name": "Robert Fraser",
+      "gender": "Male",
+      "city": "Salem",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7SOYtK4ceh2fnf/Xb46vhQ=="
+    },
+    {
+      "name": "Carolyn Frederick",
+      "gender": "Female",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DhTQUSJJQlqSAwgG6PotFA=="
+    },
+    {
+      "name": "Robin Freedman",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qcW38OaSERxaUoGGechkqA=="
+    },
+    {
+      "name": "Kyle Freres",
+      "gender": "Male",
+      "city": "Aumsville",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TZCeIbFGipsYz+i+fYe1cQ=="
+    },
+    {
+      "name": "Rand Freres",
+      "gender": "Male",
+      "city": "Stayton",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2025",
+      "usta_id": "zXK+yiPn5YE3QEStdx74lA=="
+    },
+    {
+      "name": "Tyler Freres",
+      "gender": "Male",
+      "city": "Stayton",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yQTwY5HXPxO8y7lQb1C39A=="
+    },
+    {
+      "name": "Diane Froelich",
+      "gender": "Female",
+      "city": "Lake Oswego",
+      "state": "OR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6IV2qdrrCa1qVfmJ5vaXnw=="
+    },
+    {
+      "name": "Minori Fukushima",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/25/2025",
+      "usta_id": "Gt7NI4C/M1SbtbK9dIMohw=="
+    },
+    {
+      "name": "John Fuller",
+      "gender": "Male",
+      "city": "Marysville",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tHnTXhoRIj3ytHFGz35b9g=="
+    },
+    {
+      "name": "Maggie Gallagher",
+      "gender": "Female",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k3vlHdV0E4Fr2nFxtlsIvQ=="
+    },
+    {
+      "name": "Lina Gao",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "4rPrfboITj2kNZvTlU/UeQ=="
+    },
+    {
+      "name": "Gary Garside",
+      "gender": "Male",
+      "city": "Mukilteo",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ISNPhkPUrYEAMpmWRyxkqg=="
+    },
+    {
+      "name": "Cinderella Gatcheco",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GgGmuv8joOrJSZXQzfmuww=="
+    },
+    {
+      "name": "Julia Gidovlenko",
+      "gender": "Female",
+      "city": "Port Orchard",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mW0DGJN/0/ICNokD21hT+Q=="
+    },
+    {
+      "name": "Jessica Gigot",
+      "gender": "Female",
+      "city": "Bow",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d9UeToKZuMerSKfaO9o2AQ=="
+    },
+    {
+      "name": "Kishan Gnanamani",
+      "gender": "Male",
+      "city": "Bothell",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WThB5jXlYDREdJV6x6e80A=="
+    },
+    {
+      "name": "Eden Goldbloom",
+      "gender": "Female",
+      "city": "Sammamish",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bg/ogIYPGOYvotW2K3Em/w=="
+    },
+    {
+      "name": "Joseph Gonzales",
+      "gender": "Male",
+      "city": "Beaverton",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/31/2025",
+      "usta_id": "TGN85WBawmNFn9QipnxLNg=="
+    },
+    {
+      "name": "Herky Gottfried",
+      "gender": "Male",
+      "city": "Corvallis",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hNcjcD49ss9t14U5Zy780w=="
+    },
+    {
+      "name": "Shikha Gottfried",
+      "gender": "Female",
+      "city": "Corvallis",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/20/2023",
+      "usta_id": "kGrCSj0CFLcAjXLDgswvXQ=="
+    },
+    {
+      "name": "Anna Graves",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uT8Hyxq+Ddnmcr74K/aQvA=="
+    },
+    {
+      "name": "Michael Green",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vMjbYRmNcEeKlacv6cC+3A=="
+    },
+    {
+      "name": "Kristin Gresham",
+      "gender": "Female",
+      "city": "FERNDALE",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HTtbmlTdREB7eOFblaen8A=="
+    },
+    {
+      "name": "Daniel Grundel",
+      "gender": "Male",
+      "city": "Mill Creek",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/27/2024",
+      "usta_id": "wcuahGsCmk4Vl3Pt1tHLBQ=="
+    },
+    {
+      "name": "Jeffrey Haessler",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "krFHdiuRHN/13yO3F9nm9g=="
+    },
+    {
+      "name": "Gina Hagen",
+      "gender": "Female",
+      "city": "Black Diamond",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vFlRGX4fqNFe2hBWvrrRzQ=="
+    },
+    {
+      "name": "Eric Halvorson",
+      "gender": "Male",
+      "city": "Bend",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v9R+rTr0PKJT6CTUqOLmTQ=="
+    },
+    {
+      "name": "Kim Hardwick",
+      "gender": "Female",
+      "city": "Woodinville",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/9/2024",
+      "usta_id": "uFJriKlaW3sUsc/+0M0zZA=="
+    },
+    {
+      "name": "Joan Harkins",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2tiUrXHpiol8Qk1vRhF4tA=="
+    },
+    {
+      "name": "Ruthee Harlow",
+      "gender": "Female",
+      "city": "Issaquah",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/11/2025",
+      "usta_id": "FkunYOXGLxZ02NBIinIM5w=="
+    },
+    {
+      "name": "Clayton Havens",
+      "gender": "Male",
+      "city": "Corvallis",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pkg11f0yDnrNYy+8UbG+yw=="
+    },
+    {
+      "name": "Olivia Headford",
+      "gender": "Female",
+      "city": "TACOMA",
+      "state": "WA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3p61QFRVA3CBevJQs8yGGQ=="
+    },
+    {
+      "name": "Tyra Heatherington",
+      "gender": "Female",
+      "city": "Bainbridge Island",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0jD5TONcoE9T9Q0H/ib8Ew=="
+    },
+    {
+      "name": "Oveys Hedayati",
+      "gender": "Male",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/17/2024",
+      "usta_id": "oKZEWnvVc1VDNFop9Ub3wA=="
+    },
+    {
+      "name": "Ursula Heenan",
+      "gender": "Female",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "myMmmAxofV96m2/0yKF1jA=="
+    },
+    {
+      "name": "Denise Henderson",
+      "gender": "Female",
+      "city": "Anchorage",
+      "state": "AK",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "pOZPlCqchJ4Sb4xIPym4Lg=="
+    },
+    {
+      "name": "Cynthia Henie",
+      "gender": "Female",
+      "city": "Chugiak",
+      "state": "AK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L81Inw19vQOL302zR6aOJQ=="
+    },
+    {
+      "name": "Coco Hernandez-Tagoe",
+      "gender": "Female",
+      "city": "Auburn",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s9XdWeOTp686eiNEwqTodA=="
+    },
+    {
+      "name": "Alice Holland",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DZdz29wibZCsMEboVyubgg=="
+    },
+    {
+      "name": "Vichet Hoy",
+      "gender": "Male",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AUzSC2xrymNUgcveULvlpQ=="
+    },
+    {
+      "name": "Mark Hoyt",
+      "gender": "Male",
+      "city": "Salem",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EvW6tVbkKoBb5Vf+ccfbsg=="
+    },
+    {
+      "name": "Grace Hsieh",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KZQE7yFPuulGKGsmiiaz8A=="
+    },
+    {
+      "name": "Lila Hughes",
+      "gender": "Female",
+      "city": "Normandy Park",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/CGrznDrK7uqg39u0Gp24g=="
+    },
+    {
+      "name": "Kelley Hunter",
+      "gender": "Female",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZRAz3CzW5YTevb9BuFBgnA=="
+    },
+    {
+      "name": "Dee Beck Information Architect",
+      "gender": "Female",
+      "city": "Liberty Lake",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/27/2024",
+      "usta_id": "mVD12LmxoJxdrGZabvzx4w=="
+    },
+    {
+      "name": "Sahil Iqbal",
+      "gender": "Male",
+      "city": "Gig Harbor",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/7/2025",
+      "usta_id": "+68YvwRN49ZoznjZphbBMA=="
+    },
+    {
+      "name": "Dirk Jacobs",
+      "gender": "Male",
+      "city": "Forest Grove",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5tMFtBzSvbe0OMjP4hQpPg=="
+    },
+    {
+      "name": "Melissa Jacobs",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cesEqXW00YBDEwp1mmWaNQ=="
+    },
+    {
+      "name": "John Jay",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1IWkQeVfYopwF8ttFPHNTA=="
+    },
+    {
+      "name": "Bo Johnson",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "vfJWKMkO1u7QGS5i+Y/Ing=="
+    },
+    {
+      "name": "Skylar Johnson",
+      "gender": "Male",
+      "city": "Richland",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "hkdET+mFNO2NwQGrBfwLIg=="
+    },
+    {
+      "name": "Alan Jones",
+      "gender": "Male",
+      "city": "Washougal",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L1TsA9XHAAwvHrKW6kRDpA=="
+    },
+    {
+      "name": "Rebecca Jones",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "We4xo+GH8M0xhkZWduQGwA=="
+    },
+    {
+      "name": "Sue Junker",
+      "gender": "Female",
+      "city": "Issaquah",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RzOZknGiTtbzIIEccojbgg=="
+    },
+    {
+      "name": "Dianna Kaady",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DbOL5MpAtVbtJDZ+ncToJQ=="
+    },
+    {
+      "name": "Benjamin Kalman",
+      "gender": "Male",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2024",
+      "usta_id": "VtKO2qdDCCcWyCgAjJwsiQ=="
+    },
+    {
+      "name": "Nancy Kane",
+      "gender": "Female",
+      "city": "West Linn",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "QC42ppcPo6PN/fcXnJ5eSA=="
+    },
+    {
+      "name": "Kevin Kang",
+      "gender": "Male",
+      "city": "SHORELINE",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pt3hApiftJTKMCxu7uFxvw=="
+    },
+    {
+      "name": "Maksim Karazhbei",
+      "gender": "Male",
+      "city": "Richland",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c0Z+xedBqkrAChHokpTskA=="
+    },
+    {
+      "name": "Garret Katayama",
+      "gender": "Male",
+      "city": "Hillsboro",
+      "state": "OR",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "9/13/2023",
+      "usta_id": "vO/dcGf4uPtOoobATVgRCA=="
+    },
+    {
+      "name": "Sarah Kaufman",
+      "gender": "Female",
+      "city": "Vancouver",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WFn8uOAejkbZFmeyc3kx9Q=="
+    },
+    {
+      "name": "Deepak Khullar",
+      "gender": "Male",
+      "city": "Issaquah",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "icB1wkyU+wLoDB7JvQ6WsQ=="
+    },
+    {
+      "name": "Jerry Kim",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YqUBsv/bN6ux7+7YW0EzAQ=="
+    },
+    {
+      "name": "Kyeongrok Kim",
+      "gender": "Male",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AaZMQin6f6q3wmSGH/eHrQ=="
+    },
+    {
+      "name": "Kima Kimura",
+      "gender": "Female",
+      "city": "Anchorage",
+      "state": "AK",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vlFd/gBNp5oIlOBK5E+tng=="
+    },
+    {
+      "name": "Jamie King",
+      "gender": "Female",
+      "city": "BEND",
+      "state": "OR",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gYmWRd5I4DbS6tI1gkdFKQ=="
+    },
+    {
+      "name": "Jadee Kirkham",
+      "gender": "Female",
+      "city": "Kennewick",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hAqJ/xbznmL0NtTA5gjw7Q=="
+    },
+    {
+      "name": "James Kirkham",
+      "gender": "Male",
+      "city": "Kennewick",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "EhZiq0qkNrDz2Be4gloVDQ=="
+    },
+    {
+      "name": "Song Ko",
+      "gender": "Male",
+      "city": "Issaquah",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oZZWU4l1e5AzrwloMHcgnA=="
+    },
+    {
+      "name": "Kristopher Kobin",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/24/2025",
+      "usta_id": "V/nym1Wrj7B8FwoyeiMqwA=="
+    },
+    {
+      "name": "Motoko Kodera",
+      "gender": "Female",
+      "city": "Mercer Island",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "09mG+JhH/KTHWLlO5FXliw=="
+    },
+    {
+      "name": "Jennifer Kohler",
+      "gender": "Female",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3JRBVmCFRxp4SVxpUeFkew=="
+    },
+    {
+      "name": "Claudette Krause",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+R58cIeyAZPxVks8z+DgHA=="
+    },
+    {
+      "name": "Jasmine Kreizenbeck",
+      "gender": "Female",
+      "city": "Redmond",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ikZ3n3HI8wlK1hd4GeOWXA=="
+    },
+    {
+      "name": "Andy Kupp",
+      "gender": "Male",
+      "city": "Bremerton",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "dmlhpGUOyYNSJUERSUkAgQ=="
+    },
+    {
+      "name": "Kristian Kuutok",
+      "gender": "Male",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "YoN/0+B17e7k44RYccSpkA=="
+    },
+    {
+      "name": "Kristen LaBarca",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OK8D7Rb+5gzrCJghFYRBoA=="
+    },
+    {
+      "name": "Megan Lafountaine",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/27/2024",
+      "usta_id": "h+iNGN+62r7LFkOq2fis1g=="
+    },
+    {
+      "name": "Selina Lai",
+      "gender": "Female",
+      "city": "Gig Harbor",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nRVFuplzZ8X6+Ej5Nnrfqg=="
+    },
+    {
+      "name": "Waylon Lam",
+      "gender": "Male",
+      "city": "Bremerton",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oBYBvPZ3Fki5IQeULFL9AA=="
+    },
+    {
+      "name": "Karen Lang",
+      "gender": "Female",
+      "city": "Lynnwood",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CYweZKKw0WqNKNOGpZ75zg=="
+    },
+    {
+      "name": "Tomoko Langworthy",
+      "gender": "Female",
+      "city": "Vancouver",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qz3NSY+gF84NhtKw5lqlfw=="
+    },
+    {
+      "name": "DY Lee",
+      "gender": "Male",
+      "city": "Redmond",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nEdVld0SE1FzgvsawHp5qg=="
+    },
+    {
+      "name": "Jane Lee",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uFxQcpz7T32EEs39LT4ipg=="
+    },
+    {
+      "name": "Jonathan Lee",
+      "gender": "Male",
+      "city": "Bonney Lake",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SD3rz2yMhuXWXXws5+WIHQ=="
+    },
+    {
+      "name": "Suk Lee",
+      "gender": "Male",
+      "city": "Mukilteo",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3gbUR0iyeP/+GMPrhCUTqA=="
+    },
+    {
+      "name": "Wesley Lew",
+      "gender": "Male",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7MSPzPQJUexjsurDtpEe0g=="
+    },
+    {
+      "name": "Christopher Lewis",
+      "gender": "Male",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YerRD4JSQxXqfBnUW0gwFg=="
+    },
+    {
+      "name": "Jing Li",
+      "gender": "Female",
+      "city": "REDMOND",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "R2sKk7lawES4ttlNgz7jNg=="
+    },
+    {
+      "name": "Wenbing Li",
+      "gender": "Male",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/2/2025",
+      "usta_id": "AaZMQin6f6oMeAzJfla6iQ=="
+    },
+    {
+      "name": "William Ligon-Bruno",
+      "gender": "Male",
+      "city": "Arlington",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mVq3i/Up9nA24DtLcCySPA=="
+    },
+    {
+      "name": "Allison Lindsay",
+      "gender": "Female",
+      "city": "Bainbridge Island",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/2/2024",
+      "usta_id": "/hiQCwvmJzCBFsZMyIIIvQ=="
+    },
+    {
+      "name": "Don Little",
+      "gender": "Male",
+      "city": "SUN CITY WEST",
+      "state": "AZ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "vtC8dUhDFAdFEy8YrV1/sA=="
+    },
+    {
+      "name": "Laura Liutkiene",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "8wcJOV5OPxK/L19+nCp7ww=="
+    },
+    {
+      "name": "Courtnay Llacuna",
+      "gender": "Female",
+      "city": "Honolulu",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HZRgpuYMtLpGzF9XXutR9Q=="
+    },
+    {
+      "name": "Jamie Lomax",
+      "gender": "Female",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zzSkYrxx0MrXJjCPM5MnJg=="
+    },
+    {
+      "name": "Marshall Longtin",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F4I07zg7tgivI+e/nKSY5w=="
+    },
+    {
+      "name": "Kay Lorrain",
+      "gender": "Female",
+      "city": "Auburn",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8DaCJI5HAaqJUzFxP1BGhA=="
+    },
+    {
+      "name": "Chris Lowen",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "++Lp+K/7vkNLT7z+ZVTc5A=="
+    },
+    {
+      "name": "Tom Lux",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nwKMMWPiQxxg03G1/35Txg=="
+    },
+    {
+      "name": "Alex Ma",
+      "gender": "Male",
+      "city": "Redmond",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SHd/KQ5h3qChCQqtD1OFGg=="
+    },
+    {
+      "name": "Albert Macrander",
+      "gender": "Male",
+      "city": "Mountlake Terrace",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/27/2025",
+      "usta_id": "suxcVspt3W/Y/3cGju3CaA=="
+    },
+    {
+      "name": "Amit Mahajan",
+      "gender": "Male",
+      "city": "Bothell",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UAtie1XSOUv4mmTIbat+lg=="
+    },
+    {
+      "name": "Keith Main",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3WleGD7wO00Td/uD0B0jdA=="
+    },
+    {
+      "name": "Michael Malin",
+      "gender": "Male",
+      "city": "Beaverton",
+      "state": "OR",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1B2YB6bfeSk="
+    },
+    {
+      "name": "Kenneth Marshall",
+      "gender": "Male",
+      "city": "Albany",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QYTQk1NmBhaLjsOSO7tWGw=="
+    },
+    {
+      "name": "Bradley Martin",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CI/kDo8f6yPStFgjs+dsXg=="
+    },
+    {
+      "name": "Sue Matyas",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XOLMkIfP0LNOojg48tkoKg=="
+    },
+    {
+      "name": "James Maxfields",
+      "gender": "Male",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4IbrSbawTabAV4/uhy0/rQ=="
+    },
+    {
+      "name": "Lorena Mayuga",
+      "gender": "Female",
+      "city": "Kennewick",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "saKIkmlc7CxfGA4v7V5k7A=="
+    },
+    {
+      "name": "Kathleen McAteer",
+      "gender": "Female",
+      "city": "Richland",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H9dAuJXzvDmIB9fIwxDooQ=="
+    },
+    {
+      "name": "Tracy McCarron",
+      "gender": "Female",
+      "city": "Mukilteo",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cCixAweThstfQ6Avr18afg=="
+    },
+    {
+      "name": "Julie McGoldrick",
+      "gender": "Female",
+      "city": "Snohomish",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5vx9ZUEm3BuJeB8CbhobOg=="
+    },
+    {
+      "name": "Lisa Mckenny",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1VsIi7dJzGnoiMp74cQksw=="
+    },
+    {
+      "name": "Chino Mclaughlin",
+      "gender": "Female",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CwG0DKPBnwr++CJwPL2bJQ=="
+    },
+    {
+      "name": "Karen McNairy",
+      "gender": "Female",
+      "city": "Lake Oswego",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "VtYYnownqWhT/sk+HUxQUw=="
+    },
+    {
+      "name": "Karen McPhee",
+      "gender": "Female",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J9FL0rvNbZ1QsYc4gnOqlw=="
+    },
+    {
+      "name": "Mei McRae",
+      "gender": "Female",
+      "city": "Renton",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5Emv7GKfgt+HN3rz+430Zg=="
+    },
+    {
+      "name": "Kristin Meldahl",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2VvTgt8FuyndyZqdbUG7KA=="
+    },
+    {
+      "name": "Viana Messali",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/6/2025",
+      "usta_id": "rbqusM5Hdfj3ygt0D85rjg=="
+    },
+    {
+      "name": "Katrina Miller",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yi64taaEhnGwB4cy9X2IJA=="
+    },
+    {
+      "name": "Megan Miller",
+      "gender": "Female",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xiQ5G8W3a1cQqqOo4TCsfg=="
+    },
+    {
+      "name": "Tammy Miller",
+      "gender": "Female",
+      "city": "Edmonds",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j5uMLk1OaqDDPPS+/R+Hjg=="
+    },
+    {
+      "name": "Craig Mills",
+      "gender": "Male",
+      "city": "Sherwood",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PMGqvy2OnqfBrY3MX/rMxw=="
+    },
+    {
+      "name": "Triin Minton",
+      "gender": "Female",
+      "city": "Anchorage",
+      "state": "AK",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "C0biz8XWNXYNTUSqyYrjjw=="
+    },
+    {
+      "name": "Sergio Mir Arenas",
+      "gender": "Male",
+      "city": "Lake Tapps",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JBFdhlIqX47uVP7sdJT78Q=="
+    },
+    {
+      "name": "Ren Toshié Miura",
+      "gender": "Female",
+      "city": "LAKE OSWEGO",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dptWZALvzzqQvFsPk9bAxA=="
+    },
+    {
+      "name": "Paula Moll",
+      "gender": "Female",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "quVAffnBTVrp7WCvU9R9nA=="
+    },
+    {
+      "name": "Ellen Moore",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xeA504xevpxZBe+RGN3RXA=="
+    },
+    {
+      "name": "Miye Moriguchi",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FSgLAodw2SYm3kqU1wgssQ=="
+    },
+    {
+      "name": "Kristin Morris",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Smwv/N8/LK+VQNcBDn1z5w=="
+    },
+    {
+      "name": "Yan Morrissey",
+      "gender": "Female",
+      "city": "Lake Oswego",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RKW0/mUOBlHJugdbeHAZpg=="
+    },
+    {
+      "name": "Marlys Morton",
+      "gender": "Female",
+      "city": "Anchorage",
+      "state": "AK",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "GW1W+X1lzSCJbQwcQEmSyw=="
+    },
+    {
+      "name": "Stefan Muehleis",
+      "gender": "Male",
+      "city": "Milton",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "hWexb0KpbjTWFkxIzZ1McQ=="
+    },
+    {
+      "name": "Joydeep Mukherjee",
+      "gender": "Male",
+      "city": "Bothell",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "XRKB9HRoeWWY/jbBUYGd7w=="
+    },
+    {
+      "name": "Heidi Murdock",
+      "gender": "Female",
+      "city": "PORT ORCHARD",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BWYQ4xTWh3U3R1yO++YGcg=="
+    },
+    {
+      "name": "Jonathan E Murr",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/3/2024",
+      "usta_id": "S0rPIz8VAN7EtSq1fSwljA=="
+    },
+    {
+      "name": "Vivian Nagai",
+      "gender": "Female",
+      "city": "Kent",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fxYQaD/pGXn36p8RcHG2Eg=="
+    },
+    {
+      "name": "Vimal Natarajan",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xYAk1tssj9ma0R3C2AIPbQ=="
+    },
+    {
+      "name": "John Nee",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tm8jC/e4na7F3xFoVL0k7w=="
+    },
+    {
+      "name": "Julie Neiley",
+      "gender": "Female",
+      "city": "Maple Valley",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XPIXA+ipfYkiPK9mKWf/oQ=="
+    },
+    {
+      "name": "Matt Newton",
+      "gender": "Male",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "xtJYl+Inn4sRlHkfBZ9IzA=="
+    },
+    {
+      "name": "Karen Ng",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lr+6JJ2pqHpmPYiLdM9meA=="
+    },
+    {
+      "name": "Beagan Nguy",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JhPtTUdPnsc9wabkdnyzjQ=="
+    },
+    {
+      "name": "Alan Nguyen",
+      "gender": "Male",
+      "city": "Renton",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/14/2024",
+      "usta_id": "PBnJ7d8y1gjW4YrGP2o+3Q=="
+    },
+    {
+      "name": "Dave Nguyen",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/4/2024",
+      "usta_id": "0LNo/PoxrM/IPG+ugGV8fA=="
+    },
+    {
+      "name": "Kristan Nichols",
+      "gender": "Female",
+      "city": "Puyallup",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jqOFPqbeCFMkLNucEnvn5g=="
+    },
+    {
+      "name": "Seok Nichols",
+      "gender": "Male",
+      "city": "Gig Harbor",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jKJ5/0QlArB/sgXAjt15KQ=="
+    },
+    {
+      "name": "Rachel Nies",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vojb5Mu8e6zkQ5KzUb7yMw=="
+    },
+    {
+      "name": "Wendie Nowacki",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nyV/RBrIjDLs6UWJ7x6NWQ=="
+    },
+    {
+      "name": "Lacey O'Connell",
+      "gender": "Female",
+      "city": "Shoreline",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Bt1WZSR9JQkJoAOIQZUTA=="
+    },
+    {
+      "name": "Shannon Ondeck",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/27/2023",
+      "usta_id": "iPnRmzEtXKbofdPxRHwpYw=="
+    },
+    {
+      "name": "Stephanie Ottaway",
+      "gender": "Female",
+      "city": "Redmond",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "32V55ExgybsalWXpPHHRJg=="
+    },
+    {
+      "name": "Ellen Owen",
+      "gender": "Female",
+      "city": "Sammamish",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KxM1PHeIdqS70R3I8pg4gw=="
+    },
+    {
+      "name": "Sarah Pabst",
+      "gender": "Female",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lXOq/EQOE3hudUnoUEEX6w=="
+    },
+    {
+      "name": "Alexis Packer",
+      "gender": "Female",
+      "city": "Ashland",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NXEgi0lggyx9g6fg0t9AOA=="
+    },
+    {
+      "name": "Ujwal Paidipathi",
+      "gender": "Male",
+      "city": "Sammamish",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/22/2024",
+      "usta_id": "9O3MH7pkxHc/ZJdaYKnTbg=="
+    },
+    {
+      "name": "Neha Parikh",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/8/2024",
+      "usta_id": "8ja7STjq8znxq2v8HMzcKw=="
+    },
+    {
+      "name": "ESTHER PARVIN",
+      "gender": "Female",
+      "city": "Bainbridge Island",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ufBA26V0lgtH8ZcjzfqGtA=="
+    },
+    {
+      "name": "Umang Patel",
+      "gender": "Male",
+      "city": "Hillsboro",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "sVVNGTEMaN+wE1zyFeLjdg=="
+    },
+    {
+      "name": "Jennifer Pearson",
+      "gender": "Female",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/4/2024",
+      "usta_id": "+i2In1wpnTRpYge2Uzaq4w=="
+    },
+    {
+      "name": "Carlos Peredo",
+      "gender": "Male",
+      "city": "Richland",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/7/2025",
+      "usta_id": "1+4dNx86vrySzzBHk8VLog=="
+    },
+    {
+      "name": "Piper Peterson",
+      "gender": "Female",
+      "city": "Greenacres",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n0rS33ZfskgQBDd0S20JWg=="
+    },
+    {
+      "name": "Si Phan",
+      "gender": "Male",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/20/2024",
+      "usta_id": "y+hY5/01N3c3vLn/YtZYXw=="
+    },
+    {
+      "name": "Emilee Plank",
+      "gender": "Female",
+      "city": "PORTLAND",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/aa5dGvbQCdK6rF+8kGwkA=="
+    },
+    {
+      "name": "Cheryl Pleas",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ot+0Doh2OTYS3940mJM01w=="
+    },
+    {
+      "name": "Richelle Potestio",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "SWGN628cSaW3xf6AKbYFew=="
+    },
+    {
+      "name": "Tommy Pouch",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/24/2023",
+      "usta_id": "iJfTZI29uLfbztq0ND+8lA=="
+    },
+    {
+      "name": "Caroline Probst",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "3WYjCSMcdfafww0+eEcpHA=="
+    },
+    {
+      "name": "Yanchen Qi",
+      "gender": "Female",
+      "city": "Lake Oswego",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7fsBP+wH+GvTPIkL9/ROzQ=="
+    },
+    {
+      "name": "JR Rabago",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6bMqhuxYxGXVE1JTcRyiAg=="
+    },
+    {
+      "name": "Joan Randall",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ySS2RQnBMWc//b0YKcibxA=="
+    },
+    {
+      "name": "Shubkarman Randhawa",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/18/2024",
+      "usta_id": "atW5iu+2Oh2V9HDR1upmtw=="
+    },
+    {
+      "name": "Brenden Raymond-Yakoubian",
+      "gender": "Male",
+      "city": "Girdwood",
+      "state": "AK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xrs9lweD9BTdE1YE8X68vQ=="
+    },
+    {
+      "name": "Joanne Reardon",
+      "gender": "Female",
+      "city": "Hood River",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DmlPvMnD151V1KZv8blPfg=="
+    },
+    {
+      "name": "Carson Reed",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JocsAGIdBMBbAp6FllzNyw=="
+    },
+    {
+      "name": "Devin Reilly",
+      "gender": "Male",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b+LFWBw1Hvy2sTMtOspd0Q=="
+    },
+    {
+      "name": "Sue Rentschler",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4+opDujLbArvFiF8v/CH+g=="
+    },
+    {
+      "name": "Raquel Rich",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PH2bFn9Y+mFh5L0SZJTDBA=="
+    },
+    {
+      "name": "Roger Risch",
+      "gender": "Male",
+      "city": "Renton",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "JwaMHifmqLI="
+    },
+    {
+      "name": "Kevin Robinson",
+      "gender": "Male",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Qix6D/7pO7tz2CEDy4eIQ=="
+    },
+    {
+      "name": "Michael Robon",
+      "gender": "Male",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YotbiKx1EaMvF+UAP+kfJA=="
+    },
+    {
+      "name": "Annette Rose",
+      "gender": "Female",
+      "city": "Kennewick",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bWrJkskowB3nKyWP9GXWxA=="
+    },
+    {
+      "name": "Kevin Ross",
+      "gender": "Male",
+      "city": "BELLINGHAM",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FcPW0CyvdXPDB4nrc6JaGQ=="
+    },
+    {
+      "name": "Kimberly Rowland",
+      "gender": "Female",
+      "city": "NORTH BEND",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BWYQ4xTWh3W99WLoXsmyjA=="
+    },
+    {
+      "name": "Tamara Runnicles",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "RKoKQaDrCzEIm9Gq1ss1hw=="
+    },
+    {
+      "name": "Cindy Rushall",
+      "gender": "Female",
+      "city": "Camas",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "akwX6M1ES1i90qzxxyvhXA=="
+    },
+    {
+      "name": "Nancy Salisbury",
+      "gender": "Female",
+      "city": "Canby",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Me9ITYHG4i3FhXfg6D5Bjw=="
+    },
+    {
+      "name": "Karen Savage",
+      "gender": "Female",
+      "city": "Anchorage",
+      "state": "AK",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/25/2025",
+      "usta_id": "NqAi20dwO/tgoWsjdREX9g=="
+    },
+    {
+      "name": "Paritosh Saxena",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "xe3cfKhEdQ6hNOBY0UdHDg=="
+    },
+    {
+      "name": "Liesel Schilperoort",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/11/2024",
+      "usta_id": "ErAH8QkWzQ2kDPbhr7vACg=="
+    },
+    {
+      "name": "Paige Schmelling",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2024",
+      "usta_id": "vMEldj5p4FmTCTmq19t7aQ=="
+    },
+    {
+      "name": "Gale Schmidt",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Mqygb+PEmbCVuFftUYycxw=="
+    },
+    {
+      "name": "Anne Schnurman",
+      "gender": "Female",
+      "city": "Spokane",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "skgz9kTSfj8oZnia4Eif6g=="
+    },
+    {
+      "name": "Pamela Schwartz",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bMMroKxjjex7UUV1U1FYXA=="
+    },
+    {
+      "name": "Aija Seay",
+      "gender": "Female",
+      "city": "Lacey",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "UDQGE+vLQemAgEpN78Z2sw=="
+    },
+    {
+      "name": "Adrian Seet",
+      "gender": "Male",
+      "city": "Mill Creek",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PItXUx2LgaHvRJXWlPe6Bg=="
+    },
+    {
+      "name": "Cheryl Selby",
+      "gender": "Female",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wYWlBh2DqpR+Skh++ctxSg=="
+    },
+    {
+      "name": "Deepak Selvanathan",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Lai8MOmAkgGEI31KNIuVA=="
+    },
+    {
+      "name": "Kristi Senden",
+      "gender": "Female",
+      "city": "Eagle River",
+      "state": "AK",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "iP1ndxgSgsD2NLWsjqglqA=="
+    },
+    {
+      "name": "Tyler Shoemaker",
+      "gender": "Male",
+      "city": "Wood Village",
+      "state": "OR",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "QDKDxfXXevagDXrGPzUvvA=="
+    },
+    {
+      "name": "Rui Silva",
+      "gender": "Male",
+      "city": "SEATTLE",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/17/2025",
+      "usta_id": "FnsVVDh/Qmw9KQZjGU7pMw=="
+    },
+    {
+      "name": "Maria Sims",
+      "gender": "Female",
+      "city": "Mercer Island",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IGpLDO3Jp2PtHdD7jbMimA=="
+    },
+    {
+      "name": "Preeti Singh",
+      "gender": "Female",
+      "city": "Snohomish",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5n2nDQAG76LvZ8Pu2dKxUw=="
+    },
+    {
+      "name": "Peter Singson",
+      "gender": "Male",
+      "city": "MANZANITA",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sXcP27InSRCWrv4evWC0mg=="
+    },
+    {
+      "name": "Dana Skotdal",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iIxb+IIYGlsa8JRWZn9dfg=="
+    },
+    {
+      "name": "Charlene Small",
+      "gender": "Female",
+      "city": "Bend",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/oBlTaOOG8rbGhYBoXosew=="
+    },
+    {
+      "name": "Greg Smith",
+      "gender": "Male",
+      "city": "Snoqualmie",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/20/2025",
+      "usta_id": "z/qTPDeESXBt6Z7Tub8rug=="
+    },
+    {
+      "name": "Jennifer Smith",
+      "gender": "Female",
+      "city": "Snoqualmie",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+68v94Fr8neNg5n/YXAEsg=="
+    },
+    {
+      "name": "Schuyler Soderlind",
+      "gender": "Male",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I0LCLQZar5Xf1rr3mefoHQ=="
+    },
+    {
+      "name": "Carol Spencer",
+      "gender": "Female",
+      "city": "Wilsonville",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CM+uEjXkBLbBfsk8jizz1Q=="
+    },
+    {
+      "name": "Thomas Stave",
+      "gender": "Male",
+      "city": "Shoreline",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uXiUgwRbBPWSqoL0mgWZcQ=="
+    },
+    {
+      "name": "Janice Stern",
+      "gender": "Female",
+      "city": "Bend",
+      "state": "OR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/28/2025",
+      "usta_id": "v8I1WQdLio0gVMsvK9Cs3g=="
+    },
+    {
+      "name": "Anna Stock",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "T6boppEzwQdEwa5MDTOofg=="
+    },
+    {
+      "name": "Melissa Stratman",
+      "gender": "Female",
+      "city": "Bellingham",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fz1Qx99aiji69Yi3LE2vMQ=="
+    },
+    {
+      "name": "Haihua Su",
+      "gender": "Female",
+      "city": "Lake Oswego",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7Lq83NmfEBVAhmOT3q+jAw=="
+    },
+    {
+      "name": "Erina Sugai",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "NOZ0fWE8G00WLxnjsb8piA=="
+    },
+    {
+      "name": "Annie Sumpter",
+      "gender": "Female",
+      "city": "Camas",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Td1TrJHoB+Iqi6jTxapaHA=="
+    },
+    {
+      "name": "Treasa Sweek",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P6QWiTQUu0FVSVTtgiAB+g=="
+    },
+    {
+      "name": "Simon Swifter",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/26/2024",
+      "usta_id": "gHo+JNWcezbMu1HBIZ+cPA=="
+    },
+    {
+      "name": "Mark Symington",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mdj3jKi4PwhgZ+PNJZ7w8A=="
+    },
+    {
+      "name": "Arjang Tahmasebie",
+      "gender": "Male",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A5BcPRBrCaMWrXwPGXI4ig=="
+    },
+    {
+      "name": "Mei Tan",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/7/2024",
+      "usta_id": "UTdTfGKI3OwocE/wF+DKYg=="
+    },
+    {
+      "name": "Bonnie Tetrick",
+      "gender": "Female",
+      "city": "Millville",
+      "state": "CA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/6/2025",
+      "usta_id": "CPYfCvI3r50Eme8WcvA+rg=="
+    },
+    {
+      "name": "Amy Thomas",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XJZvmkNEdOngRRDhNTSRGg=="
+    },
+    {
+      "name": "Sue Thompson",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/+X/uqPZ/Yho/EhLqrH29A=="
+    },
+    {
+      "name": "Carl Toews",
+      "gender": "Male",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5SqOl2k3sFCAgUa82CuCBA=="
+    },
+    {
+      "name": "Tammi Tompkins",
+      "gender": "Female",
+      "city": "Bothell",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GP6npmnDVyy5iB85+95zdg=="
+    },
+    {
+      "name": "Anabela Torrealba",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Wox+bPu8f5x0YcEHXsBNQ=="
+    },
+    {
+      "name": "Morgan Towle",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xw21CeXbcKQPY96d7sSJtA=="
+    },
+    {
+      "name": "Erik Tseng",
+      "gender": "Male",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rkm7UWJO0DeTrICgwU7UfA=="
+    },
+    {
+      "name": "John Um",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ictWQrvucb+ZMhBx5x7OKw=="
+    },
+    {
+      "name": "Tanya Vail",
+      "gender": "Female",
+      "city": "Clyde Hill",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GnEs2EFGgFsL/V49DY4fjQ=="
+    },
+    {
+      "name": "Amanda Vander Veen",
+      "gender": "Female",
+      "city": "Bellingham",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/23/2024",
+      "usta_id": "AJRFsXvGWNrNeBsZaKKdMw=="
+    },
+    {
+      "name": "Jin Velasco",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "kmtTXrfm62NXXvTk5Ii8zA=="
+    },
+    {
+      "name": "Venus Velazquez",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K+G4T6NojwrlFsn14KWEnQ=="
+    },
+    {
+      "name": "Sue Vrana",
+      "gender": "Female",
+      "city": "Snoqualmie",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xXwEjI5+hGPJ2E9yUp6I+g=="
+    },
+    {
+      "name": "Alana Wade",
+      "gender": "Female",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IwzKyGlVxidwFLOsp0WmQg=="
+    },
+    {
+      "name": "Joanna Asia Wagner",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0PUVW2WSic2Wkj2+xKGYbw=="
+    },
+    {
+      "name": "Susanne Wagner-Fischer",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o+pRs4hJD8cUaO8viLI/Iw=="
+    },
+    {
+      "name": "Jena Wahl",
+      "gender": "Female",
+      "city": "Bellingham",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DBweQfdQitURK0GDyZx9Mw=="
+    },
+    {
+      "name": "Cheryl Wald",
+      "gender": "Female",
+      "city": "Tacoma",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WBUPBmX6PTCoQ/5veLewSA=="
+    },
+    {
+      "name": "Adam Waldron",
+      "gender": "Male",
+      "city": "Lynnwood",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k89fY7NZd+9okOSGJO9t9A=="
+    },
+    {
+      "name": "Donna Walker",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2XP2fs/VjHmPCRh8b9g95Q=="
+    },
+    {
+      "name": "Everet Wang",
+      "gender": "Male",
+      "city": "Mill Creek",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "atR5uyRs/fiYyNDhxrTCUw=="
+    },
+    {
+      "name": "Sam Wang",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EG/qu38oJULwjS2eLwxn0g=="
+    },
+    {
+      "name": "Will Wang",
+      "gender": "Male",
+      "city": "Kirkland",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "unJ2KWSmGv6MITi1EjzGqg=="
+    },
+    {
+      "name": "Natasha Weinstock",
+      "gender": "Female",
+      "city": "Camas",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ml1y3N0QDHAzb0fxkIP02g=="
+    },
+    {
+      "name": "Ray West",
+      "gender": "Male",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/10/2024",
+      "usta_id": "FQRWkNj5Wx6JqCFowMlbRQ=="
+    },
+    {
+      "name": "Lee Wilcox",
+      "gender": "Male",
+      "city": "Vancouver",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Coz0nUdCSgYnkLArkds9Og=="
+    },
+    {
+      "name": "Michael Williams",
+      "gender": "Male",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/2/2024",
+      "usta_id": "mTwT8BdAj2WLj8PqzORqBg=="
+    },
+    {
+      "name": "Nicole Wilson",
+      "gender": "Female",
+      "city": "University Place",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C7y+ELpPfrK5gFnHuaR8yA=="
+    },
+    {
+      "name": "Margot Wolfsehr",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "CsLnRHFpJMjzU9SuKgbU9w=="
+    },
+    {
+      "name": "Betty Wong",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VZLRU+ESRsmMgCindo6tRQ=="
+    },
+    {
+      "name": "June Xiao",
+      "gender": "Female",
+      "city": "West Linn",
+      "state": "OR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QSa2G/7Xp6KAng5C+gIROA=="
+    },
+    {
+      "name": "Terra Yara",
+      "gender": "Female",
+      "city": "Lake Tapps",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o0D1NbGPEakqMMKDBFn4Bw=="
+    },
+    {
+      "name": "Hejin Yim",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k52hYbQGjVWx9TsI18nJRQ=="
+    },
+    {
+      "name": "Jessica Young",
+      "gender": "Female",
+      "city": "Renton",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rgB4lHPk4mRzOgq8wuGsAw=="
+    },
+    {
+      "name": "Laura Young",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UKBA7YqK+XKpCzEIQRF56g=="
+    },
+    {
+      "name": "Edmund Yuan",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8IMQwqnDS0XaWXA71LHhow=="
+    },
+    {
+      "name": "Ming-Lee Yuan",
+      "gender": "Female",
+      "city": "Seattle",
+      "state": "WA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "N9p/1zwTLQXhFmIyqYEWCg=="
+    },
+    {
+      "name": "Yuwen Yuan",
+      "gender": "Female",
+      "city": "Eugene",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/31/2024",
+      "usta_id": "Xxn3WCkQVcjgxohpELOQUA=="
+    },
+    {
+      "name": "Samuel Yuen",
+      "gender": "Male",
+      "city": "Alameda",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/8/2024",
+      "usta_id": "rkhv9/LJ+jrhmQ4RN4Tu1g=="
+    },
+    {
+      "name": "Vanessa Zakhour",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Niya1iYHXR6/zxWxJmrWQ=="
+    },
+    {
+      "name": "Yi Zhao",
+      "gender": "Female",
+      "city": "Olympia",
+      "state": "WA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4ObLH6wRbnysf7gUw5elkA=="
+    }
+  ]
+}

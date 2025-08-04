@@ -1,0 +1,6517 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243385",
+  "areaId": "6243700",
+  "players": [
+    {
+      "name": "Tegan Abson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "72+Efl9M6OWpQ5sfNS5/qg=="
+    },
+    {
+      "name": "Camille Adams",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "L/N1FcyNLtNmp1tgkpnq5A=="
+    },
+    {
+      "name": "Jennifer Aikens",
+      "gender": "Female",
+      "city": "EASLEY",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/1/2025",
+      "usta_id": "lKT9Z06FxwA4PzLtFFa6Yg=="
+    },
+    {
+      "name": "Kimberly Alber",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ff7q9puLvAq2hIGuoqs7IQ=="
+    },
+    {
+      "name": "Justine Allen",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XNpXacTXA16o/rOPgJ/ZpA=="
+    },
+    {
+      "name": "Susan Anderson",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8LAikiG3+jfTOE42CI4Trg=="
+    },
+    {
+      "name": "Jane Argo",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "a+TY1TL3TzU2J3Y76Ik9vw=="
+    },
+    {
+      "name": "Melanie Armstrong",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jNrvQD+lVAiTuCIEvfCztQ=="
+    },
+    {
+      "name": "Ann Ashmore",
+      "gender": "Female",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0YWBQer1Z5hGiLgbQQuIew=="
+    },
+    {
+      "name": "Amy Austin",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GyqUYHBieJvd9poUIg7yCA=="
+    },
+    {
+      "name": "Lucy Austin",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lFb6ZsG/zvFacSfj5L1y3w=="
+    },
+    {
+      "name": "Jenny Avant",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xRwTzOCfRtlNz25+ra4FBA=="
+    },
+    {
+      "name": "Rebekah Axson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QwtcBmnf0zh339bQWloYZQ=="
+    },
+    {
+      "name": "Jamie Bach",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8hwPnzFKHwStEGlorqHUfw=="
+    },
+    {
+      "name": "Jennifer Bailey",
+      "gender": "Female",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/17/2025",
+      "usta_id": "KIj+ogz+fZdkrrFCdf8B6A=="
+    },
+    {
+      "name": "Alyson Barrick",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XEo3EJ8n7Q4zFI2+PvooEA=="
+    },
+    {
+      "name": "Kim Barrs",
+      "gender": "Female",
+      "city": "Taylors",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "NOZ0fWE8G03Xa8+t3/87eA=="
+    },
+    {
+      "name": "Maria Batista",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bs3tp9BqAvWKCXwi23Abtw=="
+    },
+    {
+      "name": "Shelley Bauer",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8m6xHWGKfk2dvUd0ttisRg=="
+    },
+    {
+      "name": "Lynne Becker",
+      "gender": "Female",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "y79ru49LL9uuT1SKHABLIg=="
+    },
+    {
+      "name": "Danielle Beckerle",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J/IYYI7FwtDDlqFIAqAFQA=="
+    },
+    {
+      "name": "Michelle Begin",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Jcjor8B8qdH4udCe5hZaQ=="
+    },
+    {
+      "name": "Stacey Belkin",
+      "gender": "Female",
+      "city": "SALEM",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e7FE3pR5kSRJTKY4Cm8TUw=="
+    },
+    {
+      "name": "Kirsten Beltakis",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9mCJokAnHHQ7r9QQa2qMFw=="
+    },
+    {
+      "name": "Erin Benfield",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EhPfBp3FFwzetskQ9KB28g=="
+    },
+    {
+      "name": "Marie Bernard",
+      "gender": "Female",
+      "city": "Easley",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "OesNDQ26W7po9J+LH7Eg7g=="
+    },
+    {
+      "name": "Natalie Bieber",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "75l2VnrM7L9rfTJ0/HAwOA=="
+    },
+    {
+      "name": "Gloria Bleasdale",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rt4XoQ1k9yYli8VqjPk9Pw=="
+    },
+    {
+      "name": "CRYSTAL BLIDE",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zbkec2VqWzePMUwTEwbi5A=="
+    },
+    {
+      "name": "Celeste Blinston",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JgLUl5qgW9CVepTF0gIlvw=="
+    },
+    {
+      "name": "Jessica Bobbie",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7snrtb5FDLZwEtxR+r8Efw=="
+    },
+    {
+      "name": "SHANNON BOOKTER",
+      "gender": "Female",
+      "city": "GREER",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uraSDQnra4+kgMqXAUHvvQ=="
+    },
+    {
+      "name": "Marieta Borillo",
+      "gender": "Female",
+      "city": "Spartanburg",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gQLnOtDCVuW417DwBYzDog=="
+    },
+    {
+      "name": "Courtney Bosh",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "kK1o5cg2dhiFY234jW8CUQ=="
+    },
+    {
+      "name": "Paige Botts",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UoTbxqGUHuc9Yo+QNgsU8g=="
+    },
+    {
+      "name": "Elizabeth Bowman",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3OUQO0NgcveZUgtbzO8AxA=="
+    },
+    {
+      "name": "Lisa Boyd",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/swhDAY/iO51RPhH8P2RDQ=="
+    },
+    {
+      "name": "Lyn Boyd",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E2c9J10AhVJQL45XiuTVRQ=="
+    },
+    {
+      "name": "Blair Brading",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y90I7aUSEcR/Upm7mbODSA=="
+    },
+    {
+      "name": "Joanna Bragdon",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bYfuT1KBU220+Sr2j7yKtQ=="
+    },
+    {
+      "name": "Julie Branham",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RICuqOLNRHYY1mVT9+NAmQ=="
+    },
+    {
+      "name": "Virginia Brannon",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+6qQzXkkCgjQYNCW2uk5Pg=="
+    },
+    {
+      "name": "Rachael Branyon",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nher0MhS1cBhsrYvWGsDDA=="
+    },
+    {
+      "name": "Peggy Braswell",
+      "gender": "Female",
+      "city": "SALEM",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HGZCdK/cUQVb02QLN5fTqw=="
+    },
+    {
+      "name": "Sonya Bright",
+      "gender": "Female",
+      "city": "GREER",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QrMeTxeSXBTmYXakA7c2Sg=="
+    },
+    {
+      "name": "Ann Brodie",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CI/kDo8f6yMawQ4ObIRshA=="
+    },
+    {
+      "name": "Kim Brooks",
+      "gender": "Female",
+      "city": "Wellford",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IWbrN5qMGQtNKYMnAJfcYw=="
+    },
+    {
+      "name": "Pamela Brooks",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dMLv8pPiQpN3xpHTz3D4Hw=="
+    },
+    {
+      "name": "Christi Brown",
+      "gender": "Female",
+      "city": "Spartanburg",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZC0VStFfgYiUrQtkJem41Q=="
+    },
+    {
+      "name": "Julie Brown",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1eudx1QGW1ysDAePrDzf4w=="
+    },
+    {
+      "name": "Andrea Bryan",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iRyy0Y31A4by5fflWnezTQ=="
+    },
+    {
+      "name": "Sarah Buellesbach",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1FzfBxeFhWOriXpuPNUxBg=="
+    },
+    {
+      "name": "Deborah Buley",
+      "gender": "Female",
+      "city": "MEREDITH",
+      "state": "NH",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5Fxcg/aN/+49o8lIpIO4/A=="
+    },
+    {
+      "name": "Evelyn Bull",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "rnCzRcu2qgqMJVxbI6y0kg=="
+    },
+    {
+      "name": "Sandy Buol",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3OgLJQYDlpU7IcwEpPSSlQ=="
+    },
+    {
+      "name": "Andrea Burdette",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XG0mGAzNTyAiNr+JyPDjLA=="
+    },
+    {
+      "name": "Katherine Burnett",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "Q8EpMngWTCkIIX8FpOccuw=="
+    },
+    {
+      "name": "Christina Burnette",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WQjJvDBkDgC1i9auX72Fug=="
+    },
+    {
+      "name": "Katie Burns",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i9tCN9qy44eMQH5gJq2G3A=="
+    },
+    {
+      "name": "Lauren Burny",
+      "gender": "Female",
+      "city": "SPARTANBURG",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/3/2025",
+      "usta_id": "PDWJBx+5jypgkqkFz6a4xw=="
+    },
+    {
+      "name": "Beth Burris",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/17/2024",
+      "usta_id": "pesZq6M6xDw+zysMG2E7oA=="
+    },
+    {
+      "name": "Deette Burton",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Eqc8Ba+oSQPoqvccSCcdw=="
+    },
+    {
+      "name": "Kristen Burton",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SLt12iVRqA6Yw+kVWz6N6g=="
+    },
+    {
+      "name": "Emily Busold",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "A8g2yWl6RGweSrDgq37RcA=="
+    },
+    {
+      "name": "Brandon Cabaniss",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ycU7C9/y8/kinIkfJh71Mw=="
+    },
+    {
+      "name": "Melanie Cabaniss",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xc8krGB+VGizaz3tVdYX3Q=="
+    },
+    {
+      "name": "Pamela Cabot",
+      "gender": "Female",
+      "city": "Sunset",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QxNF9CP1C9RuVuP8sMGp0Q=="
+    },
+    {
+      "name": "Julie Cain Cwynar",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MQNyqH+L8IaY1enYhRwDXw=="
+    },
+    {
+      "name": "Lisa Caldwell",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QiJjZRq8bdmtgRtqK4aVvw=="
+    },
+    {
+      "name": "Michelle Callahan",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "voP1DadenPJsnmaVLwtiRg=="
+    },
+    {
+      "name": "Quinn Camak",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q2kZY2rOJGTvF4ln0qBGCA=="
+    },
+    {
+      "name": "Carey Campbell",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hHHZDeTv3kKF1miLzFdEAQ=="
+    },
+    {
+      "name": "Mary Campbell",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "wPoFgHRPk/pqV+h28xn0Ew=="
+    },
+    {
+      "name": "Mary Beth Campbell",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "CAU7q93yXGy+q7L/nYCNuQ=="
+    },
+    {
+      "name": "Taylor Campbell",
+      "gender": "Female",
+      "city": "GREER",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jz8rmrF+vi34gMfXb7PvvQ=="
+    },
+    {
+      "name": "Sally Cao",
+      "gender": "Female",
+      "city": "Clemson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/11/2025",
+      "usta_id": "1+4dNx86vrw7NxvFLcDy4w=="
+    },
+    {
+      "name": "Lori Car",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "Amt3j1GyLkcPZYhZW6gKOw=="
+    },
+    {
+      "name": "Christina Carey",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "81sRGL/AdsiHFo2SXihsgg=="
+    },
+    {
+      "name": "Rachael Cariveau",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8M4c6zI4VZNHOfOUbSPq1Q=="
+    },
+    {
+      "name": "Laura Carlson",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pfgu6C+whDOa2iubIl9/5w=="
+    },
+    {
+      "name": "Adelaide Carpenter",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2UYyM9jxDM7TnBb6xMASZw=="
+    },
+    {
+      "name": "Leslie Carrico",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/23/2025",
+      "usta_id": "0vk5i8Apn4aNTLCiEg5Q2g=="
+    },
+    {
+      "name": "Erin Carroll",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "asuKAsLXM9wfFMFfFtQeGQ=="
+    },
+    {
+      "name": "Kristy Carruthers",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cmUB+kB2GcrPgev8Ku4T2w=="
+    },
+    {
+      "name": "Covington Carson",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/10/2024",
+      "usta_id": "CS2Yw4SXEYzMRMRy+rU0iQ=="
+    },
+    {
+      "name": "Brenda Carter",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/7/2024",
+      "usta_id": "25AkT3C/i5MvAdW1R+x2xw=="
+    },
+    {
+      "name": "Caroline Carter",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WQjJvDBkDgDPXcUxZCXkKA=="
+    },
+    {
+      "name": "Gina Carter",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "eNR4C0LtUvNQkaRa32T3ZA=="
+    },
+    {
+      "name": "Marian Carwile",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6mg1b3XQgxyUQs7KaJos6w=="
+    },
+    {
+      "name": "Jennifer Casto",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "f4pZ6FcLQPcr+RgwJBx0Qg=="
+    },
+    {
+      "name": "Madina Cauthen",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jF9jnFFez/IVMfT3f9OFAg=="
+    },
+    {
+      "name": "Amy Caver",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FOIo+kGrPocIKqWu12Bcuw=="
+    },
+    {
+      "name": "Yuriko Centa",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N6PvH3hWsikMtNa2jOaYJw=="
+    },
+    {
+      "name": "Jeanna Chambers",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cQ2uXM6G3M6Cxp1g0WZK2w=="
+    },
+    {
+      "name": "Molly Chann",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "gn4c5us6pc5x01LYzWYrXg=="
+    },
+    {
+      "name": "Amy Chapman",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5SZrT6OYCXz2JIK4rRcVEQ=="
+    },
+    {
+      "name": "Tracy Chastain",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4S3bxnO3zLFypdvhuRMlvw=="
+    },
+    {
+      "name": "Nicole Chittam",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/7/2024",
+      "usta_id": "U/5Zqtbl6yk0HBXWCYrFZA=="
+    },
+    {
+      "name": "Holly Chittenden",
+      "gender": "Female",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "SlqrWpLxxvm7/ZOUtNW4Ng=="
+    },
+    {
+      "name": "Margaret Chorazak",
+      "gender": "Female",
+      "city": "Easley",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/28/2024",
+      "usta_id": "WVn2qfgJktMgCX7Su4Agkw=="
+    },
+    {
+      "name": "Megan Christian",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n9hWsbhU3VFVvsIAdBfgbQ=="
+    },
+    {
+      "name": "Tracy Churdar",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lk7qqELz+nOlgfYesY+dRA=="
+    },
+    {
+      "name": "Bree Clarke",
+      "gender": "Female",
+      "city": "Newport Beach",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/26/2025",
+      "usta_id": "ygkAbymnqD9K0Aeub4OP6A=="
+    },
+    {
+      "name": "Suzy Clary",
+      "gender": "Female",
+      "city": "Mauldin",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wSWeLce7bVCv2raso9Vz/w=="
+    },
+    {
+      "name": "Edie Clator",
+      "gender": "Female",
+      "city": "Inman",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eIIRRr3tYEAQeP2jM6d6ew=="
+    },
+    {
+      "name": "Danielle Claussen",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B7N9lo3+FEny5iSMwcewMg=="
+    },
+    {
+      "name": "Kelly Clay",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2H/UklUk7Uc92e1xsD9SWQ=="
+    },
+    {
+      "name": "Meg Clayton",
+      "gender": "Female",
+      "city": "Spartanburg",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jr2zNTetd8RPDj1RriR2pg=="
+    },
+    {
+      "name": "Crystal Cleveland",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y9eW27G4gcuN2JACMf2oXw=="
+    },
+    {
+      "name": "Joan Close",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Iiz5yDZ3I1tytfCfa6KcQ=="
+    },
+    {
+      "name": "Tori Clougherty",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PD75w4jgCVgi/gTHklYblg=="
+    },
+    {
+      "name": "Susan Cobb",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TJtYIr++RSQ+tjHcqmn3Wg=="
+    },
+    {
+      "name": "Carol Cohron",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bYJLDJd17zXGZzggRC8dTA=="
+    },
+    {
+      "name": "Christine Cole",
+      "gender": "Female",
+      "city": "ANDERSON",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aWsNG12FGT3x7ohmtPdS2A=="
+    },
+    {
+      "name": "Mary Lee Cole",
+      "gender": "Female",
+      "city": "Roebuck",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TofpIaOPM8bQ/S1lfC881g=="
+    },
+    {
+      "name": "Melissa Cole",
+      "gender": "Female",
+      "city": "SUNSET",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xG8CaskJX7Et3rMnNlyrhA=="
+    },
+    {
+      "name": "Grace Coleman",
+      "gender": "Female",
+      "city": "Spartanburg",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FuPkmKpaXrQVOuB/vyaRLQ=="
+    },
+    {
+      "name": "Jennifer Coleman",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Osby/QUovYkds44pbmyoxA=="
+    },
+    {
+      "name": "Melissa Coles",
+      "gender": "Female",
+      "city": "Tryon",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SAW4/aSmc87WA+ICH6vpDA=="
+    },
+    {
+      "name": "Janet Collins",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/21/2024",
+      "usta_id": "ho8HwTWM+N6LC4jDRyU9/Q=="
+    },
+    {
+      "name": "Jil Cooke",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/15/2024",
+      "usta_id": "Lekqv2c+8xpi4S1l7Bil0A=="
+    },
+    {
+      "name": "Valerie Cooke",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AkMAGbekGxTnRmjB6KIVHA=="
+    },
+    {
+      "name": "Mimi Cooley",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yd2c46An2As1aVNJ3NeBww=="
+    },
+    {
+      "name": "Mona Cooper",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dt+u36mfYxBgA2gJ4fYT+w=="
+    },
+    {
+      "name": "Ashlyn Cousins",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "shWMJp/L8/6UiSzJctGeaw=="
+    },
+    {
+      "name": "Andrea Craft",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DdnCr1QgIzMHBZW0BI/L2Q=="
+    },
+    {
+      "name": "Nicki Creech",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hwkc+I0orEsZPk8YOnQCFQ=="
+    },
+    {
+      "name": "Abby Crooks",
+      "gender": "Female",
+      "city": "Westminster",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ntDhN6dzZHOyFlkSWwzEpw=="
+    },
+    {
+      "name": "Joanne Cruickshank",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8P8YpUY+Gvf1iXz2BpwwfQ=="
+    },
+    {
+      "name": "Betsy Crumley",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/12/2024",
+      "usta_id": "MAnteJUvBdWBQ1DGCdLHyA=="
+    },
+    {
+      "name": "Cathy Crupi",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "kKOwbe/SOXCUjMNGb78z6g=="
+    },
+    {
+      "name": "Karen Culumovic",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NRfWVz1M+i0Hwlak77mLCw=="
+    },
+    {
+      "name": "Wanda Cummins",
+      "gender": "Female",
+      "city": "Taylors",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PApalxS03gVdrDb+KpLWSA=="
+    },
+    {
+      "name": "Christine Cunningham",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/14/2024",
+      "usta_id": "axHt/+rm0fhpGOVpMv+QbQ=="
+    },
+    {
+      "name": "Annette Curin",
+      "gender": "Female",
+      "city": "Easley",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kuNZeRReFMx5G6IJZv1tiw=="
+    },
+    {
+      "name": "Madisen Curin",
+      "gender": "Female",
+      "city": "Easley",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q1JiNhVza9t6YFFvhJAipQ=="
+    },
+    {
+      "name": "Kim Dailey",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d4Cya3aDv3e/3eLwfCMvMQ=="
+    },
+    {
+      "name": "Sarah Daley",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/5/2025",
+      "usta_id": "4iR1kPa+qLgPE5Norp9qIw=="
+    },
+    {
+      "name": "Sherri Daniel",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1pHJRcE9pMxrrNSopK4j1A=="
+    },
+    {
+      "name": "Lisa Darby",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uy6wAVZOGij4oXTZEKdmIg=="
+    },
+    {
+      "name": "Liz Darrow",
+      "gender": "Female",
+      "city": "Travelers Rest",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W0BufcfRMrs0UxEAHURsOg=="
+    },
+    {
+      "name": "Sabrina Davidson",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nOoUENYUE0MLzRZ8XcIfmQ=="
+    },
+    {
+      "name": "Claire Davis",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4A2yLcr34AN71dzC/FOhhQ=="
+    },
+    {
+      "name": "Katherine Davis",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4MhhTBjEeLXHLv5ImnI8PQ=="
+    },
+    {
+      "name": "Sunny Davis",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DdnCr1QgIzNQ5N3pg9TegA=="
+    },
+    {
+      "name": "Alexandra Dawson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XYHV084X74gqIaUDzbysgw=="
+    },
+    {
+      "name": "Larissa Delo",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jVCQD2EE+BSXxdTeiV1d/g=="
+    },
+    {
+      "name": "Lauren Demosthenes",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kd3MAEsZnTkscBDVvr1eQw=="
+    },
+    {
+      "name": "Samantha Depuy",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/wxD2/Y1Ipet4LTd9MWFmA=="
+    },
+    {
+      "name": "Candice Diggins",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TbbzHURJWIRTtHG6dNEmxQ=="
+    },
+    {
+      "name": "Vicki Dixon",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C3f3QxZwB27jhvowaKK+yA=="
+    },
+    {
+      "name": "Jane Doe",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rQTGuEYA+oiISvvfsnXn/A=="
+    },
+    {
+      "name": "Beth Donnelly",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7AOoTDQvf4os/W3nAzg2aA=="
+    },
+    {
+      "name": "Carol Douglas",
+      "gender": "Female",
+      "city": "Hartwell",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0VL3u91Iq1ZNj5HnM3A9hQ=="
+    },
+    {
+      "name": "Janeen Doyle",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/15/2024",
+      "usta_id": "Xg/t4INmows47c2rS4H15Q=="
+    },
+    {
+      "name": "Nancy Dreiding",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L55xxUKBYklHCl2nfP1UOA=="
+    },
+    {
+      "name": "Aimee Duffy",
+      "gender": "Female",
+      "city": "Clemson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R/KkIOsda1Zsu+2PvQgZhw=="
+    },
+    {
+      "name": "Deb Dujardin",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EhPfBp3FFwwzhEmkzuJjmA=="
+    },
+    {
+      "name": "Gay Dupree",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/arioMJtqX6LLnImqciIRw=="
+    },
+    {
+      "name": "Julie Dutterer",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "naPRTGcF1Z+akDm76Ilg3g=="
+    },
+    {
+      "name": "Tari Dygert",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/ibqVXmo3repIbx+dpjs/Q=="
+    },
+    {
+      "name": "Jeanette Dykes",
+      "gender": "Female",
+      "city": "Central",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dKnoU2EPA2yusgMBZJv+dQ=="
+    },
+    {
+      "name": "Beth Anne Eads",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6scGIzAMQ2JWIZCy0b36+Q=="
+    },
+    {
+      "name": "Allison Easterby",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rdd97KN2nxxcTcGMofdkfw=="
+    },
+    {
+      "name": "Cindy Eleftheriou",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ymuPFD6cXvtTtwKhz5XtEw=="
+    },
+    {
+      "name": "Kerry Ellett",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XQZHhVratWJsDoGv0R5tlw=="
+    },
+    {
+      "name": "Jeanette ELLIOTT",
+      "gender": "Female",
+      "city": "Donalds",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "++nk3fdBRXFsWk154AlEBA=="
+    },
+    {
+      "name": "Taylor Elliott",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oV+SALkG9AhZ6oE5fTrzUQ=="
+    },
+    {
+      "name": "Ann Ellison",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "93/VqsSKFece5TlagQxUUw=="
+    },
+    {
+      "name": "Blythe Ely",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zOh6oqGoOgdoyoa+5FywjA=="
+    },
+    {
+      "name": "Christina Engel",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h6J1JAJ4/vM6yuqQKFN5cQ=="
+    },
+    {
+      "name": "Debbie Etherington",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IZ/IFKVj8Nvx544h1Tyvbw=="
+    },
+    {
+      "name": "Sarah Etre",
+      "gender": "Female",
+      "city": "Sandwich",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZVJUCXga4+lHa11NwGsEAw=="
+    },
+    {
+      "name": "Chimene Evans",
+      "gender": "Female",
+      "city": "Liberty",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6H74aYrH7l9qI3X9tU0trw=="
+    },
+    {
+      "name": "Dorie Fann",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/88B+48nEGgPuUiUqxSNuQ=="
+    },
+    {
+      "name": "Dorothy Farmer",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U+zqT+Ot1TtchYrYVamMcA=="
+    },
+    {
+      "name": "Elizabeth Faulkner",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iIu8EqxDyBMlP6XvVVMhkQ=="
+    },
+    {
+      "name": "Rebekah Fedrowitz",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JRLtJbf+aby0VwV/wSNCIA=="
+    },
+    {
+      "name": "Laura Fee",
+      "gender": "Female",
+      "city": "Taylors",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ypl+8sJq3fPka2sWN2B6bQ=="
+    },
+    {
+      "name": "Elleanore Feininger",
+      "gender": "Female",
+      "city": "SUNSET",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "N8y3mEd07go0GIAVbz722w=="
+    },
+    {
+      "name": "Cathy Feinstein",
+      "gender": "Female",
+      "city": "Westminster",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wL+zKo18mcSZq2EB4MlYAA=="
+    },
+    {
+      "name": "Brenna Feirer",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9ZoHOhvCgZ5b6n8UoqDSBw=="
+    },
+    {
+      "name": "Liza Feniger",
+      "gender": "Female",
+      "city": "NASHVILLE",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "27PBIQZAYpvHG/JExnk2yA=="
+    },
+    {
+      "name": "Brennan Ferguson",
+      "gender": "Female",
+      "city": "AIKEN",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iPLhSiNJAfzZ3WwBWp8heA=="
+    },
+    {
+      "name": "Megan Field",
+      "gender": "Female",
+      "city": "SPARTANBURG",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "9LH8CQiKYdkl5oheiB0niA=="
+    },
+    {
+      "name": "Nicole Finch",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "oGpdYF9nQ6uQvOlo2Xwd3Q=="
+    },
+    {
+      "name": "Deana Fisher",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eM1BecHFE5Ermn75BJ8S/w=="
+    },
+    {
+      "name": "Leslie Fite",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GexoBRa1t/gGeb4feLS58A=="
+    },
+    {
+      "name": "Anne Flink",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WV+SogCCgdoEruVcdnsk8w=="
+    },
+    {
+      "name": "Claudia Florez",
+      "gender": "Female",
+      "city": "GREER",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "qnnvgtLPJYIgvUvCQdy9LA=="
+    },
+    {
+      "name": "Danielle Fomin",
+      "gender": "Female",
+      "city": "Piedmont",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/19/2025",
+      "usta_id": "Q4Vrn/6j4f6keRcTtlGNxg=="
+    },
+    {
+      "name": "Cynthia Forbes",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z9tH4bN1yEwi5T4NVOkCoQ=="
+    },
+    {
+      "name": "Rebecca Foss",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "63R8jgKXWGC7PIqQq8FU9g=="
+    },
+    {
+      "name": "Abbie Foster",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0CjolQh3rNPAm4CE+q5VsA=="
+    },
+    {
+      "name": "Arden Foster",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/5/2024",
+      "usta_id": "TnqSYQe1Crk8t/RitJjL1g=="
+    },
+    {
+      "name": "Carolyn Foster",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ER0z/pxbDk+stGY8pnqzQg=="
+    },
+    {
+      "name": "Jacque Foster",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6QRt2ku5+TPrBBlcfN/dFA=="
+    },
+    {
+      "name": "Julianne Foster",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sCf5ynfob8n/x4a+gleX3A=="
+    },
+    {
+      "name": "Aimee Fountain",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nCtu65YR4keJoYfqXr99kA=="
+    },
+    {
+      "name": "Sydney Fowler",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "hgCB56OpjT3fXtUlqEpjng=="
+    },
+    {
+      "name": "Teresa Fox",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IttlSV8/jyy35BgQs8/Vaw=="
+    },
+    {
+      "name": "Maria Franco",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/17/2025",
+      "usta_id": "EdnUSDFrdNTRaxB02sK14g=="
+    },
+    {
+      "name": "Kasey Frank",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PHuEQ7oTWFNbuDndobsIsg=="
+    },
+    {
+      "name": "Sandra Franklin",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ld+tZFSkRajLoucnbMUTEA=="
+    },
+    {
+      "name": "Monika Franz",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ruES3iIxCWG8v8aQXlOJ9Q=="
+    },
+    {
+      "name": "Alison Frazier",
+      "gender": "Female",
+      "city": "GREER",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GgX1gDycxnF8Q5+fQ9/TgQ=="
+    },
+    {
+      "name": "Julia Fulbright",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+LYDHTDbG/jchuMEQBmMwQ=="
+    },
+    {
+      "name": "Krista Furman",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/7/2025",
+      "usta_id": "TMrFLu0Q1dtuAB3MC2QUyg=="
+    },
+    {
+      "name": "Kelly Gaber",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mvh0sib+iCbhiCaoy24qAw=="
+    },
+    {
+      "name": "Patricia Gailey",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oiyNgYLS8rxIpbuWkJSSkA=="
+    },
+    {
+      "name": "Michelle Galarza",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JQq60cIOVieDOsLQ3BVJng=="
+    },
+    {
+      "name": "Deb Galinsky",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "8Yu9ERY5cBeDHI/7ED1XPA=="
+    },
+    {
+      "name": "Misela Garcia",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/22/2024",
+      "usta_id": "OWD6jjCzZjwrRCgsvA7dog=="
+    },
+    {
+      "name": "Laura Garrett",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dXc+QWoNf0k7se45u4nfVw=="
+    },
+    {
+      "name": "Kelly Gauntner",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lx/igoMPwzs42CX+sv7o+w=="
+    },
+    {
+      "name": "Kelly Geppi",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DDAi/wyEf/gPxH3cSOBHtA=="
+    },
+    {
+      "name": "Julie Gibson",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1s5bjtj0OIgahX5njOURlQ=="
+    },
+    {
+      "name": "Margaret Gill",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vlXepY5Jv+fYKaiC60K3Xw=="
+    },
+    {
+      "name": "Kala Gillespie",
+      "gender": "Female",
+      "city": "BELTON",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ooVVZ3Gl/u9z6Te//PziTg=="
+    },
+    {
+      "name": "Rae Gillespie",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "eOxQzJ+1VexRLxI9Vuvqaw=="
+    },
+    {
+      "name": "Kate Gilreath",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KO2O4WFP5ow1qWjx29KINg=="
+    },
+    {
+      "name": "Cindy Gitlitz",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cZ5peA1me5kxIaIO6XBtiA=="
+    },
+    {
+      "name": "Victoria Go",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OqwUdxSllKTxEQneVV7PtA=="
+    },
+    {
+      "name": "Brantley Goforth",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PpbnkYMTsnJ+eKOq1nh6UQ=="
+    },
+    {
+      "name": "Kelley Golden",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4q+IJIsp14DyZC5m+Narlg=="
+    },
+    {
+      "name": "Bessie Gonzalez",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "+U/16Ee5R4I/zAs9xqcZ3A=="
+    },
+    {
+      "name": "Patricia Gooding",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "APcVvIe8aGFzQzmhxKUmwQ=="
+    },
+    {
+      "name": "Rachel Graeber",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lf2aeLIGxBuqdGH6rc7z6g=="
+    },
+    {
+      "name": "Leigh Ellen Gray",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "dQzqnvrsRxp7gWB/1/bYCg=="
+    },
+    {
+      "name": "Stephanie Gray",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IJulgYwSecrZOnvBkcVirQ=="
+    },
+    {
+      "name": "Bronwen Greene",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ofqBKEE13G+3ecxRLlBXVA=="
+    },
+    {
+      "name": "Melanie Greene",
+      "gender": "Female",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YTcJil4/DYqFmBHLZDeL9g=="
+    },
+    {
+      "name": "Demetra Gregory",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gaaptPLoSo0Yu0La+bLs8Q=="
+    },
+    {
+      "name": "Drake Gribbin",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8snF/BZtTaarRMlTTfyu2A=="
+    },
+    {
+      "name": "Malinda Griffin",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gdoWOjuyMtiaN6h3txo1cw=="
+    },
+    {
+      "name": "Melody Griffin",
+      "gender": "Female",
+      "city": "GREER",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/6/2025",
+      "usta_id": "rS7lm7T3TefDxc0F93/npg=="
+    },
+    {
+      "name": "Kelly Groom",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wXT08Z8mrH1L1GDC3dL3BQ=="
+    },
+    {
+      "name": "Nicolette Grumbine",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x3x2lRBnFOCTDWqufA9aeg=="
+    },
+    {
+      "name": "Kristen Guilfoos",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "7rlKRUYKst/0tUF9d3uJsw=="
+    },
+    {
+      "name": "Maria Gulli",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ocxaHjwBkVKXQTNTffaa/w=="
+    },
+    {
+      "name": "Rebecca Haas",
+      "gender": "Female",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "krUCrcJDc1p3O+W2tCgxJg=="
+    },
+    {
+      "name": "Bonnie Haer",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/10/2024",
+      "usta_id": "n6/qmZDXweh51ZESV8N8Kw=="
+    },
+    {
+      "name": "Sandra Hagler",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S88BnXRCGSh6e8qXMiSqDA=="
+    },
+    {
+      "name": "Dawn Haigler",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RFdqgtlszt9WkmIcdqMcpw=="
+    },
+    {
+      "name": "Cara Hamilton",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1bSLCwuVuj8EkabdV4IgVQ=="
+    },
+    {
+      "name": "Rita Handler",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gblKvCCHOwke2uMIal8sXw=="
+    },
+    {
+      "name": "Loran Hardigree",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "lB3qdkUcvw9wzJBIUHLFjA=="
+    },
+    {
+      "name": "Greta Harper",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+CJhTPclXepQsYqf483pvw=="
+    },
+    {
+      "name": "Stephanie Harrelson",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ybjuZEhQv2en+i3BCW/LWw=="
+    },
+    {
+      "name": "Wendy Harrigan",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mpiCmB5WVDzIXYmBcaAsIw=="
+    },
+    {
+      "name": "Marian Harris",
+      "gender": "Female",
+      "city": "TOWNVILLE",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tok2PxBCaFAdmODaeXinOg=="
+    },
+    {
+      "name": "Carolyn Hassey",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oGpdYF9nQ6tdTooDaNOF9w=="
+    },
+    {
+      "name": "Jordan Haun",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0VtDHHpi+7xACY1wJy6vGw=="
+    },
+    {
+      "name": "Taunya Haun",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fUDhIZlik0xAYVzd0g/a0g=="
+    },
+    {
+      "name": "Carol Hayduk",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xTmNe2eyW0iT2PpiMrYtmQ=="
+    },
+    {
+      "name": "Virginia Hayes",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M1PRW5ZfEjSiI86ICz+nGg=="
+    },
+    {
+      "name": "Jessica Heller",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SXBiB5DZ5HCE0vi+jJZCuw=="
+    },
+    {
+      "name": "Danielle Henderson",
+      "gender": "Female",
+      "city": "greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XB9y9TOJkfsNhviHQII1PA=="
+    },
+    {
+      "name": "Lora Henderson",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EuHtYtpAzpZWJRvklrnSLw=="
+    },
+    {
+      "name": "Sarah Hendricks",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bSpjJhBnwFj5wkCC6q8Rwg=="
+    },
+    {
+      "name": "Elizabeth Herda",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "pI+ZQSaLQn7B/JzUJAEYdQ=="
+    },
+    {
+      "name": "Dorelly Herford",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7NNZAS8T4HBV72IBScN6Kw=="
+    },
+    {
+      "name": "Kelly Hesketh",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SWg83Csvk1XeI5kKcYB/nw=="
+    },
+    {
+      "name": "Ali Hill",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XqmMB8sG7yt28ixCih+slg=="
+    },
+    {
+      "name": "Angie Hill",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QU/L0vpcb8nRY1QZBQ9mxw=="
+    },
+    {
+      "name": "Kathleen Hobus",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xxRul0O7nO2+lAIL5wKuLw=="
+    },
+    {
+      "name": "Adelia Hodge",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZupZhq5+nRxbbxACpkobAg=="
+    },
+    {
+      "name": "Isabella Hodge",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/5/2024",
+      "usta_id": "N1xryiFWI4zo9/NWMlfw1g=="
+    },
+    {
+      "name": "Tracey Hoffert",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "99BDfrQvr49nExO8qckD+g=="
+    },
+    {
+      "name": "Megan Hoffman",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o4f/t8RhsbyiQfroTvJMjg=="
+    },
+    {
+      "name": "Elizabeth Hogg",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "glFYFy3GXHfv49wew8YJYA=="
+    },
+    {
+      "name": "Elizabeth Holland",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "56VIHWL3u9k2Zfq2dnh6ig=="
+    },
+    {
+      "name": "Francine Holmes",
+      "gender": "Female",
+      "city": "Pickens",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y83/ub3Ayp966dPWMZR+fA=="
+    },
+    {
+      "name": "Elizabeth Hood",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bycdLeF94UGopcpomxBH5A=="
+    },
+    {
+      "name": "Kerry Howard",
+      "gender": "Female",
+      "city": "Liberty",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0hPihKlNMOCWp45q2Qiz6A=="
+    },
+    {
+      "name": "Cindy Hradec",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SyDPThxOC/ZKP582JQFrwg=="
+    },
+    {
+      "name": "Sara Hudgens",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "w4Bg+lUnYgdFJk7oBjFtpQ=="
+    },
+    {
+      "name": "Jodi Hudgins",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "beUs1DsYB3E23pQEr7vBOA=="
+    },
+    {
+      "name": "Elizabeth Huggins",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/18/2024",
+      "usta_id": "cLz8OzYVGX34lUEkuCYihQ=="
+    },
+    {
+      "name": "Kerri Hughes",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ERRAN6D9bW8bnRCC2p3lTw=="
+    },
+    {
+      "name": "Traci Hughes",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EcHsp6Mu8rn9Gd2bVEKSIg=="
+    },
+    {
+      "name": "Velda Hughes",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lh7pc7DGIbJ2h8h427ZiIA=="
+    },
+    {
+      "name": "Kathleen Hull",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yxBTbtWgyy6MzdQ7cQI+ag=="
+    },
+    {
+      "name": "Debbie Hultquist",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4DPi3FdpCvHhmZMB3aWapw=="
+    },
+    {
+      "name": "Holly Humphries",
+      "gender": "Female",
+      "city": "Easley",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "o5cxUA/ytPVgYOops2iiWQ=="
+    },
+    {
+      "name": "Angie Hunt",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AN3UF7Em1pMC6LnGbUBm5A=="
+    },
+    {
+      "name": "Catherine Hunt",
+      "gender": "Female",
+      "city": "Spartanburg",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Uon9gR4fLlTn80IMHmlWeQ=="
+    },
+    {
+      "name": "Ria Hydrick",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "akRxCZz5soUqMZcySbh1Nw=="
+    },
+    {
+      "name": "Anne Illges",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/4/2025",
+      "usta_id": "E7rYTOBcM3Yddz0Wluf5vg=="
+    },
+    {
+      "name": "Jennifer Infinger",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "io0tDAIuJf7VZUYm9JPNHg=="
+    },
+    {
+      "name": "Joy Ivester",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iZY+lr9fCgfDRDEu9SRMIQ=="
+    },
+    {
+      "name": "Rhonda Jackson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WIyDOaU0g53fAutukN1mGw=="
+    },
+    {
+      "name": "Amy Jacoby",
+      "gender": "Female",
+      "city": "GREER",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bmcy1vu+FhRHjNVJKFXWQg=="
+    },
+    {
+      "name": "Denise Jacques",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "QWRArrNdcoxPq2hDwYMvlQ=="
+    },
+    {
+      "name": "Michele Jain",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PBFPImbzH/S7CnFadgDtDw=="
+    },
+    {
+      "name": "Wendy Jakszta",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iULF48L4Y2ClhS1nolTaMA=="
+    },
+    {
+      "name": "Shelly James",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eotEDCckMFCin4cYdjtvnw=="
+    },
+    {
+      "name": "Brynn Jenkins",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "MTwqYnGAVNeQ0jS8v6D1qg=="
+    },
+    {
+      "name": "Andrea Johnson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GR+Jt8oNNB47ABkmL5q8iQ=="
+    },
+    {
+      "name": "Cady Johnson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V2owdoRmWm0KmmxJoySlnw=="
+    },
+    {
+      "name": "Karen Johnson",
+      "gender": "Female",
+      "city": "West Union",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rRbXC9UTrUcygaYwjEnjIA=="
+    },
+    {
+      "name": "Meredith Johnson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qInVJCmODUIxCxN899mcYA=="
+    },
+    {
+      "name": "Michele Johnson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UQvqHwIEcW/8eDNzwnTOKA=="
+    },
+    {
+      "name": "Amanda Jones",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lFb6ZsG/zvHn1EgY5sHvaA=="
+    },
+    {
+      "name": "Brenda Jones",
+      "gender": "Female",
+      "city": "Travelers Rest",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2Y9zNfKPxN5FS1gI7pRteA=="
+    },
+    {
+      "name": "Brooke Jones",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/11/2025",
+      "usta_id": "i828tQb79NebeGSLbTEA6Q=="
+    },
+    {
+      "name": "Katie Jones",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VGhil0YwMQT6lrppqiekiw=="
+    },
+    {
+      "name": "Molly Jones",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QRBbvHmE7VeM/fu45JF31A=="
+    },
+    {
+      "name": "Tressa Jordan",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p8lOXSgRDZOuKqd6TEbTKg=="
+    },
+    {
+      "name": "Hilary Joseph",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ei+uP915ZG+BUrFneHIvow=="
+    },
+    {
+      "name": "Sarah Joyce",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bvKlWND1O9/Duks7BNmaEg=="
+    },
+    {
+      "name": "Sally Juhasz",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3ZzRuMAK//9dFrW7BPloDg=="
+    },
+    {
+      "name": "Madison Kaiser",
+      "gender": "Female",
+      "city": "Pendleton",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/11/2025",
+      "usta_id": "SIMorpy2P5ozBj2alzv1VQ=="
+    },
+    {
+      "name": "LINDSAY KAPLAN",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GFoKSP5/JFdUkswuoTMTgw=="
+    },
+    {
+      "name": "Amabel Karoub",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "7/11/2025",
+      "usta_id": "pIB98gQYqfe4NQFUd4eT9w=="
+    },
+    {
+      "name": "Demetra Karras",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GoibebJ5WzR55kXvFu43Mw=="
+    },
+    {
+      "name": "Mitsuko Kashikura",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/15/2024",
+      "usta_id": "cd3li5qxBjjbEzUvGG5oRw=="
+    },
+    {
+      "name": "Catie Kelley",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7prSpCVSlooXeu1LUYGSzQ=="
+    },
+    {
+      "name": "Jan Kelley",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/VuuKLvKpss9Zur4OrmUrQ=="
+    },
+    {
+      "name": "Hallie Kennedy",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gNjfB/mlF5pgh1jQEgbl3g=="
+    },
+    {
+      "name": "Kathy Kettell",
+      "gender": "Female",
+      "city": "West Union",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/28/2024",
+      "usta_id": "y/3daANOv/XpAQn/HNjVpg=="
+    },
+    {
+      "name": "Amanda King",
+      "gender": "Female",
+      "city": "Duncan",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WdCweFzYuM/gbOTxuaoA0A=="
+    },
+    {
+      "name": "Kirby King",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RfwfLS5DQb6JS8ymK1dteQ=="
+    },
+    {
+      "name": "Tess King",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "w/01+/SJq2FabXNssa+WjA=="
+    },
+    {
+      "name": "Kristi King-Brock",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WQjJvDBkDgA7Fcd32HnruA=="
+    },
+    {
+      "name": "Jean Kleis",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GA+9zOHjxb7qZCPBIUVnqA=="
+    },
+    {
+      "name": "Lara Knight",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PqYuK5C/fGsr6B+hwtacuA=="
+    },
+    {
+      "name": "Allison Ko",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ov7KWPv0MJOLKO5/YLFj2Q=="
+    },
+    {
+      "name": "Cristina Koehler",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HDotyWs8zSr1z5tT+k2bFw=="
+    },
+    {
+      "name": "Nancy Kohl",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D6tFru7HM8rhxN8DPx4wrw=="
+    },
+    {
+      "name": "Carol Kooistra",
+      "gender": "Female",
+      "city": "Campobello",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "wk4O/q3oMVwQvFImORcjDQ=="
+    },
+    {
+      "name": "Claudia Kornaros",
+      "gender": "Female",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yck/6OY1YXOJql505la72w=="
+    },
+    {
+      "name": "Patti Kortenber",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KjGqDzXedU23+uGy1ihi0g=="
+    },
+    {
+      "name": "Naomi Kozawa",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eAY4WUUGBWGgWI9l5UVIAw=="
+    },
+    {
+      "name": "Taya Kretz-Notelle",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KYDscVOx0wiHvw5PIaomug=="
+    },
+    {
+      "name": "Susan Krzeminski",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pNwEk7UQ84Y7xb7nA1e94w=="
+    },
+    {
+      "name": "Kimey Kyker",
+      "gender": "Female",
+      "city": "Piedmont",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oJ3bpNNOKzK825tZHZY6gQ=="
+    },
+    {
+      "name": "Caroline Lambert",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GB0G8+kGM7X7P/iVAkLESg=="
+    },
+    {
+      "name": "Sarah LaMunion",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "66nEj63j0gZmXA5vqp0/ZA=="
+    },
+    {
+      "name": "Shely Landrum",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hSpiIYuJWaKvt9GbtTrVgQ=="
+    },
+    {
+      "name": "Nancy Lanois",
+      "gender": "Female",
+      "city": "Lavonia",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s3ziyhJEaDt9rG/c6//7sQ=="
+    },
+    {
+      "name": "Missy Lawlor",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0p+OkDlGiJjM/dX/rfqA7g=="
+    },
+    {
+      "name": "Anna Leavitt",
+      "gender": "Female",
+      "city": "Pendleton",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/17/2024",
+      "usta_id": "gtDtxPzUTeEKua53iQMnNg=="
+    },
+    {
+      "name": "Amy Lee",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AiO3fPi8gqGUSOT3a4Dbhg=="
+    },
+    {
+      "name": "Cindy Lee",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iTcc5Y5IsPt4upZZ/EtrYw=="
+    },
+    {
+      "name": "Juliette Lee",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qvj/mKYPcrILY9xCO2lITA=="
+    },
+    {
+      "name": "Juliana Lema Ruiz",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "8QEM/d0+LHvG1qHPolqofw=="
+    },
+    {
+      "name": "Kathy Leonard",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A2OfM47x/TKhjS5JFbOfWQ=="
+    },
+    {
+      "name": "Megan Leonard",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/1/2025",
+      "usta_id": "sAr3v1wklNMuePG7Z3va7g=="
+    },
+    {
+      "name": "Kelly Lewis",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q9hBls0HsH0nhsnYv639+w=="
+    },
+    {
+      "name": "Mary Lewis",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/3/2025",
+      "usta_id": "A+tNs4k05qSchgwIr7IFOA=="
+    },
+    {
+      "name": "Lisa Littleton",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tiJgg3Sm/t6HpQgcXqWZ+A=="
+    },
+    {
+      "name": "Kathy Lloyd",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/20/2024",
+      "usta_id": "/n6xlTvy/mci6K6QP0MNtg=="
+    },
+    {
+      "name": "Judith Lofurno",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gFTdHVR+wTA8VNrqkyaBdQ=="
+    },
+    {
+      "name": "Dana Loring",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nMPZpOkAb4bcnqPleKaIzg=="
+    },
+    {
+      "name": "Jennifer Lucas",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CEaAQCWX+64/b6yWe6WAvA=="
+    },
+    {
+      "name": "Stephanie Lucas",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ticKfjttnTS59WVHiq/V0Q=="
+    },
+    {
+      "name": "George-Anna Lyden",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "axHt/+rm0fiOFn5/BRpHPA=="
+    },
+    {
+      "name": "Patricia Lynch",
+      "gender": "Female",
+      "city": "Mauldin",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "b5xG+BdOBWv94hkAfCO5/w=="
+    },
+    {
+      "name": "Heather Lynn",
+      "gender": "Female",
+      "city": "Taylors",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/11/2025",
+      "usta_id": "kpkhrMeLD+h29G35bhZ3EA=="
+    },
+    {
+      "name": "Tracey MacDonald",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+VMTxxSxTrbB5AscG5+9ZQ=="
+    },
+    {
+      "name": "Susan MacEr",
+      "gender": "Female",
+      "city": "Taylors",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aMObGcXJmt0H08jufAYNLg=="
+    },
+    {
+      "name": "Rebecca Maddox",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tglJfjGNkoZ5/UNB+gLcBA=="
+    },
+    {
+      "name": "Karen Makepeace",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QuzUqnDooB463P8F8tpXzw=="
+    },
+    {
+      "name": "Elizabeth Malcolm",
+      "gender": "Female",
+      "city": "Spartanburg",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/25/2024",
+      "usta_id": "gxEtA5QCIrELaOgSZ7X+tQ=="
+    },
+    {
+      "name": "Lisa Maly",
+      "gender": "Female",
+      "city": "Sunset",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S+x8P0sAiycmVK1VRWpASA=="
+    },
+    {
+      "name": "Alice Mandigma-Izzard",
+      "gender": "Female",
+      "city": "Landrum",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/9/2024",
+      "usta_id": "cddmw+WzX+kHKS6nAxtOcw=="
+    },
+    {
+      "name": "Carrie Marguet",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hc8wGJ249tybzX8DitxLww=="
+    },
+    {
+      "name": "Ali Marks",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "dzyVKSQvIbVDGpWYBwqquw=="
+    },
+    {
+      "name": "Charlotte Mason",
+      "gender": "Female",
+      "city": "Moore",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WFnAhmYDXVZWfdQsGkLMNQ=="
+    },
+    {
+      "name": "Kelsey Mathias",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G6P+xud5JK2RtEA1iLlnsA=="
+    },
+    {
+      "name": "Janet Matricciani",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Esg0/AkjHTcIuB9BtRtqA=="
+    },
+    {
+      "name": "Valerie Mattingly",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fvl01jFY7RggDSnM/MwbOA=="
+    },
+    {
+      "name": "Melissa Maude",
+      "gender": "Female",
+      "city": "Easley",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "agoCHx+FFR0xcmJ6EZQCMA=="
+    },
+    {
+      "name": "Claire Maybin",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yt0vdrlUrpklRwlCm3u61Q=="
+    },
+    {
+      "name": "Holli Mayher",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HOsF8TWtpCX92NkhE3i4cA=="
+    },
+    {
+      "name": "Cathy Mays",
+      "gender": "Female",
+      "city": "Greenwood",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iLQTmxPplq+KSMBUpGW7mg=="
+    },
+    {
+      "name": "Catherine Mazza",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8x8ye2cJ8H0dn48Or1JaBQ=="
+    },
+    {
+      "name": "Rebecca Mazzone",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A/g0YiIs9zSTSHdEUj9Trw=="
+    },
+    {
+      "name": "Lauren McCallister",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/16/2024",
+      "usta_id": "gCDWXty06F7hnq5fSrHqyw=="
+    },
+    {
+      "name": "Maureen McClintock",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nz/yrKlO4JuhHp9HhbdwmA=="
+    },
+    {
+      "name": "Elizabeth McCollum",
+      "gender": "Female",
+      "city": "Hopewell Junction",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "otKzRCkTnERFEfL5N3uHTw=="
+    },
+    {
+      "name": "Carol McCoy",
+      "gender": "Female",
+      "city": "Lyman",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4iJlLiNZ5e7wmEZB4mvVVA=="
+    },
+    {
+      "name": "Vera McCray",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SakPdYDo95Y1jUYA3iST9A=="
+    },
+    {
+      "name": "Angie McDade",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6ZFY28gxxUtbOxVwuCj/6g=="
+    },
+    {
+      "name": "Kim McFall",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V8a53L/0kxYPUY39pckmuw=="
+    },
+    {
+      "name": "Liliana McGee",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WPTXxaQS9yeNfPSP2xLzMA=="
+    },
+    {
+      "name": "Meg Mcgee",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/7/2025",
+      "usta_id": "ju21cv8dIUFDYz9qA6krvA=="
+    },
+    {
+      "name": "Suzanne McGee",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bDpgc+UpdAq5V7t3IhvgNw=="
+    },
+    {
+      "name": "Leigh McGill",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Et4leTX5sx/KIhK79N4E2A=="
+    },
+    {
+      "name": "Keri McGrath",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ofqBKEE13G/KT+otKnCi2A=="
+    },
+    {
+      "name": "Whitney McGregor",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SDIctaQSlNhn9rDwmVI19Q=="
+    },
+    {
+      "name": "Kristen McLean",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "op0oUX9pnyHh/AFJjMFPlA=="
+    },
+    {
+      "name": "Jessica McMullen",
+      "gender": "Female",
+      "city": "HIGH POINT",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i6vLatej4Dd+mtQFWNe3pg=="
+    },
+    {
+      "name": "Brandy McNair",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "lsP+uHiY+2YVMqAV++vYag=="
+    },
+    {
+      "name": "Laura McNeel",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nHUtxlx8h/sWWCMUYdb9sA=="
+    },
+    {
+      "name": "Trisha Meadows",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vA8Xr0iJ1GXHVwBlPVXvnw=="
+    },
+    {
+      "name": "Tarina Mendes",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "THmUry3HPVEpNk1zS+0icg=="
+    },
+    {
+      "name": "Alexandra Mendoza",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Da1GZdmq5+exVIkCdBPqMg=="
+    },
+    {
+      "name": "Barbara Merline",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "RUZQ/gi2FWKQxBeugUn7Og=="
+    },
+    {
+      "name": "Catherine Mesa",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Xz/8RwNfurYsGXEiXkqJfQ=="
+    },
+    {
+      "name": "Laurie Messenger",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jX+LZ78rjrQfDLES+nijXw=="
+    },
+    {
+      "name": "Brooke Miller",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f7LV1nd44hqOnp2XV/BQ8Q=="
+    },
+    {
+      "name": "Jamie Miller",
+      "gender": "Female",
+      "city": "Spartanburg",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "an2oSj4440K6Iey6jJ5ezw=="
+    },
+    {
+      "name": "Maria Miller",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "NcXCpsOFjI5Fo2ty7yciXg=="
+    },
+    {
+      "name": "Mary Elizabeth Miller",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "93iJzrR+SKBOVUsL+hf43g=="
+    },
+    {
+      "name": "Jennifer Milne",
+      "gender": "Female",
+      "city": "Boiling Springs",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vg2Klnl4Jyd5njT0zJt8HQ=="
+    },
+    {
+      "name": "Sidney Mitchell",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "6/25/2025",
+      "usta_id": "P0z/f5Byt61Gj61qWoXsGQ=="
+    },
+    {
+      "name": "Lisa Mlady",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MxNE80I1z46+tW7GVSvU9g=="
+    },
+    {
+      "name": "Alyssa Monday",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WQjJvDBkDgDdmKp1ee9yXg=="
+    },
+    {
+      "name": "Jennifer Moran",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Kox28S/iK8+g4a+f3hXHQ=="
+    },
+    {
+      "name": "Danielle Morelli",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "hJy3VtEYnwrBWiMRj55N6g=="
+    },
+    {
+      "name": "Jennie Morgan",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KlYkY86C1Vr+VrXCSnR2Dw=="
+    },
+    {
+      "name": "Hope Moriarty",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8mI6oPHvhxzmmIVdNXy0Aw=="
+    },
+    {
+      "name": "Cara Morris",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jE87aWPzMLuZjeYSRRKm7Q=="
+    },
+    {
+      "name": "Francine Morris",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fHhwGo1pgM2fwd89bUjvNg=="
+    },
+    {
+      "name": "Robin Morse",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "qBt+5ubMgzoq67/fKC1Msw=="
+    },
+    {
+      "name": "Gera Mort",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xEx3ZK014zJ4+3+jx4ErPA=="
+    },
+    {
+      "name": "Christy Mostowy",
+      "gender": "Female",
+      "city": "SALEM",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kq8VaAN94erbD4lwrP4/1Q=="
+    },
+    {
+      "name": "Sara Mower",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3BlVxyXYgZ2DXDckqwm41Q=="
+    },
+    {
+      "name": "Maren Mueller",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yQn4xGUsDgvPfQRl5zn47Q=="
+    },
+    {
+      "name": "Julia Mullen",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "DVbQImyayXbj7m7wcnanbQ=="
+    },
+    {
+      "name": "Laura Mullinax",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JFYXGXM1J/dNmFw9f2GZdw=="
+    },
+    {
+      "name": "Andrea Murillo",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xc8krGB+VGgv3WvD3YYJ0w=="
+    },
+    {
+      "name": "Catherine Murry",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P5spCoC04zESKFkhTpCktA=="
+    },
+    {
+      "name": "Linda Musgrave",
+      "gender": "Female",
+      "city": "ANDERSON",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2RfKY2Pelb982SzC5wa/dA=="
+    },
+    {
+      "name": "Marlena Nabke",
+      "gender": "Female",
+      "city": "Reidville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xCEIKxp1GuxaOdcw461xjQ=="
+    },
+    {
+      "name": "Christie Nachman",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gC/GaeGK3oJz2WfDdE2n1A=="
+    },
+    {
+      "name": "TRINA NEGRI",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iKR3vcf4ipZqTjWUnRyE4g=="
+    },
+    {
+      "name": "Janna Neil",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G2RntlC6MeUu47BnSGo40g=="
+    },
+    {
+      "name": "Lauren Nelson",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/21/2024",
+      "usta_id": "JkhHSZAZ/1hR0WFpHdQ4fw=="
+    },
+    {
+      "name": "Johnna Neri",
+      "gender": "Female",
+      "city": "SALEM",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bGssiaVFVhnsxfxwkVfnFw=="
+    },
+    {
+      "name": "Jennifer Nessmith",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qWfJ3GZmq7XUlKs/I1CZ4w=="
+    },
+    {
+      "name": "Tracey Nettles",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Et8XUdnQVsq5281ea5oc5g=="
+    },
+    {
+      "name": "Hoi Nguyen",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a25SewI+9Nofk1GfT5EyLw=="
+    },
+    {
+      "name": "Van Nguyen",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OoqC389K7SDfVuskqRz6XQ=="
+    },
+    {
+      "name": "Cybil Nielsen",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yANgzIZ4K/xYzUpmeef8bQ=="
+    },
+    {
+      "name": "Jill Norman",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nTrtPaws18VV3ArOChL5mg=="
+    },
+    {
+      "name": "Laura Nowell",
+      "gender": "Female",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "JsUkW13HzNNOW1sUwxbq/A=="
+    },
+    {
+      "name": "Tracy O'Shea",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MnJLa0IfkbQzZ4nmlCtijA=="
+    },
+    {
+      "name": "Gene Oswalt",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "lpYbOljzE2Hx1eSCPuLqcg=="
+    },
+    {
+      "name": "Tiffany Ours",
+      "gender": "Female",
+      "city": "Taylors",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/1/2025",
+      "usta_id": "KCE8iANIuHAW0ELTB2SmsQ=="
+    },
+    {
+      "name": "Jennifer Page",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2024",
+      "usta_id": "GYKr0753ZncIqoeKbJxBDw=="
+    },
+    {
+      "name": "Stephanie Painter",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b3MttpwkPpLMY/COCX3ISg=="
+    },
+    {
+      "name": "Kimberly Parker",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wj3y3HB8poefMFpt35ww0w=="
+    },
+    {
+      "name": "Donna Parrett",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "21SNOtTYdARnhuljSs3qXg=="
+    },
+    {
+      "name": "Kristen Patel",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vE53GUVq71u6ohLRUJJkVw=="
+    },
+    {
+      "name": "Mary Paylor",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/11/2025",
+      "usta_id": "OuE3FjV+q6A3uaexYYQvXw=="
+    },
+    {
+      "name": "Olga Paz",
+      "gender": "Female",
+      "city": "Mauldin",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YyAj66ong5E4ihV/LfqNDQ=="
+    },
+    {
+      "name": "Kimberly Pearigen",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tfuaOMvISWbxVBHyUd2i5g=="
+    },
+    {
+      "name": "Gina Pelino",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h58GSpN0A37RN5/B+QsjTQ=="
+    },
+    {
+      "name": "Carson Pellegrino",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VS1DqQddDwYyHMj+6RiVrw=="
+    },
+    {
+      "name": "Karen Penoncello",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zv47QARyc41zpBgVuqzdPQ=="
+    },
+    {
+      "name": "Caroline Perkins",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eDOulF0QzTiP/JCftu+R+w=="
+    },
+    {
+      "name": "Elizabeth Phillips",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CpGdcUbRq7BP+v17qKLkcg=="
+    },
+    {
+      "name": "Elizabeth Philmon",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GBhfvjF4LvdO+UOGqUpvgQ=="
+    },
+    {
+      "name": "Melanie Pickhardt",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LYs1Phco0cuOf5ipedxovg=="
+    },
+    {
+      "name": "Julie Pitcairn",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fR8ixS2WamKUIrrfW1Lemg=="
+    },
+    {
+      "name": "Emma Pixley",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yz6GJHKh0ndHULL2foNTHg=="
+    },
+    {
+      "name": "Julie Plummer",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BWB0T2IQ++Vf3AtUnEQgTA=="
+    },
+    {
+      "name": "ABIGAIL POLAK",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5h9OboVwZQ5Cd03RpmTR+w=="
+    },
+    {
+      "name": "Christina Pompey",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/x8rTu5U2SDLUvwk93gYZw=="
+    },
+    {
+      "name": "Regina Porter",
+      "gender": "Female",
+      "city": "Central",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2gDVmLPc3qV3Jh06OzLJ/w=="
+    },
+    {
+      "name": "Kara Powder",
+      "gender": "Female",
+      "city": "Clemson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WJtUTFAuHtLGbVFFvW8LIQ=="
+    },
+    {
+      "name": "Amanda Powell",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DdnCr1QgIzPacZzijZgvuw=="
+    },
+    {
+      "name": "Deborah Powell",
+      "gender": "Female",
+      "city": "Clemson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2T5P4ZuGLnplqgNezAJW8Q=="
+    },
+    {
+      "name": "Meg Powers",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/3/2024",
+      "usta_id": "DE46KwM5ZewMn2BF1wtdhw=="
+    },
+    {
+      "name": "Katrina Prala",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Edb91GqnXZQxM/lES1A6TA=="
+    },
+    {
+      "name": "Anna Pretulak",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7GebB2l1GIDcca1KcxOcYg=="
+    },
+    {
+      "name": "Meredith Prickett",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pUSbPXzNIIeFbLAaDOTWgw=="
+    },
+    {
+      "name": "Emily Proctor",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/13/2025",
+      "usta_id": "TjeFLO7ZvuOK0OSGZsXfSw=="
+    },
+    {
+      "name": "Windy Pruette",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u0T5c0HQDjJCrlKnBtPFEw=="
+    },
+    {
+      "name": "Jill Przybyla",
+      "gender": "Female",
+      "city": "Clemson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/3/2025",
+      "usta_id": "worHOfSLUwvHSnXyIPDpxg=="
+    },
+    {
+      "name": "Dell Pulliam",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SKDEb0aldlT3E8lvr3ABEA=="
+    },
+    {
+      "name": "Carol Rabel",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D0TYv/4dQBgLAC7BcBZzHg=="
+    },
+    {
+      "name": "Elizabeth Raduns",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X/EtGgPfQC23KBBvYLcZGQ=="
+    },
+    {
+      "name": "Alexis Ramirez",
+      "gender": "Female",
+      "city": "Laurens",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cjA4bjDGWPAYjGYN4jSQ3w=="
+    },
+    {
+      "name": "Eveleen Randall",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QEdytUrmGouSNlBEd6Xywg=="
+    },
+    {
+      "name": "Brooke Reed",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JqpeqvCPYAOF3bM1S4Ps9Q=="
+    },
+    {
+      "name": "Sheila Reitler",
+      "gender": "Female",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FybILa8pLnBzuA9ukwQvlg=="
+    },
+    {
+      "name": "Kathleen Reynolds",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w1QT5AWbqglFrzP2PEGdgQ=="
+    },
+    {
+      "name": "Melissa Richardson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "htRwQnyaPYCULufWHWjUog=="
+    },
+    {
+      "name": "Christina Richmond",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zH624U9N2baHSRxVUMbAKQ=="
+    },
+    {
+      "name": "Rhonda Riley",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E/LrYILypc6+e/ZnjKEUhQ=="
+    },
+    {
+      "name": "Jeannie Roberts",
+      "gender": "Female",
+      "city": "Easley",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q6eHwnCSwn8V+JrR/sEtrg=="
+    },
+    {
+      "name": "Barbara Robertson",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SdlHT9pfs025iRh3EFrW/g=="
+    },
+    {
+      "name": "Daniela Robertson",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sEZGv5e47VKGXKFXSv2OdQ=="
+    },
+    {
+      "name": "JB Robinson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Qhe+YncgWbVe+mWU8Kh9g=="
+    },
+    {
+      "name": "Katherine Robinson",
+      "gender": "Female",
+      "city": "Lavonia",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EQgk+4t81m9MMcQ10xlczw=="
+    },
+    {
+      "name": "Victoria Robinson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zOj20T8rLRRrIEMd0gUiQQ=="
+    },
+    {
+      "name": "Tammy Rodgers",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1dsPm5h6H6qknB4P5f2Qrg=="
+    },
+    {
+      "name": "Jody Rofelson",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wHCjGHavAoUUCkSd+QOJhQ=="
+    },
+    {
+      "name": "Christina Rogers",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nMipR4FthL53DZ/bTZZipw=="
+    },
+    {
+      "name": "Kellar Rogers",
+      "gender": "Female",
+      "city": "Greenwood",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PBLuMdOcr5MvJvj51jAn+g=="
+    },
+    {
+      "name": "Allison Rondina",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F7GQAgGc9ZauWCX5x3HDBw=="
+    },
+    {
+      "name": "Britanny A ROOD",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cl7crusE39+CPNV5nd2q3A=="
+    },
+    {
+      "name": "Melodee Rosopa",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R/FdpAC7Nz/T65V17k5YAQ=="
+    },
+    {
+      "name": "Kathryn Rountree",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6ftPJyK5WLNSAcOm0kTbNw=="
+    },
+    {
+      "name": "Dawn Rowley",
+      "gender": "Female",
+      "city": "Pendleton",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xuht3CZXRs8CTgoQnoFozg=="
+    },
+    {
+      "name": "Natalie Ruggiero",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pSKnRtd1SETe9KZfu3IXcQ=="
+    },
+    {
+      "name": "Terry Rumph",
+      "gender": "Female",
+      "city": "Clemson",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xm3s8wIMXGNpRnrGW0uZMQ=="
+    },
+    {
+      "name": "Cali Rusk",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "viQHiR8JmWLU1TibcoEVvw=="
+    },
+    {
+      "name": "Haley Russell",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mJTJXYE8sprmeHhZJw8pnw=="
+    },
+    {
+      "name": "Angelia Ruth",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+QAhoTNG60/LSqxLAAwcdA=="
+    },
+    {
+      "name": "Katie Saad",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XF6r+niVixmjbBX0lJS11A=="
+    },
+    {
+      "name": "Colleen Sagan",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A3tb8KLfWkE3ejKQ6YLatA=="
+    },
+    {
+      "name": "XiaoLi Saliny",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hzo0Bz/S/dcgfe4zD0ys1w=="
+    },
+    {
+      "name": "Rebecca Sandborg",
+      "gender": "Female",
+      "city": "NAPLES",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k72thHC6qTnwtjzz851RNA=="
+    },
+    {
+      "name": "Elizabeth Sanford",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "JzhdgpQzM4mv9zqNbRyyQw=="
+    },
+    {
+      "name": "Michelle Savercool",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cjihpiUMSsRPRXfvmBtbgw=="
+    },
+    {
+      "name": "Angeline Scheinbaum",
+      "gender": "Female",
+      "city": "SALEM",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/1/2025",
+      "usta_id": "dIW+ywNLRn+H4X5tJPHx2g=="
+    },
+    {
+      "name": "Suzanne Massey Schemm",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oAcM5RzAsS48KBa7CwPf/w=="
+    },
+    {
+      "name": "Theresa Schlarb",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "boLeL2tfHn4pfSWRuLlFWQ=="
+    },
+    {
+      "name": "Meg Scoopmire",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/8/2023",
+      "usta_id": "4DExBWfvNnMcfoJr2Ua+4A=="
+    },
+    {
+      "name": "Trish Scott",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oGpdYF9nQ6tBl8o03z1SyA=="
+    },
+    {
+      "name": "Johnel Searcy",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Ct1jWlZofkjrOcbAxSOiw=="
+    },
+    {
+      "name": "Kaitlyn Seaver",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w9ev7MIpHPd7jwdZ2ty53w=="
+    },
+    {
+      "name": "Michelle Seaver",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fNdeIpJxaMfCpQ3/YUMw3w=="
+    },
+    {
+      "name": "Jill Seeley",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Wp1omCMjK7oQRfxI2JJDA=="
+    },
+    {
+      "name": "Tracie Segura",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i974WvlufBS66Dx4yXAGug=="
+    },
+    {
+      "name": "Ginger Selby",
+      "gender": "Female",
+      "city": "Pickens",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "5+z1jEr0+xmtifVjdeihnQ=="
+    },
+    {
+      "name": "Sara Senkiw",
+      "gender": "Female",
+      "city": "Travelers Rest",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YGRm5cerqgogwuJOL0cqXA=="
+    },
+    {
+      "name": "Franciesca Serem",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "soI3emcvwCZbum62z9dQBA=="
+    },
+    {
+      "name": "Toni Sharp",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/20/2024",
+      "usta_id": "gyGNtOdrOxDyCXbIYKyiuw=="
+    },
+    {
+      "name": "Josie Sheehan",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/17/2025",
+      "usta_id": "R9c1R5pcW0MYCaMbIv1dlA=="
+    },
+    {
+      "name": "Rachael Shepherd",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/12/2025",
+      "usta_id": "/0VRrWZ3dIH5ysZbAiVYPw=="
+    },
+    {
+      "name": "Meng Sheridan",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "auy6Q3dqvkXS9+XWx9a5pw=="
+    },
+    {
+      "name": "Sandra Shillington-Lopez",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BkIzq96m0zM+rqeF2gyztg=="
+    },
+    {
+      "name": "Jessa Shiner",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "387Spks7Tw7GgLjcaKulMw=="
+    },
+    {
+      "name": "Jennifer Shivers",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y1Q68mmNDt1LR1kZftbXnQ=="
+    },
+    {
+      "name": "Carol Shrum",
+      "gender": "Female",
+      "city": "Fair Play",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "cbkQY2cUVLmuTT4YLLhsoQ=="
+    },
+    {
+      "name": "Ashley Shuler",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/31/2023",
+      "usta_id": "UX7tknMzfERZ6FUzez8vkA=="
+    },
+    {
+      "name": "Kelly Shuler",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WzxSKysz7NtROdcKMhDdcw=="
+    },
+    {
+      "name": "Abby Smith",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yMEVS2iO5oJrSlwSUvM80A=="
+    },
+    {
+      "name": "Anne Smith",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eztRZFymj82VOjbAAOXP9Q=="
+    },
+    {
+      "name": "Holly Smith",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fk2p8c8Gv+tOHdw4dOXmfA=="
+    },
+    {
+      "name": "Jeania Smith",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eOQTq+K61qq5ZITkm7TfRQ=="
+    },
+    {
+      "name": "Lauren Smith",
+      "gender": "Female",
+      "city": "Duncan",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M95fVkrf0TwiDsw4NEcd3Q=="
+    },
+    {
+      "name": "Brie Soler",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "CYnIBF3gdPvDnYa7Ke+DSw=="
+    },
+    {
+      "name": "Jenna Spencer",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gDJT/61CkXO7tqXUVD81SA=="
+    },
+    {
+      "name": "Maryanne Spivey",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "af0OKceH8jPap+xQPxa/gA=="
+    },
+    {
+      "name": "Suzanne Spotts",
+      "gender": "Female",
+      "city": "PELZER",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X9qM2KHECH/yEfEQ5JuWEw=="
+    },
+    {
+      "name": "Candace Steingold",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e0EkrwfvzNz+N3HiU6xuPw=="
+    },
+    {
+      "name": "Lisa Sternberg",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "R3I/s3bFqnFZOI12h0O3Bw=="
+    },
+    {
+      "name": "Cathy Stevens",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/8/2023",
+      "usta_id": "dP8fyCsshM0zYKGCyzJfvA=="
+    },
+    {
+      "name": "Lindsay Stevens",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YGv03wKe7AQiqP26mPOUqg=="
+    },
+    {
+      "name": "Barbara Stewart Zinkovich",
+      "gender": "Female",
+      "city": "Travelers Rest",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "yK76DBYtzFLmL711+8lYPQ=="
+    },
+    {
+      "name": "Caroline Stewart",
+      "gender": "Female",
+      "city": "Townville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W5vlAmRR572VPUM5qQiX/g=="
+    },
+    {
+      "name": "Kathryn Stewart",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/24/2024",
+      "usta_id": "OKJgVnfHBETo7SxfRSKoYQ=="
+    },
+    {
+      "name": "Sarah Stewart",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "BQD6fyB8UwdEv1WkWehYYw=="
+    },
+    {
+      "name": "Betty Ann Stinchcomb",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "13r4czhZd+Oht78rtuT3+A=="
+    },
+    {
+      "name": "Carole St-Laurent",
+      "gender": "Female",
+      "city": "Greenwood",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qGJlqEK1v+8dA1wr4R7hCQ=="
+    },
+    {
+      "name": "Teresa Strait",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E6v1R53GOoDXYhXUpJUD8w=="
+    },
+    {
+      "name": "Jennifer Street",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G0W+AekK08omvaJl+4MLEw=="
+    },
+    {
+      "name": "Emily Strickland",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "upH5kDeUDDP4N/sxv/K7Yw=="
+    },
+    {
+      "name": "Ashley Sumner",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a/rEv5bKMOV38dTR5LTucg=="
+    },
+    {
+      "name": "Patricia Surles",
+      "gender": "Female",
+      "city": "Fountain Inn",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NMLrnbmnfibzf4P+s3jsjA=="
+    },
+    {
+      "name": "Mary Suski",
+      "gender": "Female",
+      "city": "Seneca",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RHTggIbohWBj5QPt0eLvFw=="
+    },
+    {
+      "name": "Michelle Sykes",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "6JAeQZafmHOAHOJ24I3jLg=="
+    },
+    {
+      "name": "Sandy T Diaz",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g+liPXsLYwDNUA/Qk+82Rw=="
+    },
+    {
+      "name": "Holly Tant",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "R78+K2N8a7jhOYbncwzkww=="
+    },
+    {
+      "name": "Kristy Tarallo",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tyrwSp07NvYixFiMIV4o5A=="
+    },
+    {
+      "name": "Liz Taylor",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "cGqaVqocB6BhZaFxT9fmCg=="
+    },
+    {
+      "name": "Tabitha Taylor",
+      "gender": "Female",
+      "city": "SIMPSONVILLE",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kl9g5r0kAuozF7xc5lDzqw=="
+    },
+    {
+      "name": "Sharon Thomas",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v4rYZGSCHxV5NMvYstGyCw=="
+    },
+    {
+      "name": "Stacey Thomas",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Qhe+YncgWZEdqYH+Q/czw=="
+    },
+    {
+      "name": "Katie Tiller",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6H46dTgJ8g6/34UY4mMEpg=="
+    },
+    {
+      "name": "Lynne Todd",
+      "gender": "Female",
+      "city": "Laurens",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "21tHJxGVDHNxDkZm/5zMPA=="
+    },
+    {
+      "name": "Stephanie Tolbert",
+      "gender": "Female",
+      "city": "Inman",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ut0kzn2TVjsygHSqRmyTrA=="
+    },
+    {
+      "name": "Sandi Tolly",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ew5dnZLDqGaDzrdqWK2WTg=="
+    },
+    {
+      "name": "Cristina Torres",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/8/2024",
+      "usta_id": "OhKKFQQkjxjdWfaTpI+Rnw=="
+    },
+    {
+      "name": "Mara Townsend",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DLH5w0KQFcN3vEKm90w3ng=="
+    },
+    {
+      "name": "Jane Trexler",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PeAMePLQcc82bPwCxn0ZeQ=="
+    },
+    {
+      "name": "Renee Troso",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hyozb0X9dVhlVn4VRIxX8Q=="
+    },
+    {
+      "name": "Stephanie Trotter Walker",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "go6nL5EE7hCB0Fug9DWLuw=="
+    },
+    {
+      "name": "Lisa Troup",
+      "gender": "Female",
+      "city": "Easley",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "j2bvcs0+dEdb5ESm1BF4DQ=="
+    },
+    {
+      "name": "Rachel Tucker",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LpA/qUtXb+DYpWZ5dYyBGw=="
+    },
+    {
+      "name": "Ruth Tucker",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "uyk1aTEmAFjazd1z4mqwog=="
+    },
+    {
+      "name": "Pamela Turner",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "swo856+3ZmsGVpB/++piBg=="
+    },
+    {
+      "name": "Liz Turnure",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EerxgOdP/i1F5o78yyLS7w=="
+    },
+    {
+      "name": "Donna Tuten",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rfMBer2mt7hbAqymlS8wig=="
+    },
+    {
+      "name": "Jennifer Tuttle",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BoDjQ+oP2t/c3q96UK7Tew=="
+    },
+    {
+      "name": "Carrie Ann Twedt",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Zf+MoLHCPpCdenF1y2m6Q=="
+    },
+    {
+      "name": "Catherine Twedt",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ik5IYq/2e/b+ajWdp7U5jw=="
+    },
+    {
+      "name": "Stacey Twehues",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q/siqWOMF2feZIRVsUMTkg=="
+    },
+    {
+      "name": "Kim Tyler",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iwWpUzEFXrNsVY5AYa0D7Q=="
+    },
+    {
+      "name": "Tina Underwood",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GviYEbd7aNDAFOOS4X6y8A=="
+    },
+    {
+      "name": "Karolina Valterova",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d9E7Ce6/Q/X7PYnMzErWgw=="
+    },
+    {
+      "name": "Martha van Dam",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MU82IB8in7DS9+siaqMXdg=="
+    },
+    {
+      "name": "Elizabeth Vandiver",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sv0ontdLDxrBj+V7+obkCg=="
+    },
+    {
+      "name": "Sally Vaquero",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zdXf5Ev9un6uAMsq1bzVxg=="
+    },
+    {
+      "name": "Kayla Varrie",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1A5v6iIp9vMqKIjpJyhCpg=="
+    },
+    {
+      "name": "Kim Veprek",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wSDD6pwQrnZJZDxDtRk2Wg=="
+    },
+    {
+      "name": "Jessica Vest",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "6/1/2025",
+      "usta_id": "+K+qhn2WoMPAgUUmlFqzCQ=="
+    },
+    {
+      "name": "Vilma Viera",
+      "gender": "Female",
+      "city": "Walhalla",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v7BAEuL76pVmrMIt3IQIuA=="
+    },
+    {
+      "name": "Maria Vogt",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5V0QGvmWe6Y+cpqePg9GOw=="
+    },
+    {
+      "name": "Sheila Voigt",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6DogYGgLsDpU+aBmJx9QyQ=="
+    },
+    {
+      "name": "M Christine von Wyl",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BRz87511W0Ou+MEgU7cLuA=="
+    },
+    {
+      "name": "Vanessa Vu",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/2/2025",
+      "usta_id": "BBa6kqLMS3rr2dUYoHV7hw=="
+    },
+    {
+      "name": "Jackie Walker",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "goh7lkFunME5wTXI55CKzA=="
+    },
+    {
+      "name": "Shelly Walker",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O2jgZMesOC+A0d/r3kmaWw=="
+    },
+    {
+      "name": "Stefani Wallen-Smith",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U709yFlH/3g7q58OpYpyjA=="
+    },
+    {
+      "name": "Mary Walsh",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K7S/WBb8FWAiiXdvfHYALg=="
+    },
+    {
+      "name": "Brooke Walter",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "UUxIz4PmaPKNOaOy/BLflQ=="
+    },
+    {
+      "name": "Alicia Walters",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f5ohXjjXm2L8eKm24OJKUQ=="
+    },
+    {
+      "name": "Tara Walters",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uw3WjIegQsfSaOiI8axtCA=="
+    },
+    {
+      "name": "Leslie Waltz",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vU8Y5IWbDkyy4ASIUHZCTA=="
+    },
+    {
+      "name": "Ty Warlick",
+      "gender": "Female",
+      "city": "Travelers Rest",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uQs2/y2mtFFrsCkrNiWAag=="
+    },
+    {
+      "name": "Debbie Watson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KrPTJgEKAwfHVsR6LQnqUg=="
+    },
+    {
+      "name": "Lynn Watson",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pIe1LQpayGPcp8JxfwKUAg=="
+    },
+    {
+      "name": "Rhonda Watson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e+mYCMeLpvwYcDHvw9/LPQ=="
+    },
+    {
+      "name": "Catherine Webb",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xogyF0BhXDqblOw/Rbh94A=="
+    },
+    {
+      "name": "Teresa Webster",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UCGNRDQOxqteSjQmmKuF5g=="
+    },
+    {
+      "name": "Katia Wehrly",
+      "gender": "Female",
+      "city": "Mauldin",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+OWFbgBjtbnaTDcMvYsWHQ=="
+    },
+    {
+      "name": "Cyndi Weinbaum",
+      "gender": "Female",
+      "city": "ANDERSON",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "erah3XVT2jr/84GJllQ3zg=="
+    },
+    {
+      "name": "Caroline Welborn",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "10/16/2023",
+      "usta_id": "lwTWjeUVgz+K56pDScnCQg=="
+    },
+    {
+      "name": "Elizabeth Welling",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HcoqTwn2KfGWadXEOLS+nA=="
+    },
+    {
+      "name": "Emily Welling",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kDltfUMOqZyxpvFODZGe7A=="
+    },
+    {
+      "name": "Michelle Weston",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B30IR1B+6JDfuvYeRaG8cw=="
+    },
+    {
+      "name": "Sandy Weston",
+      "gender": "Female",
+      "city": "SENECA",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G3+BE9Vq1Vph56ZyiXY79Q=="
+    },
+    {
+      "name": "Kara Wheeler",
+      "gender": "Female",
+      "city": "INMAN",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1QoT+zpbJK1PIGqVetVtXQ=="
+    },
+    {
+      "name": "Belva White",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "JDOEwjNMrOL+5LIR7gIrPA=="
+    },
+    {
+      "name": "Paola White",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1crq4fSKiI9Kr+//Q5RL4g=="
+    },
+    {
+      "name": "Rebecca White",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zu7zmmcXvSwhvlakzgWa6w=="
+    },
+    {
+      "name": "Kathryn Wiater",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "cP+SC3ZDOTYp6JMFcT7c/g=="
+    },
+    {
+      "name": "Anne Williams",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PReikY7pTyu48JxcWixUdw=="
+    },
+    {
+      "name": "Doni Willmering",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YJXzdLXxNlI7+Ke3HRrQCA=="
+    },
+    {
+      "name": "Lee Ann Wilson",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gfZUoJnKUioiS4VVslCWhw=="
+    },
+    {
+      "name": "Starr Wimberly",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5h0XD9kP9aV2gIdrwZAiQQ=="
+    },
+    {
+      "name": "Gail Wingard",
+      "gender": "Female",
+      "city": "Salem",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PD7vjNwG730QoAc2oqXSIg=="
+    },
+    {
+      "name": "Leah Winton",
+      "gender": "Female",
+      "city": "TOWNVILLE",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oGpdYF9nQ6ssV79MBRKp3w=="
+    },
+    {
+      "name": "Jordan Wise",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qW3nXGdX+ElBQq5l5/c1Gw=="
+    },
+    {
+      "name": "Christy Wistar",
+      "gender": "Female",
+      "city": "Sunset",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KJkHlBh15dQ28dB2jPwXgA=="
+    },
+    {
+      "name": "Lides Withrow",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "3fL7sqnX3IsEtVpZB3fHqg=="
+    },
+    {
+      "name": "Jill Wolf",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ql+WwpP5utG/0U3dsNIOeg=="
+    },
+    {
+      "name": "Leigh Wolke",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X/dQ2BCZycAR6gW7wzevFA=="
+    },
+    {
+      "name": "Jamie Womack",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FpTsAGKoLJN8NCFfMUT6Mg=="
+    },
+    {
+      "name": "Marian Wooles",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Niya1iYHXTRK/5KRm2p1A=="
+    },
+    {
+      "name": "Catherine Wrenn Gibellino",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TIuP56MfQTV91/LPq6s/Qw=="
+    },
+    {
+      "name": "Virginia Wright",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "IVjnk3l3F1KW5e/QBSs3BA=="
+    },
+    {
+      "name": "Amy Wylie",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RF4QNqGLpXGxKzBgXIyFjQ=="
+    },
+    {
+      "name": "Leah Wynn",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OQqd9MmsCApdSQPwyM5awA=="
+    },
+    {
+      "name": "Xiaoqing Yang",
+      "gender": "Female",
+      "city": "Greer",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/25/2024",
+      "usta_id": "vjgILaC/OvtwnsL2i74rkg=="
+    },
+    {
+      "name": "Robyn Yarborough",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ER1Mb7WRmHqwNReOYKuWig=="
+    },
+    {
+      "name": "Renee Yarbrough",
+      "gender": "Female",
+      "city": "Greenwood",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+6qQzXkkCggthWywLjXTpQ=="
+    },
+    {
+      "name": "Mary Yates",
+      "gender": "Female",
+      "city": "Anderson",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/9/2025",
+      "usta_id": "UCV5xez93qmZVWxWk+BhRQ=="
+    },
+    {
+      "name": "Lauren Young",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LsYCr44A7++5BEHjxCTdPw=="
+    },
+    {
+      "name": "Diane Zeager",
+      "gender": "Female",
+      "city": "Piedmont",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "GoC6hay9HCcjK3IjJlEwcA=="
+    },
+    {
+      "name": "Blair Zeimetz",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bd9YaiB4v/Mnmw18dPAdRQ=="
+    },
+    {
+      "name": "Leigh Zmirak",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/17/2023",
+      "usta_id": "7oD//GWyoZiz0DdppklorQ=="
+    },
+    {
+      "name": "Roberta Zoppe",
+      "gender": "Female",
+      "city": "Simpsonville",
+      "state": "SC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "nglyPdKWyKXb1K59XNxbmA=="
+    }
+  ]
+}

@@ -1,0 +1,5767 @@
+{
+  "sectionId": "6243299",
+  "districtId": "6243343",
+  "areaId": "6243500",
+  "players": [
+    {
+      "name": "Rick Aasen",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/9/2025",
+      "usta_id": "BO2nTMQKTvEUGHLswjimpA=="
+    },
+    {
+      "name": "Susie Abramson",
+      "gender": "Female",
+      "city": "Palmyra",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5dX5UlNXb59CXt3FyPS8Ow=="
+    },
+    {
+      "name": "Nancy Achilles",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "4Q1rkJHFaa1xpPR1sx3nTw=="
+    },
+    {
+      "name": "Allison Agarwal",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Emh1/atwIfIRHF4BJxgHOw=="
+    },
+    {
+      "name": "Ralph Agpaoa",
+      "gender": "Male",
+      "city": "Midlothian",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Yoe0BYDR1LN9USPMPX5gVA=="
+    },
+    {
+      "name": "Celia Aidinoff",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/9/2025",
+      "usta_id": "J33P3JvCwIL9ATLM4m4jWA=="
+    },
+    {
+      "name": "Kim Alley",
+      "gender": "Female",
+      "city": "Maidens",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GCf7C94iFk7lTHJyNSxlvA=="
+    },
+    {
+      "name": "Rushman Andrews",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "diV5cAzyMwX2cWnI11IZLg=="
+    },
+    {
+      "name": "Alex Angiolillo",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iAgwP9NKKi8bCZN8pCtm4Q=="
+    },
+    {
+      "name": "Bridget Atwell",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fDyDHYi3y8tFqSjzR8wfzw=="
+    },
+    {
+      "name": "Chris Bailey",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wOO1WdbIfoEMsBOTpxEtdw=="
+    },
+    {
+      "name": "Benjamin Baker",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2Cc5vES3G0CzKxVrYEAEwA=="
+    },
+    {
+      "name": "Josefina Bande",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zX6HRDyUTJSFiQDItfDzpg=="
+    },
+    {
+      "name": "Anne Barger",
+      "gender": "Female",
+      "city": "Waynesboro",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UaMcvSBXU2yUyPGdosbOqg=="
+    },
+    {
+      "name": "Jossef Baron",
+      "gender": "Male",
+      "city": "PALMYRA",
+      "state": "VA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "j6v0cdToqG91UvxNvCBHmg=="
+    },
+    {
+      "name": "Jordan Barr",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q2iLk2XJ3/1YdfuBRMuuAg=="
+    },
+    {
+      "name": "Pablo Barrague",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7VX1p0shIzBurhCp4jNMFg=="
+    },
+    {
+      "name": "Saundra Barrett",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aLGcTRsh6/IF9mwXogIlcg=="
+    },
+    {
+      "name": "Grace Bartini",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HFPgWGN2HQhgwGY8rDOFJA=="
+    },
+    {
+      "name": "Samantha Bates",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ASODKSglvTo21Bp/tWvmHg=="
+    },
+    {
+      "name": "Esther Bausserman",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UGbMMyHsi4/U7TIqCv6JcQ=="
+    },
+    {
+      "name": "Susan Bayliss",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k9PaW5CRLF3ddaA/BnXu+w=="
+    },
+    {
+      "name": "Lindsay Bazydlo",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "GZn9J0g99WcS5gG/sGt7KQ=="
+    },
+    {
+      "name": "Elizabeth Beasley",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "qLCTO8tebQzQsT8BhwYoBg=="
+    },
+    {
+      "name": "Carolyn Beckham",
+      "gender": "Female",
+      "city": "Lynchburg",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3+s+AI8+dzSoji706IDGpQ=="
+    },
+    {
+      "name": "Mariana Bell",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c7F7iqJP0Sy14GWR2q6XGQ=="
+    },
+    {
+      "name": "Greg Benham",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jrxxAtg3CE3ungwULmp9AA=="
+    },
+    {
+      "name": "Austen Berry",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "gB23KzrjSTXt3z8GkMbVTg=="
+    },
+    {
+      "name": "Nancy Berry",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "azgiYRsfiefqsXu9wiKL1g=="
+    },
+    {
+      "name": "Paige Betz",
+      "gender": "Female",
+      "city": "New York",
+      "state": "NY",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/30/2025",
+      "usta_id": "tnMa/Bd2GO/VSq6w+in3EA=="
+    },
+    {
+      "name": "Christina Beverage",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6sP/noFySnbnMWyledNQbg=="
+    },
+    {
+      "name": "Isha Bhatia",
+      "gender": "Female",
+      "city": "Chantilly",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/1/2024",
+      "usta_id": "NdOOItLvZ+nij5VIPQBz+A=="
+    },
+    {
+      "name": "Heather Bilderback",
+      "gender": "Female",
+      "city": "PALMYRA",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sOVQduptIf6R6JrlLGSplw=="
+    },
+    {
+      "name": "Heidi Binko",
+      "gender": "Female",
+      "city": "Troy",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ILEBXpS8WnMP0mTC4pqRpA=="
+    },
+    {
+      "name": "Paul Bishop",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "BHJqpI60UKUKMh5WYx+28Q=="
+    },
+    {
+      "name": "Amelia Black",
+      "gender": "Female",
+      "city": "KESWICK",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qsXYMuRPIDOtKT5cpnf+2w=="
+    },
+    {
+      "name": "Elizabeth Black",
+      "gender": "Female",
+      "city": "ZION CROSSROADS",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DUAy8/N0m9yw1bRC5HVMTg=="
+    },
+    {
+      "name": "Belinda Blankenship",
+      "gender": "Female",
+      "city": "BARBOURSVILLE",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jPAq7Q1BJ5sBPhpYjEt3wg=="
+    },
+    {
+      "name": "Silvia Blemker",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jSTE+DHn6dQhESs/sQCr/Q=="
+    },
+    {
+      "name": "Wescott Blemker",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vun4G+hX4XbzeASshAl0qw=="
+    },
+    {
+      "name": "Kailey Boatright",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1hkydfgZTQv1uE6F6fleLA=="
+    },
+    {
+      "name": "Esther Bobbin",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "RUW3xpQEl30LkJQpi3S/UA=="
+    },
+    {
+      "name": "Scott Bohmke",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q/kBBCQE3hdaWHNe0R6Xqg=="
+    },
+    {
+      "name": "Stephanie Bolton",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/6/2025",
+      "usta_id": "WhqcVUb+ZERTcqeg36BJRQ=="
+    },
+    {
+      "name": "Jay Bolus",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VvOOGvt15FkmSz+gNdYZwQ=="
+    },
+    {
+      "name": "Stephen Bottas",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/21/2025",
+      "usta_id": "sCUsklCjImXvVIHzdyVdMg=="
+    },
+    {
+      "name": "Amy Bouton",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "xsqKsW9FLohRee8ZGRABkg=="
+    },
+    {
+      "name": "David Bowerman",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LqkzZGjNLwQ2QBH54TeH5w=="
+    },
+    {
+      "name": "Elizabeth Boylan",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "agv7Q/lfy3LY7PAG931DHw=="
+    },
+    {
+      "name": "Bram Braakman",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "aw8jnnaRBrSD2O86LYxiTw=="
+    },
+    {
+      "name": "Alexandra Bracey",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/27/2024",
+      "usta_id": "cb7StzPlRj2yKW7hGJ5wdg=="
+    },
+    {
+      "name": "Pat BRadley",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HFV3OjXCx5MT0d+i6WqsyA=="
+    },
+    {
+      "name": "Sonia Brandon",
+      "gender": "Female",
+      "city": "Palmyra",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+PoRpUOwyPbq4hN8KVPoRA=="
+    },
+    {
+      "name": "Chris Breeden",
+      "gender": "Male",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xg/IgSdSZFxczEs2o4rApA=="
+    },
+    {
+      "name": "Brandy Bridges",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2iJ6i19I6wXX8Wo4KB+KZQ=="
+    },
+    {
+      "name": "Mary Broden",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DXnPBfc5MNRN2PX4nObu+w=="
+    },
+    {
+      "name": "Zane Broden",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zqbitXVrH9PlkjkUichuiA=="
+    },
+    {
+      "name": "Meaghan Brody",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "zsi4owv7UJCTbKlTA6/BPA=="
+    },
+    {
+      "name": "Susan Brooks",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7QGOH5Ezb3o+TJA2gYoJcw=="
+    },
+    {
+      "name": "Catherine Brown",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wLyxxu5P+vts0YAte4cHyw=="
+    },
+    {
+      "name": "Elizabeth Brown",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jB/BuMJ7bKzL6noOfJ1Oqg=="
+    },
+    {
+      "name": "Allie Bryan",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JJvXjOhxqhtI9RjdWuOjWg=="
+    },
+    {
+      "name": "Eric Bryerton",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/29/2024",
+      "usta_id": "tULslIScNviQ3AaiK+tamQ=="
+    },
+    {
+      "name": "Karen Budlong",
+      "gender": "Female",
+      "city": "Roseland",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/16/2024",
+      "usta_id": "4n00+wstHUPxyMlIK9IIVw=="
+    },
+    {
+      "name": "Belinda Bullock",
+      "gender": "Female",
+      "city": "North Garden",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mlovGB2kEfs+u1Y9iXJdqA=="
+    },
+    {
+      "name": "Linda Burchfiel",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "GKJliYDOF7oVrE2gYKJs/Q=="
+    },
+    {
+      "name": "Leah Burger",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oGh6D7S/+Os1CoWsZsA4tA=="
+    },
+    {
+      "name": "Brett Burk",
+      "gender": "Male",
+      "city": "Leesburg",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L6+tDfYgnVSVWKdCe9qieQ=="
+    },
+    {
+      "name": "David Burns",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aDLgVQdNvJc8UAUZ82c/xA=="
+    },
+    {
+      "name": "Diane Burns",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "kSeRi4J7QQ6CPTsh7Ky5AA=="
+    },
+    {
+      "name": "Mary Anne Burns",
+      "gender": "Female",
+      "city": "Charlottesvle",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "otBvZ0FwVoJQKnQ8NZ8Lqg=="
+    },
+    {
+      "name": "Tracy Burpee",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HR/29VirSphf6L9iF5AU8w=="
+    },
+    {
+      "name": "Susan Button",
+      "gender": "Female",
+      "city": "Culpeper",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mgkA1auupRRtu8qYzBl9Hg=="
+    },
+    {
+      "name": "Susan Cabell Mains",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SVePc2c4I/UkFCEh8gCqgQ=="
+    },
+    {
+      "name": "Qian Cai",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "4X5Cc8FjAHbGshViVr7dgQ=="
+    },
+    {
+      "name": "Sarah Caldwell",
+      "gender": "Female",
+      "city": "BOONE",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9wE+qZymSMc0+vBYQNG2hg=="
+    },
+    {
+      "name": "Mary Beth Cancienne",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J/IYYI7FwtBQQ7inorSQOA=="
+    },
+    {
+      "name": "Daniel Carlson",
+      "gender": "Male",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w2fHJ4EnGGPtKU55k3og8Q=="
+    },
+    {
+      "name": "Joan Carlson",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "jyq9wqXI17lXbnt10XHKPg=="
+    },
+    {
+      "name": "Tamara Carlson",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qq+o0Qpm3oxAE+XvZtCl5g=="
+    },
+    {
+      "name": "Sonya Carman",
+      "gender": "Female",
+      "city": "Midlothian",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g1+1ripm9T+eJTuiEIJI+g=="
+    },
+    {
+      "name": "Jan Carroll",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OS11IVucO96mrQvYKwbSzw=="
+    },
+    {
+      "name": "Wesley Carson",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "LSjYDMD1gmAyBwvQpiDZSg=="
+    },
+    {
+      "name": "Kristin Carter",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PoP5lG9n3sKO4cUAMvkfEw=="
+    },
+    {
+      "name": "Ian Caskill",
+      "gender": "Male",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tTUA3OoXpRfTi0KylpYc7Q=="
+    },
+    {
+      "name": "Millie Cathcart",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4DvITmdrQQjhz+6o8y08dg=="
+    },
+    {
+      "name": "Scott Cathcart",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/21/2025",
+      "usta_id": "zsoMJxnehuEtPr3b3mA68w=="
+    },
+    {
+      "name": "Alex Caton",
+      "gender": "Female",
+      "city": "Gordonsville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XsUMjVAEGJ80nHxJupwiug=="
+    },
+    {
+      "name": "Christopher Chandler",
+      "gender": "Male",
+      "city": "Moseley",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TB1HzSDpMQz2ynh0y6Ht6Q=="
+    },
+    {
+      "name": "Lisa Chang",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "cj53iZWnZ6U9d/Fq3Uy2Sw=="
+    },
+    {
+      "name": "Christy Chattleton",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S/UhAKAZ2USEWhJzczfPeA=="
+    },
+    {
+      "name": "Rakitha Chelliah",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/30/2023",
+      "usta_id": "v1HrkO/CaKBapO8u3rE8Fg=="
+    },
+    {
+      "name": "Naveen Chennupati",
+      "gender": "Male",
+      "city": "Glen Allen",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NoMTOEUL0VWaXnjH60gTOQ=="
+    },
+    {
+      "name": "Caroline Childers",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hsj3zbmeNSK+wnqMUX8mDg=="
+    },
+    {
+      "name": "Jennie Chiu",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rb0Bga5AAdT7/qevGhr98A=="
+    },
+    {
+      "name": "Esther Cho",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+vkU8NqDscvkQSfAZT18Nw=="
+    },
+    {
+      "name": "Lisa Christianson",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z/wCEV3GD8iwP9mLCGQxRg=="
+    },
+    {
+      "name": "Karen Christoffersen",
+      "gender": "Female",
+      "city": "Palmyra",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HANReXk5XWqvitOyabQOdg=="
+    },
+    {
+      "name": "Susie Chung",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IB6qloxiGudArzC6Gx29/g=="
+    },
+    {
+      "name": "Elizabeth Churchill",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/9/2025",
+      "usta_id": "yd84dDPrV6lOi2QQ+9g6cA=="
+    },
+    {
+      "name": "Emma Clancy",
+      "gender": "Female",
+      "city": "KESWICK",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "PXHWVBpSCsRSdnj+8bUb6g=="
+    },
+    {
+      "name": "David Clemens",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "U0VdmsqCswFPM9RkqUOxrQ=="
+    },
+    {
+      "name": "Will Cleveland",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+D2nORkkQamuNhxi9tygyg=="
+    },
+    {
+      "name": "Henry Clifford III",
+      "gender": "Male",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xcdZSNnUP83CRgxr5gR/NQ=="
+    },
+    {
+      "name": "Patricia Clifford",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4OEHElYdCLa5T2MDULCH7w=="
+    },
+    {
+      "name": "Danielle Coccomo",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4TtyvLpT2apyEfLpT/4y/A=="
+    },
+    {
+      "name": "Taylor Cole",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "vohDYh+KFFMC+Hrxc1/6jA=="
+    },
+    {
+      "name": "Cailin Collier",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nKRclDdfYKg4NEqfGvKNLA=="
+    },
+    {
+      "name": "Jessicah Collins",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9WDCyceHGN82XsgpT1VeJQ=="
+    },
+    {
+      "name": "Jonathan Colmer",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uQw+OXjY1/ydsIxiHQhqVA=="
+    },
+    {
+      "name": "Carlin Conner",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kLLn2aHkW7UqdNu0SIagHg=="
+    },
+    {
+      "name": "Dave Contini",
+      "gender": "Male",
+      "city": "Gordonsville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "miNdEKCa0sXzGHnwnb52nA=="
+    },
+    {
+      "name": "Carrie Cooper",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mkk/uTuQBlaW3Or3jgPKmA=="
+    },
+    {
+      "name": "Linda Corradino",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4V1SC0/IRHVBsGo+7PU1Sw=="
+    },
+    {
+      "name": "Alida Couric",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Aw9FWScaPN0uQ63Ays00fg=="
+    },
+    {
+      "name": "Katie Cowen",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t+TzUwbza9fjoFmIpyho/w=="
+    },
+    {
+      "name": "Rachael Craven",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/20/2025",
+      "usta_id": "MBB31P54UlQoO4zn6g9ZxA=="
+    },
+    {
+      "name": "Mark Critchfield",
+      "gender": "Male",
+      "city": "Locust Grove",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KJKDZJpJd7k6/hNRnNRvsQ=="
+    },
+    {
+      "name": "Rob Cross",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/23/2025",
+      "usta_id": "/+dFpJZcgCr5IMEbYPOZKw=="
+    },
+    {
+      "name": "Robert Cueva",
+      "gender": "Male",
+      "city": "FREE UNION",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p/i1Jy0d55XdgWQP/E5ZnA=="
+    },
+    {
+      "name": "Kala Curtis",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "u/+Vhbr83BbFPVcuu5aWjg=="
+    },
+    {
+      "name": "Molly Czarnecki",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/24/2025",
+      "usta_id": "re6+7r3IpauiWrfRKjo1Bg=="
+    },
+    {
+      "name": "Meredith Daley",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "VQ/9QwZs7YNUJ/JsCd9Jfw=="
+    },
+    {
+      "name": "Amanda Daniero",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "odk4+LwZInoGTOfNnYgXeg=="
+    },
+    {
+      "name": "Wendi Dass",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5qPFKV0CiGfJ8kPTWb5LvA=="
+    },
+    {
+      "name": "Kathryn Davis",
+      "gender": "Female",
+      "city": "Culpeper",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eLtH85pV/ndW8bET4nrxNA=="
+    },
+    {
+      "name": "Lorenzo Davis",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TAUYKkUxJN+eYwBAYbG8QA=="
+    },
+    {
+      "name": "Lorie Davis",
+      "gender": "Female",
+      "city": "Madison",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/15/2025",
+      "usta_id": "TAUYKkUxJN92Lp/xIzmfZw=="
+    },
+    {
+      "name": "Alex de Montbel",
+      "gender": "Male",
+      "city": "Troy",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JxF/2ugTKWdiCxJavghkjQ=="
+    },
+    {
+      "name": "Marcello de Montbel",
+      "gender": "Male",
+      "city": "Troy",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z7HfocaRZCe0oLsKB3QVlw=="
+    },
+    {
+      "name": "Michelle DeLang Conner",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oXBi1G+WigfIL6+bIH6YUA=="
+    },
+    {
+      "name": "Chike Dellimore",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lpKuofey5zgRrSDynixipg=="
+    },
+    {
+      "name": "Candace Deloach",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "wdACdv80udxu0/RjRAIkcQ=="
+    },
+    {
+      "name": "Catherine DeSouza",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y426m+YwpguoHsb1N/bgug=="
+    },
+    {
+      "name": "Judith Divita",
+      "gender": "Female",
+      "city": "PALMYRA",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U+yZbE2tG1EhXnKCU4dcJQ=="
+    },
+    {
+      "name": "Lea Doise",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f9Br3v9qcPHLoZtQqJY8Hw=="
+    },
+    {
+      "name": "Martha Donnelly",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fdKeCTZ1JznArIFbXtGIOw=="
+    },
+    {
+      "name": "Dalton Dorne",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g4xC8AhjpUDOheUtUTZ3WQ=="
+    },
+    {
+      "name": "Deanna du Lac",
+      "gender": "Female",
+      "city": "GORDONSVILLE",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5Zix7i+dVeWFq/w7jduzYw=="
+    },
+    {
+      "name": "Ayla Dugan",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wIvk82fxFoj6FYbZsG4hcA=="
+    },
+    {
+      "name": "Linda Dumansky",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/15/2025",
+      "usta_id": "sIcA0XtfSd+ZWI5uIwmlLw=="
+    },
+    {
+      "name": "Lauren Dunn",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3l+6W7RruWB4nYJXSr0cxw=="
+    },
+    {
+      "name": "Long Duong",
+      "gender": "Male",
+      "city": "Barboursville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EBZNiBFRQ4vYwumeXKqRXg=="
+    },
+    {
+      "name": "Christine Eagleson",
+      "gender": "Female",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mx/Vq4xDSdtT8Wo1ir62WQ=="
+    },
+    {
+      "name": "Amy Eastlack",
+      "gender": "Female",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "enpYhOVKeya/vzRo1WkODg=="
+    },
+    {
+      "name": "Makenna Edgington",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MHHLLH/i4WUHjlepMNsraw=="
+    },
+    {
+      "name": "Kathleen Edwards",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PNnTZP301+QqfkwpPj3qXw=="
+    },
+    {
+      "name": "Allison Egidi",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7FWDOYdQC3AD8kK76Ids0w=="
+    },
+    {
+      "name": "Craig Ellis",
+      "gender": "Male",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qRp6qEJNw8RNnF2yjxgC9g=="
+    },
+    {
+      "name": "Lindsay Ellis",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/24/2025",
+      "usta_id": "XuG6+jh7mFYWfb3Hrih8NQ=="
+    },
+    {
+      "name": "Judith Ely",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VSKR5g/lFhYm3ECAcnQfAA=="
+    },
+    {
+      "name": "Robert Emery",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fQ9RFPpKDyPVvMtfmBu6gQ=="
+    },
+    {
+      "name": "Mary Ensminger",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gBrv9GpcX9R/hHore9n1Xg=="
+    },
+    {
+      "name": "Diane Espinosa",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vw9xQ1ZgucbUrFuBV4N60A=="
+    },
+    {
+      "name": "Rebecca Eustis",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NApWE6dlER4GGoXAzJMFsg=="
+    },
+    {
+      "name": "Bill Evanow",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KOyWY6VQPz0j1/KKonVnjw=="
+    },
+    {
+      "name": "Allison Ewing",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8xuv6x4uZ/k5NNAyo/eAfA=="
+    },
+    {
+      "name": "Carol Fairborn",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/11/2025",
+      "usta_id": "teWPFCkLN7FYLWjJ8hAo6w=="
+    },
+    {
+      "name": "Luke Fairborn",
+      "gender": "Male",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "teWPFCkLN7FuYyJmv9Fv2g=="
+    },
+    {
+      "name": "Jennifer Farmer",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GYqLPmxQmv0+Td/Qztqpag=="
+    },
+    {
+      "name": "Caroline Faulconer Saul",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "yhe03SsLmplfdrDet9AhLw=="
+    },
+    {
+      "name": "Christine Faulkner",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pbvIXHzbCXLqWzcvjNjEAw=="
+    },
+    {
+      "name": "Howell Fendley",
+      "gender": "Male",
+      "city": "CROZET",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sV9AU5bMgfML86Y89goEkA=="
+    },
+    {
+      "name": "Nancy Ferguson",
+      "gender": "Female",
+      "city": "Naples",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "uRgpunX7zz/7olohEdPl2g=="
+    },
+    {
+      "name": "Jeremy Fischer",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HTtIE1pzdfHTJ27aUxkPNA=="
+    },
+    {
+      "name": "Jane Fletcher",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SsUMsVnIRVQzGJSkLC5Sgw=="
+    },
+    {
+      "name": "Hal Flowers",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v7xpgJbczAiJQz28VZ8E8Q=="
+    },
+    {
+      "name": "Patricia Foley",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JgAwRDUVPpq+eE+k4VcqCg=="
+    },
+    {
+      "name": "Tara Ford",
+      "gender": "Female",
+      "city": "Orange",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9tx4YXX7ZOEvCCJWqQl/VA=="
+    },
+    {
+      "name": "Derek Frazier",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5wDSPvpv85xlAL5Fo3CBNw=="
+    },
+    {
+      "name": "Sue Frazier",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O68FUphTXVTa79HWefwAew=="
+    },
+    {
+      "name": "Tamara Freeman",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "uGi1kMQlpCi1NXg26tIDXQ=="
+    },
+    {
+      "name": "Bunny French",
+      "gender": "Female",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BzlX8tn/cUe/HNXxbJDxkA=="
+    },
+    {
+      "name": "Charles Friel",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b1yGnfoQZ/hZZRlaSNNT0Q=="
+    },
+    {
+      "name": "Jenny Furlow",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QhdTJ6oVW5JMHO7iUkkyug=="
+    },
+    {
+      "name": "John Futty",
+      "gender": "Male",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "54yrf3OInd02n9SKxTUI9g=="
+    },
+    {
+      "name": "Lori Gagnon",
+      "gender": "Female",
+      "city": "BARBOURSVILLE",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/19/2024",
+      "usta_id": "lLtN+g2V1aNx6efouDoslg=="
+    },
+    {
+      "name": "Andreas Gahlmann",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/14/2024",
+      "usta_id": "M9TNobtNgGOaRrvNZy7MUQ=="
+    },
+    {
+      "name": "Omar Garriott",
+      "gender": "Male",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TrF4PRW1svOfvwwTBsF9zw=="
+    },
+    {
+      "name": "Andrea Gavin",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "2H/UklUk7Ue/j6clujQbNw=="
+    },
+    {
+      "name": "Peter Gavin",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "2H/UklUk7UeEkTjD53D2QA=="
+    },
+    {
+      "name": "Bradley Geist",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "dj297AoCAUTCbByISXcVCw=="
+    },
+    {
+      "name": "Hans Gerling",
+      "gender": "Male",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/9/2024",
+      "usta_id": "EbedW8baA+3wKleu9gXBOw=="
+    },
+    {
+      "name": "Mary Gerloff",
+      "gender": "Female",
+      "city": "Madison",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3W162u4BjxSOS+WkrC8uHg=="
+    },
+    {
+      "name": "Dianna Gibson",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3V7O0Xqs1ao2CNjTB5FT0Q=="
+    },
+    {
+      "name": "Lynne Gibson",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gprcrr/CfLvw1IS0DJ1xyA=="
+    },
+    {
+      "name": "Dulcy Giuliano",
+      "gender": "Female",
+      "city": "Charlottesvle",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c5MSAtkpU9KWtk11vTm/rw=="
+    },
+    {
+      "name": "Paul Given",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/2/2025",
+      "usta_id": "/XnO6nMPz2byZbrRtgK9AQ=="
+    },
+    {
+      "name": "Kimberly Glass",
+      "gender": "Female",
+      "city": "CROZET",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2/jDiLwPzcCILANmo98Q4Q=="
+    },
+    {
+      "name": "Elizabeth Glover",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KaWDbYQSzTz44ECCqq7M8A=="
+    },
+    {
+      "name": "William Gordon",
+      "gender": "Male",
+      "city": "Keene",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ehXayD/MjP6evkmThtedYg=="
+    },
+    {
+      "name": "Christopher Gorman",
+      "gender": "Male",
+      "city": "Rochelle",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AXUaOrjzO/oqf7/pdIBGCw=="
+    },
+    {
+      "name": "Cindy Grace",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7IODztHi2w1GKK0aWlQ5Wg=="
+    },
+    {
+      "name": "Gillian Grant",
+      "gender": "Female",
+      "city": "Gordonsville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GZTQvTcZKy7wZnQB/W9Flw=="
+    },
+    {
+      "name": "Emily Granville",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lnHfKc6jzkXdgGmTeGlhDw=="
+    },
+    {
+      "name": "Teddy Grennan",
+      "gender": "Male",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "Un98GoAKoU0jOpmEr4MsdA=="
+    },
+    {
+      "name": "Melissa Grossman",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iehafFVOp93yehOz66zQyw=="
+    },
+    {
+      "name": "Tim Grossman",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kbps7K6o9nF51/KB8ANHWg=="
+    },
+    {
+      "name": "Elizabeth Gunnels",
+      "gender": "Female",
+      "city": "Palmyra",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4hHL4YolDO8DC+SMPE7YCg=="
+    },
+    {
+      "name": "Kate Gunter",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vs3PlLjzUGs7PvWcY5I3Xw=="
+    },
+    {
+      "name": "Peter Gunter",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yhqdsQCPmrwv11pdtAhV3g=="
+    },
+    {
+      "name": "Anais Gupton",
+      "gender": "Female",
+      "city": "Gordonsville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tis7yezOe/0aZaEbya3CyA=="
+    },
+    {
+      "name": "Kelly Guyton",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IJulgYwSecqu5Zcb8XgY2w=="
+    },
+    {
+      "name": "Sami Habib",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wQmQzxETKVgSut7Y8aZ2Lg=="
+    },
+    {
+      "name": "Ann Hague",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FyNWOM22sW4+ABjh33mILw=="
+    },
+    {
+      "name": "Billy Haley",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "1hkydfgZTQvxKldkCmVDvQ=="
+    },
+    {
+      "name": "Margie Halinski",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "2tiUrXHpionOfO4Sjojniw=="
+    },
+    {
+      "name": "Sarah Hall",
+      "gender": "Female",
+      "city": "Oakwood",
+      "state": "OH",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2022",
+      "usta_id": "AiTSEthis1nvI885Qg54Zg=="
+    },
+    {
+      "name": "Stephanie Hall",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VxGu4BQh+HRzgkJHUd+3nQ=="
+    },
+    {
+      "name": "Margaret Hancock",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IOSc5Q35H0tZRevE9enT0w=="
+    },
+    {
+      "name": "Fredrick Hanna",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "APXcXY7Tvdi2IU4YVX3+nw=="
+    },
+    {
+      "name": "Chris Hapgood",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "oHq2oTtpXLuVw0IgoD7lVg=="
+    },
+    {
+      "name": "Pascale Hapgood",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jmzKkziKrEYh5zlqSkk56Q=="
+    },
+    {
+      "name": "Ann Hay Hardy",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EhLQIkE34KWwY69zHyU2KA=="
+    },
+    {
+      "name": "David Harmon",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "4mGei3IXIClfImQE4ubtlQ=="
+    },
+    {
+      "name": "Elyse Harris",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jlDzPqn7suOOthS43hiB1A=="
+    },
+    {
+      "name": "Kathryn Harris",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cB6bo8gJL9XmTtW3KFpV3Q=="
+    },
+    {
+      "name": "Katherine Haskins",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fU6MPEYqHH8qcIWsuOxBUw=="
+    },
+    {
+      "name": "Marie Hassanova",
+      "gender": "Female",
+      "city": "KESWICK",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/13/2025",
+      "usta_id": "/aPPTioiNfK0zwfA/C/MEg=="
+    },
+    {
+      "name": "Tim Hay",
+      "gender": "Male",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HRNx62FKVHJK2TyBl55gCw=="
+    },
+    {
+      "name": "Harris Haynie",
+      "gender": "Male",
+      "city": "Barboursville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qULNLNSVXxW7oZp7B9/L5Q=="
+    },
+    {
+      "name": "Adam Healey",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "1nJ76KgI2UMUQ/6v3gNAhw=="
+    },
+    {
+      "name": "Matthew Hedstrom",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/14/2024",
+      "usta_id": "irTiQlhPE88n7dwjfEv0aA=="
+    },
+    {
+      "name": "Jamie Heffernan",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dKCQlQZImrRpgnaXkXZf3g=="
+    },
+    {
+      "name": "Natasha Heller",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OryRZWfzX3NmktFmkAp/nA=="
+    },
+    {
+      "name": "Shannon Henderson",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "334G+K8HENLcBJmUuTpoKw=="
+    },
+    {
+      "name": "Amy Hensley",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/11/2025",
+      "usta_id": "eGh+EiCG/R5v27Z/beW/2w=="
+    },
+    {
+      "name": "Tammy Hertel",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3WleGD7wO01r3w+TUzdVnQ=="
+    },
+    {
+      "name": "Erika Herz",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MxgMX76xd9Hl2r5nObtFFg=="
+    },
+    {
+      "name": "JP Hesford",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MN48Y/61LB/rvyon3TpaGg=="
+    },
+    {
+      "name": "Kati Hesford",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/26/2025",
+      "usta_id": "FcNJW9OxJ/DSDUibEfqd+g=="
+    },
+    {
+      "name": "Samuel Hewitt",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "30gPU6jnlDp5j5Oe+PUdMg=="
+    },
+    {
+      "name": "Courtney Heyward",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2+wj66M73m1kbM6Gb1UbOA=="
+    },
+    {
+      "name": "Henry Hickman",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IExAyuFElF5/oMWNVxJO9w=="
+    },
+    {
+      "name": "Marion Hight",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7oIFgn+yBTxJYUPzNKbNog=="
+    },
+    {
+      "name": "Todd Hochrein",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kj+Odj/wEmPi3znSuCoJ3g=="
+    },
+    {
+      "name": "Lesley Hock",
+      "gender": "Female",
+      "city": "Waynesboro",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nXproQatYQKeJ1B1b9jq3w=="
+    },
+    {
+      "name": "Shauna Hogg",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JJ5g9efcouTOP34emih7/w=="
+    },
+    {
+      "name": "Gina Hogue",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/20/2025",
+      "usta_id": "ZI7J+hHgT5o34SR0hG7BBg=="
+    },
+    {
+      "name": "Stuart Hogue",
+      "gender": "Male",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "NUQ7FialHs9xNvtBeu8REQ=="
+    },
+    {
+      "name": "Beth Hollen",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z9oQw74HYUDQepZqaYaoqw=="
+    },
+    {
+      "name": "Nancy Holt",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N0E0dknBbFTD0ZmRGAC40g=="
+    },
+    {
+      "name": "Susanna Holt",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gwKl1yZcFffQsAG9DrH/3g=="
+    },
+    {
+      "name": "Lauren Holzman",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "IAlYsFl6gZBE5MoQzveMvQ=="
+    },
+    {
+      "name": "Melissa Hoover",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dWAHdLfggFU8Q5gDoMdXKA=="
+    },
+    {
+      "name": "Blair Hubbard",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZEvBfKXnyuLDdsOslIcyAA=="
+    },
+    {
+      "name": "Kathy Huddleston",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "tiY9Ejx7RzBB9xKCHB94ig=="
+    },
+    {
+      "name": "Tricia Hulsey",
+      "gender": "Female",
+      "city": "CULPEPER",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p6PnMC8ooCgLc3Dk/+JQRQ=="
+    },
+    {
+      "name": "Polly Hunter",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ccnQhA5cYLkc7T1lRk9epA=="
+    },
+    {
+      "name": "Whitney Hunter",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dBlKPxC9z3jEN9UDnuufMA=="
+    },
+    {
+      "name": "Mark Illgner",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ihAuZizyl0UxPHoJ+fA1SA=="
+    },
+    {
+      "name": "Adam Im",
+      "gender": "Male",
+      "city": "Middleburg",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/20/2025",
+      "usta_id": "06VHhugvXSdB4O5D6TUGrw=="
+    },
+    {
+      "name": "Anita Impagliazzo",
+      "gender": "Female",
+      "city": "HOWARDSVILLE",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BWOrTlR2uIm3cYSBlacEJQ=="
+    },
+    {
+      "name": "Patricia Irby",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VyQdx79Zs5/7vXsfdfOIIw=="
+    },
+    {
+      "name": "Bill Irwin",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4FpyOzWfljT+JGtXC8VXAw=="
+    },
+    {
+      "name": "Matt Jaggard",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fRQScxS9/5kAlqGP7RqMrQ=="
+    },
+    {
+      "name": "Michelle Jennings",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AWQUiYloni/Iq/xmRyFdKA=="
+    },
+    {
+      "name": "Lisa Jett",
+      "gender": "Female",
+      "city": "Southampton",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TR0lUCD9KEdoq/gsJ13VJw=="
+    },
+    {
+      "name": "Robert Jiranek",
+      "gender": "Male",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/12/2024",
+      "usta_id": "Rw6H0Z8jJlydYPfAkfgw3Q=="
+    },
+    {
+      "name": "Bethany Johnson",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tTtyQ9t7yZa9h268HZJjuQ=="
+    },
+    {
+      "name": "Jessica Johnson",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JHlHEilBbTG5YF/Ved7oTw=="
+    },
+    {
+      "name": "Maritza Johnson",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ywcfZlXpLqyQxYcUIDVehg=="
+    },
+    {
+      "name": "Kelley Johnston",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "KvcKbSQeB5XsvgYZUYSbIg=="
+    },
+    {
+      "name": "Robert Johnston",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "3L7+v06Tt0nuVzpFZ34/bg=="
+    },
+    {
+      "name": "Anne Jones",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "lwj6aCKerUzotB5SzJVu7w=="
+    },
+    {
+      "name": "Julie Jones",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1OjJKjIYsuaYL4S5a+FIrA=="
+    },
+    {
+      "name": "Karin Jones",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r0l3kSZvRmvR7hSUHwjqCQ=="
+    },
+    {
+      "name": "Matt Jones",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4t7osRioVYh+mPODG3hVdA=="
+    },
+    {
+      "name": "Susie Jones",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3l+6W7RruWATBykecm/3OQ=="
+    },
+    {
+      "name": "Linda Jordan",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KepQ1/DL+lOQqoBPfmQcHg=="
+    },
+    {
+      "name": "Ben Jorgensen",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pSw0GmZLryBF4/8xR5/Bog=="
+    },
+    {
+      "name": "Noel Jorgensen",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fb5gcJavvd4MNGUJAYqXTw=="
+    },
+    {
+      "name": "Andrew Juge",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IwMh3kjJN989LvVLc9ZBMA=="
+    },
+    {
+      "name": "Albert Jun",
+      "gender": "Male",
+      "city": "KESWICK",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+DRNpz3sxiWFyOXTcTYIhg=="
+    },
+    {
+      "name": "Pamela Jupin",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qqpYHyfV25VOQSEDh+6mfg=="
+    },
+    {
+      "name": "Clayton Kallenborn",
+      "gender": "Male",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aD1JoDrafHYnVef/+uQQmQ=="
+    },
+    {
+      "name": "Kathleen Kariel",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zwdaA4tEe/p1zB7FooEQgQ=="
+    },
+    {
+      "name": "Robin Kariel",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/26/2024",
+      "usta_id": "klAkY6VOYTWuPN64T/28lA=="
+    },
+    {
+      "name": "Lindy Kastendike",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pNmdghy3Sf7iHuOEewtCfQ=="
+    },
+    {
+      "name": "Michelle Katstra",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/1/2024",
+      "usta_id": "lPcMUJIYVIsOBjGx1XAxLw=="
+    },
+    {
+      "name": "Geoffrey Keenan",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/8/2024",
+      "usta_id": "HtV2IS8YPYH2itwK6DX/Kg=="
+    },
+    {
+      "name": "Jannemieke Keener",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mgeskXVpeWEBLjJfjMVqpw=="
+    },
+    {
+      "name": "J Harrison Keevil",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "PdZNcDIK8j6vB3LpMRjQFw=="
+    },
+    {
+      "name": "Jennifer Keevil",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wmv6C7yuhl6M7/xO3+k8jQ=="
+    },
+    {
+      "name": "Taylor Kelley",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "p8bUZ1c22C1uRL7yTVxY+A=="
+    },
+    {
+      "name": "Kassi Kellogg",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sPOjQV1ChA4FV0R3qyrd5g=="
+    },
+    {
+      "name": "Nora Kern",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "42/0bVkNgCiUYvp/JFOMTg=="
+    },
+    {
+      "name": "Robert Kidney",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/10/2024",
+      "usta_id": "MbT3dTn6LSr1sK1lK7gdWg=="
+    },
+    {
+      "name": "Carl Kiehn",
+      "gender": "Male",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/14/2024",
+      "usta_id": "Hq92Y1auxGMTHm3C6kXtgw=="
+    },
+    {
+      "name": "Jody Kielbasa",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Tl7LSH17U9FRgNH1zH5UA=="
+    },
+    {
+      "name": "Timothy Kimble",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/19/2025",
+      "usta_id": "OMqLFIwdvN5nRfb4zOS0yQ=="
+    },
+    {
+      "name": "Jessica Kinnick",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "cj53iZWnZ6UrjZsLF0tEJQ=="
+    },
+    {
+      "name": "Susan Knight",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mgeskXVpeWFQlzx492FjKw=="
+    },
+    {
+      "name": "Beth Kohler",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "weh1MmFwE8bd7dnMkRzRww=="
+    },
+    {
+      "name": "Jay Kolbrener",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "OgUBcv+wLfrYqf3zywrIEg=="
+    },
+    {
+      "name": "John Kortmulder",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/1/2025",
+      "usta_id": "Z27eX++w9UaRfMEjl5OOfA=="
+    },
+    {
+      "name": "Carleen Kupcis",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uoorBNc0Z/REjfvbsycWEA=="
+    },
+    {
+      "name": "Debra Lafond",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vkqtpAYtZG1BCApFwhWp7A=="
+    },
+    {
+      "name": "Barkley Laing",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xOvDaXn5RxIF4RSI3+k1lA=="
+    },
+    {
+      "name": "Sherry Lake",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o59eixX3zyulK4dRMd0H6Q=="
+    },
+    {
+      "name": "Ed Leary",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZBO+0zU8Sc+OGVIIY1fXYw=="
+    },
+    {
+      "name": "Maggie Leary",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e+8QKJu+blcu+Lv7m5/o2w=="
+    },
+    {
+      "name": "Jimmy Lee",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w4zPq2yFTdcG8rIenu5k5g=="
+    },
+    {
+      "name": "Laura Leetzow",
+      "gender": "Female",
+      "city": "TROY",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ib5Anjb32uMTI0BR0U7J7Q=="
+    },
+    {
+      "name": "Al Leidner",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/28/2024",
+      "usta_id": "CBokrxH+3WIAJoyZZM2nKg=="
+    },
+    {
+      "name": "Randall Lemoine",
+      "gender": "Male",
+      "city": "Gordonsville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/26/2025",
+      "usta_id": "glnczm0VtqXcY6ut3IlirA=="
+    },
+    {
+      "name": "Jill Lerner",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TKDVsmjJmNPuG9LAiHjSFA=="
+    },
+    {
+      "name": "Stephanie Levin",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "B+K4aH7qVtL+h31D2IJ0FQ=="
+    },
+    {
+      "name": "Stephanie Lewandowski",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0RIthOWWK/ZF/yfCfsfm2A=="
+    },
+    {
+      "name": "Alanna Lewis",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g7IqUn9ybt3lb9VKDkIzow=="
+    },
+    {
+      "name": "Jonathan Likowski",
+      "gender": "Male",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "LG241AZhHz4OMov+SKUiIQ=="
+    },
+    {
+      "name": "Kelly Lindauer",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fO7JfzlIFUs+mKTZ0P1sPQ=="
+    },
+    {
+      "name": "Devin Lindhurst",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/21/2025",
+      "usta_id": "QS3EsRJnPmZSI9yPplC4MQ=="
+    },
+    {
+      "name": "Edward Lis",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sM5yyV8gDH7gtqt4EvXMLg=="
+    },
+    {
+      "name": "Randy Livermon",
+      "gender": "Male",
+      "city": "Greenwood",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mZ+2vHkGoVfVcm4t04Xs5Q=="
+    },
+    {
+      "name": "Kristina Loftus",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "5Mgg2+ajbidko1xFmTmHAw=="
+    },
+    {
+      "name": "Diane Long",
+      "gender": "Female",
+      "city": "Ivy",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PKpU6O0mEi7Jcb4ymjaaKQ=="
+    },
+    {
+      "name": "Debbie Lonnquest",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eDWoenJqPo49cCAtZ6XRSg=="
+    },
+    {
+      "name": "Jill Lord",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9kDn5ocMS4wK5Q3PPQNhlg=="
+    },
+    {
+      "name": "Karen Lord",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GIgHnaXcdNpOpE9OOJphPA=="
+    },
+    {
+      "name": "Christina Lorenzo",
+      "gender": "Female",
+      "city": "PALMYRA",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cIk0n97qxVUNRoPaPAdbNQ=="
+    },
+    {
+      "name": "Paul Lorenzo",
+      "gender": "Male",
+      "city": "PALMYRA",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J2tiBkxWxzF8iSDkpM1uhQ=="
+    },
+    {
+      "name": "Matthew Lucas",
+      "gender": "Male",
+      "city": "Free Union",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/EaOFnejUUXpsCHBLh3n5Q=="
+    },
+    {
+      "name": "Jessica Lukens",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/2/2024",
+      "usta_id": "FqvLTfrAogz6r+l+nwEowA=="
+    },
+    {
+      "name": "Matthew MacFarland",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jpWBpyize+QXsacBpvex/g=="
+    },
+    {
+      "name": "Marcy MacGovern",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WLfvtkRn0938mBXlIcGhOg=="
+    },
+    {
+      "name": "Merrily Main D'Arpino",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D/1ls10RENulmeidtC+/Ww=="
+    },
+    {
+      "name": "Gina Mancuso",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TZS2v2usrHri5g6DFnp+Wg=="
+    },
+    {
+      "name": "Lisa Manley",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "cBpD4LkgCE/0M67Ffwbo0Q=="
+    },
+    {
+      "name": "Mary Manley",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QNzuRQ1qL5RUWz1oaH2qoQ=="
+    },
+    {
+      "name": "William Manning",
+      "gender": "Male",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NmixUuK0NoSjfMwM+8ZPBg=="
+    },
+    {
+      "name": "Stephanie Marcus",
+      "gender": "Female",
+      "city": "Chevy Chase",
+      "state": "MD",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "5/xDVXCJ4E0aZoTvDIl4bg=="
+    },
+    {
+      "name": "Ellen Markowitz",
+      "gender": "Female",
+      "city": "Southampton",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7eHjWk2MT9GsVv1SciFhiw=="
+    },
+    {
+      "name": "Lisa Marshall",
+      "gender": "Female",
+      "city": "CROZET",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OXr2M8QXg0CGzqwYvTHQPg=="
+    },
+    {
+      "name": "Giambattista Martano",
+      "gender": "Male",
+      "city": "North Garden",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/8/2024",
+      "usta_id": "JBFdhlIqX454tAoqfeS86A=="
+    },
+    {
+      "name": "Amy Martin",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/15/2025",
+      "usta_id": "5sD5w342a/CHm+iwNOCZVQ=="
+    },
+    {
+      "name": "Logan Martin",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kjULXUhCVEjm6O5JtPSX1g=="
+    },
+    {
+      "name": "Gretchen Masselli",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "ONdEJiu6WNmBt0TjLQoA5A=="
+    },
+    {
+      "name": "Stefanie Massony",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "yG2l5GWRSqKuSfgAyqMSGA=="
+    },
+    {
+      "name": "JOSEPH MATHERS",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Te76gwn6h4PK9zaqGC0jZw=="
+    },
+    {
+      "name": "Maya Mathew",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jEl3JwIpCGgdJRv/KWOG3A=="
+    },
+    {
+      "name": "Staci Matt-Beal",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iehafFVOp93rj6CaCpDubA=="
+    },
+    {
+      "name": "Ashley McCarron",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "V4ULov3WEd0rSTdmS3zvDQ=="
+    },
+    {
+      "name": "Beth McCarthy",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L/UBuie/FfWA+2MKLKri0Q=="
+    },
+    {
+      "name": "Meredith Mcclellan",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "JKhHdwEh4X45zYkqfW2f7w=="
+    },
+    {
+      "name": "Julie McCulloch",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7FKbfH51UNXchwD4rLwjUA=="
+    },
+    {
+      "name": "Leslie Mcdonald",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wdACdv80udxmPVlIy/VuHg=="
+    },
+    {
+      "name": "Mary McFarland",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iRxYeVasP3Gilj4Koe2yGg=="
+    },
+    {
+      "name": "Anita McGinty",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GLw7OVDI9TQuiVk/uBTHmQ=="
+    },
+    {
+      "name": "John McNeil",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N6Hi9jAnFzEIuqzwqi4oHw=="
+    },
+    {
+      "name": "Katherine Mcnerney",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "hlUfqCYkEkow8N2xuQTHzQ=="
+    },
+    {
+      "name": "Heather McNulty Haynie",
+      "gender": "Female",
+      "city": "Barboursville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "xppXoQhUtjsXFKVfzm4+0g=="
+    },
+    {
+      "name": "Jim McVay",
+      "gender": "Male",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jKLLiQ0t2p8gpkk1HQ3eZA=="
+    },
+    {
+      "name": "Sharon Merrick",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m3Q7JPmOw0RQdBHRMFim5w=="
+    },
+    {
+      "name": "Akanksha Meyer",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VEAo/PBsDjiIZx9QBDucPA=="
+    },
+    {
+      "name": "Christina Meyer",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lOQ0SLsBQqy/3T6mjfq/SQ=="
+    },
+    {
+      "name": "Lynette Meynig",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f8pih+hm96tgB18prwWkSw=="
+    },
+    {
+      "name": "Torrie Miller Matous",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4VuR9shQ5Zxpw/htvS4yyQ=="
+    },
+    {
+      "name": "Apitchaya Miller",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/12/2025",
+      "usta_id": "ukfqx0XA3rcJU5qVw0NHhQ=="
+    },
+    {
+      "name": "Richards Miller",
+      "gender": "Male",
+      "city": "Waynesboro",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ASiTtmsgoJuJxJKk1d8T1A=="
+    },
+    {
+      "name": "Alicia Milligan",
+      "gender": "Female",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2B+ReNXoYqKQGCvAQyS4Cw=="
+    },
+    {
+      "name": "Evan Mooney",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "svXW3VbEwAjZnnoGXx5GMg=="
+    },
+    {
+      "name": "Maggie Moore",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o8yU8RHGv5GrSRrLk/eJzA=="
+    },
+    {
+      "name": "Raymond Moreland",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pQt2bHoExXuv0rMvZPeUdQ=="
+    },
+    {
+      "name": "Stacy Moren",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eb7ablXsJTfAdBhV8nxBGw=="
+    },
+    {
+      "name": "John Morgan",
+      "gender": "Male",
+      "city": "Keene",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kS5pk48iuud/ADGNH6QtiQ=="
+    },
+    {
+      "name": "Katherine Morris",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NLhyINpO//pLKd59LfV7hg=="
+    },
+    {
+      "name": "Matthew Morris",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/28/2025",
+      "usta_id": "Zagn7VtKCfM15tYNp5sfGQ=="
+    },
+    {
+      "name": "Marie Moss",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s/USQCxjo7gd2o9ixPMcLg=="
+    },
+    {
+      "name": "Joan Mower",
+      "gender": "Female",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xfv+Q0Ro4UZM5hsZjrNlhw=="
+    },
+    {
+      "name": "Shannon Mrazik",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QNG5QR0hn1JLYjbrXVTiVA=="
+    },
+    {
+      "name": "Maggie Mudd",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MOVwc0/pYacTJhRQD7hGxA=="
+    },
+    {
+      "name": "Janette Murphy",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qbg1lowpt77TUTUsdZyTfA=="
+    },
+    {
+      "name": "Megan Murr",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2ukj5phABkMVJCGOgCIYtQ=="
+    },
+    {
+      "name": "Tamara Murray",
+      "gender": "Female",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JKhHdwEh4X47YNDgxqVJzg=="
+    },
+    {
+      "name": "Justin Mutter",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "8/16/2024",
+      "usta_id": "oLLE9Bgas8v0Usl+aewujQ=="
+    },
+    {
+      "name": "Krystle Myer",
+      "gender": "Female",
+      "city": "Palmyra",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K7kWV8z/jddUnowG3X1W5w=="
+    },
+    {
+      "name": "Mohan Nadkarni",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/OM+Hefp3z4/LqLIERl2MA=="
+    },
+    {
+      "name": "Julie Nash",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cO1oXGGHrnSrTnCbhZVw8Q=="
+    },
+    {
+      "name": "Sherry Nedzbala",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bYanyl9Aj35PBX9Btcl1sg=="
+    },
+    {
+      "name": "Fiona Ngo",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nhmjlymjQy14tKr3b83b1g=="
+    },
+    {
+      "name": "Maggie Nguyen",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SZQ17yhJwbRq5zQ5Ku3YaQ=="
+    },
+    {
+      "name": "Christina Nicholaou",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "K7kWV8z/jdf/b5sNc9Cx6A=="
+    },
+    {
+      "name": "Nikos Nikolopoulos",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KOftdaBmCu6uxNopTbAKJA=="
+    },
+    {
+      "name": "Amy Nolasco",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3KZcdhOlp+LqK5mr3T30Hg=="
+    },
+    {
+      "name": "Katherine Nuechterlein",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/8/2025",
+      "usta_id": "O902jt15uet77nPnQYbHKQ=="
+    },
+    {
+      "name": "Benjamin Ochs",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/22/2025",
+      "usta_id": "nb+lq+EDNwDDV+/17ZlOwA=="
+    },
+    {
+      "name": "Charlotte Odom",
+      "gender": "Female",
+      "city": "Barboursville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xTfpi6lr6a/Gy+iRi2+JtQ=="
+    },
+    {
+      "name": "Thomas Offerle",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cGjtl6U6UOocgSwDtfvEJw=="
+    },
+    {
+      "name": "Gabriel Ofiesh",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wSsO2SeiaJb/7QDg9J6EUA=="
+    },
+    {
+      "name": "Arlene Okun",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "tN3wVjoPlA/4w5iXjAw5NQ=="
+    },
+    {
+      "name": "Abbie Oliver",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lfEqiWByhH0FmItMJEiapQ=="
+    },
+    {
+      "name": "John Oliver",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3OMb/2X9gYLtWkCXFHclHA=="
+    },
+    {
+      "name": "Alyssa Ordway",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jF/69LUMjY9Fgh+wCQmqyQ=="
+    },
+    {
+      "name": "Eric Overman",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/8/2024",
+      "usta_id": "AaNK9LAzje5ZHVg//GXVYQ=="
+    },
+    {
+      "name": "Karen Overman",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4LcldAJwAXTWsbWxNwWUUg=="
+    },
+    {
+      "name": "Kelly Owens",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "cj53iZWnZ6XypF3oYKcJZg=="
+    },
+    {
+      "name": "Lewis Owens",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "hhVyEq04jynx8UZ3+c2JQw=="
+    },
+    {
+      "name": "William Pak",
+      "gender": "Male",
+      "city": "HILTON HEAD ISLAND",
+      "state": "SC",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "2/11/2025",
+      "usta_id": "Jmk71DaHh/MxTGJyOYnQOA=="
+    },
+    {
+      "name": "Theodore Papaspyridis",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/17/2025",
+      "usta_id": "+mo7OUhxwR5NaD2IyJG8Yw=="
+    },
+    {
+      "name": "Diego Alejandro Parada",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AA8jorR9s0nTkSMoAEoi6A=="
+    },
+    {
+      "name": "Jolene Park",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "NkBq9dzvh3BdFG8FskbSBg=="
+    },
+    {
+      "name": "Susan Park",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "keOwDE4i/2agu35vXZA4tg=="
+    },
+    {
+      "name": "Eric Parker",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L4wyvNnowOpgGvDr2sAVeQ=="
+    },
+    {
+      "name": "Kristina Parker",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mzFAR/spYUWGt8RBYUvviw=="
+    },
+    {
+      "name": "Gregory Parrish",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "rWk+UMWJQtIlb0kuBJBuXg=="
+    },
+    {
+      "name": "Patti Pate",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "OFk1mJk6TZ4xqt/+FgSMuA=="
+    },
+    {
+      "name": "Elizabeth Perdue",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/20/2024",
+      "usta_id": "JJvXjOhxqhs4pHu4xiAFig=="
+    },
+    {
+      "name": "Lindsay Phillips",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2gAzT2XYqyAfR6puAHYvoA=="
+    },
+    {
+      "name": "Reid Phillips",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fD5QJUqAjb7LOh+012aC4Q=="
+    },
+    {
+      "name": "Daniel Phipps",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/12/2025",
+      "usta_id": "cAQ6+zYqlIDzeM3svBusHw=="
+    },
+    {
+      "name": "Laura Pietro",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LcMbbGrPTX2RVcsSazSBZQ=="
+    },
+    {
+      "name": "Justin Pine",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iEQjfvs8j7TsV+ZvmE+rTg=="
+    },
+    {
+      "name": "Elizabeth Piper",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RWO6y1xxSi7vrXek1rOIHw=="
+    },
+    {
+      "name": "Ashleigh Pivonka",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rS7lm7T3TeekM+tznKledw=="
+    },
+    {
+      "name": "Donald Polifka",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "6dEdEEdqnErEhX7TemDd1Q=="
+    },
+    {
+      "name": "Elizabeth Pollard",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2gIC6QOlrgmu9ae0MyrDrg=="
+    },
+    {
+      "name": "Nancy Polonitza",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "3vrI3dFvY64QCunsNL4/Mw=="
+    },
+    {
+      "name": "Katherine Jane Powell",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BxMxFVSIYS2l4fkeR6+bDw=="
+    },
+    {
+      "name": "Monica Prichard",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+D2nORkkQamfeRrGGSSWSQ=="
+    },
+    {
+      "name": "Belinda Prittie",
+      "gender": "Female",
+      "city": "Palmyra",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tiUA8OCHam3/rb7LTFddfQ=="
+    },
+    {
+      "name": "Jonathan Proffitt",
+      "gender": "Male",
+      "city": "EARLYSVILLE",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "hu3GIrrk4HM18JQDUFNOcA=="
+    },
+    {
+      "name": "Stephanie Radlick",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f68LvciSkQMUcoNmyhHycg=="
+    },
+    {
+      "name": "Mark Raffinan",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iCXy5P464nAg1AKk4UxcFA=="
+    },
+    {
+      "name": "Shirlee Randall",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QSmhKVFN0OS8e6uZc9V45A=="
+    },
+    {
+      "name": "Elizabeth Ratcliffe",
+      "gender": "Female",
+      "city": "KESWICK",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P0kwLTYp4fkalOymGLBswQ=="
+    },
+    {
+      "name": "Christopher Raupp",
+      "gender": "Male",
+      "city": "CROZET",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dDd4pPJ/v0HH3wSmnrGmuQ=="
+    },
+    {
+      "name": "Lloyd Raupp",
+      "gender": "Male",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "auQPkv3+mbVM2IL7ZVBbRg=="
+    },
+    {
+      "name": "Jay Reeves",
+      "gender": "Male",
+      "city": "KESWICK",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mVOv5yTLWj54pw9mcZwebw=="
+    },
+    {
+      "name": "Donna Rehorn",
+      "gender": "Female",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "MgYRcKqLXoOz3CaXmj8IhQ=="
+    },
+    {
+      "name": "Thomas Reich",
+      "gender": "Male",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/27/2023",
+      "usta_id": "dYmGnGtrPi0s3OgfqH6n8g=="
+    },
+    {
+      "name": "Lauren Reichman",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BQ2oPzMA/qY0i0x9BpquDg=="
+    },
+    {
+      "name": "Matthew Reidenbach",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A53JO2eD5dR5jl9t4UQBqA=="
+    },
+    {
+      "name": "Andrea Richardson",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rA5lyjavA1OmN0Xdk6U+sw=="
+    },
+    {
+      "name": "Cathie Ricketts",
+      "gender": "Female",
+      "city": "Palmyra",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n4q837JI6fVQs8lz8NA5iw=="
+    },
+    {
+      "name": "Lauren Riddick",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "xSo4VSjwvPB6gbKA+hsDFw=="
+    },
+    {
+      "name": "Randi Rievman",
+      "gender": "Female",
+      "city": "MORRISTOWN",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "/QlNoKEDJ8zuMft4MluIOg=="
+    },
+    {
+      "name": "Maddy Riley-glenn",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/12/2025",
+      "usta_id": "RUW3xpQEl338vJtc2TUheg=="
+    },
+    {
+      "name": "Leigh Rinckel",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hWEMwr2vGR0dtDFlztyGiQ=="
+    },
+    {
+      "name": "Terry Roberts",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6sGmLEU0pVM+LNFFcZDl8Q=="
+    },
+    {
+      "name": "Alex Roumi",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "hisgLoLw98AJ6rrD4rNMYA=="
+    },
+    {
+      "name": "Nerissa Rouzer",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PNnTZP301+TKQCcSNOMWZw=="
+    },
+    {
+      "name": "Michele Rowan",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "aZmBbS6dV3cDmDFP0gG2PA=="
+    },
+    {
+      "name": "Brian Rowe",
+      "gender": "Male",
+      "city": "Earlysville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UYX3r7DyhU9SdxyzPV0olA=="
+    },
+    {
+      "name": "Patti Rowe",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IO/bxr3H8Iqv4+msj8gHhA=="
+    },
+    {
+      "name": "Alicia Rowley",
+      "gender": "Female",
+      "city": "Spotsylvania",
+      "state": "VA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nsctnlFRDUZlAQNh1OkgdA=="
+    },
+    {
+      "name": "Judy Roy",
+      "gender": "Female",
+      "city": "Afton",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "68QtXrIsW5lWDcjsgmJ8sA=="
+    },
+    {
+      "name": "Rene Roy",
+      "gender": "Male",
+      "city": "AFTON",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OH9j+QN6I9OL2C8SeuP/xw=="
+    },
+    {
+      "name": "Marta Ruggles",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/23/2025",
+      "usta_id": "J6yLasZAFNpEYcWxFX4vgA=="
+    },
+    {
+      "name": "Michelle Ruiz",
+      "gender": "Female",
+      "city": "PALMYRA",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IdUT0eXjib52KvUOFGWc5g=="
+    },
+    {
+      "name": "Wendi Ruschmann",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5nCcQ4krZ82T8+acsV029g=="
+    },
+    {
+      "name": "Alexis Ryan",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "OUw7jE5vCZC9dbCLkiMJSw=="
+    },
+    {
+      "name": "Kelley Ryan",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/mz+WrC21ZSWF//KQUHQpQ=="
+    },
+    {
+      "name": "Michael Ryan",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4bq9XnHoR1an68+Io3YDgQ=="
+    },
+    {
+      "name": "Charlotte Salley",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "jhuRjc0Ghb1yBqFfewgFOA=="
+    },
+    {
+      "name": "Lynette Sanford",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dss9Z3Xo4xISb+kVOfRrNQ=="
+    },
+    {
+      "name": "Angel Santiago Torres",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gbllvQ5F4nD7KMXOUmjHjQ=="
+    },
+    {
+      "name": "August Sanusi",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "b1PcZKj/osULrN/w+MPRJw=="
+    },
+    {
+      "name": "Richard Sawyer",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uRdgY1MvYxOBIFGXJ7N4Pg=="
+    },
+    {
+      "name": "Breck Scalise",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/16/2024",
+      "usta_id": "L6n6Xd3E5ORsY4FU7tEtfQ=="
+    },
+    {
+      "name": "Brandon Schartz",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mdUMHHz0Fw6Lf4GFRDipeg=="
+    },
+    {
+      "name": "Paul Schmidt",
+      "gender": "Male",
+      "city": "Palmyra",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "4aisP6Z0YUx7rB3kme7+Ww=="
+    },
+    {
+      "name": "Erin Schneider",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ojw08WPtQYNZlJkpjxExQw=="
+    },
+    {
+      "name": "Tia Schurecht",
+      "gender": "Female",
+      "city": "Gordonsville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QHQRU1j2eGJczaAB7G2mHQ=="
+    },
+    {
+      "name": "Eric Scorsone",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "lumKRTRkILph/wL7wyHRhQ=="
+    },
+    {
+      "name": "Beverly Scruggs Randall",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tJL4wP1Gct8xjR7M3YxTew=="
+    },
+    {
+      "name": "Todd Sechser",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CoaTWk1KO+Ux52fiqpn1KA=="
+    },
+    {
+      "name": "Andrea Seese",
+      "gender": "Female",
+      "city": "Gordonsville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nKqGXp5Ecu5Ig2YCMriEmw=="
+    },
+    {
+      "name": "Gina Senese",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BQGJqjeCwSjiNA+PSPuJtw=="
+    },
+    {
+      "name": "Robert Serpico",
+      "gender": "Male",
+      "city": "KESWICK",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "qAxZIY9dgmhavC+EZopY4g=="
+    },
+    {
+      "name": "Amit Shahane",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GaZqm9dBtZcvD5x0yw663w=="
+    },
+    {
+      "name": "Wesley Shelley",
+      "gender": "Male",
+      "city": "Stanardsville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JoNzE906gYdXsLYSA/CrTg=="
+    },
+    {
+      "name": "Danielle Showalter",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/12/2025",
+      "usta_id": "OH4M+sLsKp49iXHFXiMIjg=="
+    },
+    {
+      "name": "Janie Shrader",
+      "gender": "Female",
+      "city": "Gordonsville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sNMHrRkrp06zDVplMnJLUw=="
+    },
+    {
+      "name": "Courtney Sievers",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zwmPNSoqOKtEeyDV1IQx8g=="
+    },
+    {
+      "name": "Rob Sievers",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/14/2024",
+      "usta_id": "L7DOZyksQPWL/otwKHuscA=="
+    },
+    {
+      "name": "Janet Silvester",
+      "gender": "Female",
+      "city": "Troy",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7QxqZUR1QVFB6uLuibn4Nw=="
+    },
+    {
+      "name": "Diane Simon",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IuMkrYeHuMdoK7a8jG8y9A=="
+    },
+    {
+      "name": "Samarth Singh",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "um1pEOzdTbBX5silXCmpLA=="
+    },
+    {
+      "name": "Michael Sions",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mXwEDSYBLZtIsJexYlCdvg=="
+    },
+    {
+      "name": "Anna Sisman",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wT+QWIjD8TQtZvmXagBiIA=="
+    },
+    {
+      "name": "Steven Skalak",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1LV3kRTF1b9Ri/6WqsVwBw=="
+    },
+    {
+      "name": "Grant Slegowski",
+      "gender": "Male",
+      "city": "Richmond",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NYKbhckEJSpWlEhi0AcJUQ=="
+    },
+    {
+      "name": "Anne Curran Small",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gL/dgk/Z/zAEXmZ9ZCMWjw=="
+    },
+    {
+      "name": "Deborah Smith",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GzPjndiZJas6rk6/YgrJSA=="
+    },
+    {
+      "name": "Stephen Smith",
+      "gender": "Male",
+      "city": "Stanardsville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "etudjfzm1AQT5mFzYPUUsg=="
+    },
+    {
+      "name": "Stuart Smith",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/27/2025",
+      "usta_id": "J5vf1ssj3m8HA6IS/lgsVg=="
+    },
+    {
+      "name": "Elizabeth Snyder",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "xSVfigk3wS3iEQexjkLaUg=="
+    },
+    {
+      "name": "Pam Socolow",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vNCYerpawHya8+7T3vr+sA=="
+    },
+    {
+      "name": "Swapnil Sonkusare",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/9/2025",
+      "usta_id": "8dmY84LTENXgPI04yfQYmA=="
+    },
+    {
+      "name": "Kendall Southmayd",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "IhDA7Ha1nLVJrvUmTDnQlQ=="
+    },
+    {
+      "name": "Chris Stambaugh",
+      "gender": "Male",
+      "city": "Staunton",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fZXA0+ZP6/9NHHPwyzLXVg=="
+    },
+    {
+      "name": "Joyce Steed",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VLEooWmOfg5TfdTvHPUYIQ=="
+    },
+    {
+      "name": "Chandler Steinbrugge",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YkfOI1o3jp+Av4WGgSfawQ=="
+    },
+    {
+      "name": "Chris Stewart",
+      "gender": "Male",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9nxsLKFm2bBHsbHYWJdyYQ=="
+    },
+    {
+      "name": "Martha Stockhausen",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GxeMjZ7ngA1EELfJVQGbdQ=="
+    },
+    {
+      "name": "Farrah Stone",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lRmIb3gaaaRyGrvvmiy4Dw=="
+    },
+    {
+      "name": "Merrill Strange",
+      "gender": "Female",
+      "city": "Gordonsville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KwvPJHgnDGJKzh3VzhYGOw=="
+    },
+    {
+      "name": "Aaron Streit",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "6+qoU1c1TyNZyMFLmat17Q=="
+    },
+    {
+      "name": "Christine Streit",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xK9LfUzYNB/Oa3kLAdRJGA=="
+    },
+    {
+      "name": "Tory Stribling",
+      "gender": "Female",
+      "city": "WAYNESBORO",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GbDrXEUmfyzIF2ZawbJ1UA=="
+    },
+    {
+      "name": "Lauren Suggs",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FlAK08s7jXJDZcC2+OoqMw=="
+    },
+    {
+      "name": "Sarah Sutton",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "cj53iZWnZ6XyhsqLhK4FlA=="
+    },
+    {
+      "name": "Rachel Swartz",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WYF9MeDFkVLe/zWYGTzAdw=="
+    },
+    {
+      "name": "Beverly Sweeney",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rx1bgzUkc0fUG08lV8MTng=="
+    },
+    {
+      "name": "Molly Switzer",
+      "gender": "Female",
+      "city": "Gordonsville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "ReBNJtj1lV/HBjh9JWqQGA=="
+    },
+    {
+      "name": "Amy Taggart",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8ZLe+aQ2FeAf+b8DchLV5Q=="
+    },
+    {
+      "name": "Hania Taha",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+OWdHZL0DLRZp0nfTXarXQ=="
+    },
+    {
+      "name": "Ramzi Talhouk",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OkDUUGQ6gKFPpRwgCG0K0Q=="
+    },
+    {
+      "name": "Samuel Tanner",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Q/kBBCQE3hd5mz90rAA89w=="
+    },
+    {
+      "name": "Mary Taylor",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gam+YNbTHksgYry460ODAQ=="
+    },
+    {
+      "name": "Jeannette Thillet",
+      "gender": "Female",
+      "city": "Palmyra",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o6jIkyF47mnJ/Rls0QUnjA=="
+    },
+    {
+      "name": "Lauren Thraves",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SPkZaeYwlEFUyVYx8rah9g=="
+    },
+    {
+      "name": "Heather Toombs",
+      "gender": "Female",
+      "city": "Ashburn",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "83WaoWbCFB34UDvF16WAfA=="
+    },
+    {
+      "name": "Jane Touzalin",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "hBo5Rntu8z5u4vKnQKvCFw=="
+    },
+    {
+      "name": "Josh Tracy",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "B50a7UyWtKgO/nwGRwGBzw=="
+    },
+    {
+      "name": "Susan Tracy",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y7zS7WjvA5cd3m3ZicK3QA=="
+    },
+    {
+      "name": "Amanda Tran",
+      "gender": "Female",
+      "city": "Annandale",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zyWzzkmf4x3q3UfGUaFqCQ=="
+    },
+    {
+      "name": "Timothy Tran",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oxA8c52lVhe4xnD4JFCUsg=="
+    },
+    {
+      "name": "Tuan Tran",
+      "gender": "Male",
+      "city": "Annandale",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/12/2025",
+      "usta_id": "MIbunhYb7zcFr9MyC5nTFQ=="
+    },
+    {
+      "name": "Victoria Tremaglio",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2bcsaqlqovW8CxzL4NOtIA=="
+    },
+    {
+      "name": "Janice Trojan",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rIjdjF6wdTpcMeYkN88eOQ=="
+    },
+    {
+      "name": "Mignon Tucker",
+      "gender": "Female",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "RdrO73k+rlx+lb4KxYkSIg=="
+    },
+    {
+      "name": "William Tuttle",
+      "gender": "Male",
+      "city": "Troy",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "8CtLcHaRugeKJ9ERCs0LUw=="
+    },
+    {
+      "name": "Candice van der Linde",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "YotbiKx1EaPPbpCCl3Mi4Q=="
+    },
+    {
+      "name": "Farrell Vangelopoulos",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G5PrsJZzp5K2AftczoIe/Q=="
+    },
+    {
+      "name": "Shalendra Varma",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rk+iIpSfhlHnUZR4WhrWyg=="
+    },
+    {
+      "name": "Martin Varys",
+      "gender": "Male",
+      "city": "NORTH CHESTERFIELD",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "/poUmd1MhL95UVxqxu0k7A=="
+    },
+    {
+      "name": "Rajkumar Venkatesan",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x6Cpad0V1x2JKnl9gAiJpQ=="
+    },
+    {
+      "name": "Brooke Vergales",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5jXw4BKywVTIB6Fa1M0ZFw=="
+    },
+    {
+      "name": "Genevieve Verlaak",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "onyyr9gWRlKP6oG0NeMLUg=="
+    },
+    {
+      "name": "Mary Voelmle",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SubQ7rtEpnj7Q9XJxnyAYQ=="
+    },
+    {
+      "name": "Nolan Wages",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/28/2025",
+      "usta_id": "fhX/zgUPuHDH/JLPqPHkIg=="
+    },
+    {
+      "name": "Olivia Wages",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/c1aMZQzIAInPVfDW20yuw=="
+    },
+    {
+      "name": "Marjorie Wagner",
+      "gender": "Female",
+      "city": "Scottsville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/7/2024",
+      "usta_id": "mBCmOZ9+tG87CxbDEU0XXA=="
+    },
+    {
+      "name": "Linda Walker",
+      "gender": "Female",
+      "city": "Shoreline",
+      "state": "WA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vFLZ+OY70xDs/WQkgxIBog=="
+    },
+    {
+      "name": "Laura Wall",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dnL06Z848ws2w5v2TEwNDQ=="
+    },
+    {
+      "name": "Catherine Wallace",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZLJ9Vnu6ObpRRVyzmEVNgg=="
+    },
+    {
+      "name": "Clarke Wallace",
+      "gender": "Male",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/17/2025",
+      "usta_id": "p4sy/EwSFp78nSaKSd6JKA=="
+    },
+    {
+      "name": "Doug Wampler",
+      "gender": "Male",
+      "city": "Zion Crossroads",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "TAX6UKEH19wwiPqHWyK1rw=="
+    },
+    {
+      "name": "Jeanette Wang",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sV4ksVHbqkUd+XX7+AuvBg=="
+    },
+    {
+      "name": "CAROLYN WARD",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+GfeXKbi8JU0/NxuNgnGug=="
+    },
+    {
+      "name": "Jeanne Ward",
+      "gender": "Female",
+      "city": "Afton",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hkNeuKDtp90uPyWu7rBdPg=="
+    },
+    {
+      "name": "Maren Ward",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "86Pyus0nS31pMW4HJg6Fsg=="
+    },
+    {
+      "name": "Penny Ward",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DN8HAQsh4cIs5zwqKtdqEw=="
+    },
+    {
+      "name": "Tom Ward",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "9Bt6H4SH2epiU85dlEnoAg=="
+    },
+    {
+      "name": "Coles Warren",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1ilDqHDXKus1AiDHwH54/w=="
+    },
+    {
+      "name": "Erin Waters",
+      "gender": "Female",
+      "city": "KESWICK",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XnR4zAP5iLdhEJvgt/ybcw=="
+    },
+    {
+      "name": "Andrew Watson",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/6/2025",
+      "usta_id": "+3imvb7RC1HvSIdkqKsrcA=="
+    },
+    {
+      "name": "Thomas Weck",
+      "gender": "Male",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fb+zSnRiau4sXH6IOm/Q/w=="
+    },
+    {
+      "name": "Michael Weiner",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "cj53iZWnZ6W0+UJZfgndwA=="
+    },
+    {
+      "name": "Conor Welch",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/16/2024",
+      "usta_id": "akJNWBjlSer05VIxq+WL6Q=="
+    },
+    {
+      "name": "Peter Welch",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3OpmAI22rL6ndyEUSE/Zfw=="
+    },
+    {
+      "name": "Courtney Wenleder",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ojeSl3JCQCn/4meYV6ksfw=="
+    },
+    {
+      "name": "Alex Wermeling",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "8I7RYm77DwGDinO6aQHGdA=="
+    },
+    {
+      "name": "Diana Whitten",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/13/2024",
+      "usta_id": "q8WA/dhzQ6etw+UzytDa4Q=="
+    },
+    {
+      "name": "Andrea Wilder",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "cubGG4ZqCHPTvVf2na8fzA=="
+    },
+    {
+      "name": "Blair Wilner",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "OeN8gOvXc9Q3nN8eKoW13Q=="
+    },
+    {
+      "name": "Megan Winter",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kcMlpZ6x5Xd2ljDu/Bejyw=="
+    },
+    {
+      "name": "Daniel Wist",
+      "gender": "Male",
+      "city": "CHARLOTTESVILLE",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OpOhpZRfNfQzM77Mr03JaA=="
+    },
+    {
+      "name": "Sara Wist",
+      "gender": "Female",
+      "city": "Richmond",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "20MbacWK1Ytd++lhDjzm2g=="
+    },
+    {
+      "name": "Kelli Wood",
+      "gender": "Female",
+      "city": "STAUNTON",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tEI7Idy7Mc5Mg2i4l8b/kQ=="
+    },
+    {
+      "name": "Ben Woodard",
+      "gender": "Male",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "8MsZsXDRTI9209/ogaoyYw=="
+    },
+    {
+      "name": "Loring Woodriff",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ntOJynVZXC6qY0DuddL9Yw=="
+    },
+    {
+      "name": "Jenn Crutchfield Worth",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ypEEwtiW03R6gWi1LmSOVw=="
+    },
+    {
+      "name": "Rebecca Wright",
+      "gender": "Female",
+      "city": "Keswick",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KEJYjEEqTidHwvQCWbV0iQ=="
+    },
+    {
+      "name": "David Wunderlich",
+      "gender": "Male",
+      "city": "Barboursville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/11/2025",
+      "usta_id": "Akgk/VknTxR+IIbMYwOh1Q=="
+    },
+    {
+      "name": "Susan Wunderlich",
+      "gender": "Female",
+      "city": "Barboursville",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fhX/zgUPuHCQht296WeTDA=="
+    },
+    {
+      "name": "Megan Wyant",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ucaceYQlWqWHDzOx4SGscA=="
+    },
+    {
+      "name": "Elizabeth Young",
+      "gender": "Female",
+      "city": "Herndon",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kp6Z0Xe21a4+Afnmrvg0pA=="
+    },
+    {
+      "name": "Faith Zabek",
+      "gender": "Female",
+      "city": "Crozet",
+      "state": "VA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eR/Zadmoc+15SD2hFk66hw=="
+    },
+    {
+      "name": "Cate Zahl",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fn8ZL1gMGdDnb34/WLjuUQ=="
+    },
+    {
+      "name": "Melissa Zeller",
+      "gender": "Female",
+      "city": "Alexandria",
+      "state": "VA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ndug90alYecLY3WGaarqhQ=="
+    },
+    {
+      "name": "Ruoyu Zhang",
+      "gender": "Male",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/12/2023",
+      "usta_id": "hIBk9y7UNMsHsjAv4W5yUw=="
+    },
+    {
+      "name": "Abby Zieman",
+      "gender": "Female",
+      "city": "Charlottesville",
+      "state": "VA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Qa29jTVUMvBVuPLKqhi8A=="
+    },
+    {
+      "name": "Ray Zuniga",
+      "gender": "Male",
+      "city": "Staunton",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e0fskd+nIzOOzRKLxqgNvQ=="
+    }
+  ]
+}

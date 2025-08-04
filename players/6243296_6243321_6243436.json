@@ -1,0 +1,6007 @@
+{
+  "sectionId": "6243296",
+  "districtId": "6243321",
+  "areaId": "6243436",
+  "players": [
+    {
+      "name": "John Abbitt",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/9/2024",
+      "usta_id": "Y6Xt1wpjs3sV1iyCDh0wOw=="
+    },
+    {
+      "name": "Meghann Able",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nJLi04dUtJDZE+0xJNzZLw=="
+    },
+    {
+      "name": "Diane Adkins",
+      "gender": "Female",
+      "city": "Melrose",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h8x5VTHmmXBrHUv6SE/b5w=="
+    },
+    {
+      "name": "Heather Adkins",
+      "gender": "Female",
+      "city": "Melrose",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5ZmPALC2OD31KoDTUNUbow=="
+    },
+    {
+      "name": "Lindsay Akri",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0tfwhHoHe1VgPda0ufmJKQ=="
+    },
+    {
+      "name": "Tania Alavi",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rzdOHEmIa3HH7bKEkIlvPQ=="
+    },
+    {
+      "name": "Bridget Anderson",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9LJZc0jvR/LcWU2tEB/SUw=="
+    },
+    {
+      "name": "Colleen Anderson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1ugkr8nnAF/fFqprcKF4KA=="
+    },
+    {
+      "name": "Stacey Anderson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/AETTICQCuZDyLC5+6Nacg=="
+    },
+    {
+      "name": "Alison Andrus",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zk5dsQutxCAxlPQvMQ7B/g=="
+    },
+    {
+      "name": "Alex Andueza",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/27/2024",
+      "usta_id": "kA/95q0J02sqHKU1StcPjA=="
+    },
+    {
+      "name": "CLAUDIA ARAUJO",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WQaCW2U/1CpABQll2V7HuA=="
+    },
+    {
+      "name": "Lindy Archambeau",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kXFyUXdTev4kpJ7ptdz2Sw=="
+    },
+    {
+      "name": "Tami Armstrong",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "dVxv7FWJFXHCNTcccIOOog=="
+    },
+    {
+      "name": "Christa Arnold",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NeqI/INmgClkPw4X9A7ppg=="
+    },
+    {
+      "name": "Jennifer Arnold",
+      "gender": "Female",
+      "city": "Trenton",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jzfoj4Tm1+EX6nv3BDCtFg=="
+    },
+    {
+      "name": "Sarah Arnold",
+      "gender": "Female",
+      "city": "Williston",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "+aYTAgI4+mcGj8/lPa2pkQ=="
+    },
+    {
+      "name": "Paul Askew",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z9oqEwdhO0sJlkWG5wtE+A=="
+    },
+    {
+      "name": "Lisa Athearn",
+      "gender": "Female",
+      "city": "High Springs",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "YY3U3M94WpJgj3CLz18oRQ=="
+    },
+    {
+      "name": "George Atohi",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZCye/tyx4D6fnv2Np1pbSw=="
+    },
+    {
+      "name": "Valerie Atohi",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KbY61s1OkcXQXuj+R3EqGA=="
+    },
+    {
+      "name": "HEE-SUNG BAE",
+      "gender": "Male",
+      "city": "ALACHUA",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VEQ0hXWTgtFpBs7RfuKGVQ=="
+    },
+    {
+      "name": "Don Baik",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fuBa6bMTZWjgJMqU1TyD8A=="
+    },
+    {
+      "name": "Donovan Bailey",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XeCeUjKzunk+sTLuXK2t6Q=="
+    },
+    {
+      "name": "Dwight Bailey",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kgWzBXHkvw+Z0FL//PQo0g=="
+    },
+    {
+      "name": "Kelly Banes",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LrR4oajJ/k/hgaJ20BWpRQ=="
+    },
+    {
+      "name": "Kevin Banes",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dT4Yk0OxIGdD7MTH8QTK7w=="
+    },
+    {
+      "name": "Norma Banes",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2023",
+      "usta_id": "RUZQ/gi2FWJkVAY1fDgPjg=="
+    },
+    {
+      "name": "Beatrice Barlet",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TwtIHkIh871qs8t1iB1j4g=="
+    },
+    {
+      "name": "Idalhi Barnes-marrero",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/31/2024",
+      "usta_id": "2EM/1LmGOos0Q7+rEwiMrQ=="
+    },
+    {
+      "name": "Isabel Barry",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hoA18/xtcKJg8vYBrH5EKA=="
+    },
+    {
+      "name": "Stacey Berceli",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/29/2025",
+      "usta_id": "8vpQMLUdZ25oCmcFDq0n9w=="
+    },
+    {
+      "name": "Mark Bernard",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "82BHVH5KOOUoRtGATH7VZw=="
+    },
+    {
+      "name": "Laura Bernheim",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "LkR+UK5tq9ArCTGaRER13Q=="
+    },
+    {
+      "name": "Judith Bertran",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JnuaWMC43lyEnCZCXZ5vRg=="
+    },
+    {
+      "name": "Dino Bizzarro",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E9dsNcKKkYjkoYM3XOdYLQ=="
+    },
+    {
+      "name": "Erik Black",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KXUAqlf+sLOhcLpsw0NN/A=="
+    },
+    {
+      "name": "Jerry Black",
+      "gender": "Male",
+      "city": "Lake City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "PxZEDOGYJAIxUBOFCMHqhg=="
+    },
+    {
+      "name": "David Blumberg",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GgIIfb6CXMZCPhG/PHrhFA=="
+    },
+    {
+      "name": "Attila Bodo",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "2YVALgjOayMgc6DtQufn6w=="
+    },
+    {
+      "name": "Jennifer Bogle",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0OBOYjnUDR0BpmLuQs1hNg=="
+    },
+    {
+      "name": "Samantha Bohon",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "wiRa53rgnI8h89EeJlyalQ=="
+    },
+    {
+      "name": "Cathy Boon",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aSgNsGwvG9tcr4JAWIU9qg=="
+    },
+    {
+      "name": "John Boon",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "VzFfm5G+nlQk4PRjeHfSIQ=="
+    },
+    {
+      "name": "Lisa Booth",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7Xws7UfsQHLmcaJc+CpBhQ=="
+    },
+    {
+      "name": "Adam Boukari",
+      "gender": "Male",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/10/2024",
+      "usta_id": "SF4lXxy/v/QZ49ZELmFopA=="
+    },
+    {
+      "name": "Bryan Bounds",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/10/2024",
+      "usta_id": "pbv+9pSJtJN0+dOQttH44w=="
+    },
+    {
+      "name": "Debbie Bowers",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pOP1EACEJLwOZtipebhgRg=="
+    },
+    {
+      "name": "Kevin Bradley",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "9MAZQOnU40jJ20EwFp0Zog=="
+    },
+    {
+      "name": "Ray Brady",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wcWk8XSVXaSJi8A9p/at2Q=="
+    },
+    {
+      "name": "Jennine Brandt",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "diwNZ3feBSv2mWKJhm1ZDQ=="
+    },
+    {
+      "name": "Erik Bredfeldt",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HS5i9TYWh4AE+iQ88+QKtw=="
+    },
+    {
+      "name": "Rachel Brock",
+      "gender": "Female",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Fl7BWfbkZznFrs1ecBAf2g=="
+    },
+    {
+      "name": "Marc Broder",
+      "gender": "Male",
+      "city": "OCALA",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eV69MTxaTMtvg4o+TzmgDw=="
+    },
+    {
+      "name": "JASON BROMIRSKI",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "7Dy0ItYa9kMekuC/nlm1xQ=="
+    },
+    {
+      "name": "TARA BROMIRSKI",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7Dy0ItYa9kMoVqweogyB1A=="
+    },
+    {
+      "name": "Jazmyn Broxton",
+      "gender": "Female",
+      "city": "Duluth",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/17/2025",
+      "usta_id": "SQrAOVr83xSmo5vhZM0wsA=="
+    },
+    {
+      "name": "Sue Bruegger",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DX1d/hT9MRtkzqxYkI0ILw=="
+    },
+    {
+      "name": "Babette Brumback",
+      "gender": "Female",
+      "city": "Palm Coast",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "mrzojVv8J96HobDZmF2FwQ=="
+    },
+    {
+      "name": "Jennifer Brunsting",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nzzo92rTQzdVDAqkdQPEjw=="
+    },
+    {
+      "name": "Nelson Brunsting",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qFGWTESIuAzhYqs0VpyDNg=="
+    },
+    {
+      "name": "Richard Bryant",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/16/2025",
+      "usta_id": "AQ2EhEtwdldkfBr59YCzJw=="
+    },
+    {
+      "name": "Tracey Bryant",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jigT4kyh945jmzV0R13MWg=="
+    },
+    {
+      "name": "Christopher Bumgarner",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xl3c7jGqx5v/6d6/Nx2pUA=="
+    },
+    {
+      "name": "Jorg Bungert",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ITAjh9j66Zjsf9vhjtfkOA=="
+    },
+    {
+      "name": "Michelle Burns",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VUa8HVPTxO9B0pdfnlSSVw=="
+    },
+    {
+      "name": "Diana Butler",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JZwgXAWYeDy1xVZ7A54F1w=="
+    },
+    {
+      "name": "Mary Butterworth",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "2w7JB5yT6L/RmXCivtBCYQ=="
+    },
+    {
+      "name": "Morgan Cade",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "DEww33DjQAX7kpQDneQ+CQ=="
+    },
+    {
+      "name": "Faun Carlson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R4ItsZ/t57GNpwsQZPCbNA=="
+    },
+    {
+      "name": "Rick Carlson",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U9kR+jeoayUssalSK7IAYw=="
+    },
+    {
+      "name": "Agostina Casamento Moran",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "qhpN9b+Iep+NzABMmQ56eA=="
+    },
+    {
+      "name": "J Brad Case",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2024",
+      "usta_id": "mw35M2/dHMendI1Y2r+ulA=="
+    },
+    {
+      "name": "Emilee Cato",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/18/2024",
+      "usta_id": "O7IKXMZQWSIepx9wIilYag=="
+    },
+    {
+      "name": "Drae Centonze",
+      "gender": "Male",
+      "city": "Belleview",
+      "state": "FL",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PkrZe+nlLWnyVaUHAg6kYw=="
+    },
+    {
+      "name": "Ashley Chalouhi",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H2BpC+FYmgNidbEraw66Xw=="
+    },
+    {
+      "name": "Eren Chang",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "XwjTDRrjTSLr5fQRRG1rcg=="
+    },
+    {
+      "name": "Susan Chase",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z50ElAE6EQ9HAMqF68b60w=="
+    },
+    {
+      "name": "Changburm Cho",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4DbE63TeEIN2b+hECju87g=="
+    },
+    {
+      "name": "Kevin Choate",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/11/2025",
+      "usta_id": "cRVWV84ZxWqpSK7wU1F7Ug=="
+    },
+    {
+      "name": "David Cianci",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ihsRtVCVCTj1cV8RHjhcrA=="
+    },
+    {
+      "name": "Christopher Cieszko",
+      "gender": "Male",
+      "city": "Citra",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ae4MyTJuXCoPmXn9taSrEQ=="
+    },
+    {
+      "name": "Evans Cobb",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/14/2023",
+      "usta_id": "yPa9/lOlvPxYHou3VSeOPg=="
+    },
+    {
+      "name": "George Cockey",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6qkWpIyAmcUQS2xrQWwdCg=="
+    },
+    {
+      "name": "Leandra Combass",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AfDI5ifx9lGK7Z586X0dTQ=="
+    },
+    {
+      "name": "Kelly Cordell",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PimfdaS3iOEXg63UFY0lJQ=="
+    },
+    {
+      "name": "Carmen Cornell",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7N1ukfVhs+BAmy7wQ59OtQ=="
+    },
+    {
+      "name": "Jorge Costa",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tE0GcrL4aybrqBLvMr0zSw=="
+    },
+    {
+      "name": "Joseph Cox IV",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nJV8+Ts8eWmsNwueLji5dQ=="
+    },
+    {
+      "name": "Jodi Cox",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zT2ixSSrM46xT9QMH7Va0A=="
+    },
+    {
+      "name": "Wheeler Crawford",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q+JQBBWT8K1kSXx48JbDsg=="
+    },
+    {
+      "name": "Christen Crevasse",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "U1Gawh8iYztUoBu0moliIA=="
+    },
+    {
+      "name": "Mary Cribb",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "TFlTZ9n2MoLt58n+2Bemvg=="
+    },
+    {
+      "name": "Roy Cribb",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SFqah66PVfimRLqzuKWyoA=="
+    },
+    {
+      "name": "Wanda Cross",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FjyIiP0sxJ4Hs3vJN2jx3Q=="
+    },
+    {
+      "name": "Maria Curatolo",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cKft0G91RgDRPyhh96mvaw=="
+    },
+    {
+      "name": "Douglas Dace",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZXyJoRges2WbTN9YvbH4jw=="
+    },
+    {
+      "name": "Emily Dace",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yIGnXcHVcI3biNJuulDlJw=="
+    },
+    {
+      "name": "Jordan Davis",
+      "gender": "Female",
+      "city": "Archer",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vOjKXVnBowPWztMimChxGQ=="
+    },
+    {
+      "name": "Chiara de Gennaro",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AnaB2amDa4x4boffiOmVxw=="
+    },
+    {
+      "name": "Dawn Dean",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MMVqYGB2O36xbuoH7ugWEA=="
+    },
+    {
+      "name": "Jake Deitch",
+      "gender": "Male",
+      "city": "Gulf Breeze",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7m9yVOntqfKT14f7vCLhzA=="
+    },
+    {
+      "name": "Darnel Dela Cruz",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "exkgu1Ru1O/mCMahCVJt5g=="
+    },
+    {
+      "name": "Maria Delgado",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ubN8yxZjqFFqIW87MKyABg=="
+    },
+    {
+      "name": "Gina Dell",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DqsGMHMhXdEqmAk9XcPKuA=="
+    },
+    {
+      "name": "Abigail Dellovade",
+      "gender": "Female",
+      "city": "BELLEVIEW",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VPQHRRxmqbzIAdqDa8dk/g=="
+    },
+    {
+      "name": "George Demopoulos",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "50dm3JSXs9alWYOjsWZySQ=="
+    },
+    {
+      "name": "Andrew Diaz",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ujC0AjonkhffEgeOGTdlcA=="
+    },
+    {
+      "name": "Mark Diblin",
+      "gender": "Male",
+      "city": "GREENVILLE",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZraOR8D4rOmn5c8X9aDptg=="
+    },
+    {
+      "name": "Elizabeth Dickerson",
+      "gender": "Female",
+      "city": "ALACHUA",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8yg/m3tSGc4fN6a7e+B0sg=="
+    },
+    {
+      "name": "Chris Ding",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "ldy30U7pCN89ElzfbaP8wA=="
+    },
+    {
+      "name": "Rene Dipus",
+      "gender": "Male",
+      "city": "Winter Park",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TldOJClcql8jRuhRX2bNFA=="
+    },
+    {
+      "name": "Sriyani Dissanayake",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "2Tc+/PaLquFu3h+/bGyh7A=="
+    },
+    {
+      "name": "Crystal Dix",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "tyYSncIhJEhD+NRx5iST3A=="
+    },
+    {
+      "name": "Cristi Dobbs",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7B7Dnuk1CVMt2TADszxc9w=="
+    },
+    {
+      "name": "Nicholas Dodson",
+      "gender": "Male",
+      "city": "Fort White",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ITkhhK+22CHG5RR9vYm6/Q=="
+    },
+    {
+      "name": "Daniel Dolsberry",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EXRyBTvLlEnw6ds8N67dRA=="
+    },
+    {
+      "name": "Maggie Drotos",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "tWvG1o5rYu5P//UKBEiNIg=="
+    },
+    {
+      "name": "Hank Dudding",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YJ+bU0gPqWQIrOZBLCbA3w=="
+    },
+    {
+      "name": "Cara Duffaut",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e7e4es7tFTLvlL4AQqUmmQ=="
+    },
+    {
+      "name": "Thomas Duffaut",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/q1hWErIoKUK8QzoloJHKQ=="
+    },
+    {
+      "name": "Marianne Eberhard",
+      "gender": "Female",
+      "city": "Lake Butler",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+B/Mntz1j3m85hcKJEBGXA=="
+    },
+    {
+      "name": "Natalie Ebner",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rAFPI+1ZQV9IGjBIg4AmUg=="
+    },
+    {
+      "name": "Tara Edelstein",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nHFRUutmGvv0BbdnwFloGw=="
+    },
+    {
+      "name": "Jack Edmondson",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lKrDDhFyffoXGkWkEZ4tYg=="
+    },
+    {
+      "name": "Naomi Edmunds",
+      "gender": "Female",
+      "city": "ALACHUA",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bYiK7TBdY0KGUEGaQE+glQ=="
+    },
+    {
+      "name": "Austin Edwards",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "5to0AcCpWZWrQKWkBjQxGA=="
+    },
+    {
+      "name": "Christine Emery",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mPFUPRtE4ZP6zO3tgDkeUA=="
+    },
+    {
+      "name": "Christine Engels",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nvsEb4rQAoUsShzrSd+FAQ=="
+    },
+    {
+      "name": "Anne Engemann",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wciq+KHzdv0IyXWaSoOuow=="
+    },
+    {
+      "name": "Kevin Engemann",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FUPeZu2qgWmRtv7Ul6rhaA=="
+    },
+    {
+      "name": "Naz Erenguc",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/8/2023",
+      "usta_id": "wi8l9L/rR/VQ66+8arGB9Q=="
+    },
+    {
+      "name": "Derek Farnsworth",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SlN9SFXN9J9yZncJVsIS6Q=="
+    },
+    {
+      "name": "Timothy Ferguson",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "YnfnZH1XtUKY/Vfr/2c33w=="
+    },
+    {
+      "name": "Brad Feussner",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "p/DcisZFfyynfoNPP5uQlQ=="
+    },
+    {
+      "name": "Ashley Fieldman",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P4xnNzQQpx2jYh/xhUbk7Q=="
+    },
+    {
+      "name": "Shaun Files",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/26/2024",
+      "usta_id": "yRLJVPE/lftJvXSCVDnDMw=="
+    },
+    {
+      "name": "Susie Finfrock",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8a28h0AM/8mnVF4tGrTMsQ=="
+    },
+    {
+      "name": "Paul Fisher",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "394JQ+7c0Jw36oZyp+208w=="
+    },
+    {
+      "name": "Gregg Fissenden",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QRBbvHmE7Vd4IkOLag2/1Q=="
+    },
+    {
+      "name": "Camilo Fita",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2NcnCHio1Z50NH/C/sYNkA=="
+    },
+    {
+      "name": "Margaret Fita",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/31/2024",
+      "usta_id": "MbfTlljLC1v8MuzeyKlhEQ=="
+    },
+    {
+      "name": "Francis Flores",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AdviCOcMk9zuUv5PeaKRqg=="
+    },
+    {
+      "name": "John Flowers",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "l/Pa780ukVHLCKgpNYvcfQ=="
+    },
+    {
+      "name": "Wendy L Flynn",
+      "gender": "Female",
+      "city": "Lake Forest",
+      "state": "IL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sobbtHuTi1auH1C8P3FPtw=="
+    },
+    {
+      "name": "Paul Folkers",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B10jvIJkv9Ekk5MySOPNig=="
+    },
+    {
+      "name": "Frank Foster",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1rNyAMNQi9vXZhpzOV/eEA=="
+    },
+    {
+      "name": "Hebah Fox",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zP/zB9YQ0CXg+Lf/1KyV0w=="
+    },
+    {
+      "name": "Jeff Fox",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9gNEcHKdjHmG6D0W4uA9LA=="
+    },
+    {
+      "name": "Newell Fox",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3EDqsO52Xrdcf9h5heRmaw=="
+    },
+    {
+      "name": "David Franklin",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/22/2024",
+      "usta_id": "g0eUfBWJGHl7Ogd34Pi+4A=="
+    },
+    {
+      "name": "Sorin Fratila",
+      "gender": "Male",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CbwMAmKaqDEh6UkbVEDRvg=="
+    },
+    {
+      "name": "Charlene Frazer",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DxjXUb1won+bhNp90PlNSg=="
+    },
+    {
+      "name": "Kirsty Freshwater",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/12/2024",
+      "usta_id": "PdSUs5lLGqsF1MZWCeKoLA=="
+    },
+    {
+      "name": "Amanda Fuller",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7aH+Z+SJqH+Lel2BXqtWjw=="
+    },
+    {
+      "name": "Tiani Fuller",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XRKB9HRoeWU47ihqpd0CTA=="
+    },
+    {
+      "name": "Braedon Fulton",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/30/2024",
+      "usta_id": "nEdVld0SE1FV27r3syvQgQ=="
+    },
+    {
+      "name": "Raymond Gage",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/27/2025",
+      "usta_id": "iRetBOa9u5R5dj4923HbRg=="
+    },
+    {
+      "name": "Melissa Galloway",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Znrd4LPKtdRg8dnwGkJ5Q=="
+    },
+    {
+      "name": "Jack Gandolfo",
+      "gender": "Male",
+      "city": "Reddick",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sHP5wdJWuyosMcYa/Q7iIQ=="
+    },
+    {
+      "name": "Nolan Gao",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "TLzRPbiIFtD6E727jwL2qQ=="
+    },
+    {
+      "name": "Linda Garcia-Crespo",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iepAn0ERwo20J6421AKi4w=="
+    },
+    {
+      "name": "Shawn Gaston",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/kmCJHDmpqJ8XeFDZw66fQ=="
+    },
+    {
+      "name": "Stefanie Gazda",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tFuvQ19uL8D2nNEdGORYxQ=="
+    },
+    {
+      "name": "Mehmet Genc",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2islYovCA+7tKb6kda8Zkw=="
+    },
+    {
+      "name": "Dale Gerber",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "WzxsBbBCXvVFub87fxSy7w=="
+    },
+    {
+      "name": "Stefan Gerber",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fx9NyJQQMsY1DPZ+3DAqCA=="
+    },
+    {
+      "name": "Bob Gerling",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZXyGQP8n1lz9YrvV6Q1Bbg=="
+    },
+    {
+      "name": "Fritz Gerling",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RG73iAHJZuk+NbXzjVbnUA=="
+    },
+    {
+      "name": "Jennifer Gerling",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ImuXmlDERK+zirRMsrWdTg=="
+    },
+    {
+      "name": "Ziad Ghanimi",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/22/2023",
+      "usta_id": "NMCC4FwxOFhsZy/xZVn14A=="
+    },
+    {
+      "name": "Alison Ghiaseddin",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "E3cESRybzqu7w2WMSy+nsQ=="
+    },
+    {
+      "name": "Heather Gibson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CZUYCqn6K/1BWjJ7AGC8Hg=="
+    },
+    {
+      "name": "Jhanna Gilbert",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x0CkeVfXqSWMrUrQaxEcFg=="
+    },
+    {
+      "name": "Jamie Gilliam",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bvUtW6kDBbhKSvVAAMbKAg=="
+    },
+    {
+      "name": "Quynn Gingrich",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m2Xy/vzkia3D3o8+AUALPA=="
+    },
+    {
+      "name": "Tracy Giordano",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1coEs3QNCEBUz6PLYN6fIA=="
+    },
+    {
+      "name": "Lynn Godwin",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2VGqFGr//fxSqiWeg3T1RQ=="
+    },
+    {
+      "name": "Megan Golden",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "DnIin0mYM4oH2Ar8aXFv3g=="
+    },
+    {
+      "name": "Angie Gomez",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EVbKbjiOtukd69HZeCsSGw=="
+    },
+    {
+      "name": "Anthony Gonzalez",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/12/2023",
+      "usta_id": "Id5ltwyYRjGhfoEmmxCYBw=="
+    },
+    {
+      "name": "Ines Gordo",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "bSl3sUjMd7XHBWzZb+Hhhw=="
+    },
+    {
+      "name": "Matt Goss",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PxhRHjTrj3FLMjG8yoo2Xg=="
+    },
+    {
+      "name": "Karyn Governale",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ehdRZwI0fj+I2Ai0NiLT8A=="
+    },
+    {
+      "name": "Kristin Graham",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VYFiBatxxXtfXa+vf1OLeQ=="
+    },
+    {
+      "name": "Alaina Gray",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ISLTptwQwjKfpUZpuQDRzw=="
+    },
+    {
+      "name": "Gary Greer",
+      "gender": "Male",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vo0B0Nlnjppdb1HHxQ3GUg=="
+    },
+    {
+      "name": "Lauren Groff",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/JD9Lgjr4T+Nw1PwPZhP0Q=="
+    },
+    {
+      "name": "Peter Grosshans",
+      "gender": "Male",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4mAiqiFby72PjWYXTy3tcA=="
+    },
+    {
+      "name": "Fred Gruen",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "weBxHoL18QQ8FxrSZS0VHA=="
+    },
+    {
+      "name": "Pranav Gupta",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lEaehN6gfSKVk/L8qI/HPg=="
+    },
+    {
+      "name": "Rajesh Gurrala",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MaxbFab/aaXGNY2EVsdICQ=="
+    },
+    {
+      "name": "Vicki Guy",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NHgbOdvTBW0S7FOAbRsKlw=="
+    },
+    {
+      "name": "Robert Guyton",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "EGurjv8j9juolU2nOCx2LQ=="
+    },
+    {
+      "name": "Dieter Haager",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "syNsIjh6o3dacGuREoY11Q=="
+    },
+    {
+      "name": "Kelly Haager",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "61F0ZXC+t/cCRCsKSWgaAA=="
+    },
+    {
+      "name": "Jennifer Halinski",
+      "gender": "Female",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1cuFABZqeM0oUFlbVxhXAw=="
+    },
+    {
+      "name": "Katie Hambrook",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/4/2025",
+      "usta_id": "xbdjDCNW/rB3NqhavdBo/A=="
+    },
+    {
+      "name": "John Hamilothoris",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "hGutUGppMfr6bJvV20f12g=="
+    },
+    {
+      "name": "Vivien Hamilton",
+      "gender": "Female",
+      "city": "CAPE CORAL",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/7/2024",
+      "usta_id": "l4YSKQnLGYgZFQP26d/oyQ=="
+    },
+    {
+      "name": "Susan Hammond",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/13/2024",
+      "usta_id": "NZ8m+JEzrYHj3CfHGYNC1w=="
+    },
+    {
+      "name": "Shuhong Han",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2022",
+      "usta_id": "RoM+6ttmB83sNZxk3RR2jQ=="
+    },
+    {
+      "name": "Dan Harloff",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ov3mBCtk0NQQSV74aMIOxg=="
+    },
+    {
+      "name": "Terry Harris",
+      "gender": "Male",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "y76rnOR+35HyGuoOD1A7+g=="
+    },
+    {
+      "name": "Jonathan Hart",
+      "gender": "Male",
+      "city": "Archer",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OVnAyb2X0U4dI3LcmFHyfQ=="
+    },
+    {
+      "name": "Troy Hart",
+      "gender": "Male",
+      "city": "High Springs",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/25/2025",
+      "usta_id": "6RDzpHozvuqgw3C4kX3EFg=="
+    },
+    {
+      "name": "Melinda Hartline",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D64T42odwGOwos4O75dUAg=="
+    },
+    {
+      "name": "Cindi Harvey",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/11/2024",
+      "usta_id": "TMEO9ci6DlNLksGZi88Kvw=="
+    },
+    {
+      "name": "Mary Hazan",
+      "gender": "Female",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z+SYGnoEtYvIxAGpSa3Ufg=="
+    },
+    {
+      "name": "Kristin Hedtke",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dGgkn/2WkQnByiaXXkmpzQ=="
+    },
+    {
+      "name": "Alex Henry",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+8oZ9pjL/X77U6H8JeQWaw=="
+    },
+    {
+      "name": "Randy Heron",
+      "gender": "Male",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/20/2025",
+      "usta_id": "tGUlmlZiJmtD0GwEYH+kGw=="
+    },
+    {
+      "name": "Michael Herriott",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "6netZ6ocs4D8krm3qFrMtw=="
+    },
+    {
+      "name": "Jennifer Hewitson",
+      "gender": "Female",
+      "city": "OCALA",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1QCwiLi6tIaoN69kEHPcNQ=="
+    },
+    {
+      "name": "Kelsy Hill",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4ZZNSwPbMkQXPhAXlkUu1w=="
+    },
+    {
+      "name": "Jennifer Hitchcock",
+      "gender": "Female",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XJFHaV0IzHey2uKowUtMIg=="
+    },
+    {
+      "name": "Lan Hoang-Minh",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "NFNoE1CGPey27tgGEFkmow=="
+    },
+    {
+      "name": "Michaela Hogan",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3xce5yuVRwrCvd/Ni9EHqQ=="
+    },
+    {
+      "name": "Majken Hoh",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/13/2024",
+      "usta_id": "GO+zxgn79REyEGBQr1BYUQ=="
+    },
+    {
+      "name": "Lauren Holliday",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RU1oloXBZF1xAbSLZA+TRA=="
+    },
+    {
+      "name": "Lawrence Hooghuis",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G5J2ro07IXJOrzF9SCwMBg=="
+    },
+    {
+      "name": "Sarah Hooghuis",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iqRioSAs4JzGbH21Lz2M1w=="
+    },
+    {
+      "name": "Raymond Hopkins",
+      "gender": "Male",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "G71AINwQeA9Eblt55crmhQ=="
+    },
+    {
+      "name": "Caroline Hord",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aoiWSGUw4gY5wkt9TM31yA=="
+    },
+    {
+      "name": "Mark Hostetler",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A/wVmpiAxYXkSOgXtXpOeQ=="
+    },
+    {
+      "name": "David Hou",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pMlDQWf5/2Jnbq2+M9ZI4Q=="
+    },
+    {
+      "name": "Jaclyn Hovde",
+      "gender": "Female",
+      "city": "PELHAM",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UwQrKch0sUb7da1xukoaTg=="
+    },
+    {
+      "name": "Elizabeth Howell",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "70AJssjtE6CuBWypACPqMA=="
+    },
+    {
+      "name": "Keith Howell",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/28/2025",
+      "usta_id": "GRC4aEAj/npI1/dHupLnKg=="
+    },
+    {
+      "name": "Chia Hang Hsu",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JP77GFOJk55cobgHEsdDXg=="
+    },
+    {
+      "name": "Amy Hu",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/1/2025",
+      "usta_id": "xrwHCgfHX+6xiITzR2pAAA=="
+    },
+    {
+      "name": "Randy Hu",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/18/2024",
+      "usta_id": "8S7eios5jYGMLhXZALtTvw=="
+    },
+    {
+      "name": "Jungyun Hwang",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6vvXOPgyLpgTuhLKqApUVg=="
+    },
+    {
+      "name": "DALTON IEIRI",
+      "gender": "Male",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wMiaWw9MC/p7kxBqBluCUA=="
+    },
+    {
+      "name": "Lauren Indelicato",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PpbnkYMTsnLNYCs+/3Dj1g=="
+    },
+    {
+      "name": "Helen Ingmarsson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QeXBDC8Iz/PYnHzmNcLB7w=="
+    },
+    {
+      "name": "Carla Intal",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9duJXJ2cpFVsUruCLWUC7Q=="
+    },
+    {
+      "name": "Laura Isaacs",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "SCWvQDKrfeJbhXMuzIbMTg=="
+    },
+    {
+      "name": "Michelle Ivanowski",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZbkvLZLcDahMBButxh1dkg=="
+    },
+    {
+      "name": "Jack Jacobs",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f9A6HlG50kTUP8qLBE398Q=="
+    },
+    {
+      "name": "Danielle Jake-schoffman",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/18/2025",
+      "usta_id": "JWtu3+myjUIsdkqqbgHzSw=="
+    },
+    {
+      "name": "Jaime Jenkins",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "cptiN33XeNM34yye8RPw8g=="
+    },
+    {
+      "name": "David Jewell",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nnT1ZeO0HOTFgCTjscAmMQ=="
+    },
+    {
+      "name": "Heather Jewell",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ssspIt8SCeUaPlrRZnvi8A=="
+    },
+    {
+      "name": "Alexander Johnson",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dpjAhyg5jWoxckQjyJDfiw=="
+    },
+    {
+      "name": "Cassie Johnson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HjGP09OwWRQtjhoj1ICHzA=="
+    },
+    {
+      "name": "Elizabeth Johnson",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+CUc1sFBSaXgc4nVm8pgWA=="
+    },
+    {
+      "name": "Freddie Johnson",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oxqU9TDjmgdkUm6mPWNXWA=="
+    },
+    {
+      "name": "Tara Johnson",
+      "gender": "Female",
+      "city": "MELROSE",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nKlIF2/ZwPfoypIN6y+5yA=="
+    },
+    {
+      "name": "Vicki Johnson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7snrtb5FDLbZNtqUGA7svw=="
+    },
+    {
+      "name": "Sheena Jones",
+      "gender": "Female",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/10/2025",
+      "usta_id": "e/kjkfkL1XKjI4ZgPFqjuw=="
+    },
+    {
+      "name": "Morgan Jordan",
+      "gender": "Female",
+      "city": "PORT SAINT LUCIE",
+      "state": "FL",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "6/25/2024",
+      "usta_id": "fp5jNS72un4S44WSYu2+vA=="
+    },
+    {
+      "name": "Melissa Justis",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WWatUU85cnw+M9UeDk4Xeg=="
+    },
+    {
+      "name": "Ted Kadala",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/5/2024",
+      "usta_id": "W54SwNc2JlKFO67kZtuOLw=="
+    },
+    {
+      "name": "Ludivine Kail",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "roRM/ZTLuJk/IWt8z3yySw=="
+    },
+    {
+      "name": "Blythe Karow",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BYrVgWHoAQoDxvIwasNwnA=="
+    },
+    {
+      "name": "Kevin Kasitz",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "8hwPnzFKHwSPhiK8XH3wMg=="
+    },
+    {
+      "name": "Lucy Kaul",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OHwdDPzURI+OuDZU4htXwg=="
+    },
+    {
+      "name": "Aaron Kelley",
+      "gender": "Male",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tyeiAkJxcrrDSORnmKmJSQ=="
+    },
+    {
+      "name": "Pam Kelly",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Khz6iQ7MH9dXNOreeyLqZw=="
+    },
+    {
+      "name": "Frank Kenlon",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bPpCwSvNCNqvl2IcAGUC8w=="
+    },
+    {
+      "name": "Brian Kim",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/25/2024",
+      "usta_id": "S5ZB+RqMLf2aDdliyLdNTg=="
+    },
+    {
+      "name": "Peter Kim",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xFdTVxjoLtygFR7IFfc9XA=="
+    },
+    {
+      "name": "Lisa King",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UL6vJSIuN0uaXLaVv5u5qg=="
+    },
+    {
+      "name": "John Kish",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "MIujOkKivX6YiRV+t8VYQA=="
+    },
+    {
+      "name": "Lori Knackstedt",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/3/2024",
+      "usta_id": "MLN0IpTIzWiyl1dHVLNW5A=="
+    },
+    {
+      "name": "Denise Krigbaum",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2024",
+      "usta_id": "sn+u9jwBFGlp9xOLjtP4Zw=="
+    },
+    {
+      "name": "Alice Kropp",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "sGOqFNjyNtDSi01LHpGIeA=="
+    },
+    {
+      "name": "Charlene Krueger",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r4qex1HL4h3xUHEKYl9hlg=="
+    },
+    {
+      "name": "Boris Kuchuk",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w2E2VfzNfFsjEqnYdAO35A=="
+    },
+    {
+      "name": "Gabriela Ladd",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/21/2025",
+      "usta_id": "kUx14hnlUsSNLH/ByzHuHw=="
+    },
+    {
+      "name": "Song Lai",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DElyNigAAcFhAg3vKmfV3Q=="
+    },
+    {
+      "name": "Kevin Laird",
+      "gender": "Male",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UCz4MW1SHsGPbTTapbu94g=="
+    },
+    {
+      "name": "Philip Lancaster",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WiPykT4MyQJ+mVzUhREH7Q=="
+    },
+    {
+      "name": "William Landis",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ywM6XAcZ0pUcQb8QwgTZrA=="
+    },
+    {
+      "name": "John Lear",
+      "gender": "Male",
+      "city": "Lake City",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J5tt5ZPb+nhufVTbIh9wWQ=="
+    },
+    {
+      "name": "Jungwoo Lee",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W5Ck1NwureNf7Hhr2SxUJg=="
+    },
+    {
+      "name": "Bailey Lerner",
+      "gender": "Female",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IZNr6Ihl6vH3/M9O6cCx4A=="
+    },
+    {
+      "name": "Jonathan Levy",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Q96q7scwSPe/Vx1Pz+uFDA=="
+    },
+    {
+      "name": "Andrew Lewis",
+      "gender": "Male",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "crrIukzNNMZXsmkOeEsJ7A=="
+    },
+    {
+      "name": "Cynthia Lewis",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "243jlj88fMkaOU2hVG3TZQ=="
+    },
+    {
+      "name": "Xue Li",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HiCiYWFgQjqpgQmAzuR84A=="
+    },
+    {
+      "name": "Rafael Libunao",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/29/2023",
+      "usta_id": "/jdhURrevhn6YpUcSQI7dg=="
+    },
+    {
+      "name": "Anna Ligman",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RNBFfoepLSppDhPbhaVCrg=="
+    },
+    {
+      "name": "Eric Ligman",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DL8DDwgYkdDEf2QxPJrk3Q=="
+    },
+    {
+      "name": "Paul Lipori",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "8j6VHIyQ2Z6GXBsuNj2BgA=="
+    },
+    {
+      "name": "Adam Lites",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "0iZppksxzTzaq9NQlL1TVQ=="
+    },
+    {
+      "name": "Vincent LoCascio",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G3/eNzSb//VzdEl8eD5tXQ=="
+    },
+    {
+      "name": "Clary Loisel",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/1/2025",
+      "usta_id": "VhBUXyEowVzDxWvj2cPr7g=="
+    },
+    {
+      "name": "Eileen Lombardo",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xiHVEBTO0i+/fZ+7Yslkbw=="
+    },
+    {
+      "name": "Julie Long",
+      "gender": "Female",
+      "city": "Saint Augustine",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FdIRtqzqkoWxs8dPN7FF7w=="
+    },
+    {
+      "name": "Rebecca Long",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ACDnChK2T8yTCIz3dpKarg=="
+    },
+    {
+      "name": "Lenhs Louis",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "U/2Euy8zI06caRj8PC8JVQ=="
+    },
+    {
+      "name": "Andrea Love",
+      "gender": "Female",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3OYq/D35kHij6sZ5AGhA4Q=="
+    },
+    {
+      "name": "Terri Lowery",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6uO7Arp+2QcgWgTZ1GH6fQ=="
+    },
+    {
+      "name": "Tom Lowery",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T6boppEzwQflqsgWNBO1MQ=="
+    },
+    {
+      "name": "Jerry Lu",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kn1C5W+BPJ4xpSfrMyT17Q=="
+    },
+    {
+      "name": "Mariselis Luna",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "7ukVYCUC3lGzbko5WrgAMw=="
+    },
+    {
+      "name": "Zhe Ma",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cuPxKeGkmol8pQNTsfstaw=="
+    },
+    {
+      "name": "Malcolm Maden",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vTE2IfNYubVp6HibzDKHUQ=="
+    },
+    {
+      "name": "John Madock",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sp45lAO5g+F7bl/HF2rYGg=="
+    },
+    {
+      "name": "Richard Madolid",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AmWJoINCdKxZIClyIwBj9w=="
+    },
+    {
+      "name": "Anthony Madorsky",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JqJpUAuGy28UCYV8kJl8MQ=="
+    },
+    {
+      "name": "Irina Madorsky",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J5Htsxe4VeyWIb2Q6VNxig=="
+    },
+    {
+      "name": "Kim Magee",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SyDPThxOC/YRcTNyGz4Icw=="
+    },
+    {
+      "name": "Tanja Magoc",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "12/29/2024",
+      "usta_id": "n0jLb8lh/VsuqSMsw56VVw=="
+    },
+    {
+      "name": "Michael Malizia",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "YXrIxrncOFmIMU75DHZeyg=="
+    },
+    {
+      "name": "Austin Manning",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZzpAisufc9cnfxp0SaJeQA=="
+    },
+    {
+      "name": "Sophie Marcoux",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A67QIWgxujLDMKvLvtAyBA=="
+    },
+    {
+      "name": "Philip Matchev",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/5/2025",
+      "usta_id": "ku2k81HC/QoEDKNl+bx/0w=="
+    },
+    {
+      "name": "Raluca Mateescu",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "ZriEKlUYyNKlVKzaEcsBlQ=="
+    },
+    {
+      "name": "Margot Maurer",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KaWDbYQSzTyWr3iEVNAzvQ=="
+    },
+    {
+      "name": "Mary Mccue",
+      "gender": "Female",
+      "city": "Archer",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6eOKqbJBWxzEOQ6/uCgbmQ=="
+    },
+    {
+      "name": "Liam McDonald",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gKCCddVU+R1KWk1ObeiHWw=="
+    },
+    {
+      "name": "Aaron McGriff",
+      "gender": "Male",
+      "city": "OCALA",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "IS+bHFFiPk4hV13vbShDoQ=="
+    },
+    {
+      "name": "Danielle McGriff",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cWHhccgL/BrxIpib3vCvSA=="
+    },
+    {
+      "name": "Laurie McLaughlin",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c/ra7cVQy0Ji0yjUV56jNg=="
+    },
+    {
+      "name": "Marisa McLeod",
+      "gender": "Female",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kvXo1mE/vNWeLITKmkpMdA=="
+    },
+    {
+      "name": "Cindy McManus",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vVG5EBTjZN092GU6BUZpQA=="
+    },
+    {
+      "name": "Scott McMaster",
+      "gender": "Male",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lwuJ/aXK9bch6usx5nAEUA=="
+    },
+    {
+      "name": "Debbie McMillan",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q6uOBe735i8="
+    },
+    {
+      "name": "Lori Mcmillan",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/23/2024",
+      "usta_id": "gp+n8f01WH0FLm4ar522Vw=="
+    },
+    {
+      "name": "Megan Mcvay",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/18/2025",
+      "usta_id": "JWtu3+myjULyIvGp7e4dcA=="
+    },
+    {
+      "name": "Corey Mearns",
+      "gender": "Male",
+      "city": "Lake City",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mB7HekqpU46bVQg/y7WR5Q=="
+    },
+    {
+      "name": "Heather Mears",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x0CkeVfXqSUn7gm3wEO/1A=="
+    },
+    {
+      "name": "Fred Meister",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "5a9ClKowH6telJlBaINyOg=="
+    },
+    {
+      "name": "Renny Meister",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "NJAuWdOUQ2P03XBsoLRKnw=="
+    },
+    {
+      "name": "Emi Melker",
+      "gender": "Female",
+      "city": "TAMPA",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XCojokaS1R9B2X6rRJbXHQ=="
+    },
+    {
+      "name": "Scott Melker",
+      "gender": "Male",
+      "city": "TAMPA",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/3/2024",
+      "usta_id": "y1OHrQZsMwSAQoUg1Q3xhg=="
+    },
+    {
+      "name": "Rick Melzer",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "UlAsZLeCT8/rRXkyPhhB8w=="
+    },
+    {
+      "name": "Sebastian Mendez",
+      "gender": "Male",
+      "city": "High Springs",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z6OQ5k7arg4s9DzvKwp3Aw=="
+    },
+    {
+      "name": "Silvia Menendez",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1TXS1wKPxF2k7HZqwSjzJA=="
+    },
+    {
+      "name": "Ali Messenger",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AMmiwSzdiCLVMZJ7tXLojg=="
+    },
+    {
+      "name": "Andrew Messenger",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cx8kb/kKJI5yV/jEO8UD+A=="
+    },
+    {
+      "name": "Matthew Miller",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I7eRMRK70nifFsxat9+Vgw=="
+    },
+    {
+      "name": "Nathan Miller",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/15/2024",
+      "usta_id": "hNhna+Iug7nk6TAEi2OQYQ=="
+    },
+    {
+      "name": "Tabitha Miller",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/29/2024",
+      "usta_id": "I7eRMRK70ngjbJBPHfYA+A=="
+    },
+    {
+      "name": "Tammy Miller",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wWH/SrSvvtP8+66ksBeiGg=="
+    },
+    {
+      "name": "Beth Mills",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gnybk86UBu2Bx//s7cNOqw=="
+    },
+    {
+      "name": "Nicole Millsaps",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "91JT5b/pQy50hE0thSV6nA=="
+    },
+    {
+      "name": "Lauren Moehle",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hc5v90+q1PDfKC5q6mGoOw=="
+    },
+    {
+      "name": "MEGAN MOLYNEUX",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Iy0hE/H/8jMPWuH7dEMQBQ=="
+    },
+    {
+      "name": "Don Monk",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6BI3Z/WS+RStSTE5fdJvQw=="
+    },
+    {
+      "name": "Laura Montauk",
+      "gender": "Female",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t/oiaKyc5Ij0xPR7Hg4tUA=="
+    },
+    {
+      "name": "Vito Montauk",
+      "gender": "Male",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "EKyusyp/7ehEaZWzNSvZ0w=="
+    },
+    {
+      "name": "Jonathan Mora",
+      "gender": "Male",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GNGpCWs1WFcb4d4ZbdLVyw=="
+    },
+    {
+      "name": "Liana Moreno",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "WvRQlILhL4cc3521i317lg=="
+    },
+    {
+      "name": "Kaleb Morris",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BzohpVCOGXmHSLRyltAkgg=="
+    },
+    {
+      "name": "Melissa Morris",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dmlhpGUOyYOMXu4CPjNMaQ=="
+    },
+    {
+      "name": "Julia Morrisroe",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IhZpKE0YXxNZ/73kAlommQ=="
+    },
+    {
+      "name": "Meredith Mowitz",
+      "gender": "Female",
+      "city": "Archer",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "3MVNT1T0hs+1ipGVYQawCQ=="
+    },
+    {
+      "name": "Amber Muehlmann",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PBtDKhFXDKnUYGnYmofg8Q=="
+    },
+    {
+      "name": "Kaley Mueller",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "IOOj446mlPdo6taSnMrXag=="
+    },
+    {
+      "name": "Mike Mueller",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "AC8jGTBn/V4Gwf1rco/P6Q=="
+    },
+    {
+      "name": "Yaramarie Munoz",
+      "gender": "Female",
+      "city": "High Springs",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5rqir0Vqdda1STBsPSxU3Q=="
+    },
+    {
+      "name": "Sara Murphy",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "dXfrcplici+mFkuEoHjVxw=="
+    },
+    {
+      "name": "Cole Myers",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/27/2025",
+      "usta_id": "uucfoT6FuOXR3QpU3zld8g=="
+    },
+    {
+      "name": "Keith Myers",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JmF1ms52DB8e0Ry8m87Ngw=="
+    },
+    {
+      "name": "Camille Naranjo",
+      "gender": "Female",
+      "city": "Miramar",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "raAe14t7ROYlxIBMY+JoDw=="
+    },
+    {
+      "name": "Kelly Nash",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/2/2024",
+      "usta_id": "peVyFLbS3oJsxkAvGpOHjg=="
+    },
+    {
+      "name": "June Navarro",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WuxcOSZGKGaGTM4mjQ5VJQ=="
+    },
+    {
+      "name": "Raquel Navarro",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rA7Cj0+7eGMJfF2GzFfIzw=="
+    },
+    {
+      "name": "Jenny Neelands",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kByguVZMVT/cuZNuIoAT9g=="
+    },
+    {
+      "name": "Naomi Nelson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "nmhdQ9klEy2YMsosfEfqww=="
+    },
+    {
+      "name": "Spencer Neville",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "7/13/2025",
+      "usta_id": "6+IPaxlzNFGCbnbkddWzqw=="
+    },
+    {
+      "name": "Paige Nicholson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m/DBcF1x5gsfhNGDMqKbzw=="
+    },
+    {
+      "name": "Olga Nin",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "jm7FDqVcCm7FdoIwialjjQ=="
+    },
+    {
+      "name": "Martin Noguera",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/16/2024",
+      "usta_id": "HTMwOqxK5zeAcJKHHnTKCw=="
+    },
+    {
+      "name": "Kristin O'Connor",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8sLAK1xaOGu3h7gKKiBqTA=="
+    },
+    {
+      "name": "Conor O'Dwyer",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6eOKqbJBWxxPfT3PLyj6Bw=="
+    },
+    {
+      "name": "Dominica Olive",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S5VuhfWNHk0ojKUNSx1XKg=="
+    },
+    {
+      "name": "Nathan Ordway",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "rhXaaWwkNFC+Nc+gk3yK6Q=="
+    },
+    {
+      "name": "Gary Orr",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/24/2024",
+      "usta_id": "s9X1XAKgyJRQbWii4zGy3w=="
+    },
+    {
+      "name": "Tina O'Shea",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/4/2024",
+      "usta_id": "S1RT/4L0WDBy8NW2YMCcaQ=="
+    },
+    {
+      "name": "Kathleen Outman",
+      "gender": "Female",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "siTto8dTfVoDpYa1UKgWQw=="
+    },
+    {
+      "name": "Nour Oweiss",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/19/2024",
+      "usta_id": "Fl/6RHz6LFQLFIAwsqJU5Q=="
+    },
+    {
+      "name": "Christine Padron",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FX4iVUfxasOpBoedVJYylQ=="
+    },
+    {
+      "name": "Joey Palus",
+      "gender": "Male",
+      "city": "Tampa",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/23/2025",
+      "usta_id": "xcNMVpyxQv7fgxRZIuGacQ=="
+    },
+    {
+      "name": "Nicole Paradise Black",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oGZayidZvvcl0K+vu5AO+w=="
+    },
+    {
+      "name": "Haesuk Park",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y8efJK/YOq4v5z8USFm3Rg=="
+    },
+    {
+      "name": "Yoonsuk Park",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hs9BBw0dDgPxi2QDJjbA+g=="
+    },
+    {
+      "name": "Hari Parvataneni",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/11/2023",
+      "usta_id": "JIN9ICacluVHWKNZ2cfVZQ=="
+    },
+    {
+      "name": "Subramanyam Pasumarti",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rf7YBaeCdPJeoNIFw7udvw=="
+    },
+    {
+      "name": "Gabriela Patino",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "gZbXee8RQBwatSyRWv2IyA=="
+    },
+    {
+      "name": "Jamie Patmore",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "aBeEhePeyiWG0/l8ujB6eg=="
+    },
+    {
+      "name": "Alejandro Pauly",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JmEE3jXszUI7+/11lmyEbA=="
+    },
+    {
+      "name": "Camille Pauly",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZmW3DP8ScbgdOQJiSkfgmA=="
+    },
+    {
+      "name": "Susannah Peddie",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WMAHJ0E7GGyafMJ+mQRXyQ=="
+    },
+    {
+      "name": "Sean Pedersen",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ubLxVnJYIcEoCkjnDPdNuA=="
+    },
+    {
+      "name": "Ingrid Peggs",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "4f3BnfQeWEZaFCMWuhZ+og=="
+    },
+    {
+      "name": "Zhong-Ren Peng",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BzohpVCOGXns4JnMjhy/CA=="
+    },
+    {
+      "name": "Samantha Penhale",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L8fioFMG8tZ9H2M81yf+1g=="
+    },
+    {
+      "name": "Sarah Perkins",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "qrIuCx32JYyjeznydYejmA=="
+    },
+    {
+      "name": "Henry Perlstein",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Q+utNQ0gWK+phW2KNwhZ5g=="
+    },
+    {
+      "name": "Kat Perlstein",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/4/2024",
+      "usta_id": "2C/TCqBgPmM0R59Y9j5aNQ=="
+    },
+    {
+      "name": "Nikki Perrino",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WIT51qChGnGRZzCPScjH6w=="
+    },
+    {
+      "name": "Leslie Perz",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5/NYZ3FGs8oX1zXsHPr7zg=="
+    },
+    {
+      "name": "Maxim Peterson .",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/8/2024",
+      "usta_id": "RE5adYldag73IArAGL8y8Q=="
+    },
+    {
+      "name": "Alicia Pfahler",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8EdG6Ncpeypr04y+mw4pWA=="
+    },
+    {
+      "name": "Anchalee Phataralaoha",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q1I71MTRd4pxaRaPBf0kMw=="
+    },
+    {
+      "name": "Mary Plankenhorn",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jAQsdjCYOXYsI3EHRu0mOQ=="
+    },
+    {
+      "name": "Blakely Porter",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/4/2025",
+      "usta_id": "LXk/2SP2LrgU4a/snoKPOQ=="
+    },
+    {
+      "name": "David Porter",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2dwxqSv9X361tDM/38uYvQ=="
+    },
+    {
+      "name": "Stephanie Portillo",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dqRsOPledNk9F+yKFZ9Q+Q=="
+    },
+    {
+      "name": "Ashley Poser",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bQen3k0nIR9WKYj1QTy6Ug=="
+    },
+    {
+      "name": "Sheena Prasad",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V076073/vEh1IcPcltl7dw=="
+    },
+    {
+      "name": "Jamie Primosch",
+      "gender": "Female",
+      "city": "Archer",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "sLp463zz7hnboVGNRg1Qqw=="
+    },
+    {
+      "name": "Libby Prince",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X9TaK0Zr8yHOy0YFrPeJTg=="
+    },
+    {
+      "name": "Jian Pu",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Y//PuivZ8+t2uPHo2Hbeg=="
+    },
+    {
+      "name": "Anita Rajasekhar",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ol4+tM21D/buJeTyXQfpyA=="
+    },
+    {
+      "name": "Raksha Ramkissoon",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l1vyHLH+KJUoFVz5miTpxw=="
+    },
+    {
+      "name": "Zach Randall",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LkcNTdevSTnYat1WjDLhCg=="
+    },
+    {
+      "name": "Morgan Ransom",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WJF/ZYmzzB+kocwComYSWQ=="
+    },
+    {
+      "name": "Katherine Ratliff",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4bq9XnHoR1an0s/oSg2WPw=="
+    },
+    {
+      "name": "Maureen Ratliff",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EmpRHu7V/eqUnQOPyT/teA=="
+    },
+    {
+      "name": "Alyssa Ray",
+      "gender": "Female",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kj8StzblOErG84KaaMpksg=="
+    },
+    {
+      "name": "Chris Redding",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/1/2024",
+      "usta_id": "q9CsJ4Sz8X19RWdHt+FpBA=="
+    },
+    {
+      "name": "Julie Redding",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/3/2024",
+      "usta_id": "6c24+p+2PO6f7G27mJBuPg=="
+    },
+    {
+      "name": "Ann Redfern",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ihsRtVCVCThyXMcHYP5PnQ=="
+    },
+    {
+      "name": "Paul Redline",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/22/2025",
+      "usta_id": "NXImj4VubLV50wULHi8hBA=="
+    },
+    {
+      "name": "Donny Reeder",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "MmCahRsVfWe1Ts5/VrCiNw=="
+    },
+    {
+      "name": "Shannon Reintgen",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "y31LAc6+Sp3nPIW2w0n/Qw=="
+    },
+    {
+      "name": "Frances Revere",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pswDxJkIrFYwzjosuPhv2g=="
+    },
+    {
+      "name": "Roberto Ribas",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j2VG60AoZHUTec8MQKyfgA=="
+    },
+    {
+      "name": "Shawn Ridgely",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L95ByLAo688qYPEbd5ziNQ=="
+    },
+    {
+      "name": "Stella Roark",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/26/2025",
+      "usta_id": "8NHpsWgWRz0nDJhddPw6Hg=="
+    },
+    {
+      "name": "Noah Roberts",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "hc1dig0f/u1XzmZ/Souc7w=="
+    },
+    {
+      "name": "Pedro Rodrigues",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FiYx1LZaVHyZLFTjgYmqRQ=="
+    },
+    {
+      "name": "Elise Rodriguez",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/26/2025",
+      "usta_id": "8NHpsWgWRz1HHe69F1fBpw=="
+    },
+    {
+      "name": "Mara Rodriguez",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jWDYrbGr++RbrYZy4VeNoQ=="
+    },
+    {
+      "name": "Marisa Rodriguez",
+      "gender": "Female",
+      "city": "Reddick",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5a2n8PIHlulRmaoS4dKjSw=="
+    },
+    {
+      "name": "Terry Rodriguez",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YJdqVqwWVkCxzVwFT0j7TA=="
+    },
+    {
+      "name": "Cameron Rosenthal",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8jI8sGCPfAZzVbPtnWnvNA=="
+    },
+    {
+      "name": "Marc Rothstein",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/26/2024",
+      "usta_id": "Q1GA2EVlW2bFSusASiFRAA=="
+    },
+    {
+      "name": "Scott Rowe",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uDLFLytmMEstSqTg8Yz9iA=="
+    },
+    {
+      "name": "Anitha Rumalla",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "0rE60cN0+Ay59Gy6+UhCjg=="
+    },
+    {
+      "name": "Peter Rush",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "SwVYP2KenVyEoK/zW8ARFA=="
+    },
+    {
+      "name": "Megan Ryals",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8quXBfpqNCVHmHBeXR4lEA=="
+    },
+    {
+      "name": "Stephanie Ryan",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OH7cbKPlSmHj0hT83aWzUg=="
+    },
+    {
+      "name": "Soumanou Sabi Goura",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WNylWRW+0HEvkdnfyPAswQ=="
+    },
+    {
+      "name": "Alison Safir",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/13/2024",
+      "usta_id": "cgBKWMzvmDXaM98/KUqlLw=="
+    },
+    {
+      "name": "Madison Sagas",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qfp95JEVH4FzBTGTH5uC4Q=="
+    },
+    {
+      "name": "Julie Sager",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5cKnMALXBexrbP1Y2DBCWw=="
+    },
+    {
+      "name": "Kirit Samayam",
+      "gender": "Male",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kfo+77vSVvFDIG0GACVLkA=="
+    },
+    {
+      "name": "Giuseppe Saracino",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vv6v7zRXdh+4op3KOUF5RQ=="
+    },
+    {
+      "name": "Tiffany Scalf",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/11/2024",
+      "usta_id": "PfSnVDloVnKwk/fy/bWybA=="
+    },
+    {
+      "name": "Chad Schafer",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x6fINCoOHN/qxVsIsdn0kg=="
+    },
+    {
+      "name": "Erik Schmidt",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lf48hhaci9zuhiXVY117Pg=="
+    },
+    {
+      "name": "Tiffany Schmidt",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5m+v15bmgQj0OtzePbZSRQ=="
+    },
+    {
+      "name": "Marc Schnoll",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nM1C2OEdZuy3qol4IwrbEQ=="
+    },
+    {
+      "name": "Michael Scott",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "MusMDTgZBj/Rx0sig9iziQ=="
+    },
+    {
+      "name": "Jennison Searcy",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PpbnkYMTsnKhBx040pvXwg=="
+    },
+    {
+      "name": "Norman Seavers III",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "JIN9ICacluWY0J6c70oRvA=="
+    },
+    {
+      "name": "Natasha Seavers",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tE0GcrL4ayZ2xtVv0ucjnQ=="
+    },
+    {
+      "name": "Rachael Seidler",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BpxEvFWnJhxPA06Q/Pw52w=="
+    },
+    {
+      "name": "Betsy Severance",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xzAyXObE+FOUDqcjxGAINA=="
+    },
+    {
+      "name": "Jim Severance",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TLR/P3D86Xk0vtokRThRjw=="
+    },
+    {
+      "name": "Jigisha Shah",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/q+iobrY7/JX3Vz+jC5fJg=="
+    },
+    {
+      "name": "Rupen Shah",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "InD36sBbWHHXJ7V6wt8beQ=="
+    },
+    {
+      "name": "Jixiu Shan",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1uZMSJJeLQAIaM7f7b6LnQ=="
+    },
+    {
+      "name": "Jill Shea",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J5Htsxe4VeyxVIKSzPWhFg=="
+    },
+    {
+      "name": "Linda Sheehan",
+      "gender": "Female",
+      "city": "High Springs",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yncaPokQ7rlTtSjdAxrE4g=="
+    },
+    {
+      "name": "Brian Shenker",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "0eHOM0ir2jWbJIMEfD152Q=="
+    },
+    {
+      "name": "Van Sherwood",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BRFBYjjjFIml1hlZ5vWP0g=="
+    },
+    {
+      "name": "Peng Shi",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BcTPHV016QI9ONgh5QW/cw=="
+    },
+    {
+      "name": "Jane Shin",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "71mlTba3SMOdh3xaxRzfdA=="
+    },
+    {
+      "name": "Carolyn Shinn",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "RpUg1msEHdvlNdbuZ5bTmQ=="
+    },
+    {
+      "name": "Amanda Sholty",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xJeUy1tRpaqWBftx+IEOcg=="
+    },
+    {
+      "name": "Michael Sholty",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GCjL1McV4cMAhFxmwxQUnA=="
+    },
+    {
+      "name": "Christopher Silver",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "xSCOMxOvGcuFRSbta5Pjcw=="
+    },
+    {
+      "name": "Ivana Simic",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/15/2024",
+      "usta_id": "kW9YGOLfy5qzufdK/VWZ9w=="
+    },
+    {
+      "name": "Jackie Sirmopoulos",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "auBuC8Jij4J0uM42YDyS8Q=="
+    },
+    {
+      "name": "Julie Skoby",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QZBn+L/dTxjbTTbTrblsHA=="
+    },
+    {
+      "name": "Bryan Smith",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/26/2025",
+      "usta_id": "3bmrVObnI/7V3ZyVaXkjfQ=="
+    },
+    {
+      "name": "Caroline Smith",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3YfW3h/IVpjRt4UAsy8ovQ=="
+    },
+    {
+      "name": "Chad Smith",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "8xWePxzMsQhKYGG7QkTtXw=="
+    },
+    {
+      "name": "Colin Smith",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5CcIWJuELAt8VaMcGPNJ7w=="
+    },
+    {
+      "name": "Elizabeth Smith",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "+acYocvzQhUjEeFtp6N71Q=="
+    },
+    {
+      "name": "Kevin Smith",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iEsGpCKWQw5TI5ZrvnImEw=="
+    },
+    {
+      "name": "Kim Smith",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IeaI9BosTT1LVHNgdorLnQ=="
+    },
+    {
+      "name": "Krista Smith",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EEq0kqts83Pogg6z9ZjCbA=="
+    },
+    {
+      "name": "Nancy Smith",
+      "gender": "Female",
+      "city": "Lake City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/4/2024",
+      "usta_id": "fodD2den3BBuquZKVuW7qA=="
+    },
+    {
+      "name": "Steven Smith",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "17o4Bjduu5eSX6lWosUmvQ=="
+    },
+    {
+      "name": "Corey Sobers",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oviOO1ygUMTuqepqYgATxQ=="
+    },
+    {
+      "name": "Jackson Songayab",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "0cY2QER2kYftPYmiTG+tbQ=="
+    },
+    {
+      "name": "Ashley Spink",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8AWYWC6SKeyOCXHeO4a7Qg=="
+    },
+    {
+      "name": "Josh Spink",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8AWYWC6SKexMipRoU4ET1g=="
+    },
+    {
+      "name": "Sitara Sriram",
+      "gender": "Female",
+      "city": "Land O Lakes",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/7/2024",
+      "usta_id": "GDjzS2UVLco3ebElxnRkdw=="
+    },
+    {
+      "name": "Addison Staples",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/20/2025",
+      "usta_id": "/8UOwlRMfsnbOQucy41rPw=="
+    },
+    {
+      "name": "Ed Stark",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oabZqkUJbMP+7LARPeOVYw=="
+    },
+    {
+      "name": "Kendall Steadmon",
+      "gender": "Female",
+      "city": "Micanopy",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/6/2024",
+      "usta_id": "i9Ln9bERHmuXMLX+vE1mjQ=="
+    },
+    {
+      "name": "Mandi Stephenson",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/6/2024",
+      "usta_id": "i9Ln9bERHmsQTSF+r9qW5Q=="
+    },
+    {
+      "name": "David Sterling",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/9/2024",
+      "usta_id": "3OIjuZ8UZWjIFi/ycCactw=="
+    },
+    {
+      "name": "Lauren Stevenson",
+      "gender": "Female",
+      "city": "Dunnellon",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GLpA3ifSGYHdM1/Db073bw=="
+    },
+    {
+      "name": "John Stewart",
+      "gender": "Male",
+      "city": "Lake City",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "a3l2PuchhohQ6OFs+T1i2Q=="
+    },
+    {
+      "name": "Anne Stricklin",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9NepzBb27zy/zEGR0Zybhw=="
+    },
+    {
+      "name": "Kimberly Sturgis",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "H4k+Hqk6mXjYaZ9vDyRTBw=="
+    },
+    {
+      "name": "Maria Su",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "Y4gxGLtuyRS+wR1mNnwsIw=="
+    },
+    {
+      "name": "Gonzalo Suarez",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mLkN6MF7hk/H1GMOOgPZ4Q=="
+    },
+    {
+      "name": "Gnanavel Subramaniam",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "11krDdQfdrMjKH+iJUL6zg=="
+    },
+    {
+      "name": "Shannon Sumerlin",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cMWHPCvxPqe3C0yKji5aYQ=="
+    },
+    {
+      "name": "Caroline Sutton",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BeGSsFr+r5nHiyRqVU2v3w=="
+    },
+    {
+      "name": "Cameron Swaggerty",
+      "gender": "Female",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sDjHNdqTjSxbiZg3S0BlyQ=="
+    },
+    {
+      "name": "Jonathan Taffe",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZRVx84x8Z/2QBq0WbMCSpw=="
+    },
+    {
+      "name": "Feng Tang",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "lOIgKEJw50LEAowYMA+9rQ=="
+    },
+    {
+      "name": "Robert Tangeman",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cke4lLsPSnO6pdA4YKWk8w=="
+    },
+    {
+      "name": "Stephanie Tangeman",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cke4lLsPSnNayphrOv0tBA=="
+    },
+    {
+      "name": "Robert Taylor",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+m5toFqUEMyPf3qdzJHt+g=="
+    },
+    {
+      "name": "Kjerstin Terry",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WHRx0z29+vIVzflvLKlnmA=="
+    },
+    {
+      "name": "Sergei Tevosian",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wdeUe/tJgmXs5gqAiq4tGg=="
+    },
+    {
+      "name": "David Therriault",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c1GGvvMLaFLWrJaIb8QLRw=="
+    },
+    {
+      "name": "Harrison Thibault",
+      "gender": "Male",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2rg23YAOuCfJgTgvwLffRw=="
+    },
+    {
+      "name": "Tiffany Thomas",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Ado9cI/ejE2QOX/k7ODjYQ=="
+    },
+    {
+      "name": "Tahereh Toghiyani",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dUOE7hmm2MFkO4kUv44d4Q=="
+    },
+    {
+      "name": "Tina Toghiyani",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dPteaP0it4C7f2FNL1Cv9g=="
+    },
+    {
+      "name": "Corinne Tomasi",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PsutYNaU3TwDYGuR8FB+ww=="
+    },
+    {
+      "name": "Michael Tooke",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y9JLWkGZS/7TWmk8UxJy1Q=="
+    },
+    {
+      "name": "Benjamin Topping",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1A5v6iIp9vO8thUu8SvvlQ=="
+    },
+    {
+      "name": "Juan Torres",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kfFSobD5YVfwHJWM/gsQSQ=="
+    },
+    {
+      "name": "Kannika Torres",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qWiZtry5p2jy9uj6gRQvgQ=="
+    },
+    {
+      "name": "Jorge Torres-Vazquez",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iepAn0ERwo1HfBZtMd435g=="
+    },
+    {
+      "name": "Cynthia Townsend",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dZxZwKWa6vBU7kelICQhrg=="
+    },
+    {
+      "name": "Darby Townsend",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kJWeUasYLDGeHdn7BmGZBQ=="
+    },
+    {
+      "name": "Marlene Townsend",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BY8EgF/N4B907cB/4+3qMw=="
+    },
+    {
+      "name": "Nicholas Tran",
+      "gender": "Male",
+      "city": "Ocala",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/2/2025",
+      "usta_id": "OsS+Plw6rYSQvjVl4kdyaw=="
+    },
+    {
+      "name": "Scott Travis",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ufq0z5hTWM/OKrzmvgH1Jw=="
+    },
+    {
+      "name": "Michelle Tripp",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VKZ1OlHyTv7nggWHliA5gg=="
+    },
+    {
+      "name": "Christine Tucker",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "z1X4Bkr7FRD6Lg8oJXkwyg=="
+    },
+    {
+      "name": "Jericco Tumuran",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/31/2024",
+      "usta_id": "hw69QZMQS42TtiJZ2CR9Mg=="
+    },
+    {
+      "name": "Hillary Turlington",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lJokTmF8/WMZeWmgQaFfHg=="
+    },
+    {
+      "name": "Della Tuten",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y+tPDN7FmYzqzIP6M5upLw=="
+    },
+    {
+      "name": "Alper Ungor",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gF3o/25ympKmmd6Uj8uIXw=="
+    },
+    {
+      "name": "AKXEL JAVIER URBIN D",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "Xa33AgKXRfBQv52KLxQq7w=="
+    },
+    {
+      "name": "Thanakon UThai",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/19/2024",
+      "usta_id": "hvcNQZ63Zy1XWowHzmk+jQ=="
+    },
+    {
+      "name": "Asoo Vakharia",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z4s0w9JqU6oHKDqK6pOhbw=="
+    },
+    {
+      "name": "Ian Dexter Valdez",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/7/2025",
+      "usta_id": "lg0nXNnIJ9LraqNvl1b08A=="
+    },
+    {
+      "name": "Anacielo Vale-grogan",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "u6pWoA1xqIzvFY+tyBIwpQ=="
+    },
+    {
+      "name": "Rachael van Dyke",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Rfw3lfEtky6+rMfq96bx9Q=="
+    },
+    {
+      "name": "Ekanong van Roy",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5ZNzsM9gicHCARQ4MPr7qQ=="
+    },
+    {
+      "name": "Donald van Schuppen",
+      "gender": "Male",
+      "city": "Archer",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TPIy4rtXIyzp4/5aGhqzaA=="
+    },
+    {
+      "name": "Marie Vanasse",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mNhog5fJphdMUfaDTmysnA=="
+    },
+    {
+      "name": "Elize VanZyl",
+      "gender": "Female",
+      "city": "Fort Pierce",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "5BR9SJ1/YrTrS49wFgkplA=="
+    },
+    {
+      "name": "Enrique Vargas",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bPUPG3MAVsuMUu5zVgVeNw=="
+    },
+    {
+      "name": "Linda Vaughn",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s/Bs1Vu9ZKuTAyIVYOrO7w=="
+    },
+    {
+      "name": "William Vaughn",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YK3HtZ4iiDi8hZW+h3RwFg=="
+    },
+    {
+      "name": "Vinata Vedam-Mai",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6/61UBJbc/fqJ5mM37Dg3A=="
+    },
+    {
+      "name": "Richard Velasco",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K7kWV8z/jdc6Aj0NwVgIeA=="
+    },
+    {
+      "name": "Jahan Venk",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f7zDDp8KRkf8dVrwnjyoww=="
+    },
+    {
+      "name": "Enzo Vettorato",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "6/16/2025",
+      "usta_id": "GM9ZMI651qGg4tgWEo1a+Q=="
+    },
+    {
+      "name": "Liz Vinson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xHfD4XLckl15CsX9/tIKmA=="
+    },
+    {
+      "name": "Diwakar Vyas",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vz8JOPSUqq8p0IaH2pDHEw=="
+    },
+    {
+      "name": "Malcolm H Waldron III",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LWwqwenHVDOyz2ARHpuwoQ=="
+    },
+    {
+      "name": "Christian Wanamaker",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/30/2024",
+      "usta_id": "YE8LXaFFgbmtoZ0KbjNtzA=="
+    },
+    {
+      "name": "Julie Wang",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/31/2024",
+      "usta_id": "fD5QJUqAjb7cPFV4se5oxA=="
+    },
+    {
+      "name": "Jim Waters",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "WYDRG2wngqHDInDFtp+1TA=="
+    },
+    {
+      "name": "Deanne Weber",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "12N3ReQNMXsEb2P+k1b+pg=="
+    },
+    {
+      "name": "Dan Weisman",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dwGbJM44qVU6hMJzr/eLvw=="
+    },
+    {
+      "name": "John Weissler",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gbLNnYFYU3/SnjWxHvVDsQ=="
+    },
+    {
+      "name": "Lauren Weseman",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "u6pWoA1xqIzrG+BzbWlcmw=="
+    },
+    {
+      "name": "Paul Wesson",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bmEHPte6J9M8tOkPgaAqfQ=="
+    },
+    {
+      "name": "Barbara White",
+      "gender": "Female",
+      "city": "High Springs",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "/3DCnobHaWZ/h8JcCYg+cA=="
+    },
+    {
+      "name": "Andrea Wiechmann",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PLwOV1StEXlCTh4UW+vZzw=="
+    },
+    {
+      "name": "Candis Aurora Wiggins",
+      "gender": "Female",
+      "city": "Melrose",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z4MSQ44YztjdFoqMM2aDNA=="
+    },
+    {
+      "name": "Rhoda Wilburn",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AfEVlysEVgslUyFS9Cf8QA=="
+    },
+    {
+      "name": "Evan Wilder",
+      "gender": "Male",
+      "city": "Alachua",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UH+d9XZGnRTbST/522cBxA=="
+    },
+    {
+      "name": "Ryan Wilder",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RTD0jNktRYfpVCLiGEueVw=="
+    },
+    {
+      "name": "Vicki Wilder",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yPEvBXlT+8ISD4JVgwfF1g=="
+    },
+    {
+      "name": "Dale Williams",
+      "gender": "Male",
+      "city": "Archer",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a/E610gQcs4n9e+r/hK3RQ=="
+    },
+    {
+      "name": "Lindsey Wilson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4iRuQfK6w3LrPHg8o7/Q/w=="
+    },
+    {
+      "name": "Marly Wilson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "ebXfQIvtGxUEBBI/c+SzZQ=="
+    },
+    {
+      "name": "Mary Wilson",
+      "gender": "Female",
+      "city": "Williston",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/25/2025",
+      "usta_id": "SFczK4CnJxbaPT4UBf5+BQ=="
+    },
+    {
+      "name": "Gary Wimsett",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OOD/RGzpmxefWuD1FBn8jg=="
+    },
+    {
+      "name": "MARY K WIMSETT",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "01sdFeBslxBYvL/ZPrJTPg=="
+    },
+    {
+      "name": "Tara Winterman",
+      "gender": "Female",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uD5HSQryuchPJRCVZP6+NA=="
+    },
+    {
+      "name": "Courtney Woody",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "4wLTe5Z8w7GADQhW7hTY4A=="
+    },
+    {
+      "name": "Patricia Woolley",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fMXvtNe+b7RITH+CmoOnUg=="
+    },
+    {
+      "name": "Cortney Wright",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iFHB5hPTPblcHhcBE9w4+g=="
+    },
+    {
+      "name": "JD Wright",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2KMXhF43lIZdgMdfYkftxQ=="
+    },
+    {
+      "name": "Richard Wright",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9cWULffXTiPvyXVHTgl1cw=="
+    },
+    {
+      "name": "Scott Wright",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rObXi6xPJkmmD78KURLRjg=="
+    },
+    {
+      "name": "Jian Wu",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/24/2024",
+      "usta_id": "GB2RQpeU210CdB+ORqvnaA=="
+    },
+    {
+      "name": "Davette Wycoff",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KlZb9RZ7UMKzDNtrZdUUXA=="
+    },
+    {
+      "name": "Yan Xia",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kX8ptHDkD2ZSpkHVa3JETA=="
+    },
+    {
+      "name": "Yi Xia",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/18/2024",
+      "usta_id": "O7IKXMZQWSKQb2f3/i+z/A=="
+    },
+    {
+      "name": "Kewei Xu",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TVNS7ta16R9jpwCZFi7jwg=="
+    },
+    {
+      "name": "Guanghua Yan",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b7zSGXc/uHz0N/eKI5vmUA=="
+    },
+    {
+      "name": "Amy Yazdanpour",
+      "gender": "Female",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RxoGDhmsauRfpkfQwU71Mw=="
+    },
+    {
+      "name": "Sharon Christie Ybanez",
+      "gender": "Female",
+      "city": "Beverly Hills",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tUKCvH99RzjI213lw2cR1g=="
+    },
+    {
+      "name": "Thomas Yonge",
+      "gender": "Male",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WpE7mR7i6FhXVhf64G93zQ=="
+    },
+    {
+      "name": "Chihong Yun",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fuBa6bMTZWiH309rf35zTw=="
+    },
+    {
+      "name": "Isabel Zadezensky",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o5cxUA/ytPUzdKAgtOXn0w=="
+    },
+    {
+      "name": "Maria Zaldivar",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NjJpkAEsn7SCD/YURILFCg=="
+    },
+    {
+      "name": "Iryna Zasimovich",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S/UhAKAZ2UQWN2w7Kpjlww=="
+    },
+    {
+      "name": "Yury Zasimovich",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PCvc0JK9L9zwiywJeFtHXQ=="
+    },
+    {
+      "name": "Margaret Zerbe",
+      "gender": "Female",
+      "city": "Newberry",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uvzGxXDzEpAgYZAIdI5HeA=="
+    },
+    {
+      "name": "Yaotian Zhang",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/22/2024",
+      "usta_id": "0XYkufCTZFXwxaUwNUDe1A=="
+    },
+    {
+      "name": "Bo Zhao",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YnfnZH1XtUI+S2OiXI6maA=="
+    },
+    {
+      "name": "LIUZHENG ZHENG",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QckcUk5hI1ztTlAFvJNbEg=="
+    },
+    {
+      "name": "Ching Zhou",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wm+tVCUxkbsbF6fN8cNvXA=="
+    },
+    {
+      "name": "Peter Zhou",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "FL",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Zj7OcpB/NKw0mi14Skzng=="
+    }
+  ]
+}

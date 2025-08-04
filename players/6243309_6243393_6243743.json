@@ -1,0 +1,3077 @@
+{
+  "sectionId": "6243309",
+  "districtId": "6243393",
+  "areaId": "6243743",
+  "players": [
+    {
+      "name": "Laura Abilez",
+      "gender": "Female",
+      "city": "Christoval",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "JXvtsd6vKaDMLaAzcRgiFw=="
+    },
+    {
+      "name": "Liz Albert",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JMifMxUhKSmSfTZIwvNb7g=="
+    },
+    {
+      "name": "Ryan Albert",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/9/2025",
+      "usta_id": "aROYICAZIx0XFOHuskekZg=="
+    },
+    {
+      "name": "John Aldape",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "RDRVBblBbwYL5miCjixG4Q=="
+    },
+    {
+      "name": "Lisa Alexander",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jZ9/vz+5AxEpz/5n/Bjnww=="
+    },
+    {
+      "name": "Casi Allen",
+      "gender": "Female",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nNikKF51uc15WhH/9GfFwg=="
+    },
+    {
+      "name": "Whitney Allen",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q4ox/eBzF/J/8nJfrgWoDw=="
+    },
+    {
+      "name": "Lacy Allison",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AEuorCFxO35FBRDznx6PRA=="
+    },
+    {
+      "name": "Jaime Anderson",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D7ECdLgGkLZUxQQYMedVjA=="
+    },
+    {
+      "name": "Vanessa Arredondo",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/27/2025",
+      "usta_id": "4Y9OnPXw+ev6RLgBFuSpFw=="
+    },
+    {
+      "name": "Ivana Arvilla",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/10/2025",
+      "usta_id": "jSRRZsKdPouw9JE5x/3nFg=="
+    },
+    {
+      "name": "Tina Ashley",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rok+ZZ3jp4sIiaJwATOYYA=="
+    },
+    {
+      "name": "Izaiah Balderas",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "c/acKb1rx+GnKyxA33CW3w=="
+    },
+    {
+      "name": "Lorie Balderas",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2yFY0GWlP2izmhRItDGoCA=="
+    },
+    {
+      "name": "Jamie Barajas",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/17/2025",
+      "usta_id": "nSbTfzJpFzc5/DmWyUCXYw=="
+    },
+    {
+      "name": "Bridget Barbee",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "usKILlwo0ciMoStMD7UoEQ=="
+    },
+    {
+      "name": "Adrian Barnes",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "IuNzXDlsCX7xPXBkMyTQTQ=="
+    },
+    {
+      "name": "Jenna Barnes",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BcW59p/v4lKiG7DnblD+UQ=="
+    },
+    {
+      "name": "Ryan Barnes",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WlcQGJdVbl6rdnnF+VGYhw=="
+    },
+    {
+      "name": "Tyler Barron",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/28/2025",
+      "usta_id": "v7VLdp3SGcWYU62cNQXJRQ=="
+    },
+    {
+      "name": "Liz Bates",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9EwPoShzjoZc2NWrw0/B5Q=="
+    },
+    {
+      "name": "Lela Batten",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uo9hY0o+4fZpf2JYniGLbg=="
+    },
+    {
+      "name": "Samantha Batten-Crumrine",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eR/Zadmoc+1MzX15PvnD3g=="
+    },
+    {
+      "name": "Kim Bell",
+      "gender": "Female",
+      "city": "Weatherford",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NgUIQYgjqWZcsVmk8NFnXQ=="
+    },
+    {
+      "name": "Christi Belmont",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "unZnz7hp4zdLtiEje9cqgw=="
+    },
+    {
+      "name": "James Bird",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/10/2025",
+      "usta_id": "uTLLVtdZ+WN/8pPbJpEpLg=="
+    },
+    {
+      "name": "Robert Black",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/5/2025",
+      "usta_id": "31npAhB5hiyWKGjUVG0okQ=="
+    },
+    {
+      "name": "Heather Brewer",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x+ruP6ZJk7AxLcSKWLhZVQ=="
+    },
+    {
+      "name": "Allison Bright",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MRas7R4udWNWUGbb3r+gpg=="
+    },
+    {
+      "name": "Kristi Briley",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BUrqYlrmGTjWUs80QSXbwA=="
+    },
+    {
+      "name": "Mason Brooks",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OslXP6+5mSz5+vCd1yWfDg=="
+    },
+    {
+      "name": "Susan Brooks",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uw0EBv8QCT2X/cAqOKJ7jw=="
+    },
+    {
+      "name": "Sheri Brown",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rIFtZ6/L2IojAm8En4RUwA=="
+    },
+    {
+      "name": "Kevin Bruce",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Nen126BXetlyL3MHHV7hg=="
+    },
+    {
+      "name": "Chase Bruton",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4zHMzpEDmb2rzySScrghdQ=="
+    },
+    {
+      "name": "Callie Bryan",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/8/2024",
+      "usta_id": "OJiJ/YENpj+/pQ6emYS06w=="
+    },
+    {
+      "name": "Caroline Bryan",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/17/2025",
+      "usta_id": "5FdvYkIrrNiXS6k+U7j3mQ=="
+    },
+    {
+      "name": "Will Burkes",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M9ZNrKJOsOSQMwIGEA1oHw=="
+    },
+    {
+      "name": "Shelly Burkett",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GSRNN127+tUJdcnrqWK6zg=="
+    },
+    {
+      "name": "Cody Burns",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zXZWF++vBkXZpTpOT/BnEg=="
+    },
+    {
+      "name": "Erin Bynum",
+      "gender": "Female",
+      "city": "Miles",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1CEjehaTcsN5Rdb+x1e5eg=="
+    },
+    {
+      "name": "Lauren Bynum",
+      "gender": "Female",
+      "city": "JUNCTION",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "XAy2A7NESxfWKxSZUp/T2g=="
+    },
+    {
+      "name": "Cindy Byrd",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RWwpCq7MOkI1qH8bx5Pm0Q=="
+    },
+    {
+      "name": "Davis Calhoun",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/25/2025",
+      "usta_id": "jeglk4oCQuTr4xssc9uMWg=="
+    },
+    {
+      "name": "Bea Carrasco",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UInAB/oNUY2LWBbStqMq0Q=="
+    },
+    {
+      "name": "Brenda Carrizales-Adams",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V9WPv6ZXK91lwxtIpWsY+A=="
+    },
+    {
+      "name": "Jacob Casarez",
+      "gender": "Male",
+      "city": "Lamesa",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "RRfYTjst6dyRLt9vLyh6VQ=="
+    },
+    {
+      "name": "Heather Castro",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "jBEANTpzHTL2Uq9TbMbKAA=="
+    },
+    {
+      "name": "Donna Cates",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+jxB9uf7wL9+UC8op5eWSA=="
+    },
+    {
+      "name": "CODY CAULEY",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0G4BiYkRfmTfl7L6bx4YkQ=="
+    },
+    {
+      "name": "Michelle Chapa",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n/S4HhZWrfEBAebnHDHBXA=="
+    },
+    {
+      "name": "Chandra Chapman",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eltahXeD7GGdvhAJR3DRNQ=="
+    },
+    {
+      "name": "Manon Cherubini",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vs3PlLjzUGsgLwM2YQXB9A=="
+    },
+    {
+      "name": "Brigitte Coker",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "68Frk0fd1pclCx22NQAgJw=="
+    },
+    {
+      "name": "Chris Coker",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4qz5QPOFfV8+fQgTVvBJig=="
+    },
+    {
+      "name": "Alicia Cole",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sic+vkpQifapMemsIirAhA=="
+    },
+    {
+      "name": "Chris Cole",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ERNp98IjlIkHjhoFWqdfjw=="
+    },
+    {
+      "name": "Lara Coleman",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SpkGRKhChHDjw/4m2cjR2A=="
+    },
+    {
+      "name": "Kimberly Collins",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rKhNcrBMSn5RbQaBtKfdRQ=="
+    },
+    {
+      "name": "Austin Contreras",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ICWvYhCwcdqtO4K8MZvYdA=="
+    },
+    {
+      "name": "Justin Contreras",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "xTWzi8D8u+rjsbz+tOT4ZA=="
+    },
+    {
+      "name": "Michelle Contreras",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "13W4YIy1ILiptpctx6kCBA=="
+    },
+    {
+      "name": "Trisha Corbell",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jYnHQCcjASpGy24mQM0A9A=="
+    },
+    {
+      "name": "Lauren Coston",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "hrtGX3i/FokOWEv3irGT8w=="
+    },
+    {
+      "name": "Damon Scott Cotton",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BtDjBNqePvpf//lEFcWmoQ=="
+    },
+    {
+      "name": "Matthew Counts",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/1/2025",
+      "usta_id": "6aPTBUKTvP6WJUd/6kKccQ=="
+    },
+    {
+      "name": "Catherine Cuenca-Torres",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q/MltHTNgYE4GUWUZD5E2g=="
+    },
+    {
+      "name": "Dinah Cummings",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kN55eC/u5TpZYyL52HPIJg=="
+    },
+    {
+      "name": "Alison Dalby",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HM6geb7N1vKMlKexm5EkRg=="
+    },
+    {
+      "name": "Meaghan Davis",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Thzb/B/gV7srNHQPgVf5cg=="
+    },
+    {
+      "name": "Mary Dean",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sys5DwtPfkHPmYwiQxamTg=="
+    },
+    {
+      "name": "Rebecca Dean",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "usKILlwo0cgQfcVFv/Bpng=="
+    },
+    {
+      "name": "Grace DeLaughter",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/23/2025",
+      "usta_id": "8hEfuhiiSP9H9/eLQGhBWg=="
+    },
+    {
+      "name": "Nicolas Diaz",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "gSvbXacPxi03kWhXxUC0dw=="
+    },
+    {
+      "name": "Cario Dickerson",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "DbuQ1OW+LdnGmBNO2+2YDw=="
+    },
+    {
+      "name": "Lisa Diebitsch",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "etL7MAU6rJ6fK/hz8X3B4Q=="
+    },
+    {
+      "name": "Tara Dodds",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WlUXXUGfcA5asOYkaCpriA=="
+    },
+    {
+      "name": "Lori Dornhecker",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1v+rRgwzoeXhulwQgT7vGw=="
+    },
+    {
+      "name": "Todd Dornhecker",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EtumsfkqrnzS633yuPGJwg=="
+    },
+    {
+      "name": "Morgan Downing",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e94mE/1fVKyXuKk6xwXdqw=="
+    },
+    {
+      "name": "Stacy Duffell",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Me9ITYHG4i3eCupXiYCshQ=="
+    },
+    {
+      "name": "Lexanne Edmiston",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JHmVQ8FmSUNIReJdOIOU8A=="
+    },
+    {
+      "name": "Sadie Farr",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j1kDPjlXMBRitdpFsyxJ/w=="
+    },
+    {
+      "name": "Caleb Felts",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OSO5HVm6PMwn1l11jTaRsA=="
+    },
+    {
+      "name": "Kirby Felts",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "OSO5HVm6PMwWgvR9lbI9VA=="
+    },
+    {
+      "name": "Gentry Fields",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+W89YaC3HINx9jPQKK0O5Q=="
+    },
+    {
+      "name": "MonaLisa Fischer",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "94GOe3gxN0lisNPjUcJOtA=="
+    },
+    {
+      "name": "Peyton Fischer",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s7s2mYyrL59NLGO4vFphLQ=="
+    },
+    {
+      "name": "Symphony Fischer",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "UoKJtIrahos9zKuwp4HuOg=="
+    },
+    {
+      "name": "Paige Fletcher",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "r06A/Eb97Hlu896WuzAr6Q=="
+    },
+    {
+      "name": "Colin Forbes",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ryJrKbFfNbCQLgV17l3EDg=="
+    },
+    {
+      "name": "Sarah Ford",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oUX19+pk/W4KyQkerSf+8Q=="
+    },
+    {
+      "name": "Yolanda Franco",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "w2vnj2fWWooQWD/Li9YBIg=="
+    },
+    {
+      "name": "Jessica Fryar",
+      "gender": "Female",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "52kZcZAR7m5VRd+KJJ5Kpw=="
+    },
+    {
+      "name": "Scott Gibbs",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xm01QqzYTYPIAe8MYkOlUw=="
+    },
+    {
+      "name": "Ginger Granath",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X+WKwSkpVwRtWUo8CrGS2A=="
+    },
+    {
+      "name": "Neil Granath",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Fzm0+Tq9JG0cLF2PkmqFg=="
+    },
+    {
+      "name": "Debbie Gravelle",
+      "gender": "Female",
+      "city": "GRANBURY",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DE5+aKb2hg6+RqkIxbPoMg=="
+    },
+    {
+      "name": "Sylvia Guadarrama",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wt85VQraN3FOiSOKPIlejQ=="
+    },
+    {
+      "name": "Craig Gutierrez",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0uQq6xSHlIROurSbtkRLIw=="
+    },
+    {
+      "name": "Veronica Gutierrez",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "iYRDTYbsaO10Jir/HEB34Q=="
+    },
+    {
+      "name": "Kate Guy",
+      "gender": "Female",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H7x2gQ4XIQfnyy+NTKM4wQ=="
+    },
+    {
+      "name": "Jillian Haddad",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Z3Pe16H0l2h7aDn+1RB7g=="
+    },
+    {
+      "name": "Jake Hagan",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "AfKFHFDlBBRLf0sV1q+h3w=="
+    },
+    {
+      "name": "Dustin Haire",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "aNZ6kUuTbPFGtJnnW07U7Q=="
+    },
+    {
+      "name": "Kelly Hallmark",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "227ZhvlHsMxtCBn+pnZizA=="
+    },
+    {
+      "name": "Jacob Halsell",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W7dv8dyoSjNseCWVUWJ6MA=="
+    },
+    {
+      "name": "Tiffany Halsell",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fgSf8qBZt+m27ahF3IPzfQ=="
+    },
+    {
+      "name": "Steve Hankamer",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ys+P4Cgf59ddR9bf+lO02w=="
+    },
+    {
+      "name": "Brint Harmon",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "glJuXcHHrLU/yc4UxZ4ZDg=="
+    },
+    {
+      "name": "Kymberli Harper",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9IVVw6RM01zQzTS2oQR16A=="
+    },
+    {
+      "name": "Dustin Hayden",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9ZoHOhvCgZ5dLnEDeI8f+A=="
+    },
+    {
+      "name": "Kasey Heintzelman",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hcq7M5OuuC+w6VeHfb0aQQ=="
+    },
+    {
+      "name": "Jeff Helton",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GemRfD0Q9YjbRHTKzX6Z0g=="
+    },
+    {
+      "name": "Hoppy Henegar",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QOsPoM4bO6hA+icwUfbKtw=="
+    },
+    {
+      "name": "Cindy Hensley",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aFJO8xLkVcZfwCSbnLoo2g=="
+    },
+    {
+      "name": "Sullivan Henson",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/31/2025",
+      "usta_id": "AVWaOQ6OScG3dtpEGoekMA=="
+    },
+    {
+      "name": "Corbyn Herring",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "49AlNXBXR31SfDu+JKQ/gw=="
+    },
+    {
+      "name": "Jen Herring",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BFWthSNzICWw26sOpwv2mA=="
+    },
+    {
+      "name": "Amy Hill",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cvJcrDHT43jK9DTd8aDi5w=="
+    },
+    {
+      "name": "Shane Hill",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1Qwz6AqEhaENNV+shGtFVg=="
+    },
+    {
+      "name": "Chad Hirt",
+      "gender": "Male",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9NJJe9nx/npr/dzFaBBlYg=="
+    },
+    {
+      "name": "Jessie Hoak",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HwMaKFAHrrtLmO7LbaY6RA=="
+    },
+    {
+      "name": "David Hockridge",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p8bUZ1c22C3PD+fWmUiDlg=="
+    },
+    {
+      "name": "Lorena Hockridge",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/9/2024",
+      "usta_id": "TY5ijwsj+0s0WDSDYTVWhw=="
+    },
+    {
+      "name": "Shyanne Holik",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1pHcfmRTJRB1C3IKAT2c3Q=="
+    },
+    {
+      "name": "Don Hollowell",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2EICU34iFLfw1+AAF0iJuQ=="
+    },
+    {
+      "name": "Jim Honea",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ItvyVAZNW0YqVTuWf5LgIg=="
+    },
+    {
+      "name": "Miranda Houser",
+      "gender": "Female",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s21QI2mSSex45uEULs4PtA=="
+    },
+    {
+      "name": "Rob Houser",
+      "gender": "Male",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tr4WwkhSCa78Avqo5FyD0w=="
+    },
+    {
+      "name": "Kayla Hubble",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vx987t0LNMTCinQD5h70+A=="
+    },
+    {
+      "name": "Tiffany Huebner",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e4UCQuz1TSElT0e1/bl3sQ=="
+    },
+    {
+      "name": "Hilary Huffman",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VDVLu/gvE7fCKf6Js6BVXw=="
+    },
+    {
+      "name": "Deanne Hume",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lHQJZFg4MpXbW6kuE7w+4A=="
+    },
+    {
+      "name": "Brian Jackson",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "8xG+SG/y3cGun+JK0VuBhA=="
+    },
+    {
+      "name": "Leslie Jackson",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/25/2025",
+      "usta_id": "6r4asoITWE3jZ77TLLxvtg=="
+    },
+    {
+      "name": "Racheal Jacoby",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/22/2025",
+      "usta_id": "vZXru04oEcrsRhbIF9Cx9Q=="
+    },
+    {
+      "name": "Avery Jameson",
+      "gender": "Female",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/10/2024",
+      "usta_id": "ArMmTyQnDc7Uda4HJE5lcQ=="
+    },
+    {
+      "name": "Scott Jameson",
+      "gender": "Male",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "40+g+otMrJ1k9fLuwIz6Dw=="
+    },
+    {
+      "name": "Korbin Jastrow",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "ZtJINnOQ3CTnvmjDvqmy+w=="
+    },
+    {
+      "name": "Blake Jenkins",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RCnQm3jbpa5XQa9Tt1kxzQ=="
+    },
+    {
+      "name": "Skylar Jenkins",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/15/2025",
+      "usta_id": "qlVQpADcid5+W9vpJn/R2g=="
+    },
+    {
+      "name": "Staci Jenkins",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ytu/SeNOI5Ll0/fghS/NWw=="
+    },
+    {
+      "name": "Susan Jett",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GJsq7WlBDsOTwYzuhcBYsQ=="
+    },
+    {
+      "name": "Molly Johnson",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/20/2025",
+      "usta_id": "lvbZUkGhvCN48KiS7FNUlA=="
+    },
+    {
+      "name": "Penni Johnson",
+      "gender": "Female",
+      "city": "Eden",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "WMa8I1iuU1dbLWeXdK4xHg=="
+    },
+    {
+      "name": "Shanna Johnson",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dHFUH2WHwHnm3MHoBrH+9Q=="
+    },
+    {
+      "name": "Jody Jones",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Gmm5Hwzmavil9KxPqdJAg=="
+    },
+    {
+      "name": "Melissa Jones",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/2/2025",
+      "usta_id": "TkZ2XjW+W3XYCb6gonP9Uw=="
+    },
+    {
+      "name": "Halle Jost",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0pHVGxEhfKHe0k/oqSKy7A=="
+    },
+    {
+      "name": "Mallory Khantharasy",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XflvfOqg/7ywE6f29JZtJw=="
+    },
+    {
+      "name": "Michelle Kiefer",
+      "gender": "Female",
+      "city": "Robert Lee",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MVc//dhDqzv4aNHD3RKCUA=="
+    },
+    {
+      "name": "A Killam",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IS/qLtYVfAy51CPvD2kuyQ=="
+    },
+    {
+      "name": "Ryan King",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dOrDlldwotDTwMvpOIB4zA=="
+    },
+    {
+      "name": "Hannah Kothmann",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/21/2025",
+      "usta_id": "JPKXHAhyfpHHaQSNXOLoEg=="
+    },
+    {
+      "name": "Ty Kothmann",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "ieUJcGt1h4kE6xyELgJntQ=="
+    },
+    {
+      "name": "Cheryl Kubacak",
+      "gender": "Female",
+      "city": "Brady",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZOIOKyY9KpUMTZim3TGBRA=="
+    },
+    {
+      "name": "Tommy LaFon",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aKFTZoLcEVQi8eeY1Z42pA=="
+    },
+    {
+      "name": "Harold Lamm",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BX/N5UwisKeBy3dH7Doh7w=="
+    },
+    {
+      "name": "Julia Lane",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sQp61RUrAmIsR9YEiUYZPw=="
+    },
+    {
+      "name": "Stephanie Lanford",
+      "gender": "Female",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FYTrNNKJUrejGO2oItRp5A=="
+    },
+    {
+      "name": "Briley Leggett",
+      "gender": "Male",
+      "city": "Eola",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "OBmnEgVPA35Rk5TFDo2e4A=="
+    },
+    {
+      "name": "Janine Lemons",
+      "gender": "Female",
+      "city": "Colorado City",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+qHIWLLr1eTZD9lUI2aRCA=="
+    },
+    {
+      "name": "Will Lightfoot",
+      "gender": "Male",
+      "city": "Paint Rock",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DfmnNfMathgDeLkKMnsXnw=="
+    },
+    {
+      "name": "Samantha Lindsey",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/31/2024",
+      "usta_id": "7c2bgzz3YH0kmpGHdlBsjw=="
+    },
+    {
+      "name": "Susan Looka",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gM30aTfM6USIpGvJJ9NdXA=="
+    },
+    {
+      "name": "Gloria Lowman",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VWOgufsXtK0eorNX/80cTQ=="
+    },
+    {
+      "name": "James Lowman",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "+ngq07mMVMHnPa0LSiiUUQ=="
+    },
+    {
+      "name": "Jacob Maenius",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CwHV/Qr4eQYaWBL3Mliwuw=="
+    },
+    {
+      "name": "Julie Manuel",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IlY+v+yk2DzgNsxB74hKPg=="
+    },
+    {
+      "name": "Myra Marsh",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yJCUfwALmBwofcThaBZl0A=="
+    },
+    {
+      "name": "Santiago Martinez",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "11otwJPBJw6pXwHIBOgYbw=="
+    },
+    {
+      "name": "Sol Mayer",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "Je1Tt5jt5k/KObT/srmxAw=="
+    },
+    {
+      "name": "Kristi McCarter",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PlwFSU/d1NogRSaP56DJOw=="
+    },
+    {
+      "name": "Andie McCasland",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/4/2024",
+      "usta_id": "MAuCt4REDb6XNs7aQJxx9A=="
+    },
+    {
+      "name": "Brent McCasland",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MAuCt4REDb5N/udTqUbDYA=="
+    },
+    {
+      "name": "Luann McCorkle",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hif2MxjS2uwhQ6gVjM3pzw=="
+    },
+    {
+      "name": "James McDuffie",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GCStXPFu8J7sROGRqCZrwA=="
+    },
+    {
+      "name": "Nicole McDuffie",
+      "gender": "Female",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tfb8HJFD243jsw30GrrCxQ=="
+    },
+    {
+      "name": "Debra Melott",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "prVVYBxi1ooSXOI/l9iytQ=="
+    },
+    {
+      "name": "Gabriella Mendez",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "NYRIsNbUudBEYdxvGFPTsQ=="
+    },
+    {
+      "name": "Troi Middleton",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gyScC24BUEgvpZd3eqVfDw=="
+    },
+    {
+      "name": "Melissa Morris",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/27/2025",
+      "usta_id": "iAgwP9NKKi8K0I1BVp04Gg=="
+    },
+    {
+      "name": "Eric Nagel",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OfR+bw4EFof6Vn9RK5e4Yw=="
+    },
+    {
+      "name": "Kent Nally",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/24/2024",
+      "usta_id": "/gnQ6tyH7bvW/mx8OP8OmQ=="
+    },
+    {
+      "name": "Kaleb Nance",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mrLqgbE6HgP/3+9K7JQEJA=="
+    },
+    {
+      "name": "Lora Narvid",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MZhaxe7VsDMz8Y7HhyC5nw=="
+    },
+    {
+      "name": "Eve Nelson",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "S6lj2JkTthQ95WA1e0u6XA=="
+    },
+    {
+      "name": "Todd Nelson",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+nYKBnbOhGLPoWBOKzr69g=="
+    },
+    {
+      "name": "Ryan Newlin",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/10/2024",
+      "usta_id": "LiDP4MzuvAxiRJoJTTH7vQ=="
+    },
+    {
+      "name": "Tibby Niehues",
+      "gender": "Female",
+      "city": "Garden City",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/22/2025",
+      "usta_id": "e3VZdYIdoJa9f4At4cX93w=="
+    },
+    {
+      "name": "James Oliver",
+      "gender": "Male",
+      "city": "Sonora",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/15/2025",
+      "usta_id": "ZwwKisCiO4AiAmxvSa+OfA=="
+    },
+    {
+      "name": "Justin Oostveen",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "Gsy4d2olwXi5DHdSwpawvg=="
+    },
+    {
+      "name": "Jay Orr",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3B/OAG9S19DXYBeg+yuosQ=="
+    },
+    {
+      "name": "Donna Paul",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zI1jDl1O+TaESVkBuJnptg=="
+    },
+    {
+      "name": "Greg Pearson",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/10/2025",
+      "usta_id": "uQsKGFHEYDm3kt3GmEwjYQ=="
+    },
+    {
+      "name": "Christi Perret",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TQigQhOS+DfxPMJBVEDz8Q=="
+    },
+    {
+      "name": "Kathleen Pfluger",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xQ6TRnX3VEGJZzJ5ARgNLw=="
+    },
+    {
+      "name": "Blake Phillips",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9WhlrXSny7sCQQ6XkqyI2w=="
+    },
+    {
+      "name": "Hallye Phillips",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VtqmjDu5HjRuXb7/K9XKzg=="
+    },
+    {
+      "name": "Kaiya Phongsavanhthong",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rLkOJMjIclmiuP0a+987Gw=="
+    },
+    {
+      "name": "Brittany Plagens",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WV+SogCCgdrhEkPVsL+oqw=="
+    },
+    {
+      "name": "Srikanth Podaralla",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dyRclekA8vqOBnaHaED4vw=="
+    },
+    {
+      "name": "Sarah Post",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Vib2IQgUSsm6ZU5wgSoag=="
+    },
+    {
+      "name": "Jake Powers",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/22/2024",
+      "usta_id": "38atb+eTaABTPYVsrvchPw=="
+    },
+    {
+      "name": "Mason Pullig",
+      "gender": "Male",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/23/2025",
+      "usta_id": "m8NmxsgIUrVTk2FHplIYdw=="
+    },
+    {
+      "name": "Melia Pullig",
+      "gender": "Female",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m8NmxsgIUrXrvVXafwOtNw=="
+    },
+    {
+      "name": "Wesley Pullig",
+      "gender": "Male",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DMxolruW/ZxPJXdoYmTUYQ=="
+    },
+    {
+      "name": "Melanie Rainey",
+      "gender": "Female",
+      "city": "Mertzon",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/10/2025",
+      "usta_id": "gWuYVkFZoTP1AwJZoN6fhw=="
+    },
+    {
+      "name": "Shona Ramos",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3SZ7grMosXe//oBojNNGtg=="
+    },
+    {
+      "name": "Archana Rao",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EuquJczWbsN3C/MsToVShw=="
+    },
+    {
+      "name": "Carolina Raymond",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fZFdwRnwOmU/4o3dYNGFgg=="
+    },
+    {
+      "name": "Julie Rea",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+1ik3AWZ4CRJUH13VGUzTw=="
+    },
+    {
+      "name": "Todd Rea",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1zjwpnUBCxPA/yXoDVocXQ=="
+    },
+    {
+      "name": "Toby Redden",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UHIcfiJyT1DgtrAkmCllTQ=="
+    },
+    {
+      "name": "Walter Reed",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5jXw4BKywVRjpMmMIM47SA=="
+    },
+    {
+      "name": "David Reyes",
+      "gender": "Male",
+      "city": "Big Lake",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/23/2024",
+      "usta_id": "qJrHNRP8A/Spt7b+xFhHxg=="
+    },
+    {
+      "name": "Jose Reyes",
+      "gender": "Male",
+      "city": "Big Lake",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RPX3y2DKN0+4GV2h3odMgA=="
+    },
+    {
+      "name": "Jonathon Rittenhouse",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F04URfmdaZSK19PjNknnPA=="
+    },
+    {
+      "name": "Christina Rivero",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bOQ0z43nQYwnCoh+LFGQlQ=="
+    },
+    {
+      "name": "Jannice Rivero",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/2/2025",
+      "usta_id": "PDWJBx+5jyr0LMF58oyiKw=="
+    },
+    {
+      "name": "Jacqueline Robles",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P+0nvzEANX1HgRl5F4ASpw=="
+    },
+    {
+      "name": "Kyrsten Robles",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "Pztl84Ef2l4+/pTZ51Lq9Q=="
+    },
+    {
+      "name": "Nolan Robles",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NQekwkkhh3rn8QQbSphF4A=="
+    },
+    {
+      "name": "Oscar Rodriguez",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/8/2024",
+      "usta_id": "d+Exnc6gApv9hOvD6OeN9g=="
+    },
+    {
+      "name": "Asher Rogers",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/31/2025",
+      "usta_id": "u+lWxVevOZarTmHgJvrHqg=="
+    },
+    {
+      "name": "Cecil Ross",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lqyzdyHUIQ8TQlPJRstMxQ=="
+    },
+    {
+      "name": "Chandra Ross",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2DOnQim1+njsUCsWqFFt0w=="
+    },
+    {
+      "name": "Chasity Ross",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "asc526YRMo6rTyHAUAWtfw=="
+    },
+    {
+      "name": "Christy Ross",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DpcO6rPW8cXeOx4WVKBmDA=="
+    },
+    {
+      "name": "Mitzi Salgado",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zIAg64QIv85TcKL781MH8g=="
+    },
+    {
+      "name": "Rikki Sarabia Bosmans",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MRaJeT5AWEtFG56qysT2XQ=="
+    },
+    {
+      "name": "Dave Schaller",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bb7QhM7KW7brulB8vbPj4A=="
+    },
+    {
+      "name": "Caylee Schellhase",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "WcUt+oPV4TzN3VbcRq/8HQ=="
+    },
+    {
+      "name": "Annette Schwartz",
+      "gender": "Female",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7FLKRhZ7ifzq2BPCuNLtNQ=="
+    },
+    {
+      "name": "Julia Schwartz",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F+b3iUtHyzWNIz4AynGOCQ=="
+    },
+    {
+      "name": "Kim Schwartz",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NV0h1VEd5PTSGmDX+01dAg=="
+    },
+    {
+      "name": "Justin Sefcik",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/9/2024",
+      "usta_id": "gwIes56njBKFah0oWrN40g=="
+    },
+    {
+      "name": "Whitney Sherley",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s7s2mYyrL5+5v82NX3ObYA=="
+    },
+    {
+      "name": "Deborah Simons",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rc8iwcQf1RI7148X6gquTQ=="
+    },
+    {
+      "name": "CoCo Simpson",
+      "gender": "Female",
+      "city": "Christoval",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mnjjYS/W6J8Q9hZ41F30aA=="
+    },
+    {
+      "name": "Kyann Slaughter",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V7ewIKSFjIeK6Nj0Tu7akg=="
+    },
+    {
+      "name": "Alvin Smith",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "46/QHUOPKCAdBxCp5zOODA=="
+    },
+    {
+      "name": "Tim Smith",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2Mj4gKv7ImqmiTpktsJAxQ=="
+    },
+    {
+      "name": "Amelia Soto",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ic6fLTVmh6XYPGY0fCusOA=="
+    },
+    {
+      "name": "Britney Stansberry",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m/pO4MK2jGjeyj+k2X/8Hw=="
+    },
+    {
+      "name": "Turner Stark",
+      "gender": "Male",
+      "city": "Big Lake",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "PzCyHkUU25IQbnTGrc0pbQ=="
+    },
+    {
+      "name": "Blake Starkweather",
+      "gender": "Male",
+      "city": "Imperial",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/22/2025",
+      "usta_id": "R5QkYSHKjcl+Dp7aeSNSbw=="
+    },
+    {
+      "name": "Cori Stewart",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bDXlpZsfpZlAgClKATb1YQ=="
+    },
+    {
+      "name": "Jeff Stewart",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "rGsU06W6uKMElwoLWp2vTw=="
+    },
+    {
+      "name": "Miranda Stewart",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TB1HzSDpMQwZQBi5poTT7w=="
+    },
+    {
+      "name": "Gene Stickney",
+      "gender": "Male",
+      "city": "Sweetwater",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7VXyxhK3PKY/HXWOLobPSA=="
+    },
+    {
+      "name": "Jerry Stilwell",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rhElL0uhOPaO6tU+tOZgtw=="
+    },
+    {
+      "name": "David Sturgeon",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+tW7NdD04veoMe5sOiXgjA=="
+    },
+    {
+      "name": "Brittany Sutton",
+      "gender": "Female",
+      "city": "Water Valley",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NDuuFrmkmB4pUtpqqzYEYA=="
+    },
+    {
+      "name": "Bruce Swartz",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pXZjYbrJGYoO7Pf5kFhDzQ=="
+    },
+    {
+      "name": "Susan Swartz",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4eVOXya5fr2uG1pNNKgZ5Q=="
+    },
+    {
+      "name": "Tracy Tatum-Smith",
+      "gender": "Female",
+      "city": "Big Lake",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k2GC9OuCHrIzrg59zXzAPw=="
+    },
+    {
+      "name": "Carolyn Taylor",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/19/2024",
+      "usta_id": "AjIyxGktWfU8PQyOTb1xfg=="
+    },
+    {
+      "name": "Tish Taylor",
+      "gender": "Female",
+      "city": "Wall",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/28/2024",
+      "usta_id": "PEoNoC4M33VeDxLoSv4VEw=="
+    },
+    {
+      "name": "Kerri Thacker",
+      "gender": "Female",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A08ZuZr33mhNA28O0vovPA=="
+    },
+    {
+      "name": "Beau Theimer",
+      "gender": "Male",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "166dBF+NEkTVDQCsYQaWnw=="
+    },
+    {
+      "name": "Jessica Theimer",
+      "gender": "Female",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kaXOT+PZaCab6dMn2kJmbQ=="
+    },
+    {
+      "name": "Dawn Thompson",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P772NdfuSoOA6aVQOnDYTQ=="
+    },
+    {
+      "name": "Hayli Tomerlin",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/22/2025",
+      "usta_id": "jdM1+ogiVKxnllXpKa4Cnw=="
+    },
+    {
+      "name": "Sheila Tomerlin",
+      "gender": "Female",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "62Y4ABIiJpkFk1jEgKuiQQ=="
+    },
+    {
+      "name": "Kathi Ullrich",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0i7JipfWcGYRV2ETNl3LEg=="
+    },
+    {
+      "name": "Raymund Untalan",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Ewm+odKDKeVPcMhJNz5k+A=="
+    },
+    {
+      "name": "Alyssa Urbantke",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zKv0aEyT8Ft7DcusoYwyyA=="
+    },
+    {
+      "name": "Jared Urbantke",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "Qq+o0Qpm3oxKvGyRqV7TNA=="
+    },
+    {
+      "name": "John Vasquez",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aNC8KhRdiVrv3FyOkSr9Nw=="
+    },
+    {
+      "name": "Deanna Vaughan",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "SNomPHCFz12EUbX2KwGhOQ=="
+    },
+    {
+      "name": "Mary Vega",
+      "gender": "Female",
+      "city": "Miles",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FoiTQbe4DrjjQbcBVx1A9w=="
+    },
+    {
+      "name": "David Vignes",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "++1GV55a3B0gWPIHnDXnbQ=="
+    },
+    {
+      "name": "Dylan Villafranco",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "amqT+5E4jJjjVjkwr8VXiQ=="
+    },
+    {
+      "name": "Brandi Vincent",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fg1C9fbdjySLhaU81jl4vQ=="
+    },
+    {
+      "name": "Bryan Vincent",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mIiQbOubAM+J4/3mlKtmLQ=="
+    },
+    {
+      "name": "Paige Vincent",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mIiQbOubAM8+CaEJVhqgKQ=="
+    },
+    {
+      "name": "Kristi von Rosenberg",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1TXS1wKPxF2NqMPYSLAdaQ=="
+    },
+    {
+      "name": "Jill Vosburg",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1PHHhmdxEr7j055a3M+3fQ=="
+    },
+    {
+      "name": "Binh Vu",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qJKSvoinICCkmUpZK7wv9w=="
+    },
+    {
+      "name": "David Wagner",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PGBDL7PZu1t9ZxhVCRVvRw=="
+    },
+    {
+      "name": "Brittney Waldrop",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "lPWxmr/613bFVjvCgBxzVA=="
+    },
+    {
+      "name": "Drew Wallace",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DVBTcIV6c6bpXiHy++uPyQ=="
+    },
+    {
+      "name": "George Wallace",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/1/2025",
+      "usta_id": "rQmyg2XnobZUfN0TVHB5vw=="
+    },
+    {
+      "name": "Lisa Wallace",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "C9zY+5lPl8aPtrTBTBn0qQ=="
+    },
+    {
+      "name": "Ashley Warren",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "9Xm1aXRu66/dxoOnPO7AzA=="
+    },
+    {
+      "name": "Johanna Weiland",
+      "gender": "Female",
+      "city": "Miles",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/23/2025",
+      "usta_id": "zXK+yiPn5YFWlPhsXwZ1+Q=="
+    },
+    {
+      "name": "Collin Weise",
+      "gender": "Male",
+      "city": "Vancourt",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/14/2025",
+      "usta_id": "9sebkBpcQjK3eVtTUzunDg=="
+    },
+    {
+      "name": "Edward Welch",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ffng+W25oaQGfAq8xxngdQ=="
+    },
+    {
+      "name": "Theresa Welch",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MU0WVOOBeOr30doL+ch7SQ=="
+    },
+    {
+      "name": "Betsy Wells",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YkYYd6TxC7mDRhrwb+VLzw=="
+    },
+    {
+      "name": "Kelcey Wells",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hYJo63Tm3Yz2i7iYEbe6CQ=="
+    },
+    {
+      "name": "Kim Westbrook",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r0lqsk/uYzGKMdC/hVjObA=="
+    },
+    {
+      "name": "Randall Westbrook",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rZQgyqZgPGY2DEVXBjZSOg=="
+    },
+    {
+      "name": "Brady Wetz",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LnYsEwhoTnnjuLypjPREyA=="
+    },
+    {
+      "name": "Staci Wetz",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5Tc6qHpUEThjwR1B8vuRCQ=="
+    },
+    {
+      "name": "Asa White",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wVJUMgnDHKVV/X3xUsXm+g=="
+    },
+    {
+      "name": "Jenny Wiggins-Smith",
+      "gender": "Female",
+      "city": "COLLEYVILLE",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B09dGQxSQM1BxIGRn8o0JA=="
+    },
+    {
+      "name": "Brent Wilcox Jr",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0b0/6numYVjjbs44ABOkzQ=="
+    },
+    {
+      "name": "Beaumont Wilcox",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/29/2025",
+      "usta_id": "0b0/6numYViiSPE5sgtmAw=="
+    },
+    {
+      "name": "Lauren Wilde Lux",
+      "gender": "Female",
+      "city": "Eldorado",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5FvyEc71ca5sL2PB/elnlA=="
+    },
+    {
+      "name": "Morgan Wood",
+      "gender": "Male",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2Af10UIolSTMtfSyQISg8g=="
+    },
+    {
+      "name": "MaKinzee Woods",
+      "gender": "Female",
+      "city": "Sterling City",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kBiMoLnS/WXdtTq91OmNCA=="
+    },
+    {
+      "name": "Emilee Wuthrich",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/QfEvIplNmMGbp6ibBXIPw=="
+    },
+    {
+      "name": "Sylvia Zap",
+      "gender": "Female",
+      "city": "San Angelo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "40Mp+oyPKZSb7/L88vLiiQ=="
+    },
+    {
+      "name": "Ricky Zuniga",
+      "gender": "Male",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "TwBFq2JhmYPS6RS1X3YM/g=="
+    }
+  ]
+}

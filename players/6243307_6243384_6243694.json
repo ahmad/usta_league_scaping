@@ -1,0 +1,4837 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243384",
+  "areaId": "6243694",
+  "players": [
+    {
+      "name": "Rhonda Abbott",
+      "gender": "Female",
+      "city": "Grifton",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/22/2024",
+      "usta_id": "lvmiutb86k2HgjBNhI6EIA=="
+    },
+    {
+      "name": "Lauren Acosta",
+      "gender": "Female",
+      "city": "Swansboro",
+      "state": "NC",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "696SSImzg4YZJUS+WFwMCw=="
+    },
+    {
+      "name": "Amanda Albritton",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "aj6pd4GpXJdqzq/ki9nFLQ=="
+    },
+    {
+      "name": "Meredith Alcoke",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "8IrBXpQGU33cmyvLTvbNSQ=="
+    },
+    {
+      "name": "Kim Alford",
+      "gender": "Female",
+      "city": "Emerald Isle",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6JW/X3GK6kw19WjlzzwIgA=="
+    },
+    {
+      "name": "Angela Allen",
+      "gender": "Female",
+      "city": "Durham",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h8vznBf3aUzUAoflYMZoqQ=="
+    },
+    {
+      "name": "Michael Alston",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R8qrP0Um6GiLYTGArpDlOA=="
+    },
+    {
+      "name": "Bill Anderson",
+      "gender": "Male",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/11/2024",
+      "usta_id": "QEUb063vJ/UHiPjuUap9Yg=="
+    },
+    {
+      "name": "David Anderson",
+      "gender": "Male",
+      "city": "Apex",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fKUqq0tr1wp+8gwlPAGW8w=="
+    },
+    {
+      "name": "Lisa Anderson",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/14/2024",
+      "usta_id": "6v6teLbgbj1y7VDZZnTYOw=="
+    },
+    {
+      "name": "Paige Anderson",
+      "gender": "Female",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "el8w2aDGoTKXe5ceU8/+lg=="
+    },
+    {
+      "name": "Anna Appert",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/dHAJI2AWvqHsL9jTPuj3A=="
+    },
+    {
+      "name": "David Atkins",
+      "gender": "Male",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iO7tEm/3a1ymc/vGmv9v/w=="
+    },
+    {
+      "name": "Cari Autry",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pv1XII7m8Bk1PkAzjokkow=="
+    },
+    {
+      "name": "Jill Backer",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SftBUv17Syd9x7yFh3bqpw=="
+    },
+    {
+      "name": "Neil Baddour",
+      "gender": "Male",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "tWPbvTpcNq/6CWI9qgSOMQ=="
+    },
+    {
+      "name": "Greg Baggett",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3yfEmFGmXGQ9lD8wAm0Uwg=="
+    },
+    {
+      "name": "Jennie Baggett",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IGFMRyhLAS8jxAkq5sN3NQ=="
+    },
+    {
+      "name": "Joe Baile",
+      "gender": "Male",
+      "city": "Swansboro",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "ly7OibdFGaJPPNQHdxHZoQ=="
+    },
+    {
+      "name": "Rodney Bailey",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "Wzvfi6OHo8DpTu2hUcXgXQ=="
+    },
+    {
+      "name": "Lori Baker",
+      "gender": "Female",
+      "city": "EMERALD ISLE",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uj0+C2LRwu4ce5F77DcitQ=="
+    },
+    {
+      "name": "Richard Bansittidet",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "YrpAd7OI2j/+ObUYtVwUyA=="
+    },
+    {
+      "name": "Justine Barnes",
+      "gender": "Female",
+      "city": "Pikeville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "45PCbEmIlv/ZT25mkpvIfg=="
+    },
+    {
+      "name": "Christian Barnhill",
+      "gender": "Female",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vJnmfevSVG+BYob26OgMvA=="
+    },
+    {
+      "name": "Karen Barondes",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4XY2boMIicFlRXQJYsxk4g=="
+    },
+    {
+      "name": "Missy Barrow",
+      "gender": "Female",
+      "city": "Farmville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "kI6flE/7OX5geKLMR4aQwQ=="
+    },
+    {
+      "name": "Brad Beissner",
+      "gender": "Male",
+      "city": "AYDEN",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CynFW91BVMBs+qfn6Fgukg=="
+    },
+    {
+      "name": "Jessica Beissner",
+      "gender": "Female",
+      "city": "AYDEN",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JsdKjX3schq6qFPnOI3lyw=="
+    },
+    {
+      "name": "Michael Bernstein",
+      "gender": "Male",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "LDk/ytBgKtSOFhckGn8E3A=="
+    },
+    {
+      "name": "Ani Best",
+      "gender": "Female",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "29QlTEQUn0XeCz4VjQ5lUw=="
+    },
+    {
+      "name": "Annita Best",
+      "gender": "Female",
+      "city": "Emerald Isle",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xj1XblcFwbp4hst8fxHWJw=="
+    },
+    {
+      "name": "Henry Best",
+      "gender": "Male",
+      "city": "Emerald Isle",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/9/2025",
+      "usta_id": "Sjlce7Ahr2nYSS0+a+axBA=="
+    },
+    {
+      "name": "Keela Blango",
+      "gender": "Female",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qEIkLzGVMd3bbKqTWOFMxw=="
+    },
+    {
+      "name": "KENNEDY BLOUNT",
+      "gender": "Female",
+      "city": "Washington",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "SCWvQDKrfeLxc3RnOX+hMg=="
+    },
+    {
+      "name": "Nicole Blount",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/1Yer5ccUHxTbnq5Ij2DZQ=="
+    },
+    {
+      "name": "Rebecca Blount",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b5l9l5zoMGvjoh2XwTnhWw=="
+    },
+    {
+      "name": "Catherine Boles",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zr7oIi3qYv22YtcfRTluKg=="
+    },
+    {
+      "name": "Margaret Boles",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fQFHuW1tyskQtz1vR+hUUg=="
+    },
+    {
+      "name": "Amanda Bonds",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SDBYvLq3hKWDYD3+zp3VHw=="
+    },
+    {
+      "name": "Jane Boswell",
+      "gender": "Female",
+      "city": "WILSON",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dwzg03Mp+GJMzPflnH9BwA=="
+    },
+    {
+      "name": "Mike Bowman",
+      "gender": "Male",
+      "city": "Pinetops",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JsdKjX3schr4mSpYyD8HeA=="
+    },
+    {
+      "name": "Wayne Boyd",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xI5+f4MbgR3ne0Si9GmOmg=="
+    },
+    {
+      "name": "Marian Boyette",
+      "gender": "Female",
+      "city": "Fayetteville",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LvomI0rFlFCdgMtTWpqOVQ=="
+    },
+    {
+      "name": "Kathleen Boykin",
+      "gender": "Female",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZOi1MpvtLOLwL0+Msn0/+Q=="
+    },
+    {
+      "name": "Kimberly Bradley",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/6/2024",
+      "usta_id": "+Hz468EWLOfrN0wQED2Rjw=="
+    },
+    {
+      "name": "Tina Brandalik",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "7WMFJTgfVecLl+Z8SfQ/lw=="
+    },
+    {
+      "name": "Brooke Brann",
+      "gender": "Female",
+      "city": "FARMVILLE",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5RN2u2JvPx+2G3Q95xCzxw=="
+    },
+    {
+      "name": "Julia Brasfield",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "30K3Ptk7+SWbD38sL+6Qyg=="
+    },
+    {
+      "name": "Aimee Braxton",
+      "gender": "Female",
+      "city": "Swansboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/21/2025",
+      "usta_id": "Vt+L16LDUa5/52KCgcs1Wg=="
+    },
+    {
+      "name": "Bryan Brice",
+      "gender": "Male",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/28/2024",
+      "usta_id": "u32qA4YFGgdRbv2By0VtpQ=="
+    },
+    {
+      "name": "Sherrie Bridgers",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QBO+SSkXvn0/H2iAR6zNrw=="
+    },
+    {
+      "name": "Gaye Brinn",
+      "gender": "Female",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BuAN08xvuKu2bwq6BKt8xA=="
+    },
+    {
+      "name": "Anita Britt",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ddq5YIfFV7IN86gg+E4ipg=="
+    },
+    {
+      "name": "Kelly Broderick",
+      "gender": "Female",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "+0k/nJQ6zCTIxAPlzCUnKw=="
+    },
+    {
+      "name": "David Brown",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r4HGZn/esAON/v7DgSRZYA=="
+    },
+    {
+      "name": "Jeannette Brown",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kxg+HM8nkpi4bDV7FSArbQ=="
+    },
+    {
+      "name": "Stephanie Cain",
+      "gender": "Female",
+      "city": "LA Grange",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "L2qmSvqEW3GnExYBleUc8A=="
+    },
+    {
+      "name": "Monica Carlson",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tkki3zaodHyGXcD97sUvRg=="
+    },
+    {
+      "name": "Jared Carlyle",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "oAeLd+VXrIWQ2U8g6WViYQ=="
+    },
+    {
+      "name": "Nicole Carlyle",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nau5s2p1fK8luz2DoO3Awg=="
+    },
+    {
+      "name": "Matthew Casteen",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CMdFMQ2VSonhtVICA69Tfg=="
+    },
+    {
+      "name": "James Caviness",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vejJiQ/t9660bhL+hg596w=="
+    },
+    {
+      "name": "Bridget Cella",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gg+wS9NqXYdOzwhM4xftJQ=="
+    },
+    {
+      "name": "Colby Chase",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ba+xtIoUkyyVAltHXqPCDw=="
+    },
+    {
+      "name": "Sharon Christian",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xots+UZLmHn86h70Dt/2zA=="
+    },
+    {
+      "name": "Margaret Clemmons",
+      "gender": "Female",
+      "city": "Maury",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+VBfyZ2Lh2bO/amTnv+UOw=="
+    },
+    {
+      "name": "Johnny Coffee",
+      "gender": "Male",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qJP8wH/OrGrXs5PnK83Dtw=="
+    },
+    {
+      "name": "Geneva Colie",
+      "gender": "Female",
+      "city": "LA Grange",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gINhpUBIbVqA3zIw0D2I/w=="
+    },
+    {
+      "name": "Michael Colie",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Es9SQIYqW6ECkIaVhutqSg=="
+    },
+    {
+      "name": "Patricia Conard",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/26/2025",
+      "usta_id": "YnDBqmUMn9FT+I8wVkZYRg=="
+    },
+    {
+      "name": "Lulu Conekin",
+      "gender": "Female",
+      "city": "Emerald Isle",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jncvNqEq32nzSx1ktCLQHg=="
+    },
+    {
+      "name": "Joy Cooper",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "eh1wE/lmAsbeBPwwrOU9Wg=="
+    },
+    {
+      "name": "Karen Copeland",
+      "gender": "Female",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xH8N3WeF+BLWYH3X7dSdhg=="
+    },
+    {
+      "name": "Sarah Corey",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3FvnaEHd58mKr5XSR4ODoQ=="
+    },
+    {
+      "name": "Dylan Costello",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RsPtRCoGZnOZFwJbGEbSjA=="
+    },
+    {
+      "name": "Diana Cox",
+      "gender": "Female",
+      "city": "Chocowinity",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cnpIzrUHNhcmdfjiQdjelg=="
+    },
+    {
+      "name": "Glenn Crawley",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nZcjbsUVA9zegw4N0QVphw=="
+    },
+    {
+      "name": "Morgan Crisp",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/14/2024",
+      "usta_id": "uuyxWxQLPGy1vXbOGmzqZg=="
+    },
+    {
+      "name": "Jane Crowley",
+      "gender": "Female",
+      "city": "Hubert",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "hdfqEkFfHV0jspEJgYQ9HA=="
+    },
+    {
+      "name": "Maryann Cuellar",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "th1pL8y+jQB/rvl7CKPoYw=="
+    },
+    {
+      "name": "Kathryn Custer",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "sEabE0H29B8KWKvIpA/0YA=="
+    },
+    {
+      "name": "Spencer Dail",
+      "gender": "Male",
+      "city": "Farmville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QO6VYTnjdEncXuGTKcHq5w=="
+    },
+    {
+      "name": "Anna Danner",
+      "gender": "Female",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4GT1eX1sCXOANxLjcW9HNQ=="
+    },
+    {
+      "name": "Gayle Daras",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I1qqYlx8/YFREEA8TpDFgg=="
+    },
+    {
+      "name": "Bruce Daughety",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JZuk7WjRD4TrDHU9ecbw4w=="
+    },
+    {
+      "name": "Laura Davidson",
+      "gender": "Female",
+      "city": "Cameron",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4MWdTs9VdISz1LAkHc+k2A=="
+    },
+    {
+      "name": "Bernadette David-Yerumo",
+      "gender": "Female",
+      "city": "Durham",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aDq9/S6zohdP6OFv3UNleQ=="
+    },
+    {
+      "name": "Danny Davis",
+      "gender": "Male",
+      "city": "WINTERVILLE",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "XohxK2m1xeTO1LYnCcrBZw=="
+    },
+    {
+      "name": "Helen Davis",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "veHJgi8us2ns8FIj4sPJHQ=="
+    },
+    {
+      "name": "Jill Davis",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fns85QQGeOynXHB1pY/tWw=="
+    },
+    {
+      "name": "Crystal Dawson",
+      "gender": "Female",
+      "city": "Stantonsburg",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sNMHrRkrp059fu5amn6o6w=="
+    },
+    {
+      "name": "Kelli Dawson",
+      "gender": "Female",
+      "city": "Stantonsburg",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HuiIit6DGZK4l/UDQOK+Dg=="
+    },
+    {
+      "name": "Lakisha Dawson",
+      "gender": "Female",
+      "city": "WINTERVILLE",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bYiK7TBdY0L4ynH/gYzrdw=="
+    },
+    {
+      "name": "Robert Dawson",
+      "gender": "Male",
+      "city": "Stantonsburg",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "TxI8Wi8Q6cVwpEX5dUS7Tg=="
+    },
+    {
+      "name": "Terry Dawson",
+      "gender": "Male",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "7yRVeeF0t0+JvjHru9V2Mg=="
+    },
+    {
+      "name": "Thomas Dawson",
+      "gender": "Male",
+      "city": "Stantonsburg",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "apypxekxQVqnkQTV1YRvRQ=="
+    },
+    {
+      "name": "Tracey Day",
+      "gender": "Female",
+      "city": "Newport",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "O+yE0Qpm5NKDNmW63S8HjA=="
+    },
+    {
+      "name": "Valerie DeBellis",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BB1KEbpMfbdokaa9PaRBFw=="
+    },
+    {
+      "name": "Susan Delaney",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IOJekrjTEDl13xb8SGk+/g=="
+    },
+    {
+      "name": "Jenny Dempsey",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d4AnQ9CT5A5HdzpRxcAWAg=="
+    },
+    {
+      "name": "Lynise Devance",
+      "gender": "Female",
+      "city": "Durham",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XXQVNBcKMADj4o0RKGe5+A=="
+    },
+    {
+      "name": "Kathleen Diamadi",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6zf3B/DFhRLFc7C0A34H/A=="
+    },
+    {
+      "name": "Kyle Dickerson",
+      "gender": "Male",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fD45drdmpZVv64MuAGVS9A=="
+    },
+    {
+      "name": "Melody Dickerson",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "luYKru13POvFtBpv5KTYLw=="
+    },
+    {
+      "name": "Joseph Digby",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q/WIOqPK4rZoTugJkQBtFw=="
+    },
+    {
+      "name": "Deborah Dotson",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "YdQ4IkV/ZgwgeyyHx215KQ=="
+    },
+    {
+      "name": "Ken Drake",
+      "gender": "Male",
+      "city": "Farmville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TIBznHfguD0DQiw1IE84/A=="
+    },
+    {
+      "name": "Sherri Drake",
+      "gender": "Female",
+      "city": "Farmville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OZ8eZNO6QXhcBGVZpfp0rQ=="
+    },
+    {
+      "name": "Steve Dunlap",
+      "gender": "Male",
+      "city": "Pine Knoll Shores",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W0C+NG/W47kzRDaHnmC6fA=="
+    },
+    {
+      "name": "Sue Dunlap",
+      "gender": "Female",
+      "city": "Pine Knoll Shores",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yof1G6sordlSUMHGQ9Q9Mg=="
+    },
+    {
+      "name": "Robert Dunn Sr",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "/y+0mjjYjpsj9sCYaOCcKw=="
+    },
+    {
+      "name": "Vance Dunn",
+      "gender": "Male",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BnlJLVQh0mcs81UcyGCD7g=="
+    },
+    {
+      "name": "Kimberly Dunwiddie",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "C3q4sDqVp3iACdfmts76/g=="
+    },
+    {
+      "name": "Charlie Dweikat",
+      "gender": "Male",
+      "city": "Cedar Point",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3DF2xoZOJgfkM+N/uqVK6A=="
+    },
+    {
+      "name": "Lynn Easley",
+      "gender": "Female",
+      "city": "Cedar Point",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "KJF0lvU4MOhXtCJ6KnfFMw=="
+    },
+    {
+      "name": "Dylan Edwards",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/1/2024",
+      "usta_id": "J3pUZKNeH6OgkyZa1kiETw=="
+    },
+    {
+      "name": "Quincy Edwards",
+      "gender": "Male",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g54zcMdIxbc3+kuqXimqxA=="
+    },
+    {
+      "name": "Hanan Elgendy",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j/PF7jW23CnB88lh1mcz6g=="
+    },
+    {
+      "name": "Ashley Elise",
+      "gender": "Female",
+      "city": "Hookerton",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "9hJgwrGXcXxX12WBcy8yWQ=="
+    },
+    {
+      "name": "Brian Ellis",
+      "gender": "Male",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "4rCGEjsxoSQbwULdFtwsKw=="
+    },
+    {
+      "name": "Corey Fader",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2T2qxVx4z7/ZxfLA0o5zeQ=="
+    },
+    {
+      "name": "BRYAN FARQUHAR",
+      "gender": "Male",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NuZOUR+DUlOh5oFAfXodog=="
+    },
+    {
+      "name": "Joan Faulkner",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mCUrser1ZTtt8VGxtA4RTA=="
+    },
+    {
+      "name": "Carly Feingold",
+      "gender": "Female",
+      "city": "GREENVILLE",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cZRgEXRZQBeH2kaik3twVA=="
+    },
+    {
+      "name": "Kerry Felstead",
+      "gender": "Female",
+      "city": "Swansboro",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tiniyhP2mW9xcTRXhKiztA=="
+    },
+    {
+      "name": "Rich Ferragina",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lG/042y2VVVgryLgTuXyaw=="
+    },
+    {
+      "name": "Sheri Fine",
+      "gender": "Female",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l6rVQd/ed6vGVrwFyQpcwg=="
+    },
+    {
+      "name": "Meredith Fisher",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q56fbC5FQH1mjXxhrAEKaQ=="
+    },
+    {
+      "name": "Tim Fitzgerald",
+      "gender": "Male",
+      "city": "NEW BERN",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/28/2025",
+      "usta_id": "R4clV4q8PeKdtKDFqKFWCQ=="
+    },
+    {
+      "name": "Cameron Fitzsimmons",
+      "gender": "Female",
+      "city": "Cedar Point",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "25CMHiwrfQA4FRFyYXl7wQ=="
+    },
+    {
+      "name": "Nan Fleming",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/11/2024",
+      "usta_id": "2N27KgQpfAbE4tOiWGbXkw=="
+    },
+    {
+      "name": "Christine Flower",
+      "gender": "Female",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9KZxcEO7MpUFd1n085TlPg=="
+    },
+    {
+      "name": "Michael Fogarty",
+      "gender": "Male",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "AxmyxQJh4WW7kbFTzjLppA=="
+    },
+    {
+      "name": "David Forehand",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eS4kNIBR7VDJkKWjIOyhAg=="
+    },
+    {
+      "name": "Lynne Fornes",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/17/2025",
+      "usta_id": "MGeAcpUlDEvtXHDGzdil8g=="
+    },
+    {
+      "name": "Kenrick Fowler",
+      "gender": "Male",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "+w6bOmxQ+VDPXXyzJnMh2A=="
+    },
+    {
+      "name": "Sloan Freeman",
+      "gender": "Female",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "w5J13IL5FkR5LCuNJzklSQ=="
+    },
+    {
+      "name": "Earl Fulford",
+      "gender": "Male",
+      "city": "Havelock",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "+Jm0JauNGLtvvrQH6tOiWQ=="
+    },
+    {
+      "name": "Ann Game",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v1nK6ZV735fN6c+2OWg4CA=="
+    },
+    {
+      "name": "Stephanie Garner",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dP8fyCsshM2ioltuZB/Mkw=="
+    },
+    {
+      "name": "Kathy Garren",
+      "gender": "Female",
+      "city": "Chocowinity",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/16/2025",
+      "usta_id": "tOhUD6PMbdESmNJbf3Gepw=="
+    },
+    {
+      "name": "Kristi Geer",
+      "gender": "Female",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5S/iKF8zVkGFNBVFAzPVUA=="
+    },
+    {
+      "name": "Carlos Geigel",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "RyGSwlasRRUNHlZh5GC0PQ=="
+    },
+    {
+      "name": "Mark Gerhart",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o5cxUA/ytPW3F1fGt+Xc3Q=="
+    },
+    {
+      "name": "Meridith Maddox Gibbs",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "3p61QFRVA3D3KWYiM1WXbA=="
+    },
+    {
+      "name": "Katie Giles",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S8VYQ8lcPUsi3cWL83Vt9A=="
+    },
+    {
+      "name": "Dave E Gillespie",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h40kr1VG68RyWk61unK5/w=="
+    },
+    {
+      "name": "Merry Katherine Glover",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7wTTSyoKX5EcaKgz4fCA0A=="
+    },
+    {
+      "name": "Fernanda Godfrey",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/7/2025",
+      "usta_id": "IAlYsFl6gZBbUZvhY8fmow=="
+    },
+    {
+      "name": "Mariana Goldstein",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5+FFu/EZHZPYvDjd7fUHLA=="
+    },
+    {
+      "name": "Alberto Gonzales",
+      "gender": "Male",
+      "city": "Tarboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pFageZq2j+DfEfS7OdNKEg=="
+    },
+    {
+      "name": "Kristen Gooch Taylor",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "al1/59tceP1tuwbYp9e8zQ=="
+    },
+    {
+      "name": "Angelea Goodwin- Maynard",
+      "gender": "Female",
+      "city": "Swansboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/17/2024",
+      "usta_id": "q4UNNVUatTnFDMtepDnaUA=="
+    },
+    {
+      "name": "Krishnan Gopalakrishnan",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KsVAydUwZGXucxP8h/7gnA=="
+    },
+    {
+      "name": "Lakshmi Gordon",
+      "gender": "Female",
+      "city": "Fayetteville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U4Djfxiffibz3gqZtWo34A=="
+    },
+    {
+      "name": "Karla Grant",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uvwOBCaGfqwLjkiaTvEwXA=="
+    },
+    {
+      "name": "Jeff Gravelin",
+      "gender": "Male",
+      "city": "Newport",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zbdzFqA1nCYEtBGdXxm6Qw=="
+    },
+    {
+      "name": "Leone Gravelin",
+      "gender": "Female",
+      "city": "Newport",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gIa3R4Kga3FOrZbJqvuUhw=="
+    },
+    {
+      "name": "Keshia Green",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KPXMJwc0N0RSGyo/gQuAAw=="
+    },
+    {
+      "name": "Mary-Marshall Greene",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XeCeUjKzunnBvBFpEj9MPg=="
+    },
+    {
+      "name": "Lisa Haidt",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/18/2025",
+      "usta_id": "xvOz/WWjIrjRF9El7yUBTw=="
+    },
+    {
+      "name": "Keith Haislip",
+      "gender": "Male",
+      "city": "Williamston",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OnPzRraPKlS8PuQj8+oiQw=="
+    },
+    {
+      "name": "Tyler Haislip",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FsEflC4rYN7gBR+k1fgLDg=="
+    },
+    {
+      "name": "Doug Hale",
+      "gender": "Male",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5S/iKF8zVkGhLIgoawal0g=="
+    },
+    {
+      "name": "Jennifer Hall",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kW1h06TdSAVmLbYenxasyQ=="
+    },
+    {
+      "name": "Sherry Hambright",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CuFIUnSzAVRRb2QsQqsMxQ=="
+    },
+    {
+      "name": "Brenda Hardison",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wd595XG2l4yxcx5xv9N64A=="
+    },
+    {
+      "name": "Connor Hardison",
+      "gender": "Female",
+      "city": "WILSON",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ra6LKqj1tsu4ip85nuWpaA=="
+    },
+    {
+      "name": "Mary Hardison",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dqqZvmpZleOl7goAGx/h9A=="
+    },
+    {
+      "name": "Susan Hardison",
+      "gender": "Female",
+      "city": "Hubert",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I7eRMRK70niy1Fkod7lu3w=="
+    },
+    {
+      "name": "Becky Hare",
+      "gender": "Female",
+      "city": "Pikeville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DYuREe+EkmZsSc7WjsmqVQ=="
+    },
+    {
+      "name": "Jimmy Hare",
+      "gender": "Male",
+      "city": "Pikeville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4imO7RWZitsa9/Yl5AtarQ=="
+    },
+    {
+      "name": "QUEEN HARGROVE",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cW9qGv8gXd2FaCDzfxv6yQ=="
+    },
+    {
+      "name": "Courtney Harrell",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mx2hYU8IHRjoJvC44zjvcA=="
+    },
+    {
+      "name": "Melinda Harrell",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uKbfXh5OGx8UHaXXvPL54Q=="
+    },
+    {
+      "name": "Andrew Harrison",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S2sh1+3OF8fA39wqymGpoA=="
+    },
+    {
+      "name": "Charlene Harrison",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MsRpbdBuWT9Va4OVepuZBg=="
+    },
+    {
+      "name": "Jean Harrold",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AEMe3hhC6TUn5T4q6aolsA=="
+    },
+    {
+      "name": "Nicole Hart",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5VGRgVn8OyfYQ3c1CqIasw=="
+    },
+    {
+      "name": "Rebecca Helms",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pw4ZdiK2mHZnR+YloWGW3A=="
+    },
+    {
+      "name": "Ann Henderson",
+      "gender": "Female",
+      "city": "Cape Carteret",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "04BVDkSJy46sfRO35tJEIA=="
+    },
+    {
+      "name": "Kascia Henderson",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w/vyuxJ+EDKbOV52PoZkfQ=="
+    },
+    {
+      "name": "Renee Herlong",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/8/2024",
+      "usta_id": "rDE0xmMqoi0pM/yZ8lNQJA=="
+    },
+    {
+      "name": "C L Herring",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DkpC3V2BUtK0LOT1XudR4g=="
+    },
+    {
+      "name": "Jean Herscovici",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aMGI8jHqOGfZDWfbKSXJVA=="
+    },
+    {
+      "name": "Gayle High",
+      "gender": "Female",
+      "city": "Battleboro",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BstUAsouAYEribad1Je0tw=="
+    },
+    {
+      "name": "Middleton Hinckley",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/CL8rFnuU5xgx+aW849VkQ=="
+    },
+    {
+      "name": "Michael Hoff",
+      "gender": "Male",
+      "city": "NEWPORT",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "s38QXSvsl+vOc+SfdtbXtQ=="
+    },
+    {
+      "name": "Holly Hofmann",
+      "gender": "Female",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z2t3l0iHJocnidyF6IhwaA=="
+    },
+    {
+      "name": "Jude Holbrook",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NpZBYKCj+5Lmh4M2D/iERg=="
+    },
+    {
+      "name": "Jennifer Holleran",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OsqxH4lzrUHjlxjWKtqqBA=="
+    },
+    {
+      "name": "Emma Homan",
+      "gender": "Female",
+      "city": "Swansboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/22/2025",
+      "usta_id": "3Z/p4nrCLsPFgNM2Nv4yQQ=="
+    },
+    {
+      "name": "Parker Honeycutt",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/8/2024",
+      "usta_id": "FCeE9AJ+BjCor4Or6m6buA=="
+    },
+    {
+      "name": "Beth Hopkins",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lwuJ/aXK9bcLsDg9orqGzg=="
+    },
+    {
+      "name": "Shumena Horton",
+      "gender": "Female",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/PgOxhMeSjKSPzzwYNV4YQ=="
+    },
+    {
+      "name": "April Hosty",
+      "gender": "Female",
+      "city": "Sarasota",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/26/2025",
+      "usta_id": "8qs1ps/u/2/87hIaBE1HlQ=="
+    },
+    {
+      "name": "Brian Huckle",
+      "gender": "Male",
+      "city": "MOREHEAD CITY",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/16/2025",
+      "usta_id": "qsw64jl9uMcj8d2Xjty6OQ=="
+    },
+    {
+      "name": "Tammie Hudspeth",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3LOTmhOsGxwX4sRmAv2zHw=="
+    },
+    {
+      "name": "Adair Humphrey",
+      "gender": "Female",
+      "city": "Durham",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "s8O8byKmlv6dJEzntBiOZA=="
+    },
+    {
+      "name": "Anne Hungate",
+      "gender": "Female",
+      "city": "Apex",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lN19r55mI32WNl/Fc0vk0A=="
+    },
+    {
+      "name": "Debbie Hunter",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/4/2025",
+      "usta_id": "NzwfvBkVauZ1+9pv1Fd8gQ=="
+    },
+    {
+      "name": "Doreen Hyet",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u3wGc4ZQYqQtDlVbCfri8w=="
+    },
+    {
+      "name": "Lindsey Hyman",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "l8NtneBMMZamcasP1U/Yqg=="
+    },
+    {
+      "name": "Mignon Ingram",
+      "gender": "Female",
+      "city": "JACKSONVILLE",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "srnwTqraJY5yc53WOBlt5Q=="
+    },
+    {
+      "name": "Joni Izumi-Nakamoto",
+      "gender": "Female",
+      "city": "Kailua Kona",
+      "state": "HI",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rhWUAdzE3/TNRSeqeR2e9g=="
+    },
+    {
+      "name": "Earl Jackson",
+      "gender": "Male",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LJO8LjYBfWLu0O1dfldvrw=="
+    },
+    {
+      "name": "Katherine James",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lAJ/uholpfbZW+rgNrAk1Q=="
+    },
+    {
+      "name": "Morgan James",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dd+PX3tVyOt3IsxFNXSWpA=="
+    },
+    {
+      "name": "Steffen Jaugstetter",
+      "gender": "Male",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/17/2024",
+      "usta_id": "8fIuoT2wqWYvSxKtacrsBw=="
+    },
+    {
+      "name": "Dax Jennings",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q3VVcsLHuh3slrR/GqPY1Q=="
+    },
+    {
+      "name": "Karla Jennings",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PE4pZJOnZOAUrHNFzymNpQ=="
+    },
+    {
+      "name": "Debra Johann",
+      "gender": "Female",
+      "city": "Hubert",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xg9V2W5kJyudDfcBDeN26g=="
+    },
+    {
+      "name": "Brenda Johnson",
+      "gender": "Female",
+      "city": "Hubert",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/24/2025",
+      "usta_id": "sBh6EXfU/6/dF6FXLT3JeA=="
+    },
+    {
+      "name": "Cassidy Johnson",
+      "gender": "Female",
+      "city": "WINTERVILLE",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/13/2024",
+      "usta_id": "zY9NV9EWf6PnYfYs/sxYyA=="
+    },
+    {
+      "name": "Gregory Johnson",
+      "gender": "Male",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7MpfAOAcsuTjRuedpOE4bw=="
+    },
+    {
+      "name": "Susan Johnson",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k1kgPbQ1teO1j+LVgfSwiA=="
+    },
+    {
+      "name": "Katherine Johnston",
+      "gender": "Female",
+      "city": "Enfield",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VG+RQC6P5DShlQAy4noh9Q=="
+    },
+    {
+      "name": "Brenda Jones",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PfRD8OFFjHlxiY/KVQTIaQ=="
+    },
+    {
+      "name": "Cynthia Jones",
+      "gender": "Female",
+      "city": "Zebulon",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x6XQHCg1L8nLx8shQh4bBQ=="
+    },
+    {
+      "name": "Erica Jones",
+      "gender": "Female",
+      "city": "Pink Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t7AJ2abRkfO3kOGCFBgCbg=="
+    },
+    {
+      "name": "Ina Jones",
+      "gender": "Female",
+      "city": "SNOW HILL",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bb4i+oWiOIhmSt0jca9btA=="
+    },
+    {
+      "name": "Jack Jones",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "vsmySg8dJ7frZi2qurF2wQ=="
+    },
+    {
+      "name": "Jennifer Jones",
+      "gender": "Female",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1wMFltP/CXqwbEtkDMUYTw=="
+    },
+    {
+      "name": "Jeremy Jones",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0G2JCuyzVvRg/YNqVqLrhw=="
+    },
+    {
+      "name": "Lori Jones",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SQvz5PU3oWMlwbABUBYbYg=="
+    },
+    {
+      "name": "Megan Jones",
+      "gender": "Female",
+      "city": "SNOW HILL",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N0vC5iArqwif1SYJEmbXug=="
+    },
+    {
+      "name": "Mydron Jones",
+      "gender": "Female",
+      "city": "Williamsburg",
+      "state": "VA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "X6fJc1jgyECxRqW7i2kB/Q=="
+    },
+    {
+      "name": "Phil Jones",
+      "gender": "Male",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/18/2024",
+      "usta_id": "I7c7G1KoLv7FBhmNfQw5rQ=="
+    },
+    {
+      "name": "Robert Jones",
+      "gender": "Male",
+      "city": "Pink Hill",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5icwRAnZxmUib9WRAsrVrQ=="
+    },
+    {
+      "name": "Michael Kabler",
+      "gender": "Male",
+      "city": "Dudley",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cxMcbbKH/5XxzhWRYkPIxA=="
+    },
+    {
+      "name": "Adam Kearney",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CpAjr1DAaPMKcFOkH8ogDQ=="
+    },
+    {
+      "name": "Michael Kearney",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FX9SofVNK/bCzwfquGSOQg=="
+    },
+    {
+      "name": "Lee Keene",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a/mnofOmikQQEaOvscvkUg=="
+    },
+    {
+      "name": "Lisa Kempf",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sJP+n2wcYfcpHT3aGJxnpQ=="
+    },
+    {
+      "name": "Jarma Khoury",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "uE2a8Si/hfh4KNtSKi81/Q=="
+    },
+    {
+      "name": "Rebecca King",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zyx+LfslpD568Hmlzgg1Xg=="
+    },
+    {
+      "name": "Eleanor Kipp",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/28/2025",
+      "usta_id": "AaaixGuj+xea9tlF6clrlg=="
+    },
+    {
+      "name": "Yvonne Kleiman",
+      "gender": "Female",
+      "city": "Oriental",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "LLCLPUYOoZo5gN531+cKug=="
+    },
+    {
+      "name": "Edmund Knott",
+      "gender": "Male",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/31/2024",
+      "usta_id": "7c2bgzz3YH3QAJ4JWEGzVg=="
+    },
+    {
+      "name": "Kenneth Kornegay",
+      "gender": "Male",
+      "city": "WALSTONBURG",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BEEn6RQ9JquNcDPo0OVX0g=="
+    },
+    {
+      "name": "Pam Kovacs",
+      "gender": "Female",
+      "city": "Lebanon",
+      "state": "NH",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mDeOBy0TKiOhDsbgXxdBSQ=="
+    },
+    {
+      "name": "Kenneth Krause",
+      "gender": "Male",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pwCfewsLJExi0arhzmXG9Q=="
+    },
+    {
+      "name": "Kimberly Kuhn",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HNDGD1DpXuIug1QZKRa8sg=="
+    },
+    {
+      "name": "Sheryletta Lacewell",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KaiN6VMmQkszZ16zVKd2xQ=="
+    },
+    {
+      "name": "Catherine Land",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KZuAXwn2wJxxVM5szeBTmg=="
+    },
+    {
+      "name": "Michelle Langston",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XO0s8ynvIETzsEVQxI/q/A=="
+    },
+    {
+      "name": "Deb Lanier",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nAiSO1h4o+CKYbYL21o6rw=="
+    },
+    {
+      "name": "Jessica Lanier",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PdnjP77LAgCpXN1Zd1Tgdw=="
+    },
+    {
+      "name": "Sharon Lay",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vpa6a4BV3Pj3Xsz/nDcteQ=="
+    },
+    {
+      "name": "Suzanne Lea",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vTXLjkQ6f5SuCt7siZozeQ=="
+    },
+    {
+      "name": "Julie Lee",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lJ3tVUPvWu3hDyMOuP+xXQ=="
+    },
+    {
+      "name": "MI HWA LEE",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LGND1+g074Oj2fxSXFxx7A=="
+    },
+    {
+      "name": "Adrianne Leinbach",
+      "gender": "Female",
+      "city": "Chapel Hill",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tSxNSToIrgLQjMgpBP6c5w=="
+    },
+    {
+      "name": "Sabrina Lentz",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ACa2WgmZIwhBnkxClRYnjg=="
+    },
+    {
+      "name": "Leslie Lewis",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "zEl9yf9uJmrfADoRxZdZqQ=="
+    },
+    {
+      "name": "Ellen Libby",
+      "gender": "Female",
+      "city": "Morrisville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ypl+8sJq3fNApqQsulKP7Q=="
+    },
+    {
+      "name": "Angie Lindsay",
+      "gender": "Female",
+      "city": "Cedar Point",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/mrruzVj9NQlzpB3ANl1zg=="
+    },
+    {
+      "name": "Jo Ann Logan",
+      "gender": "Female",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/5/2024",
+      "usta_id": "YddMs3+6aqDAk0uFvbgmpA=="
+    },
+    {
+      "name": "Molly Logan",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OFuoMbwvZTbHGcZ4hA97pg=="
+    },
+    {
+      "name": "Ajay Loganadan",
+      "gender": "Male",
+      "city": "SWANSBORO",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "7/15/2024",
+      "usta_id": "ZOgRKlHaEi7CwYUEBAWPCA=="
+    },
+    {
+      "name": "Mike Mancuso",
+      "gender": "Male",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wq9OCWvBTXHHCOp7hyXOUg=="
+    },
+    {
+      "name": "Martha Martin",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/27/2025",
+      "usta_id": "otcBWXXjSwNBA1Au0XNlaA=="
+    },
+    {
+      "name": "Rick Martin",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "3OhHsoP7CFkfAxb8aaEdjg=="
+    },
+    {
+      "name": "Suzan Martin",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XNY4Q3nW6ThIGoeZnXjhyQ=="
+    },
+    {
+      "name": "Brack Massey",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "wJYMN68+mPxYF/qmGrqRDQ=="
+    },
+    {
+      "name": "Jessie Massey",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nzicOiKLYoAw+GDeXrCM2A=="
+    },
+    {
+      "name": "Dexter Matthews",
+      "gender": "Male",
+      "city": "Beaufort",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0/CAivIxL7O8Wu9CcgvUNQ=="
+    },
+    {
+      "name": "Michele Mayo",
+      "gender": "Female",
+      "city": "Washington",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "37tOfGg8zMt2WpVIprkllw=="
+    },
+    {
+      "name": "Will Mayo",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5fva1XKof1fDXvndz41NzA=="
+    },
+    {
+      "name": "Pam Mazingo",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CL39z4apa7KZUe0Bh2OIDg=="
+    },
+    {
+      "name": "Leslie McCarlie",
+      "gender": "Female",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "n82aX2eu2385UgWfW/CaIg=="
+    },
+    {
+      "name": "Katherine McClintic",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/17/2024",
+      "usta_id": "uq2uLhFI4EwPfKlXMGV44g=="
+    },
+    {
+      "name": "Mona McConnaughey",
+      "gender": "Female",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/27/2024",
+      "usta_id": "tSkFSAKdYF4IbeY1+XGONQ=="
+    },
+    {
+      "name": "Kim Mccoury",
+      "gender": "Female",
+      "city": "Pine Knoll Shores",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "QAAD8dqqoV6bHtdBRM796g=="
+    },
+    {
+      "name": "James McDonald",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KGHXt92PP8o4aKaSr8Jmow=="
+    },
+    {
+      "name": "Kempton McGrath",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/11/2024",
+      "usta_id": "/1Yer5ccUHx3ueAI5OAkNw=="
+    },
+    {
+      "name": "Diane McKeel",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zAstDLpdoO+qnYfTvsnDeQ=="
+    },
+    {
+      "name": "Jane McLawhorn",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "a0JnrpTYdIC1CsYiS9k1Ig=="
+    },
+    {
+      "name": "Allen McMillen",
+      "gender": "Male",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kQhYx6vWtl5tqBAcuvY1zg=="
+    },
+    {
+      "name": "Donna McNeill",
+      "gender": "Female",
+      "city": "Emerald Isle",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VeO6jp+EII7lnq93POMl0g=="
+    },
+    {
+      "name": "Abby McVeigh",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/18/2025",
+      "usta_id": "Ly3yJExa8r9/8PBKnNScpg=="
+    },
+    {
+      "name": "Holly Medlin",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fgbazL5YCf5UIvJPAsOr9A=="
+    },
+    {
+      "name": "Dani Merville",
+      "gender": "Female",
+      "city": "CAPE CARTERET",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "/tVTXd1cLXDqJYvN28flfw=="
+    },
+    {
+      "name": "Beth Metzler",
+      "gender": "Female",
+      "city": "Beaufort",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/l2ttb8W+Ou4fG7yi0z7AA=="
+    },
+    {
+      "name": "Loretta Micheletto",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+RkJ3ynJuiXEaLGxiKYKMg=="
+    },
+    {
+      "name": "Louis Micheletto",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FfW6FmemlQVx3D63K4UQlA=="
+    },
+    {
+      "name": "Jan Mizelle",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l8Fv6H+rYJp8D42SRW1okw=="
+    },
+    {
+      "name": "Andy Monshaw",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "seuRwt8UuXvIceNYaNvigQ=="
+    },
+    {
+      "name": "Susan Monshaw",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/26/2024",
+      "usta_id": "yTq6s8mTkqysFGJ7A/rDYw=="
+    },
+    {
+      "name": "Jeremiah Montgomery",
+      "gender": "Male",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y90I7aUSEcSF0NO56wZqRA=="
+    },
+    {
+      "name": "Marisa Montgomery",
+      "gender": "Female",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SZQ17yhJwbRdAcbmDcPCBA=="
+    },
+    {
+      "name": "Daniel Moore",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hnmSo49Q6t6srrDql+vGmg=="
+    },
+    {
+      "name": "Muriel Moore",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "Gl4gGURqRnaUMt28QCA5lw=="
+    },
+    {
+      "name": "Susan Moore",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/25/2024",
+      "usta_id": "HItCP3klkriuHmNKzveHrw=="
+    },
+    {
+      "name": "Veda Moore",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JUvn7wasjlVUhMuIAVpzdw=="
+    },
+    {
+      "name": "Dannie Moss",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+rXMsMplnWzWyzrqQi4Azg=="
+    },
+    {
+      "name": "Azita Movahed",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W2TTpiEcXWp7UUEibKKU+Q=="
+    },
+    {
+      "name": "Amy Moye",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/HRWdDLdNlqHlujrHOE2PQ=="
+    },
+    {
+      "name": "Richard Moye",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "/HRWdDLdNlq6EHLpW9kXWA=="
+    },
+    {
+      "name": "John Munoz",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "JzhdgpQzM4nXdfHcjNxnTw=="
+    },
+    {
+      "name": "Mark Munoz",
+      "gender": "Male",
+      "city": "Grimesland",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "kuwJQiw/7jrEqDmYL00HGg=="
+    },
+    {
+      "name": "Leslie Murray",
+      "gender": "Female",
+      "city": "Greensboro",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EgQB3RqRuiQi2vjOGhzi5Q=="
+    },
+    {
+      "name": "Melissa Murray",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "bXX7PcWpYuwVm/CHZj+FfQ=="
+    },
+    {
+      "name": "Whitney Musgrave",
+      "gender": "Female",
+      "city": "PIKEVILLE",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q8v/eEIXhbNnsndwPfr00w=="
+    },
+    {
+      "name": "William Myer",
+      "gender": "Male",
+      "city": "JACKSONVILLE",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "7/16/2025",
+      "usta_id": "xoTi5yiZ+emHiVG67fh1UA=="
+    },
+    {
+      "name": "Holly Nelson",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UQOVOK4imH1ow7TieJnkRg=="
+    },
+    {
+      "name": "James Newman",
+      "gender": "Male",
+      "city": "SWANSBORO",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/18/2025",
+      "usta_id": "zFQP6/ccQdmHRCk1jBwP5Q=="
+    },
+    {
+      "name": "Mary Jo Nimmo",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VyytW/edURR2BcykVIPS6A=="
+    },
+    {
+      "name": "Suzanne Nix",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "RhmKwonJ640Q47i6zLWcPw=="
+    },
+    {
+      "name": "Anne Nuckolls",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aA6FlNHqABDcZUYzSVNDNQ=="
+    },
+    {
+      "name": "Chris Oncavage",
+      "gender": "Male",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0za4Ar9gSAYwWuEHaxOjVQ=="
+    },
+    {
+      "name": "Kimberly Oncavage",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1K7jMCHNGw3S9YQ0oauXaw=="
+    },
+    {
+      "name": "Sigrid Oppedal",
+      "gender": "Female",
+      "city": "Emerald Isle",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "NMLrnbmnfibNysECw+nxeA=="
+    },
+    {
+      "name": "David Osborne",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TGDyYD/xEoMGTIe4CiBFow=="
+    },
+    {
+      "name": "Jenny Osborne",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/21/2024",
+      "usta_id": "vZVxrwFjAYG/f/cQwp2O9Q=="
+    },
+    {
+      "name": "Rita O'Sullivan",
+      "gender": "Female",
+      "city": "Chapel Hill",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dSAWIMNPZuJzCXMXThjY7Q=="
+    },
+    {
+      "name": "Josie Ottaviani",
+      "gender": "Female",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w8coTA5lp6T80ZrD9K1fcQ=="
+    },
+    {
+      "name": "Linda Panagopoulos",
+      "gender": "Female",
+      "city": "Hubert",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "6XgSjPG9i/sHCkyDkjWGpg=="
+    },
+    {
+      "name": "Catherine Parker",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/5/2024",
+      "usta_id": "7FLKRhZ7ifxwTyeDqAtYRg=="
+    },
+    {
+      "name": "Lorinda Parker",
+      "gender": "Female",
+      "city": "Ayden",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xjOhvbk1fIwmrBYDaSG8TA=="
+    },
+    {
+      "name": "Michael Parrish",
+      "gender": "Male",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/26/2025",
+      "usta_id": "glnczm0VtqUaKpg3+k1J+g=="
+    },
+    {
+      "name": "MacK Paul",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "29QlTEQUn0Vhv9uLx/oN2Q=="
+    },
+    {
+      "name": "Emily Payne",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/16/2025",
+      "usta_id": "ycxgQeMmjK2zcaDGzl2+OA=="
+    },
+    {
+      "name": "Kelly Payne",
+      "gender": "Female",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Hz468EWLOddKdUK/9QfpA=="
+    },
+    {
+      "name": "Missy Pecheles",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "52kZcZAR7m5yvNv7RlSVbw=="
+    },
+    {
+      "name": "Megan Pender",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SBTeMZNF7zUteQdDra5xUw=="
+    },
+    {
+      "name": "Anthony Pereira",
+      "gender": "Male",
+      "city": "Swansboro",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "QFoa2050i1QQWf0Q1Zj4Ow=="
+    },
+    {
+      "name": "Beth Perkins",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XeCeUjKzunmDhOvYI25Ycw=="
+    },
+    {
+      "name": "Myra Peterson",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1cVJUyzk9ffW8/wmTQYJcA=="
+    },
+    {
+      "name": "Yakov Pevzner",
+      "gender": "Male",
+      "city": "NEW BERN",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "pypk9zDPLMeDTR4jZYBlOg=="
+    },
+    {
+      "name": "David Phillips",
+      "gender": "Male",
+      "city": "ATLANTIC BEACH",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YspDs07dKWMWVbZxQxlgLA=="
+    },
+    {
+      "name": "Sandy Phillips",
+      "gender": "Female",
+      "city": "Swansboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A+QhCDLRSSv8PuJINBSfwA=="
+    },
+    {
+      "name": "Marsha Pierson",
+      "gender": "Female",
+      "city": "Chinquapin",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Df0Mh5H9q6wPrtuO3JMs6A=="
+    },
+    {
+      "name": "Meghan Pileggi",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "jsIb2dfY2L9rdUwJxeNwFA=="
+    },
+    {
+      "name": "Catherine Piwowarski",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/7/2025",
+      "usta_id": "SZvZvmm0ePVl/I1jRw9zkQ=="
+    },
+    {
+      "name": "Britt Pons",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BQaeD3AsDHDO8nNxKADB2g=="
+    },
+    {
+      "name": "Diane Pons",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "guN+RBhaqW6r3F1GufXkQg=="
+    },
+    {
+      "name": "Enric Prat Codina",
+      "gender": "Male",
+      "city": "Apex",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TbBziq9uum4AvwzXk0wU3A=="
+    },
+    {
+      "name": "Turner Provo",
+      "gender": "Male",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "mBOUjSWytMAJoTMxhYnxnA=="
+    },
+    {
+      "name": "William Provo",
+      "gender": "Male",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3vSztNnIJTZH0Va+5eAYeg=="
+    },
+    {
+      "name": "Beth Ramsey",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/24/2025",
+      "usta_id": "C8qY3Ld7FT03y35LJaUxQA=="
+    },
+    {
+      "name": "Felicia Randall",
+      "gender": "Female",
+      "city": "Chocowinity",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DfUaP95QTjn8gDjnR1fwog=="
+    },
+    {
+      "name": "Julie Randle",
+      "gender": "Female",
+      "city": "Cary",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "XF7jDirs0qr8h1/BQwfr/A=="
+    },
+    {
+      "name": "Shimika Rasha",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AK9/kbJFlxgCsfhHR7ov5A=="
+    },
+    {
+      "name": "Palle Rasmussen",
+      "gender": "Male",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mNO24wIt0Gs="
+    },
+    {
+      "name": "Terry Ray",
+      "gender": "Female",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VHaHduHT3o00EdKUsSpVHw=="
+    },
+    {
+      "name": "Stephen Reams",
+      "gender": "Male",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zwz0LrDm2sfcPzv0nWBDYw=="
+    },
+    {
+      "name": "Heather Reedy",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "V5zpatBlP0rN2nWgAHlbzQ=="
+    },
+    {
+      "name": "Alex Renfrow",
+      "gender": "Male",
+      "city": "WILSON",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4yDz2GA3q1Crp7vJxSvf+w=="
+    },
+    {
+      "name": "Mary Ringwalt",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "anCeXVLaLlmGEuSEiTzV6w=="
+    },
+    {
+      "name": "Krista Roberson",
+      "gender": "Female",
+      "city": "LA Grange",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xz+uGMO9uW2Q/w9mUKynvQ=="
+    },
+    {
+      "name": "Linda Roberson",
+      "gender": "Female",
+      "city": "Williamston",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WQ4QjErnG1c4Y/947Ny8ow=="
+    },
+    {
+      "name": "Kellye Roberts",
+      "gender": "Female",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "cmUB+kB2Gcq5Z0q/dPb/dQ=="
+    },
+    {
+      "name": "Robert Roberts",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FW1/fkVpGkCiWScMJGY5vg=="
+    },
+    {
+      "name": "Anne Robertson",
+      "gender": "Female",
+      "city": "NEW BERN",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XhsakI8SLBHRdKM1i9OCPA=="
+    },
+    {
+      "name": "Erin Robinson",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yd43i9MqasvVPlBrYoc+9A=="
+    },
+    {
+      "name": "Gregory Rogers",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/1/2024",
+      "usta_id": "zdWYxQg3L5yW2b+unuYLpA=="
+    },
+    {
+      "name": "Leslie Rogers",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qxCmxpq+Qje8PIBVYeIwfA=="
+    },
+    {
+      "name": "Johnny Rouse",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XAy2A7NESxeGLnzGUoXeOA=="
+    },
+    {
+      "name": "Dawn Rowland",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "deOZyJwoBTis2UWhSye3NQ=="
+    },
+    {
+      "name": "Rocky Russell",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x5BYwGtuLwlPtlrogX+kCQ=="
+    },
+    {
+      "name": "Said Said",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MAW2F/2FxlEmrIVKyBZyWA=="
+    },
+    {
+      "name": "Samira Said",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H9K2v1JthIKPghBT58PCxw=="
+    },
+    {
+      "name": "Jeanette Sasser",
+      "gender": "Female",
+      "city": "Pikeville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bzOuV03O0NR4sqHutGxXig=="
+    },
+    {
+      "name": "Sharon Scheper",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "KAbd+ek08YVIlhLQDbBrLQ=="
+    },
+    {
+      "name": "Shelly Schiff",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/10/2024",
+      "usta_id": "3FWyBVdICzYKV7U/l2xhZw=="
+    },
+    {
+      "name": "Dale Schmidt",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g0Jaf13mmP3Z8CYS9rPmfA=="
+    },
+    {
+      "name": "Brandi Schutt",
+      "gender": "Female",
+      "city": "Emerald Isle",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a36In2tSA1eJE6PaUXuj1g=="
+    },
+    {
+      "name": "Jennie Schwartz",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T6bMdjtYjXGBt1HQi4GGfQ=="
+    },
+    {
+      "name": "Luann Scruggs",
+      "gender": "Female",
+      "city": "NEW BERN",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iviRVWrNmzWdI00GRUuSjQ=="
+    },
+    {
+      "name": "Donna Semple",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/23/2025",
+      "usta_id": "wGrTm+FuLbIKcOeNUCFuvA=="
+    },
+    {
+      "name": "Patricia Sena-Bolding",
+      "gender": "Female",
+      "city": "SWANSBORO",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EBMKT72KjVEWM2wd2GkH8Q=="
+    },
+    {
+      "name": "Carl Seymour",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wjOp3YjmRlQLrtyVAf/PjQ=="
+    },
+    {
+      "name": "Frank Seymour",
+      "gender": "Male",
+      "city": "BATH",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "//tjVWRhCtbAtVzbzHpe9g=="
+    },
+    {
+      "name": "Christiana Shoopman",
+      "gender": "Female",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/28/2025",
+      "usta_id": "v8I1WQdLio1bc0ifNVOeag=="
+    },
+    {
+      "name": "Terry Shoup",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lfsP2DobbV8FB8rMtvutxQ=="
+    },
+    {
+      "name": "Andrew Shue",
+      "gender": "Male",
+      "city": "Ayden",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/9/2025",
+      "usta_id": "iyj1xtStorAVUTxjPXI0/A=="
+    },
+    {
+      "name": "Mary Lou Skinner",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tu00y6zl2wm8diR7HO1u8g=="
+    },
+    {
+      "name": "Doris Smith",
+      "gender": "Female",
+      "city": "Trenton",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ztUJYC7OM9DYDaxswR5qfQ=="
+    },
+    {
+      "name": "Kerry Smith",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+pDZUAJ8zGs/AzqMI84hIA=="
+    },
+    {
+      "name": "Lacee Smith",
+      "gender": "Female",
+      "city": "TRENT WOODS",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qBld1DaOsRRvrAhV2I04Ew=="
+    },
+    {
+      "name": "Rachel Smith",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PQbvbWNZAfBEkP9PXQs6fA=="
+    },
+    {
+      "name": "Sherry Smith",
+      "gender": "Female",
+      "city": "Seven Springs",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q3Cgcng4AXhe9vYpJX8/tQ=="
+    },
+    {
+      "name": "Taylor Snodgrass",
+      "gender": "Female",
+      "city": "SYRACUSE",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "niGoKt4I7lYC7b6fwcHNnA=="
+    },
+    {
+      "name": "Daniel Soreff",
+      "gender": "Male",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iehafFVOp91XebTV9M92bQ=="
+    },
+    {
+      "name": "Malin Soreff",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T7KAOzOAotz8NikM9/5GDQ=="
+    },
+    {
+      "name": "Rafael Souza",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d0B3R0X7hBhblutqcANYbA=="
+    },
+    {
+      "name": "Wendy Stallings",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7/qbShMdBDe+bLwE9vDKOA=="
+    },
+    {
+      "name": "Dana Starling",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "IYaP+kQF6ERU7mrwa5FoiA=="
+    },
+    {
+      "name": "Courtney Steed",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5KLbspjMHKXs9lx7l7ZU2A=="
+    },
+    {
+      "name": "Debbie Stephenson",
+      "gender": "Female",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6B4wguieTQfajmxv4BSYtg=="
+    },
+    {
+      "name": "Matlock Stocks",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JhTC0ajXAg2CkhIIdCxJtA=="
+    },
+    {
+      "name": "Cynthia Streibich",
+      "gender": "Female",
+      "city": "Lakewood Ranch",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yLeML0qc11M6RRD90XIB2A=="
+    },
+    {
+      "name": "Abbey Strickland",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E4LTIlxJlc0N/blc4usQYg=="
+    },
+    {
+      "name": "Katie Strickland",
+      "gender": "Female",
+      "city": "Seven Springs",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "a0m674SZr5TYq77KHvg0oQ=="
+    },
+    {
+      "name": "Josh Stroud",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "7qbc76G0jzXi1US/eVHeWQ=="
+    },
+    {
+      "name": "Jay Surles",
+      "gender": "Male",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8hyX5Cb2Ixtrgz0Wal7zXA=="
+    },
+    {
+      "name": "Sharon Surles",
+      "gender": "Female",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XjZo8i2zfmfUScir5kdYxg=="
+    },
+    {
+      "name": "Brandon Sutton",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zX6HRDyUTJQMC5Gp56Jc4A=="
+    },
+    {
+      "name": "Shelly Sutton",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/26/2024",
+      "usta_id": "3NtCySTO1twfwVbCdzwMqg=="
+    },
+    {
+      "name": "Laura Sweet",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "b+BkQKkmme3bJbpI+9Cktg=="
+    },
+    {
+      "name": "Lisa Sylvia",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VblrZ5WzG/qSWytjHnE5mg=="
+    },
+    {
+      "name": "Jeff Tant",
+      "gender": "Male",
+      "city": "Fort Myers",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/11/2024",
+      "usta_id": "ErAH8QkWzQ1f7GzhVDIPTA=="
+    },
+    {
+      "name": "Samantha Taylor Haislip",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BOG2FAwBrrcuTMq3TocRqw=="
+    },
+    {
+      "name": "Carol Taylor",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ggzvzS7QLK/3xHyvPtmRKw=="
+    },
+    {
+      "name": "Jonathan Taylor",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "80SLLjDMSNNKus1D/vJwcA=="
+    },
+    {
+      "name": "Missy Taylor",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FEFWzetWv3G0whsjZlsmLQ=="
+    },
+    {
+      "name": "Pam Taylor",
+      "gender": "Female",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/31/2024",
+      "usta_id": "XzfInE4m3wpYO97fVvozjQ=="
+    },
+    {
+      "name": "Pam Taylor",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tEuQ+3OWqIY0S5vdWCgpeg=="
+    },
+    {
+      "name": "Robby Taylor",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BOG2FAwBrrf3xhd7V7JmyA=="
+    },
+    {
+      "name": "Robert Taylor",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2zweaRMx05kgq+rE1gyIUw=="
+    },
+    {
+      "name": "Tracy Taylor",
+      "gender": "Female",
+      "city": "Swansboro",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/8/2025",
+      "usta_id": "S/oa+JYCTFSZp+JB86eeEg=="
+    },
+    {
+      "name": "Christie Teaney",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xEI/tKPujeW/mlQVoD7tDw=="
+    },
+    {
+      "name": "Paige Temple",
+      "gender": "Female",
+      "city": "Tarboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ecU2dEevE4BuUwaOA6rDPA=="
+    },
+    {
+      "name": "Sangita Tewari",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ckV4Y9162VBE6V+s/SHMww=="
+    },
+    {
+      "name": "Kate Tharin",
+      "gender": "Female",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9auOm0UqE7V9t12/lhAwxw=="
+    },
+    {
+      "name": "Lisa Thigpen",
+      "gender": "Female",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TJfMvgfwWPL9I9JeGCJhUw=="
+    },
+    {
+      "name": "Quentin Thigpen",
+      "gender": "Male",
+      "city": "Snow Hill",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ES012pYhPVTc34qyuvbTaA=="
+    },
+    {
+      "name": "David Thomas",
+      "gender": "Male",
+      "city": "Farmville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8MDD2+2lTtg652GCNUP5TQ=="
+    },
+    {
+      "name": "Georgia Thomas",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6lNRlsWxumvNOg3AU8ufYw=="
+    },
+    {
+      "name": "TJ Thomas",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PCWnp9HbseaBfI3Z8EJwDg=="
+    },
+    {
+      "name": "Mary Jane Thomassen",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "k89fY7NZd++zxv0FSChNEg=="
+    },
+    {
+      "name": "Ruth Thorne",
+      "gender": "Female",
+      "city": "Wilson",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0gV9t4ZO2Obf45Z6Ky28Ww=="
+    },
+    {
+      "name": "Marie Tingle",
+      "gender": "Female",
+      "city": "BEAUFORT",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ihP3FHEzlvecIMv5BOxyLA=="
+    },
+    {
+      "name": "Graham Toler",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iCrXpiDl61UyEKa/yt2V4g=="
+    },
+    {
+      "name": "Sarah MaryAnn Tormey",
+      "gender": "Female",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vUjWRtKJLr50bNJWjnwSFw=="
+    },
+    {
+      "name": "Jonathan Tribula",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t/ilOElouJBAq7EaclHTTw=="
+    },
+    {
+      "name": "W Troutman",
+      "gender": "Male",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZjzWplrEEMAjJei4dnsopg=="
+    },
+    {
+      "name": "Heidi Tucker",
+      "gender": "Female",
+      "city": "Atlantic Beach",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/5/2024",
+      "usta_id": "SXrdL/TrYPZ9e9yU2jkNbA=="
+    },
+    {
+      "name": "Lauren Turbeville",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j9cf3W8+KMa6CWxjoyAxEQ=="
+    },
+    {
+      "name": "Matt Turbeville",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FAMTQZo/W237zHtQw4ZeTA=="
+    },
+    {
+      "name": "Edward Turner",
+      "gender": "Male",
+      "city": "Hillsborough",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+9TX995TmI3upQbj4da/pw=="
+    },
+    {
+      "name": "John Turner",
+      "gender": "Male",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "hv9L1H7R1KFEbZCjfDzL5w=="
+    },
+    {
+      "name": "Margaret Turner",
+      "gender": "Female",
+      "city": "Winterville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NrEoXPPxLRdS6y1hnJGlLQ=="
+    },
+    {
+      "name": "Helen Tyson",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2q9s+fEwAm8/jbpcg1j91w=="
+    },
+    {
+      "name": "JANA TYSON",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "stfeTkknxu6TBHkbuDWenA=="
+    },
+    {
+      "name": "Lisa Vail",
+      "gender": "Female",
+      "city": "Pikeville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "EeCK92jYCb9/IaV8ciMlhA=="
+    },
+    {
+      "name": "Andy Varnell",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kpdEud2+yGILnem75AMXvQ=="
+    },
+    {
+      "name": "Kelly Varnell",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LPBOlk6RyqVp4ws888LFeA=="
+    },
+    {
+      "name": "Meghann Veit",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UQOVOK4imH0IycAssL/ecA=="
+    },
+    {
+      "name": "Roberta Veluci-Marlow",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U0VdmsqCswFjQelI6OdMUw=="
+    },
+    {
+      "name": "James Vislocky",
+      "gender": "Male",
+      "city": "GREENVILLE",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UbRVq8a67iJV6m08Js00GQ=="
+    },
+    {
+      "name": "Lori Wagner",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mclg5/PMwy5qHqWyDAZ0WQ=="
+    },
+    {
+      "name": "Julie Warren",
+      "gender": "Female",
+      "city": "Farmville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k/z11dUZNecWdPMiYgMhYw=="
+    },
+    {
+      "name": "Maggie Warren",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QQm4xxjpJgOKThqXkr4H3A=="
+    },
+    {
+      "name": "Robert Warren",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fHj9eCoNggMa+IKOVzHbjA=="
+    },
+    {
+      "name": "Jane Watkins",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oS0RARhRWTMbBt8ZZbm7FA=="
+    },
+    {
+      "name": "Tom Watkins",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "FGMCQTW7p2N1OoCdB/Yr2w=="
+    },
+    {
+      "name": "Cheryl Watson",
+      "gender": "Female",
+      "city": "Emerald Isle",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OdZ8IfqlGVYKeDG6d/Pmng=="
+    },
+    {
+      "name": "Riley Weeks",
+      "gender": "Female",
+      "city": "MOREHEAD CITY",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "cC0xVKckrFumVVWUx4sleQ=="
+    },
+    {
+      "name": "Denise Wells",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "STtrp68Nc9LYTKBM+sh5nw=="
+    },
+    {
+      "name": "Bianca White",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c1vXqiHPLppKn8AH5VZTsA=="
+    },
+    {
+      "name": "Jennifer White",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+Hz468EWLOcMcoH4FfNR9A=="
+    },
+    {
+      "name": "Phillip White",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/26/2024",
+      "usta_id": "Ggh12tUp1TdP8oFspQc9Jg=="
+    },
+    {
+      "name": "Martha Whitesides",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2024",
+      "usta_id": "7m9yVOntqfI/UjtaZQA9RQ=="
+    },
+    {
+      "name": "Kelly Whitley",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7/qbShMdBDdRomIE3nd6JQ=="
+    },
+    {
+      "name": "Robert Whitley",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7ngvIVeQZhWnp8Al2jNCDw=="
+    },
+    {
+      "name": "Cailin Whitsett",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "rbxVbnecJ0nov7wN3cVjBA=="
+    },
+    {
+      "name": "Jay Wilkins",
+      "gender": "Male",
+      "city": "Washington",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MpfSVGvSY+oRJ1G97raz1Q=="
+    },
+    {
+      "name": "Kenneth Wilkins",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i/mtxVW0L71PkKarXAIcjQ=="
+    },
+    {
+      "name": "Andy Wilkinson",
+      "gender": "Male",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DxvERebEKdI+K0oSc3UnWQ=="
+    },
+    {
+      "name": "Sherry Wilkinson",
+      "gender": "Female",
+      "city": "New Bern",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2DknMGf2UYjM+q653+LShg=="
+    },
+    {
+      "name": "Tracy Wilkinson",
+      "gender": "Female",
+      "city": "EMERALD ISLE",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "S04YGUofWNG6TgNZs4zvQA=="
+    },
+    {
+      "name": "Charlotte Williams Yenney",
+      "gender": "Female",
+      "city": "Hubert",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "d0B3R0X7hBgC5Fyy8/FrCg=="
+    },
+    {
+      "name": "Caroline Williams",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "fhOI4IiQq7pTAh0dgercEg=="
+    },
+    {
+      "name": "Cathy Williams",
+      "gender": "Female",
+      "city": "Grifton",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XzmMTYn+K+UzMyYzIZqGyw=="
+    },
+    {
+      "name": "Jill Williams",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "50ys3Dt7s9d5wUwl9wiuQw=="
+    },
+    {
+      "name": "Katherine Williams",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H7DMl8qfZpPod47RDKAzDQ=="
+    },
+    {
+      "name": "Peter Williams",
+      "gender": "Male",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yP3yn2IxNpi395Wz9q4KpA=="
+    },
+    {
+      "name": "Ruby Williams",
+      "gender": "Female",
+      "city": "Swansboro",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tmQlBckAbdxq1qpcMj2USA=="
+    },
+    {
+      "name": "Shannon Williams",
+      "gender": "Female",
+      "city": "Morehead City",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e0fskd+nIzPe/OhMN4CjDg=="
+    },
+    {
+      "name": "Amy Wolfe",
+      "gender": "Female",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "62mqsfeurQ1Wgc7za/fVXA=="
+    },
+    {
+      "name": "Darlene Worthington",
+      "gender": "Female",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RNrBbtKdc3yF8FydgxO4BA=="
+    },
+    {
+      "name": "Feng-Ling Wu",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "Eng0i/TWnA7gL4wq2LmdJQ=="
+    },
+    {
+      "name": "Jonathan Wuntke",
+      "gender": "Male",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SOuqDoS7Oy9LeiLCyVzbpg=="
+    },
+    {
+      "name": "Mark Wuntke",
+      "gender": "Male",
+      "city": "Goldsboro",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EPTurE9ptlxLeYo4q4ldLw=="
+    },
+    {
+      "name": "Terry Yarborough",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "5HNuYEVzfJ4sq2SOW+b6yA=="
+    },
+    {
+      "name": "Mary Yarbrough",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "NC",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/27/2025",
+      "usta_id": "r9SWT8YX7gbLTT1rjlTeZQ=="
+    },
+    {
+      "name": "Juanita Yarrell",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yVdBDL+L9JLHZha7l+HsZw=="
+    },
+    {
+      "name": "Aaron Yarus",
+      "gender": "Male",
+      "city": "Kinston",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JT1BfRb5WvzHvrR3GNMiww=="
+    },
+    {
+      "name": "Brent Zimmer",
+      "gender": "Male",
+      "city": "NEW BERN",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1evFcN9g/UHW9VwmY5A5dA=="
+    },
+    {
+      "name": "Deane Zurawski",
+      "gender": "Male",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q1rioRD+F1aliEcMeRkefg=="
+    },
+    {
+      "name": "Lisa Zurawski",
+      "gender": "Female",
+      "city": "Trent Woods",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F6pmcTpEnpL8+tPJby+50Q=="
+    }
+  ]
+}

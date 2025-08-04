@@ -1,0 +1,4527 @@
+{
+  "sectionId": "6243298",
+  "districtId": "6243336",
+  "areaId": "6243466",
+  "players": [
+    {
+      "name": "Colby Adams",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WX/VV/A1Wd1cOhmuUwp/Rg=="
+    },
+    {
+      "name": "Melissa Adams",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sfhuXo9BLSzyiZuQa5J7+Q=="
+    },
+    {
+      "name": "Camille Aguinaga",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eu1+T/THXSmpfRnDLrEScA=="
+    },
+    {
+      "name": "Lyka Aldemita",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "ldy30U7pCN9CPyRD5Ou2wQ=="
+    },
+    {
+      "name": "Breanna Aldrich",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/vMsqZz9n6iMJ+1k/TUG8g=="
+    },
+    {
+      "name": "Michael Allen",
+      "gender": "Male",
+      "city": "Swan Valley",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8KQuuOBZSOwje8GSnJgDnQ=="
+    },
+    {
+      "name": "Joe Andersen",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SLY1rmh+rVIA7c7pmYHO+A=="
+    },
+    {
+      "name": "Angie Anderson",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VXLpvm01Rskan/AEgTh8GA=="
+    },
+    {
+      "name": "Brad Anderson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hQclGVyTLPBmhye9gDpeiw=="
+    },
+    {
+      "name": "Eric Anderson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FpP3gdTw8d4KKYVmNBqHEQ=="
+    },
+    {
+      "name": "Joanie Anderson",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/19/2025",
+      "usta_id": "peNwOnvgIToFPhoFNPtKEQ=="
+    },
+    {
+      "name": "Ryan Anderson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/25/2025",
+      "usta_id": "eTjPDQYb2ELEKr3vHBA+kA=="
+    },
+    {
+      "name": "Julie Arfmann",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+aj1ikZ0kLr2YOZNxlCj/g=="
+    },
+    {
+      "name": "Ryan Arfmann",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LxkfWWvRMDzaKgc3Xs0G9g=="
+    },
+    {
+      "name": "Bobby Arteaga",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hA+GPVB0LvtBm7QUrIpnig=="
+    },
+    {
+      "name": "Roger Atkinson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pcFL6n3zgXUMFFmHSsf2IQ=="
+    },
+    {
+      "name": "Barbara Baker",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kG4FUI0z1z9ieXvtWpqGXg=="
+    },
+    {
+      "name": "Lorraine Baker",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QVLKJino5kaSXI0LVLjZxA=="
+    },
+    {
+      "name": "Travis Baker",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6rQhyephQrjjPLEIaO97Dg=="
+    },
+    {
+      "name": "Brad Ball",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F3lDqDQMt5n4/URLKyipTA=="
+    },
+    {
+      "name": "Brigham Ball",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "rswkDBkD+7sxJPs5TQZ+6Q=="
+    },
+    {
+      "name": "Cherie Ball",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "edSOt6q1zbQWoA6sm5qPWw=="
+    },
+    {
+      "name": "Christi Ball",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "37O0k/cXYlFof5Kre58A9A=="
+    },
+    {
+      "name": "Hailey Ball",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "T3jXtAYcebhfgTJDKMFVBA=="
+    },
+    {
+      "name": "Nadine Ball",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qsUrNL4tRswm/BUHDF0JxA=="
+    },
+    {
+      "name": "Nichole Ball",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aBiCevU6ffRhXI+Wk9g9Iw=="
+    },
+    {
+      "name": "Kristin Ballou",
+      "gender": "Female",
+      "city": "REXBURG",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mEw/aq44aSn3KerA8R5k0w=="
+    },
+    {
+      "name": "Travis Barber",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3+o5QeKqKP83UqeQZzs9RA=="
+    },
+    {
+      "name": "Jessica Bare",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/QlNoKEDJ8zPcvE53EvkZw=="
+    },
+    {
+      "name": "Troy Barnum",
+      "gender": "Male",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+SYkiL2vTXPLF4UVVs0V/w=="
+    },
+    {
+      "name": "Brooke Bedke",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DTnjO18/chX48bhq8zeleA=="
+    },
+    {
+      "name": "Teresa Beebe",
+      "gender": "Female",
+      "city": "DRIGGS",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cNGXBbevp9Ba29VAVAlp8Q=="
+    },
+    {
+      "name": "Karen Behrmann",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r7LaMixWoays0eJVMpIuWw=="
+    },
+    {
+      "name": "Amanda Belloff",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m/xTbfRFoVrUkbpWc3ZbBA=="
+    },
+    {
+      "name": "Abram Belnap",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "iotK6jQaZTp0zVRnIH3K4w=="
+    },
+    {
+      "name": "Amie Belnap",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m4SaNrWX4fB/eJ3v78TfkA=="
+    },
+    {
+      "name": "Eli Belnap",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "5qdZhj6XBQ7/tM7GB0gCEg=="
+    },
+    {
+      "name": "Isaac Belnap",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "iotK6jQaZTo38byH+QDedA=="
+    },
+    {
+      "name": "Isaiah Belnap",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "iotK6jQaZTrTM1ww0m7E0w=="
+    },
+    {
+      "name": "Jacob Belnap",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iotK6jQaZToe9DVL26UgaA=="
+    },
+    {
+      "name": "Joe Belnap",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BqbDwitdGkZz0n8sZdSbjA=="
+    },
+    {
+      "name": "Rachel Belnap",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "6ywAO9ELvSGXxixIOrvxQg=="
+    },
+    {
+      "name": "Joanna Bennett",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xc5v9oDj+CERhjR/OtnfaQ=="
+    },
+    {
+      "name": "Courtney Bennion",
+      "gender": "Female",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ki2/iBZDmFLxeMRSsvvDzQ=="
+    },
+    {
+      "name": "Ashley Benson",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Yuv5PJ2VIJzVfoXqNi/WHg=="
+    },
+    {
+      "name": "Joshua Berry",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UljxAJRKc3TErzUnntiMSw=="
+    },
+    {
+      "name": "Lurline Berry",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j2YMG401dmPxu8C/kQ1rwA=="
+    },
+    {
+      "name": "Hanna Bigelow",
+      "gender": "Female",
+      "city": "Hailey",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LL6BYzlgE3KcYrtfSN73Vg=="
+    },
+    {
+      "name": "Jedediah Bigelow",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RzxgLOMbblKMMwFPUQN/0g=="
+    },
+    {
+      "name": "Susan Binns",
+      "gender": "Female",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zYfPFHrEF78UdXfGlE5niQ=="
+    },
+    {
+      "name": "Richard Bitton",
+      "gender": "Male",
+      "city": "MCCAMMON",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jDFizrJU2ROY5fuHQvQGMQ=="
+    },
+    {
+      "name": "Megan Black",
+      "gender": "Female",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "qlclTCWHmiiKcjYdEtUDLA=="
+    },
+    {
+      "name": "Madisyn Blanchard",
+      "gender": "Female",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "85vNzaCswHW3aNmNaXWQow=="
+    },
+    {
+      "name": "Lynne Blatter",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jZxw/U6MoqX7FxwGfYS1qQ=="
+    },
+    {
+      "name": "Pierce Bolton",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mxKAsTPvpWQWAYWkEhAh+w=="
+    },
+    {
+      "name": "Cyndy Boorman",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ozWosRAlQVOBejtDEGTK0A=="
+    },
+    {
+      "name": "Bob Boozer Jr",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w7BxNcBGseXuYbpCGk8kRA=="
+    },
+    {
+      "name": "Jinny Boozer",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lCbWdXm9kkveyr+e9yQ6xA=="
+    },
+    {
+      "name": "Wendy Boring",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "alOHuzvltM1p3OrRN9Ev6A=="
+    },
+    {
+      "name": "Collette Bott",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Co/eU1lFkiWIli16hEch4A=="
+    },
+    {
+      "name": "Cari Boyle",
+      "gender": "Female",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LHUbKEr6ayGmYXMxjeY9yQ=="
+    },
+    {
+      "name": "Hailey Bradshaw",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fWDIGMIKa9Khhe3D6NJc2g=="
+    },
+    {
+      "name": "David Brake",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Uj/v6AJAlzvC7JfUNQXadg=="
+    },
+    {
+      "name": "Aaron Brighton",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "fqrx2gWMQnYj3UfOwtrNRQ=="
+    },
+    {
+      "name": "Aaron Brown",
+      "gender": "Male",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o6iWe2CH0e2yOWzdRFj0kw=="
+    },
+    {
+      "name": "Alyce Brown",
+      "gender": "Female",
+      "city": "American Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9i0HFnpOX0huLxiUXBmvOA=="
+    },
+    {
+      "name": "Ashley Brusman",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/el2dMLg/2IZEqu9Dn8hEw=="
+    },
+    {
+      "name": "Kim Bryan",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qq36pDMFF4+AIF7rJIqqig=="
+    },
+    {
+      "name": "Meriden Burr",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XZIyt2dpYFDvBYMoqWf+DQ=="
+    },
+    {
+      "name": "Natalie Buttars",
+      "gender": "Female",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RfreSUH/Ny+HNagcQ8+jiA=="
+    },
+    {
+      "name": "DJ Calderwood",
+      "gender": "Male",
+      "city": "Shelley",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hHydOxCTAR9HGMz6iavVUA=="
+    },
+    {
+      "name": "Blaine Caldwell",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "gbLNnYFYU39qQljLYOB1pg=="
+    },
+    {
+      "name": "Jade Call",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/2/2025",
+      "usta_id": "pemkzc/t0khc7U93X0obbw=="
+    },
+    {
+      "name": "Libby Cameron",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wX0k1/Ftz60ZSI8zUZaMYg=="
+    },
+    {
+      "name": "Cori Cannon",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nRCL8SzbMP0b0fY/2g3KRg=="
+    },
+    {
+      "name": "Tyler Cannon",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/20/2024",
+      "usta_id": "/Bs1tI+p703UyPnSm7uXZQ=="
+    },
+    {
+      "name": "Brett Carlsen",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QLeBWKVq9InPeKJNN8FnvQ=="
+    },
+    {
+      "name": "Katy Chambers",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "T1NguOBHY6gA6tBM7P7PGQ=="
+    },
+    {
+      "name": "Mark Chambers",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g6tqqvQPblmZTGW1gw/oAA=="
+    },
+    {
+      "name": "Alexandra Chapman",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gvRbIZF3LgrJX7al1mMM/Q=="
+    },
+    {
+      "name": "Carter Christiansen",
+      "gender": "Male",
+      "city": "Blackfoot",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H5lOaq7IBqHEkg9TFTBScA=="
+    },
+    {
+      "name": "Erica Clayton",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tNjO76dFmi63geQyouA0EA=="
+    },
+    {
+      "name": "Ron Clayton",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PWgkL7w2mKvfem3Z7gKHOQ=="
+    },
+    {
+      "name": "Denise Clement",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "biyHBNRUDURvGkStoHWu3w=="
+    },
+    {
+      "name": "Rayce Clement",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "Yoll6hnwN6sIWHZBEckKkw=="
+    },
+    {
+      "name": "Brent Cline",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/24/2025",
+      "usta_id": "wCIqUVT+Pr1U7SO5L0gh2g=="
+    },
+    {
+      "name": "Madison Cline",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "2fwhZw+Hxsj3Mr4FtYVXrw=="
+    },
+    {
+      "name": "Jim Collins",
+      "gender": "Male",
+      "city": "Walnut Creek",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XgBZKKlHBrMyXFM+KnWjcA=="
+    },
+    {
+      "name": "Brian Cook",
+      "gender": "Male",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JCLYnxKkL+g3wnqS9NCXRQ=="
+    },
+    {
+      "name": "Brandi Cornelison",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GgN5n24fgw++8dRpwaLo6g=="
+    },
+    {
+      "name": "Emilee Cox",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nAU62w7QRO/Le3XPe1ZKlA=="
+    },
+    {
+      "name": "Oaklee Craig",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "69UTX712J0hLWibl5SnlaA=="
+    },
+    {
+      "name": "Tera Craig",
+      "gender": "Female",
+      "city": "Iona",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eXB/MC2Sa0oo53e1rMWTuw=="
+    },
+    {
+      "name": "Jonathan Cree",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "RWlORIJAIFU0yEQKilOIhw=="
+    },
+    {
+      "name": "Jennifer Crofts",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4lqqwNYau5OKDwJ5ogiRqw=="
+    },
+    {
+      "name": "Alayna Dahlin",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/18/2025",
+      "usta_id": "q4AYspgN0T2fHeLO9kLRFg=="
+    },
+    {
+      "name": "Leslie Dal Lago",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "B3LMiG5Vp+piNB7Dju1bvQ=="
+    },
+    {
+      "name": "Zac Dalton",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0eVJmo3/SDFukrLU4eauLg=="
+    },
+    {
+      "name": "Heather Davies",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RMC76fye4OFQDut89f6Mkg=="
+    },
+    {
+      "name": "Easton Daw",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "Df+0ZFD/6t5aUFcCISO+TQ=="
+    },
+    {
+      "name": "Melanie Daw",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dIz9lpwu9ZiI4Zqu52gvPQ=="
+    },
+    {
+      "name": "Ryan Daw",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "OAODbDkB9CwCc2+Iw6cY2Q=="
+    },
+    {
+      "name": "Valerie Day",
+      "gender": "Female",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mWPl38nq558VYhPMCMHhbw=="
+    },
+    {
+      "name": "James DiSanza",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t2n55FphIfXN3KAGmaFdRA=="
+    },
+    {
+      "name": "Tristan Drollinger",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CsLnRHFpJMgtACCi0/NhUQ=="
+    },
+    {
+      "name": "Elizabeth Dummar",
+      "gender": "Female",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yX2RZoaOXISGZCkt9QxxbQ=="
+    },
+    {
+      "name": "Dutch Dutcher",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+ktMVYZ5JIZR2RGvUVfTSw=="
+    },
+    {
+      "name": "Mckenna Dutcher",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "de+RFAukty+XqKtgSjPRuQ=="
+    },
+    {
+      "name": "Jamie Eastman",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/28/2024",
+      "usta_id": "ycZwhnLxLBJRpIjlmC1TnQ=="
+    },
+    {
+      "name": "Ryan Eastman",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pjISoXoCx8i22TmfZLbCKg=="
+    },
+    {
+      "name": "David Eisenreich",
+      "gender": "Male",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o5cxUA/ytPXa6ahJ5wcyTA=="
+    },
+    {
+      "name": "Joshua Ellis",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1XxW+l1kdT+Hq88neGDOQA=="
+    },
+    {
+      "name": "Randy Elsethagen",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6vZVHx87P+all5Xd3o+9JA=="
+    },
+    {
+      "name": "Drew Facer",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E0DGGgFGaQ065p2iOEaHMA=="
+    },
+    {
+      "name": "Sonja Facer",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "86Pyus0nS3258MnKzzOeuA=="
+    },
+    {
+      "name": "Straton Facer",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "mmkEPngF9A50AA5wybZEnw=="
+    },
+    {
+      "name": "Heather Farnsworth",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IoNKC8Zi0wmvbUmGXdPFNQ=="
+    },
+    {
+      "name": "Lynda Fennern",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IaEixdvEbafHU/HnvLuMoQ=="
+    },
+    {
+      "name": "Maryl Fisher",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "n2oYp25Kkk4/ow3+0npMFw=="
+    },
+    {
+      "name": "Aaron Fleming",
+      "gender": "Male",
+      "city": "Sugar City",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "1oG2G8O582FMmconK4Bybg=="
+    },
+    {
+      "name": "Em Fonz",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "gk9Pm/uY+rW7uRGz84oVnQ=="
+    },
+    {
+      "name": "Monica Fowers",
+      "gender": "Female",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "dbGp6xquxHx2/4kF9fOv7g=="
+    },
+    {
+      "name": "Trent Fowers",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lBat5Ti2x9qD531vu5ZCiQ=="
+    },
+    {
+      "name": "Ande Fox",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "MDYKXc7OKUc1Iu3sKWJlsA=="
+    },
+    {
+      "name": "Isaac Frandsen",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "pq6CRdAQeY9giXBFv3Octg=="
+    },
+    {
+      "name": "Jackie Fuller",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qPk+l8b1JttxTAuWMR0IJg=="
+    },
+    {
+      "name": "Bill Fullmer",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zcNq6vxdcHAezb5E392rKw=="
+    },
+    {
+      "name": "Jenny Fullmer",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/14/2024",
+      "usta_id": "i2f3dfNWu1HPb4624L81tA=="
+    },
+    {
+      "name": "Ken Fullmer",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "tTbEKSu4AY7U15uIPQAX1Q=="
+    },
+    {
+      "name": "Lexi Fullmer",
+      "gender": "Female",
+      "city": "Rupert",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TMopQoeTG+XgRTeUnPwagw=="
+    },
+    {
+      "name": "Anne Gaffney",
+      "gender": "Female",
+      "city": "Kennett Square",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "dv0xDkeGBG1YRkX4Nw+hPQ=="
+    },
+    {
+      "name": "Tamara Gardner",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "UTv0tgMmi5V3KyvVZswEmg=="
+    },
+    {
+      "name": "Joni Gates",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "54YSOjGbzfGcyveQXW2aGQ=="
+    },
+    {
+      "name": "Pat Gates",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VehIZ96K3Q/ECvKoSaOUTg=="
+    },
+    {
+      "name": "Carl Gaufin",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/10/2024",
+      "usta_id": "CnS0fsdvtfiWigmmBD7opQ=="
+    },
+    {
+      "name": "Kristen Gaufin",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "2w7JB5yT6L/mwjDnkvEcmQ=="
+    },
+    {
+      "name": "Zac Gershberg",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gj/llhAqbDC370xyqKdF9A=="
+    },
+    {
+      "name": "Anita Gibson",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6h71h6EDAn8ZlIgb7jRlNg=="
+    },
+    {
+      "name": "Kaydene Gilbert",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zNS9uBR9gyCNtLaFHXVcIA=="
+    },
+    {
+      "name": "Curtis Godfrey",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "twKG3QF6z/j/U3Xr53iAog=="
+    },
+    {
+      "name": "Dolly Gonzales",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fVaImSCCogd9VB48XE1Ljw=="
+    },
+    {
+      "name": "Bret Gordon",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6ve47wYqjStdjp7YOqy+2A=="
+    },
+    {
+      "name": "Ray Gordon",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "90L9vGVh4LD1RTYxnimC2A=="
+    },
+    {
+      "name": "Annette Green",
+      "gender": "Female",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "g1AdlHS/2ZjoRhMw4c6f8g=="
+    },
+    {
+      "name": "Lori Griffel",
+      "gender": "Female",
+      "city": "Boise",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OAeH9k69EpWwqm8iqQamDw=="
+    },
+    {
+      "name": "Eli Griffin",
+      "gender": "Female",
+      "city": "RIGBY",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WWhgyN8w2xORyl+Wn2ROQQ=="
+    },
+    {
+      "name": "Mieley Grover",
+      "gender": "Female",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "AI/b2Nk7hgx7K1VYgWLqhA=="
+    },
+    {
+      "name": "Thomas Gwinn",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EmzEPorN6ufiD5mIzuenFQ=="
+    },
+    {
+      "name": "Holly Gyles",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EgqbE4YmHXYPmNkn8z+Qgw=="
+    },
+    {
+      "name": "Ali Habashi",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pu/HeKA/CfD2iV4+XXU15A=="
+    },
+    {
+      "name": "Debbie Hall",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "iinLpnGhsI2GV0/EVyQ5hg=="
+    },
+    {
+      "name": "Julie Hall",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fx9NyJQQMsYaQbZgQAepZQ=="
+    },
+    {
+      "name": "Lyndsey Hall",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZtdWXJjFKEktDT471s+VGQ=="
+    },
+    {
+      "name": "Mandy Hall",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lVnmp2WQ+bqQwVh+nHgkjg=="
+    },
+    {
+      "name": "Morris Hall",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "cm1qEexyWDcZFg/5CPNjQQ=="
+    },
+    {
+      "name": "James Hancock",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "71mlTba3SMPS5K6kRD7nGQ=="
+    },
+    {
+      "name": "Bradley Hansen",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/8/2024",
+      "usta_id": "B0gTP9iJKHaRy8ECZHLXLg=="
+    },
+    {
+      "name": "Colleen Hansen",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+niWj23hiov2gySooZa08w=="
+    },
+    {
+      "name": "Jodie Hansen",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "AKG57Gv58RRg2wg+GD67vw=="
+    },
+    {
+      "name": "Rebecca Hansen",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "5b5WOSX4tfdUtkNArwj2XA=="
+    },
+    {
+      "name": "Thaddeus Hansen",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XCwESj4YC5idxL9Fix7wyQ=="
+    },
+    {
+      "name": "Traci Hansen",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "UnEnbiyGrvCTP5fzG1kmzA=="
+    },
+    {
+      "name": "Gracie Hanson",
+      "gender": "Female",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WxBlEYG+SdUXIwP1Y2zjyQ=="
+    },
+    {
+      "name": "Shelby Hanson",
+      "gender": "Female",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2G1VisIOa+pANVqqAoVtAQ=="
+    },
+    {
+      "name": "Brent Harmon",
+      "gender": "Male",
+      "city": "Chubbuck",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wNqFgZ12Ywb4Ojq0AeG/dA=="
+    },
+    {
+      "name": "Payton Harmon",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/27/2024",
+      "usta_id": "D7Yi4ppMxXJFWboM7lsn9Q=="
+    },
+    {
+      "name": "Aaron Harris",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/11/2025",
+      "usta_id": "OoM6XI9hhD85r2GOHrLSHA=="
+    },
+    {
+      "name": "Karen Harris",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XogenVBxCO4dZYxs14Yh9g=="
+    },
+    {
+      "name": "Kelly Harrison",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MpyLPjWlJztQkoHN+f8+FA=="
+    },
+    {
+      "name": "Heidi Hartman",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DbLqrNuQKimPh9gFSzcZxQ=="
+    },
+    {
+      "name": "Journee Hartman",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZANBE1WvyM9HjI+QRMdrng=="
+    },
+    {
+      "name": "Linda Hawley",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TEnOq7eH2Yorp8e7qrDFEw=="
+    },
+    {
+      "name": "John M Head",
+      "gender": "Male",
+      "city": "LAVA HOT SPRINGS",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/h6pNXxkUCkAdYu7613ijg=="
+    },
+    {
+      "name": "Lori Head",
+      "gender": "Female",
+      "city": "LAVA HOT SPRINGS",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2z6I3beaf+wG251G7zkgzg=="
+    },
+    {
+      "name": "Kamarie Hearne",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+PgcDZvSsN8Hh0Qj71ZX7w=="
+    },
+    {
+      "name": "Karl Hearne",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/PoVXbB5bjhwK4T674F8wA=="
+    },
+    {
+      "name": "Alice Heberlein",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "29IktenXNvM8lGCcIIYa6A=="
+    },
+    {
+      "name": "Brooke Hedin",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/19/2025",
+      "usta_id": "8jj0YQoOIYqJ48QUmprbNw=="
+    },
+    {
+      "name": "Tyler Hedin",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/2/2025",
+      "usta_id": "TYjgQHj4NrAOCFBiwxrLLg=="
+    },
+    {
+      "name": "Teresa Henderson",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XZUuH8X8ajRP2VPuDaYyVw=="
+    },
+    {
+      "name": "Jake Henry",
+      "gender": "Male",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/14/2025",
+      "usta_id": "aIVgPTqoi5OOK6CGCbRJLA=="
+    },
+    {
+      "name": "James Hickey",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "roMSXDZVgt9uvy2+1PsMCg=="
+    },
+    {
+      "name": "Hayley Hill",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "urPxDziBION2Njc+kftwLg=="
+    },
+    {
+      "name": "Andrew Hinkson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9ts83Te17+DRCQZTBWudaA=="
+    },
+    {
+      "name": "Mark Hinkson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BkhiP0P1u3SLMGW6w5Ni5Q=="
+    },
+    {
+      "name": "Lisa Hone",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JYTQ3ZooVupJ7kaejMCmBQ=="
+    },
+    {
+      "name": "Eden Hopkins",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/18/2025",
+      "usta_id": "jlxO2RwOtKMwSX3g5fuHDg=="
+    },
+    {
+      "name": "Matthew Houser",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zKxggw6mnl9GELKG1P1Nxg=="
+    },
+    {
+      "name": "Cameron Housley",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/22/2025",
+      "usta_id": "rwzFcBOEA+Z/Z21h5gZogA=="
+    },
+    {
+      "name": "Arial Howell",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o1RLh0wbYhXyuM+nRlyaAA=="
+    },
+    {
+      "name": "Kodi Howell",
+      "gender": "Female",
+      "city": "Iona",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RMC76fye4OHR1c3ABz/r3Q=="
+    },
+    {
+      "name": "Tawni Howell",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UxkSZ1nUIOFpQT4+XCBffg=="
+    },
+    {
+      "name": "Susan Hulse",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dp89XNvpms0YOeg6GQjBPQ=="
+    },
+    {
+      "name": "Zachary Hulse",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5n2nDQAG76JmznZa7/0gLA=="
+    },
+    {
+      "name": "Betsy Hunsicker",
+      "gender": "Female",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "XUsUdrfHn+2t43m76/+UGA=="
+    },
+    {
+      "name": "Charles Hunter",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ki3CqNkpf1KZ256ZGxwCQA=="
+    },
+    {
+      "name": "Sue Hunter",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oPZTO7BzkTjYzn1hlGoFcw=="
+    },
+    {
+      "name": "Carlicia Huntsman",
+      "gender": "Female",
+      "city": "Iona",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "pDY2hRnEeVX/ux6EF/rbrA=="
+    },
+    {
+      "name": "Lars Isaacs",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/3/2025",
+      "usta_id": "2p5Zqxc4koUe9zIIKCuDAg=="
+    },
+    {
+      "name": "Deborah Jansen",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/2/2025",
+      "usta_id": "Y5dukEp8nlzz8GlX/Dvx3Q=="
+    },
+    {
+      "name": "Jennifer Jennings",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5kUPvVYXC5f04retcB5ZAg=="
+    },
+    {
+      "name": "Blaine Johnson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "E5huTti8OIaDOkTF5hccHg=="
+    },
+    {
+      "name": "Cathy Johnson",
+      "gender": "Female",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lyXy1rb660CQ9Q3Xt6Ze+w=="
+    },
+    {
+      "name": "Joseph Johnson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2025",
+      "usta_id": "iIDWNKB3rTV/dhSnRfvy1A=="
+    },
+    {
+      "name": "Klay Johnson",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/5/2024",
+      "usta_id": "5boyPJgm/zSRNRLHBFLsAA=="
+    },
+    {
+      "name": "Lindsey Johnson",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+4oR3kSQbE6xpqnkLZiBIQ=="
+    },
+    {
+      "name": "Tracy Johnson",
+      "gender": "Male",
+      "city": "Inkom",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QdN+1uX3KDybTqI+fBzOHQ=="
+    },
+    {
+      "name": "Philip Jones",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eG/nucSysSyo5CNIQ+qS6A=="
+    },
+    {
+      "name": "Mark Kam",
+      "gender": "Male",
+      "city": "Sugar City",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "1oG2G8O582G56Z24r+N3Rw=="
+    },
+    {
+      "name": "Jennifer Keefe",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qx8NOp81sJo4MrgZo0xDtw=="
+    },
+    {
+      "name": "Drew Keller",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/17/2025",
+      "usta_id": "+c7f9cbBrw2rDS5iirh+VQ=="
+    },
+    {
+      "name": "Megan Keller",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "rpOQ6HDYPbR4aXrDpgCC/Q=="
+    },
+    {
+      "name": "Laura Kelley",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uItp5MzYLX/XQDTaJwnRYg=="
+    },
+    {
+      "name": "Sarah Kinghorn",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/29/2025",
+      "usta_id": "eTjPDQYb2EI0l8Ngq35iMA=="
+    },
+    {
+      "name": "Joeri Klutsch",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MrSotG2AYFEsuxSgO/uILw=="
+    },
+    {
+      "name": "James Kohn",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OnHL257jBY7iMcsivMArbQ=="
+    },
+    {
+      "name": "Nilsa Kohn",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P7c3tizmBZE="
+    },
+    {
+      "name": "Kenneth Krebs",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m3DdDaID6fGL2CG5PhQl7w=="
+    },
+    {
+      "name": "Nyla Kress",
+      "gender": "Female",
+      "city": "POCATELLO",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mZCME35V0zkx/PzIvQFIXw=="
+    },
+    {
+      "name": "Vicki Krogstrand",
+      "gender": "Female",
+      "city": "Firth",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "22XCCLcQ8IajUHiPTKh62Q=="
+    },
+    {
+      "name": "Darren Kuhn",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QSa2G/7Xp6IF2GEsOy2j1Q=="
+    },
+    {
+      "name": "Kathy Kuhn",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ozK1ZnBRcmxoFCSBQg6keQ=="
+    },
+    {
+      "name": "Monica Kuhn",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "4kD4wD0kGv2HUJL8tS9QVQ=="
+    },
+    {
+      "name": "Charity Kunz",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RMC76fye4OHpaBpddxiIjQ=="
+    },
+    {
+      "name": "Lana Lake",
+      "gender": "Female",
+      "city": "HELENA",
+      "state": "MT",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/10/2025",
+      "usta_id": "uQsKGFHEYDkZ08rloW72Ow=="
+    },
+    {
+      "name": "Jared Lamph",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UdkBDxNqNSWETXqT8LQcKA=="
+    },
+    {
+      "name": "Kariesa Lamph",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z6Cig7/zT1sLc1W4y7PFkA=="
+    },
+    {
+      "name": "Rebecca Lanier",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IoNKC8Zi0wlxMypScKlAJA=="
+    },
+    {
+      "name": "Daniel Leach",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fNdeIpJxaMcm0SmpHp/gUQ=="
+    },
+    {
+      "name": "Gibby Lee",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qz8a3wLdJT2SQ1N+yMKj4A=="
+    },
+    {
+      "name": "Regan Leishman",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/9/2025",
+      "usta_id": "CYP6aMahKNBL+gAnb4RJiQ=="
+    },
+    {
+      "name": "Sage Leishman",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "zXqeeSZIeVkXPFVpKZXoXw=="
+    },
+    {
+      "name": "Michael Lemon",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9zp0vwg8l+NKKtuB2XQ8nA=="
+    },
+    {
+      "name": "Robert Leong",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GYuOxs+CFXV7mkpxWGW26g=="
+    },
+    {
+      "name": "Jenell Lester",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zdceEJC/jxn25UyJKsfKAQ=="
+    },
+    {
+      "name": "Carrie Rose Lindley",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mw4F7320wVRWnpDCEWx6Bw=="
+    },
+    {
+      "name": "Doug Lindley",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H0WbI+tvtpjlc5Bxnh8Qfw=="
+    },
+    {
+      "name": "Kelsey Lindsay",
+      "gender": "Female",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mv+0nGKPqtX78+8cySuJgw=="
+    },
+    {
+      "name": "Jennifer Lloyd",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6eGDiq1p2GGeFTsEowmppA=="
+    },
+    {
+      "name": "Kathy Lloyd",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZyocQBdpXj25G76BHmfEUg=="
+    },
+    {
+      "name": "Mark Lynn",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ydFPWKXh1lV3U+KuK+/Ipg=="
+    },
+    {
+      "name": "Tor Lynn",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/zXk8a1bVpPIy5SGX3ev0A=="
+    },
+    {
+      "name": "Matt Macedo",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/11/2025",
+      "usta_id": "wLVQ95a/CMRIbZRGxt5qfg=="
+    },
+    {
+      "name": "Javian Madden",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "zqF/RYetpaa45WbzVFb4mg=="
+    },
+    {
+      "name": "Jake Mangum",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "VKKtwlYoAeQGfLXDcnvf7Q=="
+    },
+    {
+      "name": "Lindsey Mangum",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5b5WOSX4tfeZjZEt6o+RNQ=="
+    },
+    {
+      "name": "Neil Marion",
+      "gender": "Male",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WxVRq5q1puupDEfSOYsVMg=="
+    },
+    {
+      "name": "Kellen Marlowe",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "C3g8DVNeIOLGLBoSQHO++A=="
+    },
+    {
+      "name": "Michelle Marlowe",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rB7X4fBO94ZGsX6YxAjzvQ=="
+    },
+    {
+      "name": "Garrett Marshall",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/24/2025",
+      "usta_id": "ld9atI7QALmxz3YaKaaBqQ=="
+    },
+    {
+      "name": "Melissa Marshall",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wy1erSranhOcY5LCQZMT4g=="
+    },
+    {
+      "name": "Cody Martin",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7BASivLcVBV8bk/TbQarfA=="
+    },
+    {
+      "name": "Tresa Mason",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RMqAFvv2OmfRwp/jnLbmdQ=="
+    },
+    {
+      "name": "Jenny May",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "WY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RMW9KnOZ0OvqNXD+zvKviw=="
+    },
+    {
+      "name": "Kristi McCord",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J4wHi4lqxFI6i6l4Z7T8/Q=="
+    },
+    {
+      "name": "Emily McCormick",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nkdQh3UBTH62pltE81SP7w=="
+    },
+    {
+      "name": "Brendan McGeehan",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m5l1Lqc+A/hCSfASPU97eA=="
+    },
+    {
+      "name": "Sarah Mcmahon",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/9/2025",
+      "usta_id": "/NjkTYzwauTNQn1mZPLGgw=="
+    },
+    {
+      "name": "Tim Mcmahon",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1/2/LqPZXw4DUq11cg/CmA=="
+    },
+    {
+      "name": "Ryan Meikle",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+4GPI6rdaFbtv2iWirncDQ=="
+    },
+    {
+      "name": "Suzanne Meikle",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u1dx3d00weKYMwm8yWI4zQ=="
+    },
+    {
+      "name": "Nicole Michaelson",
+      "gender": "Female",
+      "city": "REXBURG",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "47UcoXvR0xgIGmEvd3Ljlg=="
+    },
+    {
+      "name": "Jim Migel",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5si20Zm8L4OIBWY0v+Gi/w=="
+    },
+    {
+      "name": "Gaelyn Miller",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "8we7D76rQkIDtgnCpb+XlA=="
+    },
+    {
+      "name": "Jules Miller",
+      "gender": "Male",
+      "city": "Punta Gorda",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jEMcOO8q50uxlujm9Cl/kQ=="
+    },
+    {
+      "name": "Melissa Millican",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6AFt0y0G89b4WgdJFWhYQA=="
+    },
+    {
+      "name": "Charise Monson",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/1/2024",
+      "usta_id": "JJee96oMipWFzHtrzEA3Vw=="
+    },
+    {
+      "name": "Rachel Moore",
+      "gender": "Female",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I4ybnlp9VsvdxXnADfriNg=="
+    },
+    {
+      "name": "Dustin Mortimer",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MsTp5Pam9ocvwlNcu7N5PA=="
+    },
+    {
+      "name": "Lori Murdoch",
+      "gender": "Female",
+      "city": "Shelley",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "hGhPLZP4k5EQhBcW0qHdwg=="
+    },
+    {
+      "name": "Margo Nef",
+      "gender": "Female",
+      "city": "rexburg",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rlLHBVTSqWqMFI9zPKB69g=="
+    },
+    {
+      "name": "Brian Nelson",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xvWsZ/5X2fKK0ms3FRRtIA=="
+    },
+    {
+      "name": "Jacqualyn Nelson",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tCzcK50qWCvRfOvSRh7BmA=="
+    },
+    {
+      "name": "Kasey Nelson",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0/bLUPWlPBwVd42TI/tOhw=="
+    },
+    {
+      "name": "Larry Nelson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/18/2025",
+      "usta_id": "cPiKPIrHJBvJ+tc/d9sORQ=="
+    },
+    {
+      "name": "Lisa Nelson",
+      "gender": "Female",
+      "city": "Inkom",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o9CjJCjuFuFTnMeDo5BUiA=="
+    },
+    {
+      "name": "Melanie Nelson",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cPiKPIrHJBujzSufEC/VWQ=="
+    },
+    {
+      "name": "Jason Neville",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Y66aglQdUVg0SDNS1wjvDg=="
+    },
+    {
+      "name": "Tamara Neville",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2022",
+      "usta_id": "a/iS4g170wi8dzmEBe5c4A=="
+    },
+    {
+      "name": "Taylor Neville",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "dZ3KBTlQjXcN3CDVQNFhbw=="
+    },
+    {
+      "name": "Joshua Newell",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TRzaOPBRPjVX5Cp0sGSahQ=="
+    },
+    {
+      "name": "Holger Nickel",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mHvc1UbxoNEaBYHzelCvHA=="
+    },
+    {
+      "name": "Travis Nielsen",
+      "gender": "Male",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E/lokfp81spPPMSorAUoPw=="
+    },
+    {
+      "name": "Coleen Niemann",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "42mpQcyFVDY0NI0M+Gn7bA=="
+    },
+    {
+      "name": "Trent Nier",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "jhdy6GTzVvgta/dG0Jh8Rg=="
+    },
+    {
+      "name": "Kurt Norgard",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e8Tqi0nlpw2h1rYJX/f9bg=="
+    },
+    {
+      "name": "Sharon Oliver",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8UrI3eNpSnCLeHAIELrSzw=="
+    },
+    {
+      "name": "Katilyn Onkes",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "OacHEeqCvhESRgY2z8dyLQ=="
+    },
+    {
+      "name": "Shawn Oram",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "EFbZG4RDaEbuSnXx213J3w=="
+    },
+    {
+      "name": "Thomas Owens",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bclLnIpIvuDIrCDU0pw54w=="
+    },
+    {
+      "name": "Christopher Pacis",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "+vfsof2miixz9MaHu6TRJA=="
+    },
+    {
+      "name": "Mona Palmer",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MlvYnTUYAB9QZSaoMf2KlA=="
+    },
+    {
+      "name": "Corinne Parker",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "SvsW2BKkiAV/vc2JqibIrg=="
+    },
+    {
+      "name": "Heather Parker",
+      "gender": "Female",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3BYItIx5pcc3LIQmH04k5Q=="
+    },
+    {
+      "name": "Kristine Parker",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YDY8K8VU7sdUDD/GeR4Ukg=="
+    },
+    {
+      "name": "Tyson Parker",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g0npCIuzWasp/nh9fUiv0w=="
+    },
+    {
+      "name": "Marie Parkinson",
+      "gender": "Female",
+      "city": "Menan",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WY22GyiuhN4RPEIwR/k83A=="
+    },
+    {
+      "name": "Sobhan Patnaik",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "iFn2fY3FNJlYMm+mo6p/HA=="
+    },
+    {
+      "name": "Kara Petersen",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lPzDgaHYo6WnzQjssEEX5g=="
+    },
+    {
+      "name": "Bonnie Peterson",
+      "gender": "Female",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "61qMjfKZrRV7/EYg2Qj7GQ=="
+    },
+    {
+      "name": "Daniel Peterson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6DwbWoAAiK8ew0HeB8wf2A=="
+    },
+    {
+      "name": "Derek Peterson",
+      "gender": "Male",
+      "city": "Gooding",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "R6ZJ3vZTcUjPaRA4iJhc9w=="
+    },
+    {
+      "name": "Mark Peterson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d/yeEhLi8dqaoUHy0W5zLw=="
+    },
+    {
+      "name": "Michael Peterson",
+      "gender": "Male",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QZBn+L/dTxi4uD6/iwfPsA=="
+    },
+    {
+      "name": "Venita Petti",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XfKLn9o62T5djBXAubcQnw=="
+    },
+    {
+      "name": "Tyler Pincock",
+      "gender": "Male",
+      "city": "RIGBY",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kc/VdZPDgulPvjKOcUxSqg=="
+    },
+    {
+      "name": "Emilee Plank",
+      "gender": "Female",
+      "city": "PORTLAND",
+      "state": "OR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/aa5dGvbQCdK6rF+8kGwkA=="
+    },
+    {
+      "name": "Kallie Porter",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZjfDiT0cgmGUMoJKi/Riiw=="
+    },
+    {
+      "name": "Aimee Powell",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UDKPlF/6vooNnAgMMS/tzw=="
+    },
+    {
+      "name": "Jeremy Powell",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GDjzS2UVLcrbJN0O56SfHw=="
+    },
+    {
+      "name": "Melanie Pratt",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/18/2025",
+      "usta_id": "Ii0ysxj8HKgAYdXnqKvOvw=="
+    },
+    {
+      "name": "Jennifer Preece",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/GkfmQbysju4lQsC4UwFvQ=="
+    },
+    {
+      "name": "Nikelle Price",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9NXLkfuk5TIrL08HfLu02A=="
+    },
+    {
+      "name": "Celia Purcell",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "fahvQofNBJIEo9uBFdrFug=="
+    },
+    {
+      "name": "Stephanie Ralston",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gpR/7awU8vh9+2X5havXkA=="
+    },
+    {
+      "name": "Michael Randall",
+      "gender": "Male",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/1/2025",
+      "usta_id": "ZTVqlMqIxsEigl3tjeW/sg=="
+    },
+    {
+      "name": "Molly Rarick",
+      "gender": "Female",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/20/2025",
+      "usta_id": "Tc2p4MdSOy5KcPq0yLNDVA=="
+    },
+    {
+      "name": "Indiea Rasmussen",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/3/2025",
+      "usta_id": "w6fMs9mBIdGxeHeusxG9ww=="
+    },
+    {
+      "name": "Aimee Rathburn",
+      "gender": "Female",
+      "city": "Shelley",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "1I9viNQdOU5huFXHa3xVOg=="
+    },
+    {
+      "name": "Roger Raymond",
+      "gender": "Male",
+      "city": "DRIGGS",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "wyAlGNQyYmlyKm1z0S8Djw=="
+    },
+    {
+      "name": "Brigham Redd",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/22/2025",
+      "usta_id": "nNhRCHbdM15VRxdcsWfqjQ=="
+    },
+    {
+      "name": "Heather Redd",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OnZyAW+AoA7Yk2ZPUihj4w=="
+    },
+    {
+      "name": "Jill Reed",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UKBA7YqK+XKTb2gVRbNAyQ=="
+    },
+    {
+      "name": "Kari Reilly",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "kuwJQiw/7jp06IEIMeczFw=="
+    },
+    {
+      "name": "Ryan Reilly",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "/aqJj10C4U6+d4jhzXgCHw=="
+    },
+    {
+      "name": "Suzanne Rhoton",
+      "gender": "Female",
+      "city": "Orem",
+      "state": "UT",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/5/2024",
+      "usta_id": "S530O1au3rqEP+IzOcEhWQ=="
+    },
+    {
+      "name": "Nathan Richardson",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cSEi+dUh9JNqzYoSYTRQKQ=="
+    },
+    {
+      "name": "Irene Rindfleisch",
+      "gender": "Female",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fWl5IkynBTV7/HseBa+aKg=="
+    },
+    {
+      "name": "Alycia Robertson",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+vcVEttIfo3lvE7YVe7vNQ=="
+    },
+    {
+      "name": "Cory Robertson",
+      "gender": "Male",
+      "city": "Shelley",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qU5VY8ZqckVdNuE4f1HpLQ=="
+    },
+    {
+      "name": "Tye Robertson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1bzC/95Empu94x9khZs9Nw=="
+    },
+    {
+      "name": "Scott Robuck",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JauGs4ML5q9HTGpeAWxvbg=="
+    },
+    {
+      "name": "Dallas Rodabough",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "BGtOjuf+fh0DVZKQFavGcQ=="
+    },
+    {
+      "name": "Bob Rogers",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/10/2025",
+      "usta_id": "+ATl8vaG2kf6e7ZOe9zJwA=="
+    },
+    {
+      "name": "Rhonda Rohe",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "3rmtKtpWUfOkKvokpmtOZQ=="
+    },
+    {
+      "name": "Ronee Ross",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zOh6oqGoOgeq/WJOrupeUA=="
+    },
+    {
+      "name": "Tim Ross",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Osb4VEF3/Tx5gke6xBlVfA=="
+    },
+    {
+      "name": "Crista Rostrom",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KlIZl7pMxJAmc3k7LLYLAg=="
+    },
+    {
+      "name": "Dan Rostrom",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I4o0aw0jcaZAqah3QUxHUA=="
+    },
+    {
+      "name": "Aaron Russell",
+      "gender": "Male",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SYiqVQ7lTAe3a9jqPAqMpg=="
+    },
+    {
+      "name": "Holly Russell",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x8JcxToZbrbC4s+W5ka6Hw=="
+    },
+    {
+      "name": "John Russell",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sou4RKHC+CBb5VGpA18oPQ=="
+    },
+    {
+      "name": "Piyush Sabharwall",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hfI7g4JMeh77G+ovexclPQ=="
+    },
+    {
+      "name": "Jesse Salmon",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bcQZO3/0OhQ/4XzGlZXqGg=="
+    },
+    {
+      "name": "Riley Salmon",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "LPOqsD1+508nzl0sXrdeGQ=="
+    },
+    {
+      "name": "Angie Sargent",
+      "gender": "Female",
+      "city": "Iona",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "yXUhmMm3ridc6T+HpqxDog=="
+    },
+    {
+      "name": "Michelle Sayer",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NgR6/mBFv/AA8D2K8ItMXQ=="
+    },
+    {
+      "name": "Renee Schart",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W3b9IM87v+OTPIq2gcSWGQ=="
+    },
+    {
+      "name": "Ann Schenk",
+      "gender": "Female",
+      "city": "Ashton",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7qqQPs17RdkA76OpvfkkwQ=="
+    },
+    {
+      "name": "Panayota Semons-Short",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w6HswfZ/utC/sgBVhqy8CQ=="
+    },
+    {
+      "name": "Jennifer Sewell",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "24uqWccoyBYDa+fffz3ekg=="
+    },
+    {
+      "name": "Paige Sheffield",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KQfjnJMPjDvsPhu+9w+QtA=="
+    },
+    {
+      "name": "Adrianne Shirley",
+      "gender": "Female",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cgUXT/AwXG016mrdyYD72w=="
+    },
+    {
+      "name": "Elise Shurtliff",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PCQ94Vppm5lO8xa7ecSPCw=="
+    },
+    {
+      "name": "Emily Shurtliff",
+      "gender": "Female",
+      "city": "SHELLEY",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/1/2025",
+      "usta_id": "B8gXVbo7QiY0KaBvhg1lSQ=="
+    },
+    {
+      "name": "Emma Shurtliff",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1ZwUC3A1GuBAnJ7Uk64UFA=="
+    },
+    {
+      "name": "Michael Shurtliff",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VZLRU+ESRsl53sE6XDXtwA=="
+    },
+    {
+      "name": "Reese Shurtliff",
+      "gender": "Male",
+      "city": "Shelley",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/27/2025",
+      "usta_id": "RYQrrme9ftZhWwCENuGYgA=="
+    },
+    {
+      "name": "Taralynn Sibbett",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PjN3m5UeiFAmJayn8N0gLQ=="
+    },
+    {
+      "name": "Heather Silverman",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tEzBfx+0C0zPVGDyYDEKJg=="
+    },
+    {
+      "name": "Jordan Simpson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/H20OGHAjitELX4OqOJXog=="
+    },
+    {
+      "name": "Michael Simpson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xtl8gK08TRgR/gioLbVHbw=="
+    },
+    {
+      "name": "Sadie Simpson",
+      "gender": "Female",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oYOdbVFT1pq2Ne5fdpxO7Q=="
+    },
+    {
+      "name": "Sandeep Singh",
+      "gender": "Male",
+      "city": "Leander",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O64Z7M7BMzCfyXWiul2QGw=="
+    },
+    {
+      "name": "JESSICA SKIDMORE",
+      "gender": "Female",
+      "city": "IDAHO FALLS",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wXFv1CoPAWZsu1h3G6KWZQ=="
+    },
+    {
+      "name": "James Skillings",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Otu50CWeENxaxEYtI6417Q=="
+    },
+    {
+      "name": "Karri Sloan",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1ZwUC3A1GuAlke5I6TRrAg=="
+    },
+    {
+      "name": "Abigail Smith",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/3/2025",
+      "usta_id": "Wg+gCwceFgSbKLS//qRaww=="
+    },
+    {
+      "name": "Angie Smith",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/3/2025",
+      "usta_id": "Wg+gCwceFgTEsEfMgREyrg=="
+    },
+    {
+      "name": "Melanie Smith",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ymH1ogG1LxW7F/7zRLVxIw=="
+    },
+    {
+      "name": "Robert Smith",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "ZeW2R21PnZWshODoZp3k6Q=="
+    },
+    {
+      "name": "Lonnie Smucker",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "GzIXoM/N7z7GioRjMwRXEw=="
+    },
+    {
+      "name": "Ashley Snyder",
+      "gender": "Female",
+      "city": "POCATELLO",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vEhJb58XTf+7h9OiXm/0Og=="
+    },
+    {
+      "name": "Kelly Somsen",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kRp/MurU+3QxVOZtIjxXnA=="
+    },
+    {
+      "name": "Jake Soulier",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/23/2024",
+      "usta_id": "bB+VSpDtFKB9aMqLG/Q3/w=="
+    },
+    {
+      "name": "Heidi Southwick",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "Y1Q68mmNDt1g0ugNvKC/Mw=="
+    },
+    {
+      "name": "NICOLE SPENCE",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TYvrT5dTIDh8Pcc3/Dc1Sw=="
+    },
+    {
+      "name": "Cory Spicer",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6nKGBmzzRSCV2UdizwUbjA=="
+    },
+    {
+      "name": "Robbie Spicer",
+      "gender": "Female",
+      "city": "POCATELLO",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rD6HS4NlbGR8A2EBA4pfBQ=="
+    },
+    {
+      "name": "Derick Stanger",
+      "gender": "Male",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/20/2025",
+      "usta_id": "QWRArrNdcoyxxEnx/8XEyg=="
+    },
+    {
+      "name": "Austin Steed",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vXLvNdmMI2t94sFD4d30FA=="
+    },
+    {
+      "name": "Andrea Steffensen",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "SExqbhRJZjugdAXzEwUU7A=="
+    },
+    {
+      "name": "Carson Steffensen",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/11/2025",
+      "usta_id": "6TEH9Mib1lJZKsHFyssLmg=="
+    },
+    {
+      "name": "Skyleur Steffensen",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "eJpICWrGU5A5sz02sJEECg=="
+    },
+    {
+      "name": "Jake Stevens",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oUX19+pk/W7oVhaDuI4DHQ=="
+    },
+    {
+      "name": "Lindsey Stevens",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oUX19+pk/W7GlWO5erAkrw=="
+    },
+    {
+      "name": "Bart Stoddard",
+      "gender": "Male",
+      "city": "Iona",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/16/2025",
+      "usta_id": "5A1HPPPmfMUUpgDMuluXtw=="
+    },
+    {
+      "name": "Chloe Stoddard",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L1LEuxE5d47V7BPFjejwXw=="
+    },
+    {
+      "name": "Deborah Stosich",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D0Y4qzxMjuUgS97ZnPgCYw=="
+    },
+    {
+      "name": "John Stosich",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NqW6b2qTO2w1yT5vavbFHw=="
+    },
+    {
+      "name": "Scott Stosich",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "shsluGP2BCktvG+Qhx2/Qw=="
+    },
+    {
+      "name": "Van Stosich",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EPWpL8uLFoeO76766tEpww=="
+    },
+    {
+      "name": "Joshua Stringam",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "yAC8OL2sVj0MueHwA3nLsA=="
+    },
+    {
+      "name": "Natasha Stringam",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "z5YaAtxHPHleWeYAaKeZPw=="
+    },
+    {
+      "name": "Brianne Stuart",
+      "gender": "Female",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/18/2025",
+      "usta_id": "Y4l/RWlwWxYTmrM1v2Ay5g=="
+    },
+    {
+      "name": "Charles Stuart",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/19/2024",
+      "usta_id": "F3o+9CtfAxvqhfP3YlyIxQ=="
+    },
+    {
+      "name": "Michele Surmelis",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l7Pb/KCd5wwCoyM7dpf9TA=="
+    },
+    {
+      "name": "Alin Suru",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FyqRdsuCF09DOQGbTrltaA=="
+    },
+    {
+      "name": "Antonio Tahhan",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LdnO7JBHv6vq+mmxRPTeYw=="
+    },
+    {
+      "name": "LEIF TAPANILA",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CF1W3DBp7p4rjB3RMrCEiQ=="
+    },
+    {
+      "name": "Lori Tapanila",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mNFGV7ENN5iL37LqrHjUng=="
+    },
+    {
+      "name": "Andrew Taylor",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9xXTxRiaNYaDpCmFYkHRYQ=="
+    },
+    {
+      "name": "Mark Taylor",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ooawI7JbngEZn/TlKP+jVw=="
+    },
+    {
+      "name": "Max Taylor",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fU7CErUp5vpZw+Bf9WCn0A=="
+    },
+    {
+      "name": "Tina Taylor",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zE6edNZmNYrVkBUic0IlHw=="
+    },
+    {
+      "name": "Scott Terry",
+      "gender": "Male",
+      "city": "Saint Anthony",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/7/2025",
+      "usta_id": "kblzndOw0pusrnzjLKRs4Q=="
+    },
+    {
+      "name": "Derick Thompson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oDzZ7U6m9jLDCjxg9NvuBQ=="
+    },
+    {
+      "name": "Matthew Thompson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/23/2025",
+      "usta_id": "nX9PBsktAHUN/EsrpRF6yQ=="
+    },
+    {
+      "name": "Ranay Thompson",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ivwy6ePyAgi/RFxjDEWJuA=="
+    },
+    {
+      "name": "Erin Thueson",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i3xBLtd+TDm/lV+lPJYEGQ=="
+    },
+    {
+      "name": "Ann Traynor",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NCYUdDhTppnANV1/9uaP8Q=="
+    },
+    {
+      "name": "Jason Traynor",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "AqCFBUT1HMoKf9CnBejcmQ=="
+    },
+    {
+      "name": "Matthew Traynor",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "usDYtaW4hbsTPlpxBIjoKA=="
+    },
+    {
+      "name": "Jack Trimp",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nwUej1v+vFV3Y8nmx2HxBQ=="
+    },
+    {
+      "name": "Karren Trimp",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TJflQCBY8ps3EQdBzSCPiQ=="
+    },
+    {
+      "name": "Patrick Trimp",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5eb7MaOwKFG9ocWO9yVY9A=="
+    },
+    {
+      "name": "Julie Umphlette",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YZ8swrsV46FAODxj51QtTQ=="
+    },
+    {
+      "name": "Makell Valora",
+      "gender": "Female",
+      "city": "REXBURG",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1JyfWQbrZybvjXMOSpGg/A=="
+    },
+    {
+      "name": "Foryst van Dyke",
+      "gender": "Male",
+      "city": "Rexburg",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/16/2023",
+      "usta_id": "6WXmJpsDcHIW4OP9mBP48g=="
+    },
+    {
+      "name": "Brad Vande Kamp",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hW9YKNkFRs3PtjEvH1nrLg=="
+    },
+    {
+      "name": "Debbie Vande Kamp",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DvknhOEfjoISekWwgB15uQ=="
+    },
+    {
+      "name": "Kent Waddoups",
+      "gender": "Male",
+      "city": "Shelley",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tdTNMnDSnfKYDYsM1fsOLA=="
+    },
+    {
+      "name": "Karen Walker",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FIeaBwYkICCRgVqVezZAWQ=="
+    },
+    {
+      "name": "Enoch Ward",
+      "gender": "Male",
+      "city": "Clifton",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wBbAf0elbgjvAmdb9aN+sw=="
+    },
+    {
+      "name": "Steve Warner",
+      "gender": "Male",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sX61TrN4Rk5BlzRUd3PNHw=="
+    },
+    {
+      "name": "Kelly Wathne",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uuI6Sct6JKPeeYXu/pUDDA=="
+    },
+    {
+      "name": "Rebecca Webb",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RMC76fye4OFvX6CezfKLwg=="
+    },
+    {
+      "name": "Douglas Weber",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K93citVxJ0KT4HRxrYX73g=="
+    },
+    {
+      "name": "Benjamin Wells",
+      "gender": "Male",
+      "city": "Rigby",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/4/2025",
+      "usta_id": "jAgPxDCe0gm3KU96kSdFLA=="
+    },
+    {
+      "name": "James West",
+      "gender": "Male",
+      "city": "Iona",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y1bOvZamwNhRWEXCfSO86A=="
+    },
+    {
+      "name": "Holli Westwood",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gjuZsW5vXuP1U/QvAGq92Q=="
+    },
+    {
+      "name": "Jeremy Westwood",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Scb3X+qXghanKrrxcv47JA=="
+    },
+    {
+      "name": "Lisa Wheeler",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VrDt0oVvR2lA2J+1EVNcvA=="
+    },
+    {
+      "name": "Emily Whitham",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/28/2025",
+      "usta_id": "v7VLdp3SGcWppZmH0eRsMg=="
+    },
+    {
+      "name": "Aleesa Wilcox",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Aac8VVfUkw9u/flRVCwYRw=="
+    },
+    {
+      "name": "Kaysha Wilhelmsen",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "6TEH9Mib1lIt2fUmq+CnJw=="
+    },
+    {
+      "name": "Shellie Willardson",
+      "gender": "Female",
+      "city": "Iona",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9KN5sX4qWgEkQIfE1dFFnA=="
+    },
+    {
+      "name": "Kimberly Wilson",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "8kzLEqTFXOd9xwKsv/rm3g=="
+    },
+    {
+      "name": "Reuben Wilson",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qR59howcb/2MYS4GtesqWQ=="
+    },
+    {
+      "name": "Sherry Wilson",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VdnjRC9YShq/paCNB/yS1g=="
+    },
+    {
+      "name": "Hailey Winegar",
+      "gender": "Female",
+      "city": "AMMON",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BOo2I6nQYrxljADR/MD07A=="
+    },
+    {
+      "name": "Andrea Wood",
+      "gender": "Female",
+      "city": "POCATELLO",
+      "state": "ID",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iukaV46RG59X1viUTggpEQ=="
+    },
+    {
+      "name": "Erin Wood",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EcIHEZq5QyuD2uvLnFEL5Q=="
+    },
+    {
+      "name": "Ryan Wood",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2022",
+      "usta_id": "oUX19+pk/W5/sMoNjiDaeQ=="
+    },
+    {
+      "name": "Seiji Wood",
+      "gender": "Male",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nGZvJp6gCi00Dl6g/OqVIw=="
+    },
+    {
+      "name": "Walt Wood",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fvmENVFXn4fDIucmsAB/NQ=="
+    },
+    {
+      "name": "Alicia Woodhouse",
+      "gender": "Female",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5kPmO3aTFIm5D/rgmAgIbw=="
+    },
+    {
+      "name": "Dustin Woodhouse",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nGflaZcn0oKFL/PoLWZ1SA=="
+    },
+    {
+      "name": "Royce Woodhouse",
+      "gender": "Male",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZJO33fy6I4ZG5sAnXIP1/g=="
+    },
+    {
+      "name": "Holly Young",
+      "gender": "Female",
+      "city": "Pocatello",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5c9pqKbKsUsbxKrY4n3c3w=="
+    },
+    {
+      "name": "Linda Zentner",
+      "gender": "Female",
+      "city": "Ammon",
+      "state": "ID",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b023uDkLourRBx9bivaLmA=="
+    },
+    {
+      "name": "Tiffany Zweifel",
+      "gender": "Female",
+      "city": "Shelley",
+      "state": "ID",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HkUPTAf3cWY2U9IVcPWGCQ=="
+    }
+  ]
+}

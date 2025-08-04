@@ -1,0 +1,2917 @@
+{
+  "sectionId": "6243309",
+  "districtId": "6243393",
+  "areaId": "6243747",
+  "players": [
+    {
+      "name": "Jeff Abshire",
+      "gender": "Male",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "zBXVZCqH2uRp8tOBw7B4+A=="
+    },
+    {
+      "name": "Kaylee Alexander",
+      "gender": "Female",
+      "city": "SALADO",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "t38c5sQFEnNMKDPv7Q4AVA=="
+    },
+    {
+      "name": "Rhonda Alexander",
+      "gender": "Female",
+      "city": "SALADO",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "itqqBImTi/frk3JWAg6MHA=="
+    },
+    {
+      "name": "Travis Alexander",
+      "gender": "Male",
+      "city": "Salado",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/6/2024",
+      "usta_id": "pPxxfF7hQ8gIlOhAuhEbjA=="
+    },
+    {
+      "name": "Bryce Allen",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PnYHrZjTDczijrx9rpVZcg=="
+    },
+    {
+      "name": "Cassandra Allen",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q1tBbNmIABLYe+VD0jOCJA=="
+    },
+    {
+      "name": "Steven Allen",
+      "gender": "Male",
+      "city": "Killeen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/3/2025",
+      "usta_id": "E++YEADcNVCGa56ECT75ng=="
+    },
+    {
+      "name": "Audrey Andrews",
+      "gender": "Female",
+      "city": "Lorena",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/9/2025",
+      "usta_id": "5bfAnBTuV+0m0ySeYuGN6g=="
+    },
+    {
+      "name": "Kristen Andrews",
+      "gender": "Female",
+      "city": "BRYAN",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zM5U/7r6buTgxlevgimwbA=="
+    },
+    {
+      "name": "Sherwin Attai",
+      "gender": "Male",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "+wkvtD6zX4tpND8YE/0Mxg=="
+    },
+    {
+      "name": "Victoria Autum Haley",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2024",
+      "usta_id": "MVGLVJa8gG1FW3F9hQnaOQ=="
+    },
+    {
+      "name": "Calin Baban",
+      "gender": "Male",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JaCrhXhtDGfeJQw/R1aZgA=="
+    },
+    {
+      "name": "Derland Bahr",
+      "gender": "Male",
+      "city": "Harker Heights",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/18/2025",
+      "usta_id": "boDSbrJm08Y0IQJEhhn5eQ=="
+    },
+    {
+      "name": "Angela Bailey",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f5UUCBavdL+Mq59W5tDRtQ=="
+    },
+    {
+      "name": "Mark Ballard",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "QuuDtl14N9nKg6TrPreVLQ=="
+    },
+    {
+      "name": "Michael Bankhead",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jgxSiLsUfOotEKiDWXt1bg=="
+    },
+    {
+      "name": "Stephen Barr",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "/09c3aWVuKAGcwl/q/HrnA=="
+    },
+    {
+      "name": "Lindy Bentley",
+      "gender": "Female",
+      "city": "SALADO",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YMnKJj9pJY2cxuVi14E+Ug=="
+    },
+    {
+      "name": "Amber Beronio",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "IAJd6rufuhhbhj0R+tbZBQ=="
+    },
+    {
+      "name": "Cindy Bittenbinder",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r1A4IzTU6HvhXzVaGC4fsw=="
+    },
+    {
+      "name": "Janet Bledsoe",
+      "gender": "Female",
+      "city": "Cedar Park",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wvh9wXHT9lNbqowyswYgVw=="
+    },
+    {
+      "name": "Lilian Janet Blinn",
+      "gender": "Female",
+      "city": "Salado",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/23/2025",
+      "usta_id": "JCnDE69I9c9CgvHST8XGTA=="
+    },
+    {
+      "name": "Aayush Boddu",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2023",
+      "usta_id": "fT9Sa8Gq+xFiOZktVXRbhw=="
+    },
+    {
+      "name": "Sherry Bonds",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Rqfw8H55jEifS60Dw5ThQ=="
+    },
+    {
+      "name": "Brody Bonner",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "Hzj+TN6qQnF5km7SYZJC3A=="
+    },
+    {
+      "name": "Kady Boroff",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y+4lWjp3LWfNCZtJHQ3Fdw=="
+    },
+    {
+      "name": "ADAM BOSSEN",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "f8W7vcncJA8P8dgpw24Hbg=="
+    },
+    {
+      "name": "Heather Bossen",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TCuiIYiUP0FLIIM0dqC5oA=="
+    },
+    {
+      "name": "David Bray",
+      "gender": "Male",
+      "city": "BELTON",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/19/2025",
+      "usta_id": "noVtHdJEG38g/qMgoEFzmw=="
+    },
+    {
+      "name": "Tammy Bray",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N5LYIlkEjzi0RcuYcv9Uvw=="
+    },
+    {
+      "name": "Rebecca Briggs",
+      "gender": "Female",
+      "city": "BELTON",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "24xzRrvz5qxxyCpPGrnMjQ=="
+    },
+    {
+      "name": "John Broome",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "iggHLyKlJRg="
+    },
+    {
+      "name": "Lori Brown",
+      "gender": "Female",
+      "city": "College Sta",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sGKd4T1pQwe1vIqVJOjrow=="
+    },
+    {
+      "name": "Shawn Brown",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "otNBmng1Fvbn0RBQOkgH9g=="
+    },
+    {
+      "name": "Jeremy Bugh",
+      "gender": "Male",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/7/2024",
+      "usta_id": "0qjRUpLec2R1LvkWjeNlSQ=="
+    },
+    {
+      "name": "Charlie Burgess",
+      "gender": "Male",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/29/2025",
+      "usta_id": "9O3MH7pkxHd44R4OeAs6TA=="
+    },
+    {
+      "name": "Benjamin Burnett",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/25/2025",
+      "usta_id": "ZudKKQBH2S2q0pn2+ubH5w=="
+    },
+    {
+      "name": "Nathan Burson",
+      "gender": "Male",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a1Z1qSktzicP/bLGlMqYIA=="
+    },
+    {
+      "name": "SHELLY BUUCK",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k89fY7NZd+/9bIy9JZ+yyA=="
+    },
+    {
+      "name": "Leslie Cabellos",
+      "gender": "Female",
+      "city": "Georgetown",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "14WTBSJHQ68JIvyWjjCRjA=="
+    },
+    {
+      "name": "Tiffany Carter",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "gfBQgGwTmQk7K4QVPxe8pw=="
+    },
+    {
+      "name": "William Carter",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5iV2hQD01sXyf+9ENPavBQ=="
+    },
+    {
+      "name": "Rene Castillo",
+      "gender": "Male",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/2dEGbgLN4zBM2lGH6Uz7w=="
+    },
+    {
+      "name": "Durette Cawood",
+      "gender": "Female",
+      "city": "Killeen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4MlFf2A20LN89Oh8vQZk5w=="
+    },
+    {
+      "name": "Amber Cepeda",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "EVbKbjiOtuleE/8rAKhABg=="
+    },
+    {
+      "name": "Ben Claybaker",
+      "gender": "Male",
+      "city": "Marlin",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yxtZonv0M880CFw0GPW9mA=="
+    },
+    {
+      "name": "Brian Coats",
+      "gender": "Male",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8PMgrBo9Kas7jLE2Z8/VYA=="
+    },
+    {
+      "name": "Doug Cofer",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mzZUFfYEHXLd5DFFZUp9hA=="
+    },
+    {
+      "name": "Diana Coggin",
+      "gender": "Female",
+      "city": "Salado",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IALs4O++kLs1zxAHpYHj7g=="
+    },
+    {
+      "name": "Brit Coleman",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/21/2025",
+      "usta_id": "yy2SiXHCMYRNUHAQID/vBA=="
+    },
+    {
+      "name": "Taylor Collier",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "HUWcfoHBmbeND7G7J/bIMA=="
+    },
+    {
+      "name": "Tammy Conatser",
+      "gender": "Female",
+      "city": "Willis",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3pxl55jmGasPWZnN0wbCeQ=="
+    },
+    {
+      "name": "Brittney Corley",
+      "gender": "Female",
+      "city": "Mc Gregor",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VnV2/EPPdBbuXGgpoHptZQ=="
+    },
+    {
+      "name": "Hillary Crimm",
+      "gender": "Female",
+      "city": "Georgetown",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "QEjX1cpY6v74SX3shYtlPg=="
+    },
+    {
+      "name": "MaryAnne Criswell",
+      "gender": "Female",
+      "city": "Haslet",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mgEcxvg43Be/bT3SFRhuTw=="
+    },
+    {
+      "name": "Addyson Crouch",
+      "gender": "Female",
+      "city": "Waxahachie",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/26/2025",
+      "usta_id": "8UJzz3ZYhL2FnPHfnrtSRw=="
+    },
+    {
+      "name": "Julien Curatella",
+      "gender": "Male",
+      "city": "Burleson",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TAZxL1eMxCXYbDCkMd1CcA=="
+    },
+    {
+      "name": "Debbie Curry",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GCgxVVIpw5HJ1amUUjQl7g=="
+    },
+    {
+      "name": "Amber Davis",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y1LwsebMkrmwZl8TSvDszQ=="
+    },
+    {
+      "name": "Patricia Davis",
+      "gender": "Female",
+      "city": "Iola",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fnq8/+J1isixIhXk8AeYwg=="
+    },
+    {
+      "name": "Rachel Dawson",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HE1Kp1HudiLJ2JU+yhgyJQ=="
+    },
+    {
+      "name": "Drew Dennison",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AKf1QdNRrnALeqAaJhkwKw=="
+    },
+    {
+      "name": "Matthew Deuire",
+      "gender": "Male",
+      "city": "HEWITT",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lumKRTRkILouUwN24I0fpw=="
+    },
+    {
+      "name": "Penny Digby",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DwZO0GE9hjQOaiif7l+eLQ=="
+    },
+    {
+      "name": "Michael Dix",
+      "gender": "Male",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HZbIUnLJ1IwNAyswnFsuNg=="
+    },
+    {
+      "name": "Luke Droege",
+      "gender": "Male",
+      "city": "BELTON",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/8/2025",
+      "usta_id": "172fTCjVHVuAJijbOAsPgA=="
+    },
+    {
+      "name": "Tracy Droege",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2pX9npGHJHrMquWrquDOkQ=="
+    },
+    {
+      "name": "Meredith Duke",
+      "gender": "Female",
+      "city": "BARTLETT",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pox7JuvYDcoz94cGt+8rcw=="
+    },
+    {
+      "name": "Holly Dutton",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3D5g/T7hRyghgXde6I+fZQ=="
+    },
+    {
+      "name": "Mike Dutton",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "cIe4V2YZzwBlLdjMK0aQjw=="
+    },
+    {
+      "name": "Barbara Endl",
+      "gender": "Female",
+      "city": "Cedar Park",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bLWFegPLpgc108sUKS7Mug=="
+    },
+    {
+      "name": "Vanessa English",
+      "gender": "Female",
+      "city": "HEWITT",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bly9JiPVBqjtsE8PGKl8sA=="
+    },
+    {
+      "name": "Nina Escamilla Paradoski",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/3J3D8XtUgBEGHuVVglqkQ=="
+    },
+    {
+      "name": "Brady Farnum",
+      "gender": "Male",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/16/2025",
+      "usta_id": "ECLEegvk+btWDPrGgwpSTg=="
+    },
+    {
+      "name": "Brett Farnum",
+      "gender": "Male",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/cvEW+/ee70OILTn28Yx1Q=="
+    },
+    {
+      "name": "Neeley Farnum",
+      "gender": "Female",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2024",
+      "usta_id": "txSb/KLlkdc/OMl+1GiOIA=="
+    },
+    {
+      "name": "Anatalia Felan",
+      "gender": "Female",
+      "city": "Houston",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gQMtwrtZElNBBCj8bJoY6w=="
+    },
+    {
+      "name": "Amy Fields",
+      "gender": "Female",
+      "city": "WACO",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nDjqSTA1vxP6NL7nZ3Bn/Q=="
+    },
+    {
+      "name": "Alexandra Foley",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "/ibqVXmo3re0ccZe03O73A=="
+    },
+    {
+      "name": "Cathy Foreman",
+      "gender": "Female",
+      "city": "Gatesville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j5+GcWhLSegg3mw4CbefOw=="
+    },
+    {
+      "name": "Dayspring Fowler",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "czxQyXx1oAxCFyBArQUO1Q=="
+    },
+    {
+      "name": "Candace Frank",
+      "gender": "Female",
+      "city": "BELTON",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h61lKbr6CQEOQjXU1zV5pg=="
+    },
+    {
+      "name": "Jolenne Friedman",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yi64taaEhnGqcEIcuK/M6w=="
+    },
+    {
+      "name": "Makenzie Fryar",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "vRLdZQbDdkjL5ADMacpYBg=="
+    },
+    {
+      "name": "Avery Fulton",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H/Pl/bvmECccODrnohC0cw=="
+    },
+    {
+      "name": "Stephen Fulton",
+      "gender": "Male",
+      "city": "CHINA SPRING",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yLFX0FwHdfC8+9TjVSdp1w=="
+    },
+    {
+      "name": "NATHAN GAINES",
+      "gender": "Male",
+      "city": "Lorena",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NcwptdBRu7gA+w+rgVMceQ=="
+    },
+    {
+      "name": "Daniel Garner",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "qRGc2ottgG08ntdE8LLm2Q=="
+    },
+    {
+      "name": "Amy Gaston",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/28/2024",
+      "usta_id": "9QA41JuMdaFiojKWcz2f8A=="
+    },
+    {
+      "name": "Chelsea Gehring",
+      "gender": "Female",
+      "city": "Lorena",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/12/2024",
+      "usta_id": "QnC5nFQW0wMmKfncTBnTWw=="
+    },
+    {
+      "name": "Nathan Gibbs",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DKhGfYCoO8K/MuIuvYNNTA=="
+    },
+    {
+      "name": "Clay Gibson",
+      "gender": "Male",
+      "city": "EDDY",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/4/2025",
+      "usta_id": "4mVSSQMNOtp8zajnllAQLQ=="
+    },
+    {
+      "name": "Lauren Gillett",
+      "gender": "Female",
+      "city": "Harker Heights",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "C89+tyQ+5GsbOKm9mVncDA=="
+    },
+    {
+      "name": "Audrei Glick",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w3/ikMObfDUd7LHfwsejRw=="
+    },
+    {
+      "name": "Roger Glick",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/22/2025",
+      "usta_id": "lABHczHsD2yGGQL1HD4kNw=="
+    },
+    {
+      "name": "Cynthia Gonzalez",
+      "gender": "Female",
+      "city": "Rockdale",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DuGyDucoXG9xkDQlXIToSA=="
+    },
+    {
+      "name": "Jimmy Grmela",
+      "gender": "Male",
+      "city": "West",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2nwJsbaXzq4Goi8zVk6w7Q=="
+    },
+    {
+      "name": "Amber Guevara",
+      "gender": "Female",
+      "city": "Austin",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y2hFUWsWHJnonba9n0p/wg=="
+    },
+    {
+      "name": "Susan Guilbault",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "SucfK5l4A5v5UYfbOQ8Hog=="
+    },
+    {
+      "name": "Carlos Guzman",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2024",
+      "usta_id": "U7zTzvDsIq0mcIipvaBrfw=="
+    },
+    {
+      "name": "Logan Gwin",
+      "gender": "Male",
+      "city": "WOODWAY",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "0nNDjLP3vxOdtyIx/6qKrw=="
+    },
+    {
+      "name": "Amy Hancock",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m5DwYp9FP9QhQU4L/PpHww=="
+    },
+    {
+      "name": "Pat Haygood",
+      "gender": "Female",
+      "city": "Copperas Cove",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X486Sd8aSBJp53KLHyqgAA=="
+    },
+    {
+      "name": "Mandy Hedderly",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "LWlb2pSNReR38zTkIS0Cmg=="
+    },
+    {
+      "name": "Ashley Hedin",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VO6OQ1yADFVvWXsYPqyFNQ=="
+    },
+    {
+      "name": "Riley Hedin",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "yU2yENMfL34Q8Nw40Xb0zA=="
+    },
+    {
+      "name": "Zachary Henry",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/31/2025",
+      "usta_id": "87F7cm+6SA/UQyqLwLLM2g=="
+    },
+    {
+      "name": "Mario Hernandez",
+      "gender": "Male",
+      "city": "NORTH RICHLAND HILLS",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5IvYWS6i2SGcmowNwyiP3A=="
+    },
+    {
+      "name": "Nancy Hernandez",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t3DC9NLBygPQRWgI2/TPdQ=="
+    },
+    {
+      "name": "River Hernandez-Ogas",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/7/2025",
+      "usta_id": "GO21iLuzoIy7RPL3KFeA1A=="
+    },
+    {
+      "name": "Robbie Hetland",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "xdMDRDyBKTUOf3H0fjYsfw=="
+    },
+    {
+      "name": "Stephen Hill",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/8/2025",
+      "usta_id": "JVFgQVGVUafx9DWq9NPfkg=="
+    },
+    {
+      "name": "Tamara Hodges",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "SC4+x56kQC5HmyBWws1sKg=="
+    },
+    {
+      "name": "Dolores Hoffman",
+      "gender": "Female",
+      "city": "SALADO",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MGAclemw422x0C51ec54Hg=="
+    },
+    {
+      "name": "Timothy Holley",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "TtvPsMsEObPU5lYIyrFjrQ=="
+    },
+    {
+      "name": "Micah Hunter",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2024",
+      "usta_id": "gigyiqOdrF45XybvLAMo3Q=="
+    },
+    {
+      "name": "Ayana Hypolite- Matthews",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CENuiUpugPElQg1Jn+h9nA=="
+    },
+    {
+      "name": "Mike Indergard",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9mUh7GURhbhBjNBFR8h3Fw=="
+    },
+    {
+      "name": "Cherry Jackson",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ukZgLEHGn2+6Fz4Nn9FhjA=="
+    },
+    {
+      "name": "Kimmy Jackson",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "z2iMtNXXSArx7B1qOyiwZg=="
+    },
+    {
+      "name": "Bryan Jenkins",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gBYDxnaRUgvmOVfGdg8Efw=="
+    },
+    {
+      "name": "Shana Jeter",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YIbWzjQToNT5pZfcPuvEtQ=="
+    },
+    {
+      "name": "Beth Johnson",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "czxQyXx1oAzL84vhbHi1sQ=="
+    },
+    {
+      "name": "David Johnson",
+      "gender": "Male",
+      "city": "Valley Mills",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YwOHkqX/xDQt25Tg1Vutbg=="
+    },
+    {
+      "name": "Jared Johnson",
+      "gender": "Male",
+      "city": "SALADO",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "twFc6FtejwlUZvPmgWVG1g=="
+    },
+    {
+      "name": "Nancy Johnson",
+      "gender": "Female",
+      "city": "Corsicana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "xBzSmEpk8vCNZ8+Gh05Eyg=="
+    },
+    {
+      "name": "Roxie Johnson",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g270AqltmLvhGgniULfu0w=="
+    },
+    {
+      "name": "Jake Jones",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "bODaCQi2HRlCn/xhbvvzhQ=="
+    },
+    {
+      "name": "Matt Jones",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/BOIFyaPVMOYZE19YorJYg=="
+    },
+    {
+      "name": "Kat Kaliski",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uUCaO9rQNy96zDtbn09OMQ=="
+    },
+    {
+      "name": "William Kellmer",
+      "gender": "Male",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k61xMxx00G5M7yW/XDxvIw=="
+    },
+    {
+      "name": "Mikki Kim-Davis",
+      "gender": "Female",
+      "city": "Mc Gregor",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ReCx80W3ggIjSp4vmlOnEQ=="
+    },
+    {
+      "name": "Stephen King",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "AjwrTxnKsQhthQZJ2Ebehw=="
+    },
+    {
+      "name": "Whitney King",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lSheLFA5nDo0LggbkWJg0A=="
+    },
+    {
+      "name": "Alex Ko",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "5JQ1rGWNZAQ0CySDWMmwqw=="
+    },
+    {
+      "name": "Shannon Kruppa",
+      "gender": "Female",
+      "city": "BELTON",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nU7tDiVkTrc7o5Py+J7/Hg=="
+    },
+    {
+      "name": "Laura Kubiak",
+      "gender": "Female",
+      "city": "Normangee",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "WGOWNkGp3yFNjjjZy4gtdA=="
+    },
+    {
+      "name": "Jana Kuz",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TTxE/O3U+r+JnFgXQoPmqw=="
+    },
+    {
+      "name": "Sam Kwak",
+      "gender": "Male",
+      "city": "Killeen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "S6TLGAzub719DHkQfGnnrA=="
+    },
+    {
+      "name": "Shane Kyral",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Dxgv5Y1v/9xgO+UZlFHOtA=="
+    },
+    {
+      "name": "Garrett Lain",
+      "gender": "Male",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/31/2024",
+      "usta_id": "2jbaj99rV7y5RgOTQ0P3cg=="
+    },
+    {
+      "name": "Adrienne Lake",
+      "gender": "Female",
+      "city": "Georgetown",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XytArdL7icT6Vb5tZRY64A=="
+    },
+    {
+      "name": "Xavier Lares",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F2lvBrHCKM1teNsqThlxCA=="
+    },
+    {
+      "name": "Tammy Laughlin",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wT+QWIjD8TQCogGQoIhftA=="
+    },
+    {
+      "name": "Kelly Lee",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x35T38tO9esudNGFjB8VoQ=="
+    },
+    {
+      "name": "Kara Leslie",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "55z7zmA81z7iqb2s7aQ9+A=="
+    },
+    {
+      "name": "Chris Lewis",
+      "gender": "Male",
+      "city": "Hewitt",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "v1Ql2xKyr2tSHIUCszAPSQ=="
+    },
+    {
+      "name": "Megan Litton",
+      "gender": "Female",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "q85idonTgl7rgjPEC3XgDg=="
+    },
+    {
+      "name": "Tara Livesay",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8M4c6zI4VZMDGrgYVzsq8w=="
+    },
+    {
+      "name": "Troy Livesay",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ai9kv2u2W6BMeJRbF2EgLA=="
+    },
+    {
+      "name": "Wes Livesay",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "MyRYpfLBK7vZWSitff3FfA=="
+    },
+    {
+      "name": "Donna Locklin",
+      "gender": "Female",
+      "city": "Salado",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uvKErBLQ7V049fgrmDZOGw=="
+    },
+    {
+      "name": "James Longbotham",
+      "gender": "Male",
+      "city": "Groesbeck",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "rOOR3HmcOE7p60u3szkPGQ=="
+    },
+    {
+      "name": "Gemma Lopez",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yPSFaixwCFYFejHke49/0w=="
+    },
+    {
+      "name": "David Luedtke",
+      "gender": "Male",
+      "city": "WOODWAY",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dW4yNcYsfE6ZabAAGIr4/Q=="
+    },
+    {
+      "name": "Teresa Lyons",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gdCjJ6afOvovfc+9tmroqQ=="
+    },
+    {
+      "name": "Julie Madsen",
+      "gender": "Female",
+      "city": "Cedar Park",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vB0a8DqiwiLghhmv1VteCA=="
+    },
+    {
+      "name": "Yvette Marietta",
+      "gender": "Female",
+      "city": "Round Rock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Adv08VX1LN+I+taYHam3AA=="
+    },
+    {
+      "name": "Anna Martin",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/1/2025",
+      "usta_id": "JE1HHOUPxAQReKboH6288A=="
+    },
+    {
+      "name": "Edgar Martinez",
+      "gender": "Male",
+      "city": "Fort Worth",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tUT0BI3SikRWhC7alV66TQ=="
+    },
+    {
+      "name": "Tim Mason",
+      "gender": "Male",
+      "city": "BRUCEVILLE",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YCo89PDoOsPbRDmXd1ObZA=="
+    },
+    {
+      "name": "Roseann McAlister",
+      "gender": "Female",
+      "city": "Florence",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m9wFkHiDPc1vuKen/eSYJA=="
+    },
+    {
+      "name": "Matt McClinton",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "81dPRv1YO9N3koWvBux0JQ=="
+    },
+    {
+      "name": "Anthony Mcdowell",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/27/2025",
+      "usta_id": "kZ7er/+zSJ0OBJNsL52+XA=="
+    },
+    {
+      "name": "Meg McDowell",
+      "gender": "Female",
+      "city": "TEMPLE",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PgOgCSlJyHkdiLx5SAQBqw=="
+    },
+    {
+      "name": "Craig McGehee",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/7/2024",
+      "usta_id": "cuPxKeGkmon1DA2BamnayA=="
+    },
+    {
+      "name": "Robin McKenzie",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x920illpPjZxufAqIT1hfA=="
+    },
+    {
+      "name": "Ishan Mehta",
+      "gender": "Male",
+      "city": "TEMPLE",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "XB5Fg5FfY70D+FsTp17X7A=="
+    },
+    {
+      "name": "Cody Melcer",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "rUPQTwNMGhN0WGIvgT5b1Q=="
+    },
+    {
+      "name": "Christina Mercado-Venegas",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X9OY+/kA1i+ggpP87oszdg=="
+    },
+    {
+      "name": "Chris Meyer",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/3/2024",
+      "usta_id": "PfSnVDloVnKYVXasoPpweA=="
+    },
+    {
+      "name": "Melissa Meyer",
+      "gender": "Female",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M60Fb71zXYCOzTRw8GXA3w=="
+    },
+    {
+      "name": "Donna Miller",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rS7lm7T3Tef+fWA7sadN6A=="
+    },
+    {
+      "name": "Greg Miller",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fdvJ1u36JLgmSq33JAfP5w=="
+    },
+    {
+      "name": "Lara Miller",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oQu+Z/eL6vWphKXDkMe56Q=="
+    },
+    {
+      "name": "Joshua Millet",
+      "gender": "Male",
+      "city": "MC GREGOR",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "KXkruYfoERJ4tgLxq9tUmA=="
+    },
+    {
+      "name": "Donna Mills",
+      "gender": "Female",
+      "city": "Marlin",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GmUiP4UmC/baSwUD8B4JIA=="
+    },
+    {
+      "name": "Thomas Mizera",
+      "gender": "Male",
+      "city": "Harker Heights",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QexqR8o2x1BLj+GFnUmD0w=="
+    },
+    {
+      "name": "Robin Mogavero",
+      "gender": "Female",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IYD/pHuxjCznnqTaVYG1/w=="
+    },
+    {
+      "name": "Wendy Moger",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QAmPqZ6zKZGAwGrPLDzrIw=="
+    },
+    {
+      "name": "Richard Moll",
+      "gender": "Male",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YZpRf+TifmOYDasXqStLng=="
+    },
+    {
+      "name": "Jacob Moore",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/18/2024",
+      "usta_id": "240H1sZ8EEdp3ijB7wScFA=="
+    },
+    {
+      "name": "India Morgan",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/28/2025",
+      "usta_id": "cSIbxsdSoZSE2Mu9Y5cb+g=="
+    },
+    {
+      "name": "Jacqueline Morgan",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "lEaehN6gfSLs+ryYExxuog=="
+    },
+    {
+      "name": "Niki Morgan",
+      "gender": "Female",
+      "city": "Little River Academy",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FvYf9FsKlYtBbQ2sxP/wjA=="
+    },
+    {
+      "name": "Brodrick Myers",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/5/2025",
+      "usta_id": "jkwZb3oWzLEd1JG/vwPkFQ=="
+    },
+    {
+      "name": "Roger Myers",
+      "gender": "Male",
+      "city": "Irving",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YOStQDMlIL6ClHJUBCx3Ow=="
+    },
+    {
+      "name": "Brittany Nanney",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "qcW38OaSERzIJsTqcbDhjQ=="
+    },
+    {
+      "name": "Robert Nanney",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m2WeziQBKjfh3ZjktUObTw=="
+    },
+    {
+      "name": "Heather Naumann",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BHtBs2IaBOpKE5SvABAP7Q=="
+    },
+    {
+      "name": "Melissa Navarro",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "uT8Hyxq+DdkTJD4iJuLdNg=="
+    },
+    {
+      "name": "Audie Nichols",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rBb0/uul1/IpDoxXTFcLXg=="
+    },
+    {
+      "name": "Kelly Nieves",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9wE+qZymSMdVL17/I4174A=="
+    },
+    {
+      "name": "Elizabeth Nix",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UJVeiaRJVcDJrg+oSELxIA=="
+    },
+    {
+      "name": "David Norum",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/27/2023",
+      "usta_id": "xFu5v8plxocStrOV0sNVgg=="
+    },
+    {
+      "name": "Max Ogas",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GO21iLuzoIy58mh5mplwXA=="
+    },
+    {
+      "name": "Mark Oppenheim",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "lMn/ES+Yke5fKPirPvamUA=="
+    },
+    {
+      "name": "Lisa Orr",
+      "gender": "Female",
+      "city": "Robinson",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0lUDigTtyk6bWUH4gu4Mlw=="
+    },
+    {
+      "name": "Debra Pate",
+      "gender": "Female",
+      "city": "Normangee",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "tGRZ6J2vhHZyae6y2StDgA=="
+    },
+    {
+      "name": "Ron Pate",
+      "gender": "Male",
+      "city": "Normangee",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p2sWPdylZEbonKWBjygOOQ=="
+    },
+    {
+      "name": "Monica Patel",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7Ouhny6wZrshdUjxLbvwsg=="
+    },
+    {
+      "name": "Nisha Patel",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fowqb9/cu58K4VLi9oByQA=="
+    },
+    {
+      "name": "Melissa Patterson",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/25/2025",
+      "usta_id": "1rIbpp+Q7xEnjNJC8A4Dqg=="
+    },
+    {
+      "name": "Debra Payne",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DdnCr1QgIzPYXqbOF4mHhw=="
+    },
+    {
+      "name": "Josh Pearson",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/27/2025",
+      "usta_id": "pzN5VF4Fv2Ims0p/EIMWxA=="
+    },
+    {
+      "name": "Kerri Pearson",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "qDPdkri75ejq6Many4R9Zg=="
+    },
+    {
+      "name": "Deborah Peevey",
+      "gender": "Female",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "QeHw80bcqq9rnqBDbed5bg=="
+    },
+    {
+      "name": "Dana Pendleton",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EVOGsMCxKqyykiABiK6Jwg=="
+    },
+    {
+      "name": "Hilario Perez",
+      "gender": "Male",
+      "city": "TEMPLE",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "nvsEb4rQAoV4pKD2Ctv3Og=="
+    },
+    {
+      "name": "Kristi Phillips",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B0C35u8BRJ/z6KTcWAKhPg=="
+    },
+    {
+      "name": "William Phillips",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1/gNzYFgeJUSZioRkH5izg=="
+    },
+    {
+      "name": "Sarah Pick",
+      "gender": "Female",
+      "city": "Mc Gregor",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PALZbU+GkRD6qbt9+z/Tcw=="
+    },
+    {
+      "name": "Jonathan Pickle",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "RDGiRXIca+ZQFZg1ZwrtMg=="
+    },
+    {
+      "name": "Kayla Potts",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rO0BKnFxW18I6ioJYOgxRA=="
+    },
+    {
+      "name": "Rosser Powitzky",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/12/2025",
+      "usta_id": "vVCD5EyWhtwl5hu3bB18TQ=="
+    },
+    {
+      "name": "Teresita Powitzky",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KNYMK/uw12efhUM7Zh6lxQ=="
+    },
+    {
+      "name": "Sheyla Praetzel",
+      "gender": "Female",
+      "city": "Royal",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/26/2025",
+      "usta_id": "j4j+vZIbwPEiJ1l2Tn2L9A=="
+    },
+    {
+      "name": "Jodi Pruett",
+      "gender": "Female",
+      "city": "Georgetown",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x0Mar9ipU6gEAptgbjJPGg=="
+    },
+    {
+      "name": "Pete Pruneda",
+      "gender": "Male",
+      "city": "GEORGETOWN",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w+0p+F1j53AHqMasuYadMQ=="
+    },
+    {
+      "name": "Christy Putman",
+      "gender": "Female",
+      "city": "BELTON",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7JiXbbFa9ETE6j7WYBmOSA=="
+    },
+    {
+      "name": "Jonathan Quick",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "dcoAtFkckCUVyecdRxQMag=="
+    },
+    {
+      "name": "Leisha Quick",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VzfIaPmXyeo6AY09I6CShA=="
+    },
+    {
+      "name": "Amy Raborn",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rBTHwuc7sNHkagngmkqtJw=="
+    },
+    {
+      "name": "Christine Rahm",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qPdi7X9kRRDdyeIvluA3kw=="
+    },
+    {
+      "name": "Alejandro Ramirez",
+      "gender": "Male",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "stVj57DhcI9sNc8UxW2kEw=="
+    },
+    {
+      "name": "Lauren Ratcliff",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HJwmQJthCDJL82c713yTmQ=="
+    },
+    {
+      "name": "Taylor Ratcliff",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/26/2025",
+      "usta_id": "uttctP1wPvaHSWDoHpszEw=="
+    },
+    {
+      "name": "Brodie Reed",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/29/2025",
+      "usta_id": "2Y8kYxRjucpeI6tjHD8MSg=="
+    },
+    {
+      "name": "Stormy Reeves",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b23gswFjgFtRSZe0qPsmXA=="
+    },
+    {
+      "name": "Danielle Reinhart",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k07VLgnjgbG3a6/zAspk7A=="
+    },
+    {
+      "name": "Eliseo Resendez",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nqZTqUBODZW185EhosQGVw=="
+    },
+    {
+      "name": "Isabela Resendez",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "JVQysZxxUSoOv9tu6V8T5A=="
+    },
+    {
+      "name": "Jose Reyes",
+      "gender": "Male",
+      "city": "Big Lake",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RPX3y2DKN0+4GV2h3odMgA=="
+    },
+    {
+      "name": "Jennifer Richter",
+      "gender": "Female",
+      "city": "Addison",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cNbrVtm/5/h2eYogYCg7zg=="
+    },
+    {
+      "name": "Nancy Risinger",
+      "gender": "Female",
+      "city": "China Spring",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yi0471OywhhY6BFWTzJAtQ=="
+    },
+    {
+      "name": "John Ruddell",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/18/2024",
+      "usta_id": "FELwS6eCfR6YXLs9+XLl4A=="
+    },
+    {
+      "name": "Angeline Sawicki",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "lhTGWHF3xkaS5baIC9HoLQ=="
+    },
+    {
+      "name": "Christine Scharf",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1OKDq40eU/pf84d/VxVTNA=="
+    },
+    {
+      "name": "Robert Scheibler",
+      "gender": "Male",
+      "city": "Hewitt",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3DF2xoZOJgfdLDz2lbmmag=="
+    },
+    {
+      "name": "Jordan Seideman",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cnMqsmF/JIovxml5JtMMZw=="
+    },
+    {
+      "name": "Stephanie Shaft",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L2cKnftbPDtzOptiQ7WK6w=="
+    },
+    {
+      "name": "Tanner Sheldon",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "4Fzm0+Tq9JGillYiJhMeLg=="
+    },
+    {
+      "name": "Shay Simpson",
+      "gender": "Female",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mgHhYQYIYsp8nifb/xRfxw=="
+    },
+    {
+      "name": "Paul Skoog",
+      "gender": "Male",
+      "city": "Godley",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "sDmtut6KJ9sDdo4nqjMxjQ=="
+    },
+    {
+      "name": "Betty Smith",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0b14U3lDQqk2R5Y69+vS/w=="
+    },
+    {
+      "name": "Cory Smith",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/23/2025",
+      "usta_id": "6TuNWzgzUCENZf0Q8qcPTw=="
+    },
+    {
+      "name": "Holly Smith",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "my+Aa8Zt44NTePbrhIuxog=="
+    },
+    {
+      "name": "Marla Smith",
+      "gender": "Female",
+      "city": "BELTON",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y8dG/avTGstaX7JIRForFg=="
+    },
+    {
+      "name": "Matt Smith",
+      "gender": "Male",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vXi/E7lvWafsUDvQbZ+AHw=="
+    },
+    {
+      "name": "Adam Spigel",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "lfuvNrjBbU8duTvuRmxK5A=="
+    },
+    {
+      "name": "Ravi Sriram",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/cvEW+/ee70HljmdlPng/Q=="
+    },
+    {
+      "name": "Kayla Stahl",
+      "gender": "Female",
+      "city": "China Spring",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5srcE9ZnFxruhI7t7E9lWg=="
+    },
+    {
+      "name": "Matthew Stamey",
+      "gender": "Male",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "lG/042y2VVVRtSRFKemU9w=="
+    },
+    {
+      "name": "Blake Starkey",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qFGWTESIuAy935ApJDHirg=="
+    },
+    {
+      "name": "Tim Stephens",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "5SxwIRVj3/bh+8p+CRVx7Q=="
+    },
+    {
+      "name": "Vereleta Steward",
+      "gender": "Female",
+      "city": "COLLEGE STATION",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ehy7mQOEx2TsGDwt92Lqtw=="
+    },
+    {
+      "name": "Cody Stone",
+      "gender": "Male",
+      "city": "WOODWAY",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DYbZuBNlH/3zdfB3E/au1g=="
+    },
+    {
+      "name": "Robert Stovall",
+      "gender": "Male",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c7UISV1q3pTaMKSh6SHHxQ=="
+    },
+    {
+      "name": "Tom Sullivan",
+      "gender": "Male",
+      "city": "Munich",
+      "state": "Bavaria",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y9RaV6keo68LwVH9Jy2HlA=="
+    },
+    {
+      "name": "Srinivasa Sure",
+      "gender": "Male",
+      "city": "Round Rock",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FPZJbwVP8WHKz0woa9NfTQ=="
+    },
+    {
+      "name": "Lauren Sweeney",
+      "gender": "Female",
+      "city": "WACO",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wwS8MKvFCeutcppo+z6cEQ=="
+    },
+    {
+      "name": "Beckie Taylor",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "11OG6qybZBYbw7AW2Kj9kA=="
+    },
+    {
+      "name": "Allyn Testroet",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "02CbMNTq+SSK/jHPMr4YGQ=="
+    },
+    {
+      "name": "David Testroet",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/22/2025",
+      "usta_id": "02CbMNTq+SSVXiLWY6fjCA=="
+    },
+    {
+      "name": "Christopher Thomasson",
+      "gender": "Male",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ogdaTMmuTo9HQyPA9mzHAQ=="
+    },
+    {
+      "name": "Yvonne Trapani",
+      "gender": "Female",
+      "city": "Montgomery",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/14/2025",
+      "usta_id": "7kMUyaSeG4zXR/DX8DQjLQ=="
+    },
+    {
+      "name": "Rose Trapp",
+      "gender": "Female",
+      "city": "Nolanville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2+vrfP0WWH5oDd3cJZW9oA=="
+    },
+    {
+      "name": "Daniel Trayler",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "lxGSIL4wTgFerRjGEXymHw=="
+    },
+    {
+      "name": "Jane Troyer",
+      "gender": "Female",
+      "city": "Georgetown",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m5ngg3MO9SMYtojtTcalPA=="
+    },
+    {
+      "name": "Ruben Tucker",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6yRwlVdS/bPI9+fxLFk00w=="
+    },
+    {
+      "name": "Katie Turnbull",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hz72PuoMGgWQQ4TNBa2vDw=="
+    },
+    {
+      "name": "Jeremy Uecker",
+      "gender": "Male",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "/JcRF4TCqJffXsUa6wyBDA=="
+    },
+    {
+      "name": "Veronica Vacula",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "jLSEEYEffvhxyTHNqNP/Zg=="
+    },
+    {
+      "name": "Jordan Valentin",
+      "gender": "Female",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5Nj3wsQuuG/hixcfFqf9wg=="
+    },
+    {
+      "name": "Susan Wallace",
+      "gender": "Female",
+      "city": "Conroe",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "riYU+0yPwfc4WE9tZu555A=="
+    },
+    {
+      "name": "Jimmie Ward",
+      "gender": "Female",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "ciSC/9HtqqU0n63/cdJHwg=="
+    },
+    {
+      "name": "Tyler Webb",
+      "gender": "Male",
+      "city": "HEWITT",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sEMBycZWvjohi1HHbiNiUw=="
+    },
+    {
+      "name": "Karen Weldon",
+      "gender": "Female",
+      "city": "Georgetown",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KAbgVejT7n8xRCM1ItB2AA=="
+    },
+    {
+      "name": "Kim White",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DVRUMF+3RZlfgf/QkbyjIg=="
+    },
+    {
+      "name": "Kyrbie White",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oKG/PfB8TR867RHbsErXuw=="
+    },
+    {
+      "name": "Sharon White",
+      "gender": "Female",
+      "city": "Crawford",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R2sKk7lawESq6wNi1r6vOA=="
+    },
+    {
+      "name": "Jessica Widmer",
+      "gender": "Female",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tCNfPT6nO4EI+uCZ9Ofj4w=="
+    },
+    {
+      "name": "Kathy Wilkinson",
+      "gender": "Female",
+      "city": "Cedar Park",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XyfgiO6rcPzAsIrbomN07g=="
+    },
+    {
+      "name": "Ursula Winzer-Serhan",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SLt12iVRqA5RFi/ti5fbDQ=="
+    },
+    {
+      "name": "Matt Wood",
+      "gender": "Male",
+      "city": "Temple",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pXtATHd4tY/FLONMKGa3Wg=="
+    },
+    {
+      "name": "Rhonda Worsham",
+      "gender": "Female",
+      "city": "Austin",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GIp8GWhjz42RfccNgvMRHw=="
+    },
+    {
+      "name": "Melissa Wray",
+      "gender": "Female",
+      "city": "Waco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3950AJy83Uuq0HXz/0HI5g=="
+    },
+    {
+      "name": "Jennifer Wyble",
+      "gender": "Female",
+      "city": "Woodway",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/21/2023",
+      "usta_id": "REv3A3jJC8rm8FmTaY3toQ=="
+    },
+    {
+      "name": "VICKIE ZIMMERMAN",
+      "gender": "Female",
+      "city": "MCGREGOR",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VbnuAdtqVyzC2kBa+46/3Q=="
+    },
+    {
+      "name": "MARIA ZUMWALT",
+      "gender": "Female",
+      "city": "Harker Heights",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nKlGooAx5yQXYe5ip3LX6g=="
+    },
+    {
+      "name": "Tim Zumwalt",
+      "gender": "Male",
+      "city": "Harker Heights",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/30/2024",
+      "usta_id": "a4SBzivcyOtPGBBMEnSQWg=="
+    }
+  ]
+}

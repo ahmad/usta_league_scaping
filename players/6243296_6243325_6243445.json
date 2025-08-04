@@ -1,0 +1,547 @@
+{
+  "sectionId": "6243296",
+  "districtId": "6243325",
+  "areaId": "6243445",
+  "players": [
+    {
+      "name": "Dean Barrett",
+      "gender": "Male",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "8sLAK1xaOGvi1dcnVB/j8A=="
+    },
+    {
+      "name": "Scott Becker",
+      "gender": "Male",
+      "city": "Glencoe",
+      "state": "IL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Bds7W+nM/FGsDHiOm2Pxsw=="
+    },
+    {
+      "name": "Jeff Benedict",
+      "gender": "Male",
+      "city": "Woodcliff Lake",
+      "state": "NJ",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "XDmnXAWKQQ4XqJYioNdlcA=="
+    },
+    {
+      "name": "Mark Braitman",
+      "gender": "Male",
+      "city": "Atlanta",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "z6C/7TW5A8WOTycF1tbcKg=="
+    },
+    {
+      "name": "Greg Burnett",
+      "gender": "Male",
+      "city": "North Palm Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "10/5/2024",
+      "usta_id": "VaFv1gsOTEqf8xicodjfTw=="
+    },
+    {
+      "name": "CJ Butcher",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mljfcPrzdYm4NPdj4Zkmtg=="
+    },
+    {
+      "name": "Marc Ciminello",
+      "gender": "Male",
+      "city": "WELLINGTON",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1n9+Ui0G2+eEPunK7wk9Cg=="
+    },
+    {
+      "name": "Michael Civin",
+      "gender": "Male",
+      "city": "Jupiter",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "snmZGtA43MRZFZYj1jj7LA=="
+    },
+    {
+      "name": "Alexandre Clug",
+      "gender": "Male",
+      "city": "Jupiter",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "rdxvSBiYNoFZU4Hd6vjG5g=="
+    },
+    {
+      "name": "Robbie Davis",
+      "gender": "Male",
+      "city": "New Hyde Park",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "mcpumS5mH1CtG3zSMJRPvw=="
+    },
+    {
+      "name": "Johan Ericsson",
+      "gender": "Male",
+      "city": "Atlanta",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yT7fkfDDRRFhTsYfXAc7JA=="
+    },
+    {
+      "name": "Aubrey Felton",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ZZA9C8K/zNWfYOmkWsTJ8Q=="
+    },
+    {
+      "name": "Ken Fleekop",
+      "gender": "Male",
+      "city": "Philadelphia",
+      "state": "PA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/13/2024",
+      "usta_id": "Zy4qTzpLfBvW5MWVh+ttmg=="
+    },
+    {
+      "name": "Erik Gielen",
+      "gender": "Male",
+      "city": "Jupiter",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "9/14/2024",
+      "usta_id": "7BASivLcVBVvX8DHyQYsDg=="
+    },
+    {
+      "name": "James Glynn",
+      "gender": "Male",
+      "city": "Stamford",
+      "state": "CT",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yTZ6fMxV2b0YZ0SiiEsGZw=="
+    },
+    {
+      "name": "Todd Gordon",
+      "gender": "Male",
+      "city": "Wellington",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "9/10/2024",
+      "usta_id": "oGPLXXJZiWUgBcR8aizUVw=="
+    },
+    {
+      "name": "Hank Grassi",
+      "gender": "Male",
+      "city": "Freehold",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "12/9/2024",
+      "usta_id": "AJjearqywYGLKbDDezUn1w=="
+    },
+    {
+      "name": "Donald Graves",
+      "gender": "Male",
+      "city": "Wellington",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "EdyHPFac9zUTyQlXq4W8JA=="
+    },
+    {
+      "name": "Joe Greco",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "it/Lf0HLCT8DSV7ypd/bCA=="
+    },
+    {
+      "name": "Chalie Hammer",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "scMWJDCGES3ZB7iDaMxYmA=="
+    },
+    {
+      "name": "Jonathan Holzman",
+      "gender": "Male",
+      "city": "Jupiter",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "A6EqUfZIUPZnFFJhaK8NOA=="
+    },
+    {
+      "name": "Rick Johnston",
+      "gender": "Male",
+      "city": "Chicago",
+      "state": "IL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/25/2024",
+      "usta_id": "LmP1k8WcGG+dZuwg1lST8w=="
+    },
+    {
+      "name": "Andrew Joos",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "u8ixNgdkz1Y5T+weh2uR2Q=="
+    },
+    {
+      "name": "Mark Kelly",
+      "gender": "Male",
+      "city": "Delray Beach",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "InI8gQ8jlnG+8xOD2/LLig=="
+    },
+    {
+      "name": "Jay Kimmel",
+      "gender": "Male",
+      "city": "Longmeadow",
+      "state": "MA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LDj09kbVjIz4YYK+lOr+1g=="
+    },
+    {
+      "name": "Loren Kleinman",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "KdOTxUu+h1mawNbGtC1JGw=="
+    },
+    {
+      "name": "Charles Lipset",
+      "gender": "Male",
+      "city": "Delray Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "10/29/2024",
+      "usta_id": "QMOUaQZj3Xsgpxug+5Bjsw=="
+    },
+    {
+      "name": "Steven Lockwood",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/17/2024",
+      "usta_id": "r7fqbQCCXYjEEUzb81hYdw=="
+    },
+    {
+      "name": "Tom Lowell",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "P9gRwCbtAW0="
+    },
+    {
+      "name": "Michael MacDermott",
+      "gender": "Male",
+      "city": "PALM BEACH GARDENS",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "NN7qgE9IsjpjFlXMNUNAYQ=="
+    },
+    {
+      "name": "Jeff Marcus",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/14/2024",
+      "usta_id": "osPeh8jVmIShz9zAeiPG4g=="
+    },
+    {
+      "name": "Jonas Meretsky",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ycxgQeMmjK08lFswpUD4hA=="
+    },
+    {
+      "name": "Mark Miller",
+      "gender": "Male",
+      "city": "Lake Worth",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/11/2024",
+      "usta_id": "yYLuVztwN8j4hQ4WnA7uiQ=="
+    },
+    {
+      "name": "Richard Morton",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/12/2024",
+      "usta_id": "Tl1pr4zA3q37EzTYetyJ+A=="
+    },
+    {
+      "name": "Leonard Moskowitz",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "wmN3NOErClHUqpHl6brgqQ=="
+    },
+    {
+      "name": "David Moss",
+      "gender": "Male",
+      "city": "PALM BEACH GARDENS",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "CJtdp7pVBaO4Nb1nyFgs/w=="
+    },
+    {
+      "name": "Mickey Nolen",
+      "gender": "Male",
+      "city": "Tequesta",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/10/2023",
+      "usta_id": "DkpC3V2BUtKD3vp+BoNSjA=="
+    },
+    {
+      "name": "Eric Oranen",
+      "gender": "Male",
+      "city": "North Palm Beach",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/U48QNy34mq4EpjD3otBrg=="
+    },
+    {
+      "name": "Daryl Ormont",
+      "gender": "Male",
+      "city": "Bensalem",
+      "state": "PA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ol54ZuKxIZFrA3gXYDVeQw=="
+    },
+    {
+      "name": "David Rootham",
+      "gender": "Male",
+      "city": "Toronto",
+      "state": "ON",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "fC7rPUH6WEO0mhMJTu/QMQ=="
+    },
+    {
+      "name": "Mike Rourke",
+      "gender": "Male",
+      "city": "PALM BEACH GARDENS",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "sZAegAVXYN0qricAhEqTxA=="
+    },
+    {
+      "name": "Peter Rubin",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "cPljnuweya6swR7GEuoY7A=="
+    },
+    {
+      "name": "Tom Salamone",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cPraUw0Q3wvEsoAJ/6g6ig=="
+    },
+    {
+      "name": "OLLI-PEKKA Salovaara",
+      "gender": "Male",
+      "city": "Raleigh",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M/GwXUFDVO0h9kUz91B63Q=="
+    },
+    {
+      "name": "Howard Silver",
+      "gender": "Male",
+      "city": "Jupiter",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "lF8dQ42RAesgJuaMMaqwdg=="
+    },
+    {
+      "name": "Richard Smithline",
+      "gender": "Male",
+      "city": "Rye",
+      "state": "NY",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "VO8NTG2bKJKtcJStWqFAXg=="
+    },
+    {
+      "name": "John Soderberg",
+      "gender": "Male",
+      "city": "Delray Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "9/11/2024",
+      "usta_id": "qbzImghbMrwWppoNwoKOoA=="
+    },
+    {
+      "name": "Jerome Spunberg",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "qsfOKK9Vpvow4Wl+t+6fZg=="
+    },
+    {
+      "name": "Andrew Tappe",
+      "gender": "Male",
+      "city": "Jupiter",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/9/2023",
+      "usta_id": "BC5d9IvCVmv0leqPtjr++w=="
+    },
+    {
+      "name": "Rajesh Vohra",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Y0BRRzsrT6BpOhJIdjTpvg=="
+    },
+    {
+      "name": "Doug Warshauer",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "HjG7rdBZ0m1dN2YdqoXlew=="
+    },
+    {
+      "name": "Steve Widder",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XwCYXlrujWwXKkOEJVQDvQ=="
+    },
+    {
+      "name": "Robert Wilson",
+      "gender": "Male",
+      "city": "Palm Beach Gardens",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/12/2024",
+      "usta_id": "N1SBXeZ1ST6Ff13h/fV6aw=="
+    },
+    {
+      "name": "Jamie Zucker",
+      "gender": "Male",
+      "city": "DELRAY BEACH",
+      "state": "FL",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "xTG5cvuKhKNSSFWcJr29wA=="
+    }
+  ]
+}

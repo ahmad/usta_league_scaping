@@ -1,0 +1,37 @@
+{
+  "sectionId": "6243309",
+  "districtId": "6243393",
+  "areaId": "6243740",
+  "players": [
+    {
+      "name": "Kim Daugherty",
+      "gender": "Female",
+      "city": "Midland",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/3/2024",
+      "usta_id": "AykEpX/WQjcSa4d6xXbQVg=="
+    },
+    {
+      "name": "Carol Sparks",
+      "gender": "Female",
+      "city": "Midland",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "/2T50R7HhgpEqVEOFI31ow=="
+    },
+    {
+      "name": "Barbara Starnes",
+      "gender": "Female",
+      "city": "Gardendale",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y3g9gDY0934="
+    }
+  ]
+}

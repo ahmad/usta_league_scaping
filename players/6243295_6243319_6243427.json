@@ -1,0 +1,4537 @@
+{
+  "sectionId": "6243295",
+  "districtId": "6243319",
+  "areaId": "6243427",
+  "players": [
+    {
+      "name": "Arevik Abramyan",
+      "gender": "Female",
+      "city": "New Brunswick",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iefMeEUs5OEVxIK6G8hgfA=="
+    },
+    {
+      "name": "Kristina Achilarre",
+      "gender": "Female",
+      "city": "Morristown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IHAHNQ8hXsL/NcfeS3tlbw=="
+    },
+    {
+      "name": "Alvaro Acosta",
+      "gender": "Male",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/16/2024",
+      "usta_id": "HTMwOqxK5zez/uFTO0YJ6A=="
+    },
+    {
+      "name": "Pamela Adriano",
+      "gender": "Female",
+      "city": "Plainfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BcpPx0uPyK4GnqAUO7e5GA=="
+    },
+    {
+      "name": "James Aiken",
+      "gender": "Male",
+      "city": "Plano",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UDL5pd1kDZ6q3k6MuUIUsw=="
+    },
+    {
+      "name": "Alexander Ainge",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jcN6kMCSeN2qKXMIq84j7g=="
+    },
+    {
+      "name": "Lynne Ainge",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jcN6kMCSeN3CkLX0jJVeGg=="
+    },
+    {
+      "name": "BABATUNDE AKINDELE",
+      "gender": "Male",
+      "city": "Rockaway",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wwkg0k4YxNZ8pvh54m948w=="
+    },
+    {
+      "name": "Allison Alexander",
+      "gender": "Female",
+      "city": "Mountainside",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/9/2024",
+      "usta_id": "FTc1bsIm4PRL6r5LlNamBQ=="
+    },
+    {
+      "name": "Karen Altamirano",
+      "gender": "Female",
+      "city": "Piscataway",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+D2nORkkQanXaEkY24MB6g=="
+    },
+    {
+      "name": "Ana Amaya",
+      "gender": "Female",
+      "city": "Plainfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dcmfsFWTeRJRgPjjwFTZmQ=="
+    },
+    {
+      "name": "Matthew Anderson",
+      "gender": "Male",
+      "city": "South Orange",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lud+1IAb9fWutz3jzI8ZnQ=="
+    },
+    {
+      "name": "Zachary Anderson",
+      "gender": "Male",
+      "city": "LELAND",
+      "state": "NC",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qrbW08lC/Sfbaen3z3J6Xw=="
+    },
+    {
+      "name": "DENISE ANN DIXON",
+      "gender": "Female",
+      "city": "Plainfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DeGsRf2rNLShUecU3fRGYg=="
+    },
+    {
+      "name": "Lena Arafa",
+      "gender": "Female",
+      "city": "Brooklyn",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VqXPijpFQ6kRzTQS1ULacA=="
+    },
+    {
+      "name": "Agustina Arcuri",
+      "gender": "Female",
+      "city": "Chatham",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/4/2025",
+      "usta_id": "2tYKTYaV1OCJ/slbK0w6Jg=="
+    },
+    {
+      "name": "Louise Arkel",
+      "gender": "Female",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G3/eNzSb//Xd9ynUG/KyDw=="
+    },
+    {
+      "name": "Donatas Augylius",
+      "gender": "Male",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YoXcfV4rZj84L6Z49ofuvQ=="
+    },
+    {
+      "name": "Arelis Avila",
+      "gender": "Female",
+      "city": "North Brunswick",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Df+0ZFD/6t4ZALV07M0tTQ=="
+    },
+    {
+      "name": "Mitali Baberwal",
+      "gender": "Female",
+      "city": "Piscataway",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iWZx5rfs65peMT/n+4eqaw=="
+    },
+    {
+      "name": "Shana Baer",
+      "gender": "Female",
+      "city": "Morristown",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cw6CYbUiPkAHQQGYmH6oTQ=="
+    },
+    {
+      "name": "Lisa Baird",
+      "gender": "Female",
+      "city": "New Providence",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W6LB3+ZCJO1cSOZeosO5CA=="
+    },
+    {
+      "name": "Alison Barber",
+      "gender": "Female",
+      "city": "Morristown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eUzwTf0YhSGzUgbst6HUVQ=="
+    },
+    {
+      "name": "Kristen Barletta",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/3/2023",
+      "usta_id": "lEdGcOJkdsVC4dqScsm7RQ=="
+    },
+    {
+      "name": "Yolanda Barron",
+      "gender": "Female",
+      "city": "Berkeley Heights",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gz4irMHqSi12rdZbEY0avw=="
+    },
+    {
+      "name": "Jenise Beaman",
+      "gender": "Female",
+      "city": "Plainfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lPEbXhC981dATBNKsjeAhA=="
+    },
+    {
+      "name": "Brenda Beebe",
+      "gender": "Female",
+      "city": "Chatham",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gCDWXty06F4+Se2QM8lYrw=="
+    },
+    {
+      "name": "Vinayak Behl",
+      "gender": "Male",
+      "city": "Hoboken",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/2/2025",
+      "usta_id": "/el2dMLg/2Jsmk74ransQg=="
+    },
+    {
+      "name": "Mary K Benney",
+      "gender": "Female",
+      "city": "Rahway",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ek9FzzFQ86NriKLCfYX1XQ=="
+    },
+    {
+      "name": "Marc Benou",
+      "gender": "Male",
+      "city": "WARREN",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VqXPijpFQ6mpepQjvntJPQ=="
+    },
+    {
+      "name": "David Berenbaum",
+      "gender": "Male",
+      "city": "Paramus",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zDs1g1NRH0kJbu6YGyFKHQ=="
+    },
+    {
+      "name": "Domenica Bevacqua",
+      "gender": "Female",
+      "city": "Newton",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5Banbd6XnNacEs5FaKlT2w=="
+    },
+    {
+      "name": "Swapnil Bhagat",
+      "gender": "Male",
+      "city": "BERKELEY HEIGHTS",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+KIHE/yTMqO0jP9dT9kmTw=="
+    },
+    {
+      "name": "Teresa Bhe",
+      "gender": "Female",
+      "city": "MONMOUTH JUNCTION",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/lO3kjxLZo+K3SeB3sUd/w=="
+    },
+    {
+      "name": "Jordana Biancosino",
+      "gender": "Female",
+      "city": "WESTFIELD",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/25/2024",
+      "usta_id": "2wGz4SXfwYn9cbo+4Quv8A=="
+    },
+    {
+      "name": "Robert Birmingham",
+      "gender": "Male",
+      "city": "Neversink",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WlN8lvvW++ONYQeOVjMsEw=="
+    },
+    {
+      "name": "Allison Bloch",
+      "gender": "Female",
+      "city": "Princeton",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b7U+dZwGIBlXN2zlUUTu0g=="
+    },
+    {
+      "name": "Heidi Block",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4l7P8arH8bbGePGX9FvIRg=="
+    },
+    {
+      "name": "Robbie Bloom",
+      "gender": "Female",
+      "city": "New Providence",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IEWXQcAnsxKQoKbeBieBdA=="
+    },
+    {
+      "name": "David Bochner",
+      "gender": "Male",
+      "city": "Stirling",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mZgwJ29eU6LV+YANfUCfsA=="
+    },
+    {
+      "name": "Eric Bochner",
+      "gender": "Male",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2VPCY++wn8i/yfNk0djzrA=="
+    },
+    {
+      "name": "Mark Bochner",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "pGzg6npinEmoxufM1tHv+A=="
+    },
+    {
+      "name": "Kristen Bocina",
+      "gender": "Female",
+      "city": "Fair Haven",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l3J0BzVkXxAypveeopTiiA=="
+    },
+    {
+      "name": "Wendy Boiardi",
+      "gender": "Female",
+      "city": "Cresskill",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gqxu1RvZJ5MNtCCNFF6O1Q=="
+    },
+    {
+      "name": "Christian Bonn",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rd133Ytd3R+tbYVsBSrneQ=="
+    },
+    {
+      "name": "Shubhro Bose",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "tqfuTW848G4/0WAenD/PgA=="
+    },
+    {
+      "name": "Vien Bouarapha",
+      "gender": "Male",
+      "city": "Conroe",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "50ys3Dt7s9dkIv28i6D1sA=="
+    },
+    {
+      "name": "Ismary Boyd",
+      "gender": "Female",
+      "city": "Piscataway",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/7/2024",
+      "usta_id": "doNv6d4f0piq+mFwmAqWAA=="
+    },
+    {
+      "name": "Alan Bresson",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "2vFwQEQQWFQI6zRrxZeOpw=="
+    },
+    {
+      "name": "Kimberly Brick",
+      "gender": "Female",
+      "city": "Sparta",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E+ZaBpmT1GLF/Dlc+bYlCQ=="
+    },
+    {
+      "name": "Brenda Brown",
+      "gender": "Female",
+      "city": "Edison",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u6v6sT8+RzPAcujY4nxjeQ=="
+    },
+    {
+      "name": "Debbie Brown",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GXkn57w5i7CX5K1GePlE8g=="
+    },
+    {
+      "name": "Ghizlane Brown",
+      "gender": "Female",
+      "city": "Mountain Lakes",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/2/2025",
+      "usta_id": "RE2Dgls+EA3p0nYHGeqCKg=="
+    },
+    {
+      "name": "Denis Budniewski",
+      "gender": "Male",
+      "city": "Morristown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/29/2025",
+      "usta_id": "nMiNpmddbE6YSGVA3hYo1g=="
+    },
+    {
+      "name": "James Burger",
+      "gender": "Male",
+      "city": "Teaneck",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JaqQ6cLLnpxPxTDyeIfvWQ=="
+    },
+    {
+      "name": "Kate Burke",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "pag1GRvqoOCTUKzagUBfog=="
+    },
+    {
+      "name": "Andrea Burkey",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "15amFPdZaaZmuBrrrlBn3w=="
+    },
+    {
+      "name": "Marshall Burroughs",
+      "gender": "Male",
+      "city": "MAPLEWOOD",
+      "state": "NJ",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "wBtPDYZX7GsH4GP8LrkgRw=="
+    },
+    {
+      "name": "Paul Caceres",
+      "gender": "Male",
+      "city": "BINGHAMTON",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M8+Wux9pdBEwLJL1P7TJpw=="
+    },
+    {
+      "name": "James Cai",
+      "gender": "Male",
+      "city": "SPRINGFIELD",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/17/2025",
+      "usta_id": "7EUkyiFmiaCbe+QkOPPw9Q=="
+    },
+    {
+      "name": "Katrina Campbell",
+      "gender": "Female",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LGNVAQbmzixkfASAUGF7kQ=="
+    },
+    {
+      "name": "Kaitlyn Cassis",
+      "gender": "Female",
+      "city": "South Amboy",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1xHS5PmnnVqwHHNdEca94g=="
+    },
+    {
+      "name": "Mario Castro Martinez",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vz8JOPSUqq/8XFgJ3Ln83Q=="
+    },
+    {
+      "name": "Pilar Cazorla Arratia",
+      "gender": "Female",
+      "city": "Madison",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sZe+wfOW/Pf81GG/9jAuqA=="
+    },
+    {
+      "name": "Clara Ceccaldi",
+      "gender": "Female",
+      "city": "New York",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "czRRrOXnUfleAPwW2JmVHw=="
+    },
+    {
+      "name": "Trudy Cederqvist",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uKDX/7LphvXPERRdvKK1zw=="
+    },
+    {
+      "name": "Sophia Chadda",
+      "gender": "Female",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6RpdulN1q9ZTSoH5PPmgUQ=="
+    },
+    {
+      "name": "Cordelia Chan",
+      "gender": "Female",
+      "city": "Short Hills",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "TUNsQpv38wucifpQ6PXYgQ=="
+    },
+    {
+      "name": "Timothy Chang",
+      "gender": "Male",
+      "city": "Parsippany",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "LE4inrRq9qcEloP0rAcfSQ=="
+    },
+    {
+      "name": "Alice Chao",
+      "gender": "Female",
+      "city": "New Providence",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jkmODhv9WN6Pbcpl2ylhzA=="
+    },
+    {
+      "name": "Liang Chao",
+      "gender": "Female",
+      "city": "WEST ORANGE",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x920illpPjbLIzjaRQB7lA=="
+    },
+    {
+      "name": "Veronica Chapman",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RbYp29u3ZLlBW5WKF9pT1A=="
+    },
+    {
+      "name": "Sean Charnow",
+      "gender": "Male",
+      "city": "Woodcliff Lake",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S6f9BG5hOPoiLL88zWDULg=="
+    },
+    {
+      "name": "Anna Chen",
+      "gender": "Female",
+      "city": "Colonia",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "B/I+EYflQnBGwRjL8ibmeQ=="
+    },
+    {
+      "name": "Jingyun Chen",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vt5qtI5xE+TfLApXwkZ4CA=="
+    },
+    {
+      "name": "Paula Cheng",
+      "gender": "Female",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j7grCAsVRgeyCO3DGsTVfw=="
+    },
+    {
+      "name": "Irina Cherepnina",
+      "gender": "Female",
+      "city": "LAWRENCE TOWNSHIP",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pjmdv1XsaI7Ya+duW+WbBQ=="
+    },
+    {
+      "name": "Stuart Chizzik",
+      "gender": "Male",
+      "city": "Tenafly",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fP6p8Ouqmdi+yhFqaUnfNA=="
+    },
+    {
+      "name": "Alvin Choy",
+      "gender": "Male",
+      "city": "New York",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iFn2fY3FNJmAVQ8dlclcTw=="
+    },
+    {
+      "name": "Michelle Chung",
+      "gender": "Female",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3wa4U+DFJTFZWUVyv7ZP2A=="
+    },
+    {
+      "name": "Gladys Collazo",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JJtej6ZU2h7uGYTn8r54/w=="
+    },
+    {
+      "name": "Marie Collazo",
+      "gender": "Female",
+      "city": "High Bridge",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RBepTvphJyAhSKF+jMthAg=="
+    },
+    {
+      "name": "Jennifer Coppola",
+      "gender": "Female",
+      "city": "Cranford",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BX0phfSWI3XyWJ78Q2RpWg=="
+    },
+    {
+      "name": "Douglass Coyle",
+      "gender": "Male",
+      "city": "MONTCLAIR",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vW26YjrU0kpDeBz9O+CtjA=="
+    },
+    {
+      "name": "Tracy Crigler",
+      "gender": "Female",
+      "city": "Chatham",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "TDM9tOfoY3PPgr8VxF0b8g=="
+    },
+    {
+      "name": "Erika Critchley",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HDPWH7/EQF6R0aQSZTjn7w=="
+    },
+    {
+      "name": "Mary Cryder",
+      "gender": "Female",
+      "city": "Montclair",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DbMJfiviAIS1xBhzpmWNuQ=="
+    },
+    {
+      "name": "Lindsay Cuffaro",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kqiJLvdDUOIlJ4VD5k4dYQ=="
+    },
+    {
+      "name": "Jade D.",
+      "gender": "Female",
+      "city": "Warren",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/15/2024",
+      "usta_id": "KarFCuexxQ9goANFgywWyQ=="
+    },
+    {
+      "name": "Ian Dai",
+      "gender": "Male",
+      "city": "Los Altos",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GMfWEFZfvu6grQUg7rbUUg=="
+    },
+    {
+      "name": "Wei Dai",
+      "gender": "Female",
+      "city": "Warren",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BbE6tilam7fhhf8BrnyrAw=="
+    },
+    {
+      "name": "Jaden Daily",
+      "gender": "Female",
+      "city": "New Brunswick",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/23/2024",
+      "usta_id": "MfMjSIiNsGwywnLeaFo7cg=="
+    },
+    {
+      "name": "Nihar Damarasingu",
+      "gender": "Male",
+      "city": "Long Island City",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bqZlKc3ikGPjiTSIALNA+w=="
+    },
+    {
+      "name": "Carlos DaSilva",
+      "gender": "Male",
+      "city": "Newton",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/29/2025",
+      "usta_id": "7H3p9VBpQfkUsLTLjPml5A=="
+    },
+    {
+      "name": "Raquel DaSilva",
+      "gender": "Female",
+      "city": "Newton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JYndWoiqUTzIpEPMHeYtYA=="
+    },
+    {
+      "name": "Bryan Datyner",
+      "gender": "Male",
+      "city": "Norfolk",
+      "state": "VA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3fQ4upLbTKtY8yAx2hQtiw=="
+    },
+    {
+      "name": "Aaron Daubert",
+      "gender": "Male",
+      "city": "Jersey City",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JKMmUu9c03YpBaxaGmE7Bw=="
+    },
+    {
+      "name": "Kristen Davis",
+      "gender": "Female",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DldlrNtiFI4auoXcnx9Fjw=="
+    },
+    {
+      "name": "Lisa Davis",
+      "gender": "Female",
+      "city": "Plainfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "deefe30ZZq7Wrpi4Tg5FWQ=="
+    },
+    {
+      "name": "Lisa Davis",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BNYlvxMdrZAsQyMcbFXr7Q=="
+    },
+    {
+      "name": "Amit DCruz",
+      "gender": "Male",
+      "city": "Fort Lee",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VJF4rZ8/yqeTVNC6emkKoQ=="
+    },
+    {
+      "name": "Violette de Bartillat",
+      "gender": "Female",
+      "city": "Montclair",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j7grCAsVRgf5YLFOF1TrWw=="
+    },
+    {
+      "name": "Jennifer de Sotle",
+      "gender": "Female",
+      "city": "Warwick",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/20/2024",
+      "usta_id": "Y5dukEp8nlwG+162MRqMfQ=="
+    },
+    {
+      "name": "Elena DeBarbadillo",
+      "gender": "Female",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DyDZu8zSTo8AM8ESl7yG7Q=="
+    },
+    {
+      "name": "Manisha Degaonkar",
+      "gender": "Female",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WxPxKq3sEAekdqdASmi2Dw=="
+    },
+    {
+      "name": "Sheila Deguines",
+      "gender": "Female",
+      "city": "MORRISTOWN",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0dVy9R6/xESQAp06rzxyzQ=="
+    },
+    {
+      "name": "Kara Dehnad",
+      "gender": "Female",
+      "city": "Glen Ridge",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "z2D2pD30S0Shk+DnLDZ2Xg=="
+    },
+    {
+      "name": "Alka Deshmukh",
+      "gender": "Female",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/25/2024",
+      "usta_id": "eBlsrVrcVdt6AsGZ/LHxcA=="
+    },
+    {
+      "name": "Amy Devico",
+      "gender": "Female",
+      "city": "Warren",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xl6JrOehgYDrcxfqLnkbdw=="
+    },
+    {
+      "name": "Amit Dhabalia",
+      "gender": "Male",
+      "city": "Rockaway",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5iIjXo7n/O3I8eNGUbvsFg=="
+    },
+    {
+      "name": "Bridget DiDonato",
+      "gender": "Female",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AWRK9Vm9zBL1o9nnfV0DyA=="
+    },
+    {
+      "name": "Matias Diez",
+      "gender": "Male",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mh2GWg34ynBsVZPG4NZVzA=="
+    },
+    {
+      "name": "Dino Disaverio",
+      "gender": "Male",
+      "city": "Astoria",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "S7umsXCjDL0vUWdcFg3Ttw=="
+    },
+    {
+      "name": "Leah Dunmore",
+      "gender": "Female",
+      "city": "Montclair",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G38hEFHA76P+NA/Be+hF0A=="
+    },
+    {
+      "name": "Frank Dunne",
+      "gender": "Male",
+      "city": "Ridgewood",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "alkr3VC30JpzFM/9aEV31g=="
+    },
+    {
+      "name": "Allison Eckles",
+      "gender": "Female",
+      "city": "Chatham",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UDZ96BJZW25kHf2rKfCR4Q=="
+    },
+    {
+      "name": "Tracey Edelstein",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ak2TmhXcqEhyPonOgJHYaw=="
+    },
+    {
+      "name": "Michele Egan",
+      "gender": "Female",
+      "city": "Hillsborough",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "zqLjMRWnKpWuFtBFSxsLXw=="
+    },
+    {
+      "name": "Ari Elle",
+      "gender": "Female",
+      "city": "Roselle",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OyvL+9sBbdRjmpr1ECTASQ=="
+    },
+    {
+      "name": "Divya Enika",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Djdp1qvt8dfahshB1CRYNA=="
+    },
+    {
+      "name": "Mayia Entcheva",
+      "gender": "Female",
+      "city": "Somerset",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pkhcrUtKapWrYZfZLXlHbQ=="
+    },
+    {
+      "name": "Todd Eosso",
+      "gender": "Male",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SmQYoGfTc4hASjsqxLIttg=="
+    },
+    {
+      "name": "Qian Eschbach",
+      "gender": "Female",
+      "city": "Hillsborough",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NYnXfRuDmjI3UnNnYvVRBQ=="
+    },
+    {
+      "name": "Michele Eskow",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/3/2023",
+      "usta_id": "j3JpfdNjcz8qFJ5zZtqsFA=="
+    },
+    {
+      "name": "Azadeh Esmaeili",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P1ehnJwdHHH/GbTVvoeX+A=="
+    },
+    {
+      "name": "Yvonne Evelyn",
+      "gender": "Female",
+      "city": "Sparta",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zz4CWldpkrdZi+CeqG5MxQ=="
+    },
+    {
+      "name": "Joseph Fabre",
+      "gender": "Male",
+      "city": "Randolph",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "U58jNwfn9teMp9wiFtHlCg=="
+    },
+    {
+      "name": "Deborah Fafian",
+      "gender": "Female",
+      "city": "Staten Island",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mYF4S3pWMY3wanWgYBKaRg=="
+    },
+    {
+      "name": "Jane Farrell",
+      "gender": "Female",
+      "city": "Layton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "NOZ0fWE8G01gWJsgM2ykOw=="
+    },
+    {
+      "name": "Liyun Feng",
+      "gender": "Female",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uRdNGW+1LXAmxbP3BMGtvQ=="
+    },
+    {
+      "name": "Yijia Feng",
+      "gender": "Female",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/5/2024",
+      "usta_id": "xwT9VhlQqrAnupJNpIQuhQ=="
+    },
+    {
+      "name": "Joan Ferguson",
+      "gender": "Female",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Nx+bSr87HyHlU31hLod9g=="
+    },
+    {
+      "name": "Carli Fernandez",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GkZ18lhGlBxG+cmu94NvNQ=="
+    },
+    {
+      "name": "Sean Fernandez",
+      "gender": "Male",
+      "city": "Emerson",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rehxplBO/QT6HWnXINOlYg=="
+    },
+    {
+      "name": "Carla Ferragine",
+      "gender": "Female",
+      "city": "Chester",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NJTp8xgY12jNCmRVl9ze1g=="
+    },
+    {
+      "name": "Vanessa Ferreira",
+      "gender": "Female",
+      "city": "Warren",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/29/2024",
+      "usta_id": "bM6ceTj+Sf+oYs1/ki9ZPg=="
+    },
+    {
+      "name": "Allison Fichter",
+      "gender": "Female",
+      "city": "Boonton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MOVwc0/pYaftv/M19Lo58w=="
+    },
+    {
+      "name": "Tammy Fighera",
+      "gender": "Female",
+      "city": "Metuchen",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SzUPS2l2N0+KgCSavwaSFg=="
+    },
+    {
+      "name": "Anne Finetto",
+      "gender": "Female",
+      "city": "Hillsborough",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5qPFKV0CiGeosYmJqpPuYg=="
+    },
+    {
+      "name": "Janine Flannery",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/23/2024",
+      "usta_id": "0vbqTxyK9JYQW8f+qjZGqA=="
+    },
+    {
+      "name": "Ingrid Floyd",
+      "gender": "Female",
+      "city": "Plainfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aGc2ZXP1oX8to+DgxHca+A=="
+    },
+    {
+      "name": "Carmen Ford",
+      "gender": "Female",
+      "city": "Denville",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v7bzgY5JYjeHG6CmWexaEg=="
+    },
+    {
+      "name": "Antaeya Foster",
+      "gender": "Female",
+      "city": "Pomona",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "WDGB5fX7HqfmrgUjdv8+YA=="
+    },
+    {
+      "name": "Maria Francis",
+      "gender": "Female",
+      "city": "Montclair",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s2z8bmjB9BRem2p3yHDr+Q=="
+    },
+    {
+      "name": "Nicole Frankel",
+      "gender": "Female",
+      "city": "Fair Lawn",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "10/12/2024",
+      "usta_id": "MS9i7L2gydEcfQ+okU7AQQ=="
+    },
+    {
+      "name": "Jodi Friedman",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "40a8F2dQeRmwsxgzkiSGpQ=="
+    },
+    {
+      "name": "Maryann Frodella",
+      "gender": "Female",
+      "city": "Newton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IOw+4Zx/u8vb0s4UmK1MoA=="
+    },
+    {
+      "name": "Christine Frole",
+      "gender": "Female",
+      "city": "Newton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/6/2024",
+      "usta_id": "PwEH5T+7Lx3m9M6mxWLXNA=="
+    },
+    {
+      "name": "Ilya Furman",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SYaO+JdPQF1V3r3/WIfOSg=="
+    },
+    {
+      "name": "Lucia Gagnon",
+      "gender": "Female",
+      "city": "LITTLE FALLS",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JIzu5OFZzNtk76DRXp+9lg=="
+    },
+    {
+      "name": "Thea Gallagher",
+      "gender": "Female",
+      "city": "Sparta",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/2/2025",
+      "usta_id": "pqFM1hkh5vcNGahvUXhPVw=="
+    },
+    {
+      "name": "Glen Gannon",
+      "gender": "Male",
+      "city": "West Orange",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4ea2W0Ak9EejmEksdVP1yg=="
+    },
+    {
+      "name": "Helen Geary",
+      "gender": "Female",
+      "city": "Metuchen",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dXhjaKzu9cD+bpSkZRoL3g=="
+    },
+    {
+      "name": "Elise Gerdes",
+      "gender": "Female",
+      "city": "Princeton",
+      "state": "NJ",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eidbj8F1JoInEu8TTgcH1g=="
+    },
+    {
+      "name": "Olawa Gibson",
+      "gender": "Female",
+      "city": "Staten Island",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sh0D6jAjqA4CgCLbIObmvw=="
+    },
+    {
+      "name": "Francis Giglio",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "toCidxIueThFUyV7Gg4lcA=="
+    },
+    {
+      "name": "Kristy Gilbert",
+      "gender": "Female",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5LC0CLCnuGnVH4Si0sUmxA=="
+    },
+    {
+      "name": "Ellen Gilio",
+      "gender": "Female",
+      "city": "West Orange",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QrkrnL5h2dw2CichwavjuA=="
+    },
+    {
+      "name": "Sherla Glasgow",
+      "gender": "Female",
+      "city": "North Brunswick",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "odFjx1OqxA+uZk4qS1hfkA=="
+    },
+    {
+      "name": "Diana Glendinning",
+      "gender": "Female",
+      "city": "New Providence",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e7X4ugk7NkBm0Oa+LqibYA=="
+    },
+    {
+      "name": "Debra Gloster",
+      "gender": "Female",
+      "city": "Holmdel",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nSHNh5ON3i4q4kjrOQy97A=="
+    },
+    {
+      "name": "Dhruv Goel",
+      "gender": "Male",
+      "city": "Livingston",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6xi8YmOuemkZs9tJI4XjFw=="
+    },
+    {
+      "name": "Prashant Gokhale",
+      "gender": "Male",
+      "city": "Cranford",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "92NEIRIFZMB8XjrdYxEJmA=="
+    },
+    {
+      "name": "Adam Goldfarb",
+      "gender": "Male",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/19/2024",
+      "usta_id": "VDJbAPoXJWAnfFTRwb3Vqw=="
+    },
+    {
+      "name": "Laurie Gomez",
+      "gender": "Female",
+      "city": "Sparta",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/7/2025",
+      "usta_id": "9txE7enaqOJ2zexsghDXig=="
+    },
+    {
+      "name": "Tina Gonzalez",
+      "gender": "Female",
+      "city": "Langhorne",
+      "state": "PA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K5RDyq2OhoAQtTrR87wXWA=="
+    },
+    {
+      "name": "Ana Laura Gonzalez-Quijano",
+      "gender": "Female",
+      "city": "Morristown",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P4M7pHkuebnW/zPaEcFFGA=="
+    },
+    {
+      "name": "James Gould",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "kaOXEEgP7pjsRptyqA/wMQ=="
+    },
+    {
+      "name": "Matthew Grainger",
+      "gender": "Male",
+      "city": "South Orange",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CPTD3S7hRYe8ChWk6aCjHQ=="
+    },
+    {
+      "name": "Julie Gralla",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/19/2024",
+      "usta_id": "kk25BAZMgIVyn0SrRubdmw=="
+    },
+    {
+      "name": "Joseph Graziano",
+      "gender": "Male",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qE7HRQZdip2+FWCOBGnWPA=="
+    },
+    {
+      "name": "Cristin Greer",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dh0q3wRVM6CPqdV+SwIMLw=="
+    },
+    {
+      "name": "Jaymi Gutman",
+      "gender": "Female",
+      "city": "Glen Ridge",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/25/2025",
+      "usta_id": "o2ZKNitBrJPbmwNxr2pCVg=="
+    },
+    {
+      "name": "Melinda Hale",
+      "gender": "Female",
+      "city": "Chatham",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zY/YIkEFZ+s+TidQbHjVDA=="
+    },
+    {
+      "name": "Earnecia Hasben-Powers",
+      "gender": "Female",
+      "city": "Plainfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bQGP8L4XUJPAUkePxgCFYg=="
+    },
+    {
+      "name": "Ramona Hatcher Lauture",
+      "gender": "Female",
+      "city": "Monroe Township",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "KzfxE18aMc25OEh/jjygNw=="
+    },
+    {
+      "name": "Deirdre Hatfield",
+      "gender": "Female",
+      "city": "New Vernon",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IE4hVNUdMrf8/VsLgBgZog=="
+    },
+    {
+      "name": "Lydia Heathcote",
+      "gender": "Female",
+      "city": "BEDMINSTER",
+      "state": "NJ",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "rwljS/UTSHOzthWH7ikdNw=="
+    },
+    {
+      "name": "Stephanie Heitner",
+      "gender": "Female",
+      "city": "Tenafly",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KblyT9Yodca5BCWFiSPYAw=="
+    },
+    {
+      "name": "Scott Held",
+      "gender": "Male",
+      "city": "New York",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hTMA4quwreYb9VvJSeJwoQ=="
+    },
+    {
+      "name": "Juan Hernandez",
+      "gender": "Male",
+      "city": "Edgewater",
+      "state": "NJ",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "1/24/2025",
+      "usta_id": "sVg6Z/3KFt1B85WqEtQt9A=="
+    },
+    {
+      "name": "Debra Hinkel",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mceotchs7C1J3M8s5Oq3RQ=="
+    },
+    {
+      "name": "Isabelle Hong",
+      "gender": "Female",
+      "city": "Metuchen",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aj8gGG1YM2dIjPto8vHGuA=="
+    },
+    {
+      "name": "Zunju Hu",
+      "gender": "Female",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/9/2024",
+      "usta_id": "WCsBnD79ed+OeQD1hnLH+w=="
+    },
+    {
+      "name": "Sean Huang",
+      "gender": "Male",
+      "city": "Morris Plains",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VibrmTzoDznB/nuDDI/e/A=="
+    },
+    {
+      "name": "Jennifer Hughes",
+      "gender": "Female",
+      "city": "Union",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zSA01sWUVGN5ohGFkJmd+A=="
+    },
+    {
+      "name": "Mohamed Hussein",
+      "gender": "Male",
+      "city": "East Brunswick",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "dGefv1GVvPIYOQzX0eBgzg=="
+    },
+    {
+      "name": "Adele Huttner",
+      "gender": "Female",
+      "city": "Highland Lakes",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/31/2024",
+      "usta_id": "dXfrcplici9d69n19yDyHg=="
+    },
+    {
+      "name": "Pavana Indrakanti",
+      "gender": "Male",
+      "city": "Parsippany",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0mx8GftLJJaIICrd2NHb8w=="
+    },
+    {
+      "name": "Heidy Ivy",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rP0jheQcrJmrShLh4yLvyw=="
+    },
+    {
+      "name": "Michael Jacobson",
+      "gender": "Male",
+      "city": "Randolph",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "5CcIWJuELAsNagdCyOwPFQ=="
+    },
+    {
+      "name": "Richie Jain",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "+ejR84YaKA3P879UpN4ncQ=="
+    },
+    {
+      "name": "Eric Jin",
+      "gender": "Male",
+      "city": "Middlesex",
+      "state": "NJ",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gvJW67pvKslPbimEYfqDaQ=="
+    },
+    {
+      "name": "Egle Jokubauskyte",
+      "gender": "Female",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uxg6m9fofW82PeZFto9JXw=="
+    },
+    {
+      "name": "Sharon Jones",
+      "gender": "Female",
+      "city": "Union",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RbYDnHdjJzazkYgnsgVq+g=="
+    },
+    {
+      "name": "Bruce Joo",
+      "gender": "Male",
+      "city": "Cliffside Park",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/24/2023",
+      "usta_id": "cw6CYbUiPkAM7enDIzZhKw=="
+    },
+    {
+      "name": "Anushka Joshi",
+      "gender": "Female",
+      "city": "HACKENSACK",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pv1XII7m8BmJPF2tCKA1og=="
+    },
+    {
+      "name": "Edina Jung",
+      "gender": "Female",
+      "city": "Montclair",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vxRS23nPfUNllqZ3YCF9Eg=="
+    },
+    {
+      "name": "Iris Jungherr",
+      "gender": "Female",
+      "city": "Tenafly",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nuTHtxB2cK1Kg98mHu6dYw=="
+    },
+    {
+      "name": "Olga Kalinin",
+      "gender": "Female",
+      "city": "Clark",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RhxZzTg1iytC/QuUXQkaCg=="
+    },
+    {
+      "name": "Jacob Kaminsky",
+      "gender": "Male",
+      "city": "Montvale",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FaSOQLx0H4WM5jLVPiNEVQ=="
+    },
+    {
+      "name": "Rekha Kapadia",
+      "gender": "Female",
+      "city": "Fords",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "iMTy9d/malBwtJpnxkxcjQ=="
+    },
+    {
+      "name": "Ray Kaplan",
+      "gender": "Male",
+      "city": "South Orange",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MUolOWoRQfRHoUMs2KDpBg=="
+    },
+    {
+      "name": "Tarun Kataria",
+      "gender": "Male",
+      "city": "Chester",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "/IF+J0ZZ3CRAeEv+TxxN6A=="
+    },
+    {
+      "name": "Christine Keating",
+      "gender": "Female",
+      "city": "Whitehouse Station",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nt2WVmTJI4TRYNKtE49n3g=="
+    },
+    {
+      "name": "Rebecca Keenan",
+      "gender": "Female",
+      "city": "Warren",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X6HS+WyRmavOTslgmZ4kvg=="
+    },
+    {
+      "name": "Kathleen Kelley",
+      "gender": "Female",
+      "city": "New York",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7Lq83NmfEBW16ja7uyO6gg=="
+    },
+    {
+      "name": "Ruthann Kerr",
+      "gender": "Female",
+      "city": "Short Hills",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/23/2025",
+      "usta_id": "CCz1aZRmSGtpTTCH9pHQcg=="
+    },
+    {
+      "name": "Robert Khalev",
+      "gender": "Male",
+      "city": "MANALAPAN",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0nDORHZYP6NFaJaJ+FOozw=="
+    },
+    {
+      "name": "Qasim Khan",
+      "gender": "Male",
+      "city": "Trenton",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PO/UGddCJOCEG197V8ttYg=="
+    },
+    {
+      "name": "Alex Khordos",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/26/2025",
+      "usta_id": "36BABHn8LmdQ1x08GyOW2Q=="
+    },
+    {
+      "name": "Adrienne Kierans",
+      "gender": "Female",
+      "city": "Sparta",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/15/2024",
+      "usta_id": "JPLQmIHC5f69HQnJtp8U7Q=="
+    },
+    {
+      "name": "Christine Kim",
+      "gender": "Female",
+      "city": "Fort Lee",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xXKlP7E6ar+mEfoSsXLkSQ=="
+    },
+    {
+      "name": "Jenny Kim",
+      "gender": "Female",
+      "city": "Chatham",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c7mYc838t7CQubnRKiFG/Q=="
+    },
+    {
+      "name": "Soo Kim",
+      "gender": "Female",
+      "city": "Holmdel",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MsTp5Pam9odPEyPqvaq78g=="
+    },
+    {
+      "name": "Sue Kim",
+      "gender": "Female",
+      "city": "CHATHAM",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rHQ+SxUIWQHfH5t8E+/7zA=="
+    },
+    {
+      "name": "Sunyoung Kim",
+      "gender": "Female",
+      "city": "East Brunswick",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Uq4WoI4OF4I3KUj+LD//1w=="
+    },
+    {
+      "name": "Andrea Kischkat",
+      "gender": "Female",
+      "city": "SPARTA",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BnzDRynDGl9zYDA9GQsS3A=="
+    },
+    {
+      "name": "Vladimir Koch",
+      "gender": "Male",
+      "city": "Tenafly",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZKWdLQv5CgvbPbF8DzRD9A=="
+    },
+    {
+      "name": "Jennifer Koenig",
+      "gender": "Female",
+      "city": "Holmdel",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/24/2024",
+      "usta_id": "Ggh12tUp1Td9S5BZ5IKPLA=="
+    },
+    {
+      "name": "Gillian Kost",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dh0q3wRVM6DQE9xgQuQJGQ=="
+    },
+    {
+      "name": "Jamie Kruger",
+      "gender": "Female",
+      "city": "Livingston",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/10/2024",
+      "usta_id": "/tUw5kucsKlqw8pNWiVa3Q=="
+    },
+    {
+      "name": "Radha Kumar",
+      "gender": "Female",
+      "city": "Edison",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sdm//0zHdCxiE39oSbzWyw=="
+    },
+    {
+      "name": "RANEE KUMAR",
+      "gender": "Female",
+      "city": "Cary",
+      "state": "NC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "khJUrwLrEMv+7QCRTYALDA=="
+    },
+    {
+      "name": "Lisa Kureczka",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NLU7CogtgBlee+7Gb22MMg=="
+    },
+    {
+      "name": "Michelle Kurzer",
+      "gender": "Female",
+      "city": "Montville",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ezpajoq9WV0CAGAe1OSwWw=="
+    },
+    {
+      "name": "Marijus Kuzavas",
+      "gender": "Male",
+      "city": "South Hackensack",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Av7NIUwwwXv8C7ZBlrE4eQ=="
+    },
+    {
+      "name": "Teajoon Kwon",
+      "gender": "Male",
+      "city": "Leonia",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ai5NhXDLYsdw3fgYZ1m1CQ=="
+    },
+    {
+      "name": "Ming Lai",
+      "gender": "Male",
+      "city": "Edison",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ncTaRML0Hi+S491TfcU79w=="
+    },
+    {
+      "name": "Bennett LaLonde",
+      "gender": "Male",
+      "city": "Montclair",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "UHf/biPuokDv8wKXbQxhKA=="
+    },
+    {
+      "name": "Henry Lanman",
+      "gender": "Male",
+      "city": "Montclair",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rjG0j5X7X/EueaMBrpfD0Q=="
+    },
+    {
+      "name": "Jennifer Lanza",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q/Ac6EoYW6KyMkWIGRDd9g=="
+    },
+    {
+      "name": "Christine Lawlor",
+      "gender": "Female",
+      "city": "Milltown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2jbaj99rV7zvtZiftZCJCQ=="
+    },
+    {
+      "name": "Amy Lebwohl",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FIy2on7IKMyV3re+uKf1Aw=="
+    },
+    {
+      "name": "Dene Lee",
+      "gender": "Female",
+      "city": "Montclair",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y4DxempVHa30wDnVDJZpPw=="
+    },
+    {
+      "name": "Jennifer YP Lee",
+      "gender": "Female",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9r3LRWtH6hv2CWYr6hyE4Q=="
+    },
+    {
+      "name": "Julie Lee",
+      "gender": "Female",
+      "city": "Cresskill",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/22/2023",
+      "usta_id": "+sB77pUjR29nOEKK5APYTA=="
+    },
+    {
+      "name": "Junno Lee",
+      "gender": "Male",
+      "city": "South Orange",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ysKJkZR0xwyQ1cW18QvClw=="
+    },
+    {
+      "name": "Renee Lee",
+      "gender": "Female",
+      "city": "Oceanport",
+      "state": "NJ",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gG1hW04VsK80rUq4c3Nauw=="
+    },
+    {
+      "name": "Sheela Lee",
+      "gender": "Female",
+      "city": "Bernardsville",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j4j+vZIbwPEetcaT7q+zqw=="
+    },
+    {
+      "name": "Thomas Lee",
+      "gender": "Male",
+      "city": "Millburn",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "3Rq7h/HKGL2wc6fejZ430w=="
+    },
+    {
+      "name": "Christine Lemesianou",
+      "gender": "Female",
+      "city": "Bloomfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K/F86tbIqy2POmsz/lgs2w=="
+    },
+    {
+      "name": "Karen Lerner",
+      "gender": "Female",
+      "city": "Warren",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z+jayQUFaWwlR7ZtRYs6gw=="
+    },
+    {
+      "name": "Lauren Levy",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tinpuq8f8SDlGNNq+Wvj7Q=="
+    },
+    {
+      "name": "Karolina Li",
+      "gender": "Female",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UUfTBHyzk8R2jtGm1zrHgQ=="
+    },
+    {
+      "name": "Dongsung Lim",
+      "gender": "Male",
+      "city": "Fair Lawn",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "5DlJOEU3LJtqfv467FP4wg=="
+    },
+    {
+      "name": "Erwin Lin",
+      "gender": "Male",
+      "city": "Raritan",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "YrYB8zjALovd7fb6Mh0pag=="
+    },
+    {
+      "name": "Drew Lipshutz",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q+utNQ0gWK+f2emJOIYpgQ=="
+    },
+    {
+      "name": "Bibi Lipton",
+      "gender": "Female",
+      "city": "Warren",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iWVBxqFiE4eODJhOseZxsw=="
+    },
+    {
+      "name": "Amy Liu",
+      "gender": "Female",
+      "city": "Pine Brook",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4OXGuCVzQhvKwfAoLpXpZg=="
+    },
+    {
+      "name": "Marilyn Liu",
+      "gender": "Female",
+      "city": "Mountain Lakes",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nKqGXp5Ecu7WPWHcU5rJVg=="
+    },
+    {
+      "name": "Richard Liu",
+      "gender": "Male",
+      "city": "Nutley",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IOkU87jG+b3SzCE+LYJLhg=="
+    },
+    {
+      "name": "Cathleen Lopez",
+      "gender": "Female",
+      "city": "Berkeley Heights",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P3NH3jpDvx/NQiPxTbceqg=="
+    },
+    {
+      "name": "Tim Lough",
+      "gender": "Male",
+      "city": "Mountainside",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "O/xfGFuQUtaJsMAMsZe1Ww=="
+    },
+    {
+      "name": "Scott Lowder",
+      "gender": "Male",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wif4fU8ir7owLKoaNOyFlQ=="
+    },
+    {
+      "name": "Wulf Lueckerath",
+      "gender": "Male",
+      "city": "Mount Kisco",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ok2UvQhS3LyEWFJ+eAu7+w=="
+    },
+    {
+      "name": "Liza Luk",
+      "gender": "Female",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/13/2024",
+      "usta_id": "Vo/jC/KVSm6bBxIbL50C2Q=="
+    },
+    {
+      "name": "Christina Lun",
+      "gender": "Female",
+      "city": "Mountainside",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TTxjpceOIWTRtSp5LOP+cg=="
+    },
+    {
+      "name": "Jamie Luo",
+      "gender": "Female",
+      "city": "Perth Amboy",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cIBz69X3iiIZfCRYUmL2rA=="
+    },
+    {
+      "name": "Lan Luo",
+      "gender": "Female",
+      "city": "Princeton",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AtSis7gvIK7d29YCTBOCQg=="
+    },
+    {
+      "name": "Lisa Luong",
+      "gender": "Female",
+      "city": "SOUTH ORANGE",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9/Iyi2SvsY4wVXgyxTl2HQ=="
+    },
+    {
+      "name": "Hans Ma",
+      "gender": "Male",
+      "city": "Long Island City",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zb4PZxdImGZwRe3IkxXsZA=="
+    },
+    {
+      "name": "Hsiaoli Ma",
+      "gender": "Female",
+      "city": "Parsippany",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DsBTYRnuyPIjPOmDS0u2eg=="
+    },
+    {
+      "name": "Yoeur-Man Teagan MacH",
+      "gender": "Female",
+      "city": "Bellevue",
+      "state": "WA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0ukWhMBo/RQNZCSnxxACwA=="
+    },
+    {
+      "name": "Victoria Madonna",
+      "gender": "Female",
+      "city": "Hurley",
+      "state": "NY",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dWGc0VRp2jLlb/GEbm3dLA=="
+    },
+    {
+      "name": "Brian Maher",
+      "gender": "Male",
+      "city": "Cedar Knolls",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "b0Pr9TTtBN5WqGoi8FudgA=="
+    },
+    {
+      "name": "Christiane Mahoney",
+      "gender": "Female",
+      "city": "Peapack",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ye4N193M+7YwB9/4BHa+Yw=="
+    },
+    {
+      "name": "SALENA MAHR",
+      "gender": "Female",
+      "city": "Chatham",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hcxRmwYfsncK5E+F+PBKKg=="
+    },
+    {
+      "name": "Litao Mai",
+      "gender": "Female",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JZQUZJ1F4d2OTXYgbEKMiA=="
+    },
+    {
+      "name": "Donna Makowski",
+      "gender": "Female",
+      "city": "Clark",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G1UsJLVxhjrsQSinQ0Gmww=="
+    },
+    {
+      "name": "Danielle Mandel",
+      "gender": "Female",
+      "city": "Fair Lawn",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/25/2024",
+      "usta_id": "xVEW47Oal8vgZWljyF0c2g=="
+    },
+    {
+      "name": "Seth Manjos",
+      "gender": "Male",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7XIPoq6Bo92zGnYcTHfoKw=="
+    },
+    {
+      "name": "Xuezhou Mao",
+      "gender": "Male",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/16/2024",
+      "usta_id": "89AiUNqidBMoW9l3JXGGgg=="
+    },
+    {
+      "name": "Sassy Martinez",
+      "gender": "Female",
+      "city": "Hillsborough",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZGsgvljQNTf2tncclpuqxw=="
+    },
+    {
+      "name": "Alida Martorell",
+      "gender": "Female",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "hu1+mUcbuvsZgrct+XPRdA=="
+    },
+    {
+      "name": "Cara Maser",
+      "gender": "Female",
+      "city": "Madison",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p5Amw6DP9du0+G8rJ3dJJw=="
+    },
+    {
+      "name": "Colleen Mason",
+      "gender": "Female",
+      "city": "Bernardsville",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KEFtsXif2si8dO1q7nHLoA=="
+    },
+    {
+      "name": "Dana Mastrolacasa",
+      "gender": "Female",
+      "city": "Newton",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/18/2024",
+      "usta_id": "nqq1zj1BtAtJGnxS69cgiA=="
+    },
+    {
+      "name": "Caroline McCarus",
+      "gender": "Female",
+      "city": "Morristown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QwtcBmnf0zhAg8v8mJJw2Q=="
+    },
+    {
+      "name": "Felicia McNeil",
+      "gender": "Female",
+      "city": "Plainfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rJgEaMYA4IGCDchoLfPo8A=="
+    },
+    {
+      "name": "Gabriela Medina",
+      "gender": "Female",
+      "city": "Rock Hill",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "h+DRj2Adq51ZR6imdggU3g=="
+    },
+    {
+      "name": "Ana Mercado",
+      "gender": "Female",
+      "city": "Guaynabo",
+      "state": "PR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WJF/ZYmzzB+Qwq5i9RQewA=="
+    },
+    {
+      "name": "Coleen Mills",
+      "gender": "Female",
+      "city": "Whippany",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NOtA2E6LzNgetGsPbje+vA=="
+    },
+    {
+      "name": "Elisabeth Mischel",
+      "gender": "Female",
+      "city": "Short Hills",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MnIAhStcKvsCm4thMf99jg=="
+    },
+    {
+      "name": "Hope Mitchell",
+      "gender": "Female",
+      "city": "ROSELAND",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qZqJWdZOhM4uRb+b5JykSA=="
+    },
+    {
+      "name": "Jeffrey Moore",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6wJn5tn3P85IhVjEytj2FQ=="
+    },
+    {
+      "name": "Luis Moquete",
+      "gender": "Male",
+      "city": "Newton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B09dGQxSQM11G9hdPx+Ong=="
+    },
+    {
+      "name": "Rita Morriale",
+      "gender": "Female",
+      "city": "Fords",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PDWJBx+5jyrx/zAfh5TjzQ=="
+    },
+    {
+      "name": "Perry Morton",
+      "gender": "Male",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/23/2025",
+      "usta_id": "IhDA7Ha1nLWmZAMWcEw8FQ=="
+    },
+    {
+      "name": "Denise Moser",
+      "gender": "Female",
+      "city": "New Providence",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GkBheB4bJBlm2Q73QVNZww=="
+    },
+    {
+      "name": "Patricia Mullen",
+      "gender": "Female",
+      "city": "Staten Island",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9gtec1Mqe8PWdipPvjLZ/g=="
+    },
+    {
+      "name": "Abigail Mulligan",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "T7ksrpGyQTleY8FdZEisAg=="
+    },
+    {
+      "name": "Deb Murawski",
+      "gender": "Female",
+      "city": "Rutherford",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RsPtRCoGZnMapahe4aVvOQ=="
+    },
+    {
+      "name": "Erin Murphy",
+      "gender": "Female",
+      "city": "Westwood",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/29/2024",
+      "usta_id": "lHQtwK4IuWhOCxR9bSfk8Q=="
+    },
+    {
+      "name": "Kenneth Murphy",
+      "gender": "Male",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/23/2025",
+      "usta_id": "di0h7O/apueyd3Zrvbh8lw=="
+    },
+    {
+      "name": "Maura Murray",
+      "gender": "Female",
+      "city": "Bound Brook",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gJIQd1oTxoQmMDVPe8LMLg=="
+    },
+    {
+      "name": "Elizabeth Mutisya",
+      "gender": "Female",
+      "city": "Princeton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IWrEvd9UHz8M/9WOidUKtA=="
+    },
+    {
+      "name": "Qiongrong Nie",
+      "gender": "Female",
+      "city": "Metuchen",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1+xxAMe/VphoAFTP1ujxug=="
+    },
+    {
+      "name": "Vanessa Nied",
+      "gender": "Female",
+      "city": "Holmdel",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aMeEAUf+W5r+IGPxblw4dg=="
+    },
+    {
+      "name": "Patricia O'Byrne",
+      "gender": "Female",
+      "city": "Warren",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0MK4xtAb/1Hayof/wAqBGg=="
+    },
+    {
+      "name": "Jill Olman",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gDagg4PPmSt1Ffe1EiwY2A=="
+    },
+    {
+      "name": "Noel Olsen",
+      "gender": "Female",
+      "city": "Staten Island",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9m5YuDm60dO892mOX+mWvw=="
+    },
+    {
+      "name": "Leslie O'Neal",
+      "gender": "Female",
+      "city": "Staten Island",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rNs7KV7tE0QoC9cTeHROWg=="
+    },
+    {
+      "name": "Michael ORawe",
+      "gender": "Male",
+      "city": "Landing",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/25/2025",
+      "usta_id": "xcBs0xg5pi9OMm+Mr2i/AQ=="
+    },
+    {
+      "name": "John Ordonez",
+      "gender": "Male",
+      "city": "Secaucus",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5QbW1ONUWDTx6Nj7j5iYpw=="
+    },
+    {
+      "name": "Elisa O'Rourke",
+      "gender": "Female",
+      "city": "Boonton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JXPx88EUTo8Rh2xM+Z1BBA=="
+    },
+    {
+      "name": "Peter Ortiz",
+      "gender": "Male",
+      "city": "Edgewater",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R+Vzp6fT4Qua05eblnDbhQ=="
+    },
+    {
+      "name": "Anna Osadchy",
+      "gender": "Female",
+      "city": "Ewing",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "XdVF0IoPuEmUWXD8enSzWw=="
+    },
+    {
+      "name": "Zachary Ott",
+      "gender": "Male",
+      "city": "MONTCLAIR",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "12/31/2024",
+      "usta_id": "i9Qd4cFbiINGtVMxbeYfJA=="
+    },
+    {
+      "name": "Svetlana Page-Natoli",
+      "gender": "Female",
+      "city": "WEST CALDWELL",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "njNX1BqolXfm3/58U7i8qw=="
+    },
+    {
+      "name": "Jason Palleschi",
+      "gender": "Male",
+      "city": "UPPER SADDLE RIVER",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UAjc+xNzk8QI/OD1v19rRQ=="
+    },
+    {
+      "name": "Viral Pandya",
+      "gender": "Male",
+      "city": "Edison",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+UR7NkwpG+jX+mjzbnneNQ=="
+    },
+    {
+      "name": "Joanna Parker-Lentz",
+      "gender": "Female",
+      "city": "Short Hills",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fa/h2axd46a7nxn+YNmcrg=="
+    },
+    {
+      "name": "Lisa Parkin",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gdB1MBYISlcVgyjHHKjaAA=="
+    },
+    {
+      "name": "Michael Patton",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xZwHgPxuU6zzWioE+ncqQw=="
+    },
+    {
+      "name": "Milagros Pena-Pickett",
+      "gender": "Female",
+      "city": "Somerville",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1NSIVYrdYMfvSimFrCiqtw=="
+    },
+    {
+      "name": "Michael Peng",
+      "gender": "Male",
+      "city": "Millburn",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lud+1IAb9fVQWWHwWk/0Pw=="
+    },
+    {
+      "name": "Christian Perez",
+      "gender": "Male",
+      "city": "North Bergen",
+      "state": "NJ",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "wjLkn5OPVxXmgxUr6ceoLw=="
+    },
+    {
+      "name": "JACOB PEREZ",
+      "gender": "Male",
+      "city": "Haworth",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W5RsmRUtIiO6jIYE+Nnurg=="
+    },
+    {
+      "name": "Marissa Perlman",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BMUkQEBis1uqj/7WfJQ4Ew=="
+    },
+    {
+      "name": "Catherine Perrone",
+      "gender": "Female",
+      "city": "SPARTA",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/20/2024",
+      "usta_id": "cQ8GX0gSxTcpyrVhwMyxow=="
+    },
+    {
+      "name": "Melissa Peters",
+      "gender": "Female",
+      "city": "Metuchen",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DnAVZnz1HjUMPdfXjw/rmQ=="
+    },
+    {
+      "name": "Xue Petrov",
+      "gender": "Female",
+      "city": "Chappaqua",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FgKv3JN1NJaYNwc3J1uAGQ=="
+    },
+    {
+      "name": "Mary Pezzella",
+      "gender": "Female",
+      "city": "Oldwick",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UBQq0K8KHoNloc5wUZWwiQ=="
+    },
+    {
+      "name": "Ryan Pienciak",
+      "gender": "Male",
+      "city": "Bloomfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iuuAzIE2CHufPE7QZk2C+Q=="
+    },
+    {
+      "name": "Sally Pillay",
+      "gender": "Female",
+      "city": "South Hackensack",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "orKRaPG4ekkLf4c8Dm39mg=="
+    },
+    {
+      "name": "Brian Pinto",
+      "gender": "Male",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "gkFqaLxjGlfPXpuUF8dlbw=="
+    },
+    {
+      "name": "Will Potter",
+      "gender": "Male",
+      "city": "JERSEY CITY",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OirjjRM9iG3Ee+n6bZ8zEg=="
+    },
+    {
+      "name": "Katie Prager",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "oBOqW4ueTG8W9EgcmZJKww=="
+    },
+    {
+      "name": "Molly Qin",
+      "gender": "Female",
+      "city": "Mountainside",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "nJzVC9UOlnUyc/an8jC6eA=="
+    },
+    {
+      "name": "Barbara Quackenbos",
+      "gender": "Female",
+      "city": "West Orange",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3srJXB9E7W8NOSGqXVRYVg=="
+    },
+    {
+      "name": "Christine Rafizadeh",
+      "gender": "Female",
+      "city": "Morristown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4nuozhD7K4r/yL2HKD4Kgw=="
+    },
+    {
+      "name": "Madhu Raghunathan",
+      "gender": "Male",
+      "city": "Millburn",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h8ri8n/Sr5lkElJd3wPVYg=="
+    },
+    {
+      "name": "Erika Rains",
+      "gender": "Female",
+      "city": "New Providence",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/5/2024",
+      "usta_id": "giTkdfaHwnN1i0LPrHoQiA=="
+    },
+    {
+      "name": "Mary Rapuano",
+      "gender": "Female",
+      "city": "Newton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/10/2024",
+      "usta_id": "NpsAvQrP4M7QpEGTIf4yRw=="
+    },
+    {
+      "name": "Sunil Ravindran",
+      "gender": "Male",
+      "city": "Edison",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UkhRtsbJwrNEpjMs1+saHA=="
+    },
+    {
+      "name": "Madhuri Reddy",
+      "gender": "Female",
+      "city": "SUMMIT",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tQr0Ui6FiZp6bR7D1UcQgg=="
+    },
+    {
+      "name": "Rachel Reed",
+      "gender": "Female",
+      "city": "Randolph",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eguhwdR6/w5WywarhF/i3g=="
+    },
+    {
+      "name": "Rachel Regan",
+      "gender": "Female",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VcaNARi3YlWlNiS2YY4ecA=="
+    },
+    {
+      "name": "Charlotte Reiche",
+      "gender": "Female",
+      "city": "New York",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3BPJZOS7jcZvKdnV8CIhPA=="
+    },
+    {
+      "name": "Jill Retik",
+      "gender": "Female",
+      "city": "Berkeley Heights",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x1Xme3Ao1777rZRhz1j6Gg=="
+    },
+    {
+      "name": "Eric Rhee",
+      "gender": "Male",
+      "city": "Maplewood",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/26/2025",
+      "usta_id": "BHkOxDzNsDi8qmT0Lro16w=="
+    },
+    {
+      "name": "Omer Riaz",
+      "gender": "Male",
+      "city": "Fanwood",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/21/2025",
+      "usta_id": "cHJ9cYtJ3cRgZfjMs3Pfig=="
+    },
+    {
+      "name": "LEONARDO RINALDI",
+      "gender": "Male",
+      "city": "Springfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4Y39fUv368uLqBphyvmcRA=="
+    },
+    {
+      "name": "Alia Rind",
+      "gender": "Female",
+      "city": "Somerville",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yTvsFEo57dD9S5CaQdBmlg=="
+    },
+    {
+      "name": "Lucy Robacker",
+      "gender": "Female",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "NV0h1VEd5PSTviQIbGcW0g=="
+    },
+    {
+      "name": "Monica Rodriguez",
+      "gender": "Female",
+      "city": "Rahway",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "3/18/2025",
+      "usta_id": "vq24odrHZf+Nz/m+0gQ6KA=="
+    },
+    {
+      "name": "Deborah Rogut",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PQWNp8D97XbEohgyQ4Hmmw=="
+    },
+    {
+      "name": "Susan Roos",
+      "gender": "Female",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "viQHiR8JmWIyNU3pFjTwUQ=="
+    },
+    {
+      "name": "Jody Rose-Bronner",
+      "gender": "Female",
+      "city": "Montclair",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kfqubc0eNdfM30Utvs0gNw=="
+    },
+    {
+      "name": "Diana Rosenkrantz",
+      "gender": "Female",
+      "city": "South Plainfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dmlhpGUOyYM0bDDgwE1olQ=="
+    },
+    {
+      "name": "Fabrizio Rotati",
+      "gender": "Male",
+      "city": "Tenafly",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZBRxIdNXNvqoxAUs2XLE2w=="
+    },
+    {
+      "name": "Jon Rubinstein",
+      "gender": "Male",
+      "city": "Union",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yDhmntQA9wc55mc+FhOAng=="
+    },
+    {
+      "name": "Nancy Rudgers",
+      "gender": "Female",
+      "city": "Morristown",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "osEDeYijC+36ToTo0/eOYw=="
+    },
+    {
+      "name": "Christine Ryberg",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lok4xbVNNuFcOTr+ZnmW/w=="
+    },
+    {
+      "name": "Patricia Saltzer",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/13/2024",
+      "usta_id": "NZ8m+JEzrYGMZnoUBLfw+g=="
+    },
+    {
+      "name": "Stefano Salvatore",
+      "gender": "Male",
+      "city": "Mahwah",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "kN6HLW0HdaDEbbEkboaMig=="
+    },
+    {
+      "name": "Craig Sandler",
+      "gender": "Male",
+      "city": "MONTVALE",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OK+xM0h4naiODU2mH7syYw=="
+    },
+    {
+      "name": "Karthik Sankaralingam",
+      "gender": "Male",
+      "city": "CHATHAM",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zFW1fjR1uRpZO/jz1xzd6g=="
+    },
+    {
+      "name": "Mario Raul Santoyo Reyes",
+      "gender": "Male",
+      "city": "Morris Plains",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "bODaCQi2HRkwPGIWeSJsIw=="
+    },
+    {
+      "name": "Natasha Sauerborn",
+      "gender": "Female",
+      "city": "Pleasantville",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OF+KlcuUSkFhkIuPMcJ1Jw=="
+    },
+    {
+      "name": "Nathan Sayers",
+      "gender": "Male",
+      "city": "South Orange",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dPteaP0it4D3woqUU9MTPw=="
+    },
+    {
+      "name": "Lynn Schaper",
+      "gender": "Female",
+      "city": "Kinnelon",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u+5GqBIuRplXaVXPI+ITgQ=="
+    },
+    {
+      "name": "David Schwartz",
+      "gender": "Male",
+      "city": "Mahwah",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YDDHsKBO2Tf40Lh6T3cd3w=="
+    },
+    {
+      "name": "Maria Seckler",
+      "gender": "Female",
+      "city": "Warren",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jCERTZmDwHHdNk0jQ7Kxnw=="
+    },
+    {
+      "name": "Rajiv Sethumadhavan",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pCkbMdr7VfYtijOA068eJg=="
+    },
+    {
+      "name": "Ipsita Sethy",
+      "gender": "Female",
+      "city": "Edison",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t52Ygvxx6rHV/5dPXB0qoA=="
+    },
+    {
+      "name": "Igor Shames",
+      "gender": "Male",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/3/2025",
+      "usta_id": "5C0/cLK3b6g/NA3OjIBbIw=="
+    },
+    {
+      "name": "Anshul Sharma",
+      "gender": "Male",
+      "city": "Chatham",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "v+9wE/okc5EISQLHJ0KOow=="
+    },
+    {
+      "name": "Holly Shaw",
+      "gender": "Female",
+      "city": "Montclair",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0GGcypmRvCsU1gCropyxqw=="
+    },
+    {
+      "name": "George Sheffey",
+      "gender": "Male",
+      "city": "Secaucus",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nG6yBQue4JmXu54BRByAZQ=="
+    },
+    {
+      "name": "Lisa Sheikovitz",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/19/2024",
+      "usta_id": "RJnIkIPYzrxKTv++faIWnQ=="
+    },
+    {
+      "name": "Alicia Shieh",
+      "gender": "Female",
+      "city": "Parsippany",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Ug3m/cJlCZ+rDxk+CvPpw=="
+    },
+    {
+      "name": "Nelly Shimarova",
+      "gender": "Female",
+      "city": "Princeton",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iupys2pwknqyWmpCCLb2Vg=="
+    },
+    {
+      "name": "Kathy Shin",
+      "gender": "Female",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RnS5Bm0rLpjbvSmVTKA2Sw=="
+    },
+    {
+      "name": "Kevin Shin",
+      "gender": "Male",
+      "city": "Cresskill",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HyBVOO8cEdrltIRCuZoC3w=="
+    },
+    {
+      "name": "Saori Shiokawa",
+      "gender": "Female",
+      "city": "Ridgewood",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1/5bTD30dQTeKmn/op2pyg=="
+    },
+    {
+      "name": "Sergey Shkop",
+      "gender": "Male",
+      "city": "Ridgewood",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xNI1PylVrrfNhhS/a97rlQ=="
+    },
+    {
+      "name": "Steve Siebelts",
+      "gender": "Male",
+      "city": "Bedminster",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/13/2025",
+      "usta_id": "fX9+r3JYz0huN6HJD9Xg6g=="
+    },
+    {
+      "name": "Bradley Sloand",
+      "gender": "Male",
+      "city": "Morristown",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zC9knBrjpxUbXIv7cN9DqQ=="
+    },
+    {
+      "name": "Megumi Smillie",
+      "gender": "Female",
+      "city": "Fort Lee",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tTQXX4Csu/GtT+hgTgkV4g=="
+    },
+    {
+      "name": "Emily Smith",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/17/2024",
+      "usta_id": "hEsAOBpNe23toe9YZX7jWg=="
+    },
+    {
+      "name": "Gina Smith",
+      "gender": "Female",
+      "city": "Millburn",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mtCAbXDGMHUKUmSi3ou69A=="
+    },
+    {
+      "name": "Emmanuel Sobong",
+      "gender": "Male",
+      "city": "Fort Lee",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CoRFDa7VkPRRuOFBJAkxZQ=="
+    },
+    {
+      "name": "Andrew Song",
+      "gender": "Male",
+      "city": "Glen Ridge",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4L9PzDaqkDUUMmZyPP9CGw=="
+    },
+    {
+      "name": "Virmar Sosa",
+      "gender": "Female",
+      "city": "Rahway",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HrZsuBQ1eYUgH3EfzLvxPA=="
+    },
+    {
+      "name": "Chris Soulios",
+      "gender": "Male",
+      "city": "South Bound Brook",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0CxzrB8bjHACKB5+KzLnMg=="
+    },
+    {
+      "name": "Bruce Spear",
+      "gender": "Male",
+      "city": "Short Hills",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O0RSFZqKqf5f54aAgAseHg=="
+    },
+    {
+      "name": "Carla Spear",
+      "gender": "Female",
+      "city": "Short Hills",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9+lbRMPpAxVMhGOHRlfajQ=="
+    },
+    {
+      "name": "Prasanna Srinivasan",
+      "gender": "Male",
+      "city": "Budd Lake",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JHRhu1qQISMOjgGZr05aLw=="
+    },
+    {
+      "name": "Francine Stern",
+      "gender": "Female",
+      "city": "MADISON",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "IatTK/XJ9iATYMbo2bmOog=="
+    },
+    {
+      "name": "Deborah Stoller",
+      "gender": "Female",
+      "city": "Mount Arlington",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qc1MgNIF7qaatdLmDZb4hw=="
+    },
+    {
+      "name": "Stefanie Stolnick",
+      "gender": "Female",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W2RiWYWCVz7SL6pdE1ogyg=="
+    },
+    {
+      "name": "Xiaoyu Sun",
+      "gender": "Female",
+      "city": "MOUNTAIN LAKES",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "eotEDCckMFD0rayDU9hEmw=="
+    },
+    {
+      "name": "Andre Sutrisno",
+      "gender": "Male",
+      "city": "Flemington",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/19/2024",
+      "usta_id": "tpvF8DrNGUbJjHjOqBRK4A=="
+    },
+    {
+      "name": "Juanita Tam",
+      "gender": "Female",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rki6VAVD+0OalHYZcNIcNA=="
+    },
+    {
+      "name": "Grace Tamiso",
+      "gender": "Female",
+      "city": "Madison",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/9/2024",
+      "usta_id": "Az+TCJXLSb/VQ93Vvp3hKg=="
+    },
+    {
+      "name": "Sharon Tanenbaum Kraus",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7hPxPmKWZ6dUaoqdxlu2cQ=="
+    },
+    {
+      "name": "Tina Tang",
+      "gender": "Female",
+      "city": "Short Hills",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L+LzRJR0e4wqxBRDa5GWZg=="
+    },
+    {
+      "name": "Curtis Tao",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YGtXFn7dG04FRILSCFMFEg=="
+    },
+    {
+      "name": "Tanjida Tasmin",
+      "gender": "Female",
+      "city": "Jersey City",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I1e/qJGVFQ99ci4jpytSzA=="
+    },
+    {
+      "name": "Valerie Tchikanda",
+      "gender": "Female",
+      "city": "HILLSBOROUGH",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "efTBYSWXAOIfHs7agvEP0w=="
+    },
+    {
+      "name": "Chantley Thomas",
+      "gender": "Female",
+      "city": "Linden",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N6sgTlToIHcqXqDQy6fTJA=="
+    },
+    {
+      "name": "Vinu Thomas",
+      "gender": "Male",
+      "city": "Chester",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CCxFTe8LR+FqFpOu04fHwA=="
+    },
+    {
+      "name": "Nikki Thompson",
+      "gender": "Female",
+      "city": "Rahway",
+      "state": "NJ",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "deefe30ZZq5p+m2epnVA4g=="
+    },
+    {
+      "name": "Yao Tian",
+      "gender": "Female",
+      "city": "Weehawken",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y6uXf2nVMyLs0csF7IuOxw=="
+    },
+    {
+      "name": "Brooke Tilton",
+      "gender": "Female",
+      "city": "BOONTON",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gPftxz4FHXc+W/ofznFbZw=="
+    },
+    {
+      "name": "Pranee Tonkaew",
+      "gender": "Female",
+      "city": "West Orange",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yAblboreX35OL+IZzygRxQ=="
+    },
+    {
+      "name": "Burak Topcuoglu",
+      "gender": "Male",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vxK5sAEWig3A8jsYHB7JLg=="
+    },
+    {
+      "name": "Gabriel Topor",
+      "gender": "Male",
+      "city": "Berkeley Heights",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "77LIj1lMart/RYk5PBaleA=="
+    },
+    {
+      "name": "Juliet Traum",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hvZWyPpBMevJPGik81Zfhw=="
+    },
+    {
+      "name": "Joanna Tricorache",
+      "gender": "Female",
+      "city": "Staten Island",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FlULDhztzMXaBJJ1mohioQ=="
+    },
+    {
+      "name": "Kathy Tsang",
+      "gender": "Female",
+      "city": "Gillette",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oF043R2ycbCnfWXcKSAgag=="
+    },
+    {
+      "name": "Denny Tsettos",
+      "gender": "Male",
+      "city": "WEST CALDWELL",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7DnKyqKD6fOVSVawNJXlng=="
+    },
+    {
+      "name": "Vladi Tsipenyuk",
+      "gender": "Male",
+      "city": "CALDWELL",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PPxvCSFYG8XfktzPw+9qzQ=="
+    },
+    {
+      "name": "Satish Umapathy",
+      "gender": "Male",
+      "city": "Hoboken",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/24/2025",
+      "usta_id": "lpYbOljzE2G5YJjD7Jmw2w=="
+    },
+    {
+      "name": "Mary Uzzolino",
+      "gender": "Female",
+      "city": "Springfield",
+      "state": "NJ",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "BMUkQEBis1vVGk0ZZl8KyQ=="
+    },
+    {
+      "name": "Shihas Vamanjoor",
+      "gender": "Male",
+      "city": "Secaucus",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7sEX2wVF/mydrl9iX7xqtw=="
+    },
+    {
+      "name": "Catherine M Varriano",
+      "gender": "Female",
+      "city": "Staten Island",
+      "state": "NY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WnOyH4utEAkivL4COTJTVg=="
+    },
+    {
+      "name": "Carlos Vasquez Sr",
+      "gender": "Male",
+      "city": "HAWORTH",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oOi9mRtAGLQ+Jc2XIcvWaA=="
+    },
+    {
+      "name": "Ashish Vats",
+      "gender": "Male",
+      "city": "SHORT HILLS",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+m5toFqUEMyBoYStFDxE0g=="
+    },
+    {
+      "name": "Patricia Vaughan",
+      "gender": "Female",
+      "city": "Plainfield",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r57G1hQMnMPu9jODmBALjQ=="
+    },
+    {
+      "name": "Maria Velazquez",
+      "gender": "Female",
+      "city": "Union",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NLU7CogtgBni6n2G8bAMOg=="
+    },
+    {
+      "name": "Noelle Verity Koetje",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/8/2023",
+      "usta_id": "1kWCT6fzBpnqOV8quOs1iA=="
+    },
+    {
+      "name": "Francois Vernet",
+      "gender": "Male",
+      "city": "Ridgewood",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z4WditTFfoSxJo9LJe19Ow=="
+    },
+    {
+      "name": "Francis Verpoucke",
+      "gender": "Male",
+      "city": "JERSEY CITY",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "cTdPBKbua3xYbs/4bLLPzQ=="
+    },
+    {
+      "name": "Victoria Vigil",
+      "gender": "Female",
+      "city": "Montville",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "85aUY3ec+hcBpYhqZol6Jw=="
+    },
+    {
+      "name": "Michele Voon",
+      "gender": "Female",
+      "city": "Millburn",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/14/2024",
+      "usta_id": "W4zRuWIcc3iWpBhhyvf+1A=="
+    },
+    {
+      "name": "David Wachs",
+      "gender": "Male",
+      "city": "Hoboken",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wFSZrcJLd+BM6QC/TpRfAA=="
+    },
+    {
+      "name": "Hong Wang",
+      "gender": "Male",
+      "city": "Warren",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/10/2024",
+      "usta_id": "RtsZJDVfXQCFnweK3Mr56w=="
+    },
+    {
+      "name": "Jane Wang",
+      "gender": "Female",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WxW/1xLYUmK5D6DoKDpOJw=="
+    },
+    {
+      "name": "Cecilia Wong",
+      "gender": "Female",
+      "city": "Manalapan",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jf5BFhdp9kjeq8kLKyKzng=="
+    },
+    {
+      "name": "Ji Won Woo",
+      "gender": "Female",
+      "city": "Oradell",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "grkuvKNEg1Z7ExcH9UcCpA=="
+    },
+    {
+      "name": "Joanne Wroblewski",
+      "gender": "Female",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4oSHLXBkfLbu7Sa8IYl32w=="
+    },
+    {
+      "name": "Jean Wu",
+      "gender": "Female",
+      "city": "Fort Lee",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "yF4GTQkniJjouCf1JuYbbg=="
+    },
+    {
+      "name": "Ken Wu",
+      "gender": "Male",
+      "city": "Fort Lee",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fICEV0h5OuGlnkLZSh0LYg=="
+    },
+    {
+      "name": "Le Rong Wu",
+      "gender": "Male",
+      "city": "Wayne",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E8qwNLrZhQslX3U/CksUdQ=="
+    },
+    {
+      "name": "Yunyun Xiong",
+      "gender": "Female",
+      "city": "Bridgewater",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Etq/VW15rBpJj9Xm10RSjg=="
+    },
+    {
+      "name": "Debra Xu",
+      "gender": "Female",
+      "city": "Chatham",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/11/2024",
+      "usta_id": "ErAH8QkWzQ1jrem4EQrl4Q=="
+    },
+    {
+      "name": "Maria Yaroshenko",
+      "gender": "Female",
+      "city": "Cranford",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qc235AIQXf4vCiIfMBbRzA=="
+    },
+    {
+      "name": "Oksoun Yee",
+      "gender": "Female",
+      "city": "Watchung",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nv3IpY5cVUUAZV+ovkMGPw=="
+    },
+    {
+      "name": "Hannah Yoon",
+      "gender": "Female",
+      "city": "Ridgefield",
+      "state": "NJ",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Syheq5q1lj2g3ysQT+kfgg=="
+    },
+    {
+      "name": "Faena Youngquist",
+      "gender": "Female",
+      "city": "Westfield",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "62gBMG3dGp2WVVLSDtp2lg=="
+    },
+    {
+      "name": "Jie Yuan",
+      "gender": "Male",
+      "city": "Whippany",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/26/2024",
+      "usta_id": "ejtuc3pvWZCreiUqLnFiiQ=="
+    },
+    {
+      "name": "Hazel Zaldivar",
+      "gender": "Female",
+      "city": "Astoria",
+      "state": "NY",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cWpBRga3KJu3XWPG2OIISA=="
+    },
+    {
+      "name": "Shirley Zelaya",
+      "gender": "Female",
+      "city": "Piscataway",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hPp9Yz3VtIRCAPs/cdjKsQ=="
+    },
+    {
+      "name": "Donghui Zhang",
+      "gender": "Female",
+      "city": "OVIEDO",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3wpnG1UbT2jYN+fXOMqThQ=="
+    },
+    {
+      "name": "Jean Zhang",
+      "gender": "Female",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X1Wh3HB92kxvna7pKMZYsg=="
+    },
+    {
+      "name": "Meng Zhang",
+      "gender": "Female",
+      "city": "Hillsborough",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "riczYRdTjeDQIL/M/TBZng=="
+    },
+    {
+      "name": "Ting Zhang",
+      "gender": "Male",
+      "city": "Staten Island",
+      "state": "NY",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v8rwZPeRkweRDoDsTazZjQ=="
+    },
+    {
+      "name": "Tong Zhang",
+      "gender": "Female",
+      "city": "Belle Mead",
+      "state": "NJ",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nCvXxn35DAReBoGc7lZS0w=="
+    },
+    {
+      "name": "Zhendong Zhang",
+      "gender": "Male",
+      "city": "Middletown",
+      "state": "NJ",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "v9QOyC6DxNvzdquLIyMtCA=="
+    },
+    {
+      "name": "Ann Zullo",
+      "gender": "Female",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/4/2024",
+      "usta_id": "S1RT/4L0WDAf6a4kUp9Nfg=="
+    }
+  ]
+}

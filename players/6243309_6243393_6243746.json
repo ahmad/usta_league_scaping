@@ -1,0 +1,4757 @@
+{
+  "sectionId": "6243309",
+  "districtId": "6243393",
+  "areaId": "6243746",
+  "players": [
+    {
+      "name": "Kareem Abdullah",
+      "gender": "Male",
+      "city": "MCALLEN",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3JNTtwVPAFKUOrcGdtA60Q=="
+    },
+    {
+      "name": "Jacqueline Abisad",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fw/wFGgaxM0+kc7a705Pbw=="
+    },
+    {
+      "name": "Anna Abrego",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gEWGL9Rn/3DW0sJIX0zshQ=="
+    },
+    {
+      "name": "Eduard Aggarao",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dBQW8sWcjooNJcDWbIr4kA=="
+    },
+    {
+      "name": "Marisa Aguilar",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KkrXVA/t9y1rqUsj76AW1w=="
+    },
+    {
+      "name": "Monica Aguilar",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XR16bbLStczWClzOb6R41Q=="
+    },
+    {
+      "name": "Bianca Aguirre",
+      "gender": "Female",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/7/2025",
+      "usta_id": "aVsO+DDuyy+vMx3Hlr5qCw=="
+    },
+    {
+      "name": "Tomas Aguirre",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZLvn2rmgKrsYEwuwVgc9lg=="
+    },
+    {
+      "name": "Mo Alcocer",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "5JBRGInZTvwcs5B2UyguOA=="
+    },
+    {
+      "name": "Gabriela Almanza",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MsC8+KEdYvoeZY0BQjKWPA=="
+    },
+    {
+      "name": "Aaron Almendarez",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZvZCSBaKFddm1eBzdvO+2Q=="
+    },
+    {
+      "name": "Luis Alvarez",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ofjS0l6JNSitKqvkX85ZJA=="
+    },
+    {
+      "name": "Brenda Araneda",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "An3HnSk8Ig7tJUScvUjmaA=="
+    },
+    {
+      "name": "Lilly Arias",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N8NZh/49FcBEglDn9dGPig=="
+    },
+    {
+      "name": "Estefania Arzate Almeraz",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n0rS33ZfskhjQSb7zwpKPQ=="
+    },
+    {
+      "name": "Jessica Averyt",
+      "gender": "Female",
+      "city": "Rancho Viejo",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "40eDl3F0lnnpewF9tfsfFg=="
+    },
+    {
+      "name": "Elizabeth Ayala",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6JPgjxpJj7q1pG6TS4neiA=="
+    },
+    {
+      "name": "Dru Baczewski",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xphQaWdaK86zIXRsvcWPNw=="
+    },
+    {
+      "name": "Krista Banuelos",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "st3TvnRtJggqE6Aj2oKlwQ=="
+    },
+    {
+      "name": "Lorena Barbeito",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "orgyWT5uzXkgPMzK2ytQuQ=="
+    },
+    {
+      "name": "Neil Barraclough",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aue3nUYgPiV9lVgyv/l+DA=="
+    },
+    {
+      "name": "Eleaine Barron",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p3PITNP2axpf45If66HtTg=="
+    },
+    {
+      "name": "Bennett Bartlett",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rd2sP1pzMa2DFHf1lCa2ZQ=="
+    },
+    {
+      "name": "Amy Beale",
+      "gender": "Female",
+      "city": "La Feria",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "NH+jfjmQo0zIxNtlp8ipFw=="
+    },
+    {
+      "name": "Olivia Bedolla",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NwezcY/99UuHOgrV6gRv0w=="
+    },
+    {
+      "name": "Monica Benavides",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/6/2023",
+      "usta_id": "bhqdOX2U3dbl3tMfYLLanw=="
+    },
+    {
+      "name": "Ricardo Benavides",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZLyuJZpzSTegdU5MuqpaXA=="
+    },
+    {
+      "name": "William Bender",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TJmoVJJp6UcRoFkDYL30/Q=="
+    },
+    {
+      "name": "Amanda Bercher",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "loKZM0GyfEv1bzfrWLvY9w=="
+    },
+    {
+      "name": "Martha Bernal",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N8BfTJgmP7/zrqHicyI55w=="
+    },
+    {
+      "name": "Herb Best",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Hjh8XCdB8yDW+3AQecAxQ=="
+    },
+    {
+      "name": "Kim Boggus",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GC9ADcyVTfRSpBbiSEs3Sw=="
+    },
+    {
+      "name": "Gilda Bowen",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vi6btplu/eoKaRUY0OgOXg=="
+    },
+    {
+      "name": "Cisco Buford",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/6/2025",
+      "usta_id": "VCqy2YgL/efy4yka9tyTgw=="
+    },
+    {
+      "name": "Tina Buford",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+sB77pUjR2/j5BJvkCAtWg=="
+    },
+    {
+      "name": "William Buford",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/8/2025",
+      "usta_id": "4MtIjf84lCwFlRq4N3XQeA=="
+    },
+    {
+      "name": "Silvia Butanda",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MqSBdqsnQ/5Jk3W1kDL9iA=="
+    },
+    {
+      "name": "Daniel Cabrera",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LIxzmtREwFZOavSDwpSMIA=="
+    },
+    {
+      "name": "Adrian Cadena-Medina",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CI/kDo8f6yPFe0jRudTb+g=="
+    },
+    {
+      "name": "Karla Calzada",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "ky8PfFu8pZsJoq01ZUM4NA=="
+    },
+    {
+      "name": "Esli Campos",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bb9m2cvjbo/yA08du78Vjw=="
+    },
+    {
+      "name": "Claudia Campoya",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tw+nhvbXbxOwTXLNaVUEcg=="
+    },
+    {
+      "name": "Adriana Canales",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ynkdhaPNIeROuXwIwZW+Iw=="
+    },
+    {
+      "name": "Bobbie Cantu",
+      "gender": "Female",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2nwJsbaXzq5oeyixNlFM7g=="
+    },
+    {
+      "name": "Jaime Cantu",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MAsxLu7aH9gYjQw7hghlsw=="
+    },
+    {
+      "name": "Lucia Cantu",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jeZfV/PKd/xefgWw/oZubA=="
+    },
+    {
+      "name": "Patricia Cantu",
+      "gender": "Female",
+      "city": "Olmito",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/6/2024",
+      "usta_id": "u8gM0RGHBjBGIGHwk9Npug=="
+    },
+    {
+      "name": "Sebastian Cantu",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "At+FckPpFWEnD1JwrH2hGw=="
+    },
+    {
+      "name": "Arturo Cantualla",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D2hLoEyIzV1U14K9Lr23TA=="
+    },
+    {
+      "name": "Guillermo Caracheo",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WXd41EZwXWhJGs4wMfl3iQ=="
+    },
+    {
+      "name": "Cesar Cardenas",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8O+YfIWryRH4bEe1P2mnvA=="
+    },
+    {
+      "name": "Beth Carter",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L14Aq1SFllkdwBxnzCDLRQ=="
+    },
+    {
+      "name": "Karina Carvajal",
+      "gender": "Female",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "luHB8IBlzArQr2SHnodqlg=="
+    },
+    {
+      "name": "Jose M Castaneda",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/9/2025",
+      "usta_id": "pD+xjRfiUhWyXxdKBDcxZg=="
+    },
+    {
+      "name": "Monica Castellanos",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cPc/JIE2/CEJtyC6DkbSlQ=="
+    },
+    {
+      "name": "Angel Castillo",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zRUAQa5A7mBUSmdKbdZCxg=="
+    },
+    {
+      "name": "Crystal Castillo",
+      "gender": "Female",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fJ0Gli7q6I0QYfOCSSjz8Q=="
+    },
+    {
+      "name": "Guillermo Castillo",
+      "gender": "Male",
+      "city": "Pharr",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zOSLV6iXRFLTt2SitO8VVg=="
+    },
+    {
+      "name": "Richard Castillo",
+      "gender": "Male",
+      "city": "WESLACO",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DLDVhA0WK5sOX+c30G8ydQ=="
+    },
+    {
+      "name": "Abel Cavazos",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jy0ZjqNFy8zFWHVriEpRjQ=="
+    },
+    {
+      "name": "Imelda Cavazos",
+      "gender": "Female",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ao20tg4tBWrQxpG3803i3Q=="
+    },
+    {
+      "name": "Marla Cavazos",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dSrWq/VA83Y/xcxKED+QEg=="
+    },
+    {
+      "name": "Rosana Cendejas",
+      "gender": "Female",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "luHB8IBlzAoHvjjzIUlniQ=="
+    },
+    {
+      "name": "Juan Cepeda",
+      "gender": "Male",
+      "city": "Alamo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fqsUrbLS9zmNr9s8Bh15CQ=="
+    },
+    {
+      "name": "Licia Cerrate-Reinoso",
+      "gender": "Female",
+      "city": "Pharr",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dr6cbmzfHVP9Urby1oPqtQ=="
+    },
+    {
+      "name": "Kelly Cerroni",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fX48A++3h+DWYIq8HZzENA=="
+    },
+    {
+      "name": "Patricia Chapa",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iRDlwDhpBtxxO+GselHelw=="
+    },
+    {
+      "name": "Stephanie Chavez",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xParpBgjrJxlIP0/OeStlw=="
+    },
+    {
+      "name": "Eva Chipps",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lyK0qrtUsr4RjVi7+F+86w=="
+    },
+    {
+      "name": "Lauren Christy",
+      "gender": "Female",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "uvnKqX/DJMkUwGbacSItnw=="
+    },
+    {
+      "name": "Tracy Clifton",
+      "gender": "Female",
+      "city": "ORLANDO",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LB3NxoldH3X3hgAjYzQhcQ=="
+    },
+    {
+      "name": "Adele Clinton-Solis",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5haxEldFFA2gj7Xdfg7oIg=="
+    },
+    {
+      "name": "Glenn Codnita",
+      "gender": "Male",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/28/2024",
+      "usta_id": "bSHfgLhIrdI5Fo/igbe6jg=="
+    },
+    {
+      "name": "Eunice Contreras",
+      "gender": "Female",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/14/2025",
+      "usta_id": "yfPtdEXqtA08zzn1dvVXvw=="
+    },
+    {
+      "name": "Nanci Cooley",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wchVcoPZo/GbBvddC8+WEw=="
+    },
+    {
+      "name": "Leonardo Cortes",
+      "gender": "Male",
+      "city": "San Juan",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2rIcW3HkokaDe8G/QexAwA=="
+    },
+    {
+      "name": "Luz Cortes",
+      "gender": "Female",
+      "city": "Laguna Vista",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DaIqS/i2ebwWQAuskBcqCw=="
+    },
+    {
+      "name": "Isadora Costa Motta de Carvalho",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jApfp5de5UkBRSBe1m0qyQ=="
+    },
+    {
+      "name": "Seferino Couoh",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5iHf5eCLp1+6VnxjM12MjQ=="
+    },
+    {
+      "name": "DORILMA COVA",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yL1ej3XLg15g3I/WRlTO/A=="
+    },
+    {
+      "name": "Gina Crixell",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/sF87EeA+O7B4npsGrIKSw=="
+    },
+    {
+      "name": "Jim Crixell",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "44HFfrqQpEsVg5JbJCl1OA=="
+    },
+    {
+      "name": "Frances Crouse",
+      "gender": "Female",
+      "city": "HOUSTON",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "lW5QE1N+iU6NRkNHjGWeJw=="
+    },
+    {
+      "name": "Steve Cuevas",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/16/2025",
+      "usta_id": "E/FJ1vh8tjBeLSHCZdGTbw=="
+    },
+    {
+      "name": "Ambrose Cuison",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vZKkP441m5udN0ep/AtY/g=="
+    },
+    {
+      "name": "Joshua Cummings",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oc1ZgRDEc73fvNZDcP8nqw=="
+    },
+    {
+      "name": "Giselle Curto",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7jc3uVPhvyiKHEWpdeXVgA=="
+    },
+    {
+      "name": "Ana Rocio Davila",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5CXUFkZoYh4nc2taoYKZ1g=="
+    },
+    {
+      "name": "Patty Davis",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TPeWtYcO7e4wp8JNy+iTxQ=="
+    },
+    {
+      "name": "Dallas Dawy",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WhgoNngd/fRgesGTAYF1gw=="
+    },
+    {
+      "name": "Samar Dawy",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "X+WKwSkpVwTjx25fHYUCCQ=="
+    },
+    {
+      "name": "Janeth de la Fuente",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JCaGR9rlqbD6jfoxBNm1TQ=="
+    },
+    {
+      "name": "Maria del Carmen de la Fuente",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qUdHhTsqp+XtKOMslO0HJg=="
+    },
+    {
+      "name": "Veronica De La Fuente",
+      "gender": "Female",
+      "city": "Palmhurst",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/9/2024",
+      "usta_id": "FTc1bsIm4PRmjKg9exISrQ=="
+    },
+    {
+      "name": "Rocio de la Garza",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "H93w0aA49VzwaCiYQjNVoA=="
+    },
+    {
+      "name": "Romeo de la Garza",
+      "gender": "Male",
+      "city": "Rancho Viejo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6HXUFzwwY9tpU0FwmOeebw=="
+    },
+    {
+      "name": "Bertha de la Rosa",
+      "gender": "Female",
+      "city": "Rio Hondo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q6irCKg/mKhxgaK7RvMXaA=="
+    },
+    {
+      "name": "Ingrid de la Torre",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zaxJfWIGoz240b83Afgwsw=="
+    },
+    {
+      "name": "Kaela de Leon",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "RWLEGfkM3989CxO6l9NCIA=="
+    },
+    {
+      "name": "Kate de Los Santos",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/24/2023",
+      "usta_id": "4R0Pe5eyOA09kiuRlqQVaw=="
+    },
+    {
+      "name": "Liza de Los Santos",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MQUH3YPJwQN2VsUWYb9vUg=="
+    },
+    {
+      "name": "Robert de Los Santos",
+      "gender": "Male",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cTVMHpS+rRnqFv0ReLpDzw=="
+    },
+    {
+      "name": "Yolanda de Los Santos",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "31Dpb5uz5VvPxWOuv6vGbg=="
+    },
+    {
+      "name": "Sinem Demircan",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lLOAvS6TdKhyhuV332RwQQ=="
+    },
+    {
+      "name": "Charlotte DeWitt",
+      "gender": "Female",
+      "city": "Raymondville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "89pEWFOQ8ZeIC77Ap73UXQ=="
+    },
+    {
+      "name": "Anica Diaz",
+      "gender": "Female",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6wTKqkeTbPyeQlflIryVGA=="
+    },
+    {
+      "name": "Hannah Diaz",
+      "gender": "Female",
+      "city": "Houston",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "12/2/2024",
+      "usta_id": "8TLHew+wm3Su+KXt3s/mcQ=="
+    },
+    {
+      "name": "Carlos Diaz-Limon",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BQHzaEZHLydQmT1ayO4zzQ=="
+    },
+    {
+      "name": "Barbara Duda",
+      "gender": "Female",
+      "city": "Palmhurst",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vIxzepRM6qk/4NPufXqg5Q=="
+    },
+    {
+      "name": "Andrew Edson",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RdEM6XiTZnsc+eThSI3g3g=="
+    },
+    {
+      "name": "Garrett Edwards",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xL/vrwB3eySxQDI5tYv1Hw=="
+    },
+    {
+      "name": "Gabriel Elizondo",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4+kbO2AmzOfyT/C0bmkKMw=="
+    },
+    {
+      "name": "Juan Jose Elizondo",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8/EOO9Jxve/i7ozWH7LeQw=="
+    },
+    {
+      "name": "Rosalie Elliff",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ARdYbajduMen7YnivzhAuA=="
+    },
+    {
+      "name": "Luis Escobar",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vxK5sAEWig2hHPbJtmzRTQ=="
+    },
+    {
+      "name": "Jean Escobedo",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/18/2025",
+      "usta_id": "YuXeudusgARHg7PGQS+HzA=="
+    },
+    {
+      "name": "Paul Estrada",
+      "gender": "Male",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bbQ3eEGPVZn8hLrgZQgrjQ=="
+    },
+    {
+      "name": "Cristina Estrella",
+      "gender": "Female",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j6sBDeLbv2NwtTJYsVc4JQ=="
+    },
+    {
+      "name": "Michelle Fennegan",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YKJDqvCL1NyFHZyBLEr7vw=="
+    },
+    {
+      "name": "Tabatha Ferguson",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/10/2024",
+      "usta_id": "3Zj7OcpB/NIASS+DSbDyzw=="
+    },
+    {
+      "name": "Mary Fernald",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "EPHcwGevx1Lw4X2PRMW2lQ=="
+    },
+    {
+      "name": "Cesar Ferrino",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vFCKyXjHU/Yxwh8pnY9QeQ=="
+    },
+    {
+      "name": "Paula Fields",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1DZtklvoav6MmXi4KtYD6Q=="
+    },
+    {
+      "name": "Emily Fierros",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e7s0qp73N/ORhYkEnnEeHg=="
+    },
+    {
+      "name": "Leticia Fierros-Garza",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PlTU5LPPei1r4/YRGW4doQ=="
+    },
+    {
+      "name": "Adina Flores",
+      "gender": "Female",
+      "city": "Mercedes",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0X+0TW+N45rhiVekPk9G/w=="
+    },
+    {
+      "name": "Andrea Flores",
+      "gender": "Female",
+      "city": "Pharr",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7+O5+VynAnq6jO7zTM8zag=="
+    },
+    {
+      "name": "Jacob Flores",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "q4AYspgN0T3bUk566t8edQ=="
+    },
+    {
+      "name": "Margill Flores",
+      "gender": "Male",
+      "city": "EDINBURG",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LlJ1F9YQSP/GdSmT86v5Eg=="
+    },
+    {
+      "name": "Mirtha Flores",
+      "gender": "Female",
+      "city": "Matamoros",
+      "state": "Tamaulpias",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mNkEZiBFwvxC8oQr8HKfAw=="
+    },
+    {
+      "name": "Oscar Flores",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "qpnLzYMpM6Q="
+    },
+    {
+      "name": "Emily Fonseca",
+      "gender": "Female",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/4/2025",
+      "usta_id": "NqxRVWSFEJFPtPKoqH046w=="
+    },
+    {
+      "name": "Simon Gallardo",
+      "gender": "Male",
+      "city": "Pharr",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U0VdmsqCswGW07mI10Btmw=="
+    },
+    {
+      "name": "Nathalie Galligan",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "X6x7bUzdqhfogqQho31iOg=="
+    },
+    {
+      "name": "Marcos Galvan Sr.",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BCi7SV2CzH3X5UXDMVa6Dw=="
+    },
+    {
+      "name": "Carlos Gamboa",
+      "gender": "Male",
+      "city": "Mercedes",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C33LeZXuXTjFjMxQ2Q0QAg=="
+    },
+    {
+      "name": "Violeta Gamboa",
+      "gender": "Female",
+      "city": "Mercedes",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/7+PUUh7Gol15P8oB6JUsA=="
+    },
+    {
+      "name": "RAFAEL NORBERTO GARCIA BARRON",
+      "gender": "Male",
+      "city": "Hidalgo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vrm3FgodhJH0Q/V34Ku5BA=="
+    },
+    {
+      "name": "Fernando Garcia del Rio",
+      "gender": "Male",
+      "city": "MISSION",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CssG8xDVm01SHGmnTiuJYw=="
+    },
+    {
+      "name": "Alejandro Garcia",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KurC1XurkWO0iV+50pWlMg=="
+    },
+    {
+      "name": "Carmen Garcia",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PqYuK5C/fGs4MWE+Pzd7Ng=="
+    },
+    {
+      "name": "Fernando Garcia",
+      "gender": "Male",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CRA+91HqY/mnJVPyVgDhrg=="
+    },
+    {
+      "name": "Gina Garcia",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pJn5L7S9oXkAgn2csvrQYQ=="
+    },
+    {
+      "name": "Juan Garcia",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/30/2024",
+      "usta_id": "hA3nZqAUCG1n3XXa//fP6w=="
+    },
+    {
+      "name": "Leticia Garcia",
+      "gender": "Female",
+      "city": "La Feria",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pFiIW4nP5ZTOh6OC05QCBA=="
+    },
+    {
+      "name": "Lis Garcia",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8Yo+z2x5YvvRqJgXP29KSQ=="
+    },
+    {
+      "name": "Manuel Garcia",
+      "gender": "Male",
+      "city": "MCALLEN",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kKOwbe/SOXAuOz7BFwduIQ=="
+    },
+    {
+      "name": "Maya Garcia",
+      "gender": "Female",
+      "city": "Rancho Viejo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XO7Ajg0JWzOv+nC19CeTbg=="
+    },
+    {
+      "name": "Mercy Garcia",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rrIG0S5ImE8S7yzk/xb/AQ=="
+    },
+    {
+      "name": "Muriel Garcia",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9zqWniNK83wi3GyUzYKZFQ=="
+    },
+    {
+      "name": "Robert Garcia",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yo6uHt3wdzHMz8SbEhZFkg=="
+    },
+    {
+      "name": "RODRIGO GARCIA",
+      "gender": "Male",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dEQxfxSNS4ITQmqSjI4dJQ=="
+    },
+    {
+      "name": "Blanca Garza",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mVI2PyLa1JvGZzuW/Ycr/g=="
+    },
+    {
+      "name": "Brianna Garza",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Yq9lsLWCRVU8LL0o20YwA=="
+    },
+    {
+      "name": "Crystina Garza",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vvk0FsVSzrjTmBD/3MVCMg=="
+    },
+    {
+      "name": "Esteban Garza",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oyJtkqiJrfr8ZmWOq3crOw=="
+    },
+    {
+      "name": "Karla Garza",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0thrrHjgCdIiAG+rNib8YQ=="
+    },
+    {
+      "name": "Nicholas Garza",
+      "gender": "Male",
+      "city": "HARLINGEN",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/24/2024",
+      "usta_id": "s9X1XAKgyJQW8pR43TQJvw=="
+    },
+    {
+      "name": "Ruben Garza",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uo4xqR2nGpIDCpG7K5AorQ=="
+    },
+    {
+      "name": "Hilda Garza-De Shazo",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i6TdI+9C2cUJz6v3giRlIw=="
+    },
+    {
+      "name": "Doris Giraldo",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3TPYHdKcmQLjk6DNqVFoxg=="
+    },
+    {
+      "name": "Julia Godfrey",
+      "gender": "Female",
+      "city": "Owens Cross Roads",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o392IaODBta7XXn9m+rvZA=="
+    },
+    {
+      "name": "Holly Godinez",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GCe18rxC0jXmavjT5TFMqg=="
+    },
+    {
+      "name": "Luis Antonio Gomez Mendoza",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "br3nzqDh+mRGiBzAiItXxw=="
+    },
+    {
+      "name": "Deborah Gomez",
+      "gender": "Female",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "227ZhvlHsMxDRk7i6EJvow=="
+    },
+    {
+      "name": "Josue G Gomez",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oLUdwJ9vt0yjounc5regbw=="
+    },
+    {
+      "name": "Liliana Gomez",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/9/2025",
+      "usta_id": "BQSXk+3PAfQydFmi+MkBVQ=="
+    },
+    {
+      "name": "Miguel Gomez",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yIGnXcHVcI3xMqiLPon/yw=="
+    },
+    {
+      "name": "Rudy Gomez",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5w9xchy33UorPDHnZzvu2g=="
+    },
+    {
+      "name": "Barbara Gonzales",
+      "gender": "Female",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g3/z5IOWuh0DaluvE3W1gQ=="
+    },
+    {
+      "name": "Jessica Gonzales",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/8/2024",
+      "usta_id": "HpVLui8oVWIAN5S+pRJ/lQ=="
+    },
+    {
+      "name": "Juvenal Gonzalez Villanueva",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/16/2025",
+      "usta_id": "eYXfh9TL3hezsCIxya9rsA=="
+    },
+    {
+      "name": "Alejandra Gonzalez",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3D5g/T7hRyikVHW92UUrsg=="
+    },
+    {
+      "name": "Carla Gonzalez",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/18/2025",
+      "usta_id": "yNwFPv3Jn/lmQwut5D6XZw=="
+    },
+    {
+      "name": "Elisa Gonzalez",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O765ufYBRJCiF/S8vd4Pwg=="
+    },
+    {
+      "name": "Francisco Gonzalez",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m4gBuEIItCL/O2727GEx1Q=="
+    },
+    {
+      "name": "Jane Gonzalez",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/10/2024",
+      "usta_id": "rbHUHabCgnOSHREaAMkdxg=="
+    },
+    {
+      "name": "Keren Gonzalez",
+      "gender": "Female",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "slEjTXq0ViOSs4KUTuBPjA=="
+    },
+    {
+      "name": "Lucero Gonzalez",
+      "gender": "Female",
+      "city": "",
+      "state": "",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/9/2025",
+      "usta_id": "+woU/tF0h5xA9XHvoT7FvA=="
+    },
+    {
+      "name": "Manuel Gonzalez",
+      "gender": "Male",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ioa8yo2Q4/MN3l9U4rRIdg=="
+    },
+    {
+      "name": "Maria-Camila Gonzalez",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "OG9dme8Xu2ybSiOvs7aDgA=="
+    },
+    {
+      "name": "Paulina Gonzalez",
+      "gender": "Female",
+      "city": "MCALLEN",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yh/YsdI/I4/igJCMW5wvDA=="
+    },
+    {
+      "name": "Roberto Gonzalez",
+      "gender": "Male",
+      "city": "Alamo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CBCMcT5zcAAJVkniXbRnRw=="
+    },
+    {
+      "name": "Rosario Rodriguez Gonzalez",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qq2uX2LNwZrzT+Xhbs2qSQ=="
+    },
+    {
+      "name": "Samantha Gonzalez",
+      "gender": "Female",
+      "city": "SAN JUAN",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1iAxGcU49lR/hiEvi3v8pg=="
+    },
+    {
+      "name": "Sylvia Gonzalez",
+      "gender": "Female",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zv5UyVu6iSNVpg7es5tmHQ=="
+    },
+    {
+      "name": "Zachary Gonzalez",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gv12wO8dJCD1/9Jij/GuGg=="
+    },
+    {
+      "name": "Cassie Goodell",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B+fEfGDMa3UT5Wan1aN19Q=="
+    },
+    {
+      "name": "Maria Andrea Govela",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "2fiFTLoHYB6WwNoM4WmELQ=="
+    },
+    {
+      "name": "Diadira Gracia",
+      "gender": "Female",
+      "city": "BROWNSVILLE",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/11/2024",
+      "usta_id": "GLuff3TOwYr0G7uidMP9Xw=="
+    },
+    {
+      "name": "Mellory Grannum",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aniNr8oHKN00B/1PqZmdWQ=="
+    },
+    {
+      "name": "Tammi Greer",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KPHGLSkp4thriIN4K+r3JQ=="
+    },
+    {
+      "name": "Jacci Grossman",
+      "gender": "Female",
+      "city": "Austin",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ycujBRQa1BQRy+FnBbAMHg=="
+    },
+    {
+      "name": "Molly Grossman",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iArVkJ4fSTnacnkR+ikEBA=="
+    },
+    {
+      "name": "Stevan Guarneri",
+      "gender": "Male",
+      "city": "GARLAND",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y5ykOX4ttFqzZIz2/JBmGQ=="
+    },
+    {
+      "name": "Jesus Guerra",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rfytzaoI+w5SOvKzU8ewEg=="
+    },
+    {
+      "name": "Marcos Guerra",
+      "gender": "Male",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8KJioCKIjKiez9HGBXMGHw=="
+    },
+    {
+      "name": "Rocio Guerra",
+      "gender": "Female",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "gNw+rWbnnjodxFXuHSdB+g=="
+    },
+    {
+      "name": "Astrid Guerrero",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UMVvfz1aM3LfbKRAilYERQ=="
+    },
+    {
+      "name": "BAL GUERRERO",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q3735f2A1HZs6/4kuiosbg=="
+    },
+    {
+      "name": "Maria Guerrero",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Cz6Nv1FBum4wGt/xG0xxUQ=="
+    },
+    {
+      "name": "Astrid Gutierrez",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/23/2025",
+      "usta_id": "4mrH9FWnyzzapBeMAGqXtQ=="
+    },
+    {
+      "name": "Eduardo Gutierrez",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tWoYNQU54m/NHmrxDfEMGw=="
+    },
+    {
+      "name": "Luz Gutierrez",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RJnIkIPYzrwEaMjs1z+PUA=="
+    },
+    {
+      "name": "Cruz Guzman",
+      "gender": "Male",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/9/2025",
+      "usta_id": "GHqzcm72XksyYy0vJ6bFYA=="
+    },
+    {
+      "name": "Rose Hamdan",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S+BljMsB8Rc5HVWZlpT48w=="
+    },
+    {
+      "name": "Charles Harris",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/3/2025",
+      "usta_id": "RF/0kStChWzVI82aRgXakQ=="
+    },
+    {
+      "name": "Isabelle Harris",
+      "gender": "Female",
+      "city": "Rancho Viejo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/13/2025",
+      "usta_id": "047WKYNooMwwDivwUIIz6Q=="
+    },
+    {
+      "name": "Micah Harter",
+      "gender": "Female",
+      "city": "Palmyra",
+      "state": "IN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3T23/C/hN6gv+pMFf8KVYg=="
+    },
+    {
+      "name": "Hanna Hartley",
+      "gender": "Female",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "EVhdSxnXRL4DatJi617RlQ=="
+    },
+    {
+      "name": "Joseph Hemer",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "n9sSa+C5YXWxg7xiu0ZzqA=="
+    },
+    {
+      "name": "Teresa Hemer",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "07CpospX22CrxPI2mhuijg=="
+    },
+    {
+      "name": "Ariel Herbez",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "O29aGLquP9a6e8kVotsyPw=="
+    },
+    {
+      "name": "Sam Heredia",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I5jYvdl6EYJpHlwhWb329g=="
+    },
+    {
+      "name": "Eleazar Hernandez",
+      "gender": "Male",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TNNiitb4aVKrrfKNIq5GTQ=="
+    },
+    {
+      "name": "Juan Hernandez",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PhsPmYCwGDcyCKm9phS6lw=="
+    },
+    {
+      "name": "Raul Hernandez",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eV69MTxaTMuo4d7K1xwPLA=="
+    },
+    {
+      "name": "Renata Hernandez",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ITQJmtDYI88WaclmDsanVg=="
+    },
+    {
+      "name": "Maria Hoffman-Guardia",
+      "gender": "Female",
+      "city": "Pharr",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0TkHP/JQUXb/z2yOso1O+g=="
+    },
+    {
+      "name": "Christopher Holmes",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/11/2025",
+      "usta_id": "PhsPmYCwGDeUN94hFS4WGQ=="
+    },
+    {
+      "name": "Kenzie Hong",
+      "gender": "Female",
+      "city": "Fresno",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RnS5Bm0rLpiLh5Qi0vDr+Q=="
+    },
+    {
+      "name": "Audrey Hooks",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S/UhAKAZ2URgk2rsMbmeqg=="
+    },
+    {
+      "name": "Dennis Houghton",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qR/2eUCk+9zhDoaAYFYKiw=="
+    },
+    {
+      "name": "Martha Houghton",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5UTkwSFwnp7D/0m4VjXEdw=="
+    },
+    {
+      "name": "Nicholas Houghton",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dPFpQqsIRf/ESQbMyZgLMQ=="
+    },
+    {
+      "name": "Mariana Huber",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vjNzCgixI20sFtCMaXbfYg=="
+    },
+    {
+      "name": "Luciano Ibarra",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/RWVW4xb5zx8YstzrCRqNA=="
+    },
+    {
+      "name": "Toni Ibarra",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+CF0G2FW1vv3vopQeFz8Dw=="
+    },
+    {
+      "name": "Roland Ingram",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/1/2024",
+      "usta_id": "enf9ZmjUXOMZonLzMXJ1+A=="
+    },
+    {
+      "name": "Roy Izaguirre",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "IOIfU/TuIvuwskE8fJTbfw=="
+    },
+    {
+      "name": "Sheena Johnson",
+      "gender": "Female",
+      "city": "Sylmar",
+      "state": "CA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xyzj4tCddtopiIvkzFPqNA=="
+    },
+    {
+      "name": "Barry Jones",
+      "gender": "Male",
+      "city": "Mercedes",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HmaWQ+547nCP0sKjLqLiRg=="
+    },
+    {
+      "name": "Gustavo Juarez",
+      "gender": "Male",
+      "city": "PHARR",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7dCJOQHFITyiuWSfRUsXVA=="
+    },
+    {
+      "name": "Denise Kayani",
+      "gender": "Female",
+      "city": "Laguna Vista",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5cu6gT+4H70pUCH7Ki3R1Q=="
+    },
+    {
+      "name": "Caitlin Kemp",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/2/2024",
+      "usta_id": "zUhxtw/JvssTF9sGwgSHWA=="
+    },
+    {
+      "name": "Siri Anand Singh Khalsa",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "atbtgj/PKKh96CvcrHF3yA=="
+    },
+    {
+      "name": "Elsie Kokal",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0XtA0zqkmegiVEdX6lRKMg=="
+    },
+    {
+      "name": "Kristin Kokal",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "vj+W32ybiW92vCFCNJWsZw=="
+    },
+    {
+      "name": "Rachel Kram",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MtBJEzvNyUQc1hpZ2jj89Q=="
+    },
+    {
+      "name": "Mike Kuntz",
+      "gender": "Male",
+      "city": "Rancho Viejo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eCC2FmXzjKlxSbfhNjuW+A=="
+    },
+    {
+      "name": "Myriam Kuntz",
+      "gender": "Female",
+      "city": "Rancho Viejo",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ql9Ha3ww65TIX78Gds0+2w=="
+    },
+    {
+      "name": "Laura Kupish",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/21/2025",
+      "usta_id": "sdVymddymHGljj882YlfIw=="
+    },
+    {
+      "name": "Allison Kyral",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U5uRTheOfvgokNRr5zEIcw=="
+    },
+    {
+      "name": "Devin Kyral",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CYoxAhFAzgbp0CAqVaAxBg=="
+    },
+    {
+      "name": "Susan Kyral",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pnwYazxGdawbhXt/f9TESA=="
+    },
+    {
+      "name": "Angelica Lagrange",
+      "gender": "Female",
+      "city": "MCALLEN",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QyyrpXrPgpkmRDevK8Op4A=="
+    },
+    {
+      "name": "Elijah Landeros",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/24/2024",
+      "usta_id": "GamnLrB0mUeeOXTM9qGnUw=="
+    },
+    {
+      "name": "Jose Leal",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+whuGfhAjdHxqnbE17NrjQ=="
+    },
+    {
+      "name": "MARIA LEAL",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rF4pqq4TsHRE4903skQRXQ=="
+    },
+    {
+      "name": "Natalie Leal",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V7NGcGJhfBLkI14TFjlVAg=="
+    },
+    {
+      "name": "Suzy Lee",
+      "gender": "Female",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "WfxtGwMQ0JZU4yqOpVsqzg=="
+    },
+    {
+      "name": "Keighara Leija",
+      "gender": "Female",
+      "city": "Raymondville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/12/2024",
+      "usta_id": "lUXRTYmRGFne4mDTS3EOGQ=="
+    },
+    {
+      "name": "Gavin Lerma",
+      "gender": "Male",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M/N8YrxGBOTd68aAnezsOg=="
+    },
+    {
+      "name": "Ryan Lerma",
+      "gender": "Male",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/2/2025",
+      "usta_id": "Cz4wreOjB0To/zMwnXmO2Q=="
+    },
+    {
+      "name": "Lyuba Levine",
+      "gender": "Female",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iTRLHqMy0pdP0mWSUcDgrA=="
+    },
+    {
+      "name": "Gina Lima",
+      "gender": "Female",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XL49di5OX5J6SRUd7QXZww=="
+    },
+    {
+      "name": "Adolfo Lopez",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5L/DjTZ76erccIRMTGBvtg=="
+    },
+    {
+      "name": "Daniel Lopez",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tOL8aZeCHAVh8/BUx0XHGg=="
+    },
+    {
+      "name": "David Lopez",
+      "gender": "Male",
+      "city": "Raymondville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ie46wPrJkKPzQtq3Ts6abQ=="
+    },
+    {
+      "name": "Nestor Lopez",
+      "gender": "Male",
+      "city": "Alamo",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/18/2025",
+      "usta_id": "BUfVdX1JSVBEHYuQHzHJVQ=="
+    },
+    {
+      "name": "Ricardo Losoya",
+      "gender": "Male",
+      "city": "Los Fresnos",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Obp8x30s0Mi9+RvEI2QDiA=="
+    },
+    {
+      "name": "Daniela Lozada Barron",
+      "gender": "Female",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qg7S3YDmxyzWdwZwciOTzQ=="
+    },
+    {
+      "name": "Janie Lozano",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "s0hwJjHuG+eED185/1NFcg=="
+    },
+    {
+      "name": "Javier Lozano",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RTfw/RWq03n+N6SL4luvmg=="
+    },
+    {
+      "name": "Lorena Lozano",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mtLvqT0jU/jEp2q755KZeQ=="
+    },
+    {
+      "name": "VICTOR LOZOYA",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DDfSkCnAx2coe/orpoxIPw=="
+    },
+    {
+      "name": "Erika Lucio",
+      "gender": "Female",
+      "city": "Rancho Viejo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lgzxnLbB1Q3kOYaQORZv7Q=="
+    },
+    {
+      "name": "Jesse Lucio",
+      "gender": "Male",
+      "city": "Rancho Viejo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NvD/o2cBs6IcclpiJUvKQw=="
+    },
+    {
+      "name": "Angelica Lyons",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MwBx5wwUJSRVKv36VmFMiw=="
+    },
+    {
+      "name": "Elica MacHin",
+      "gender": "Female",
+      "city": "San Juan",
+      "state": "PR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lQ+7nRu07rvJuvjNI5g10w=="
+    },
+    {
+      "name": "Tom Mangelschots",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fOdExCrqeR0joqnVLylFpA=="
+    },
+    {
+      "name": "Dalton Mann",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "AiYgnpn8jIbMg7eUydkhYQ=="
+    },
+    {
+      "name": "Renee Marroquin",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/29/2024",
+      "usta_id": "knbPdYaClLW7J3tYE06QKQ=="
+    },
+    {
+      "name": "Alberto Martinez",
+      "gender": "Male",
+      "city": "Roma",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "jH0++8rHzFy8L41PKj1+Tg=="
+    },
+    {
+      "name": "Jeny Martinez",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WJpFU8785485Stx8JTuO0w=="
+    },
+    {
+      "name": "Julianne Martinez",
+      "gender": "Female",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/28/2025",
+      "usta_id": "x+s0fWio39wASe3a61YcEQ=="
+    },
+    {
+      "name": "Lindsay Martinez",
+      "gender": "Female",
+      "city": "Great Falls",
+      "state": "MT",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mDJulDDZYFDRQubfnVx5IQ=="
+    },
+    {
+      "name": "Stephanie Martinez",
+      "gender": "Female",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jH0++8rHzFxHmmgbsC8F/g=="
+    },
+    {
+      "name": "Zaira Martinez-Guillen",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hj9eeUBnitnpu+cfQWZdYg=="
+    },
+    {
+      "name": "Gabriel Mascorro",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aAc3Sm7731cIGye+lUZW/A=="
+    },
+    {
+      "name": "Lorraine McWhorter",
+      "gender": "Female",
+      "city": "South Padre Island",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1tWJ62g7UZ2eeumWBY8kuw=="
+    },
+    {
+      "name": "Keyla Medellin",
+      "gender": "Female",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tFXI+5YXCXLCxQi/Pcz+9A=="
+    },
+    {
+      "name": "Elizabeth Medina",
+      "gender": "Female",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "nq3VfPhJlCx8ISMBjUVxlg=="
+    },
+    {
+      "name": "Eduardo Melguizo",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KwfX/3aUnECRjTgUWqQg+A=="
+    },
+    {
+      "name": "Patricio Melhem",
+      "gender": "Male",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ArlNLV+R7m15OFgrvRg03Q=="
+    },
+    {
+      "name": "VARENKA MENA",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2nyQNK8V7d2HxvTx/rqadA=="
+    },
+    {
+      "name": "Ana Mendez",
+      "gender": "Female",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/11/2025",
+      "usta_id": "4CKOCPbdQ0LJKUB1Vwd6Bg=="
+    },
+    {
+      "name": "ILEANA MENDEZ",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RVcBFrk7ryfD6tafDFjGxQ=="
+    },
+    {
+      "name": "Antonio Mendoza",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/14/2024",
+      "usta_id": "wn/s1dugAPoxra3yzbXo5g=="
+    },
+    {
+      "name": "Francisco Mendoza",
+      "gender": "Male",
+      "city": "Laredo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "62C7wsuiOBYYUN3n5VM8Kw=="
+    },
+    {
+      "name": "Zorais Milano",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4CRvtaoHyQmrA1ZVXHo8iA=="
+    },
+    {
+      "name": "Jason Milligan",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/26/2025",
+      "usta_id": "lXaSXXrP7Sl+4HxctTLHBg=="
+    },
+    {
+      "name": "Gian Carlo Mira",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2022",
+      "usta_id": "PMGXmotmMNRxssy0IKfLqQ=="
+    },
+    {
+      "name": "Carolina Mohme",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wkd0SiD4PHXnW3NC3RuvHQ=="
+    },
+    {
+      "name": "Delia Molina",
+      "gender": "Female",
+      "city": "Los Fresnos",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/mpSGh6RZ8XbPuzUtcXlVg=="
+    },
+    {
+      "name": "Magaly Monaco",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/26/2024",
+      "usta_id": "07eYzT0xYqvs/klz0F06Gg=="
+    },
+    {
+      "name": "Oliverio Montejano",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wU0RMUqE9HfGtbxFYfHScQ=="
+    },
+    {
+      "name": "Ramiro Montemayor",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KiIeVSWop0md1o+I/vcBQw=="
+    },
+    {
+      "name": "Juan Montoya",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hKVrotHqIP7xXzMkzohmEQ=="
+    },
+    {
+      "name": "Alfonso Mora",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aJ3V9/47UgCVhNqkFYGlsA=="
+    },
+    {
+      "name": "Fernando Mora",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jj7GENpnvk37xv7xykNVag=="
+    },
+    {
+      "name": "Javier Morales",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GnHE8iVXfHYnt7dRv0p2NA=="
+    },
+    {
+      "name": "Juan Morales",
+      "gender": "Male",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Hadm79gDqXq7K8IyPHuPAw=="
+    },
+    {
+      "name": "Pete Morales",
+      "gender": "Male",
+      "city": "Alamo",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GMhtvizjROvsupo7HZJh/w=="
+    },
+    {
+      "name": "HOMERO MORENO JR",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dibPVTLuFDMs2/7I4wUjrg=="
+    },
+    {
+      "name": "Alejandro Moreno",
+      "gender": "Male",
+      "city": "Alton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "rrkKJLpVZfNbQaTfHrgo4g=="
+    },
+    {
+      "name": "Olga Moreno",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/12/2024",
+      "usta_id": "agkmCzQo/oD7kqT0erWtIg=="
+    },
+    {
+      "name": "Kathleen Murphy",
+      "gender": "Female",
+      "city": "SAN BENITO",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l6oFfyvw1XxPZpmrD5Qu2A=="
+    },
+    {
+      "name": "JESSICA NANEZ",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "aEn/P44ebCd8Zwk/6xNSug=="
+    },
+    {
+      "name": "Kyra Nasser",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bu3yDPQj++AqKWkYHRIzaQ=="
+    },
+    {
+      "name": "Mariel Navarro",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7tTq8IjYHOEVUPHTzxWm7g=="
+    },
+    {
+      "name": "James Newman",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WHAiY1FX2XN3F3g1epTLYg=="
+    },
+    {
+      "name": "Jo Ann Newman",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OHNtyClqx3bdCxQUdnYxYg=="
+    },
+    {
+      "name": "John Newman",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s6fd4LWzJN23Xg7cmwU16g=="
+    },
+    {
+      "name": "Rose Nuckols",
+      "gender": "Female",
+      "city": "Los Fresnos",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FtnYL6zAlQmB30ooGITW7g=="
+    },
+    {
+      "name": "Alexa Nunez",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/6/2025",
+      "usta_id": "0TWCkgjeRe4uPhvofVYuvw=="
+    },
+    {
+      "name": "Atilana Nunez",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cgigzNvIUyreFNJ+uJySrg=="
+    },
+    {
+      "name": "Roberto Nunez",
+      "gender": "Male",
+      "city": "Mercedes",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f+7NEPMNDBebow7e7O0kfg=="
+    },
+    {
+      "name": "Felicia Ocampo",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/24/2024",
+      "usta_id": "D2cE9kFkhHGHoHwVNcHCEQ=="
+    },
+    {
+      "name": "Andrea Ochoa",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FwuNdmkvakuTD0xDbIv7gg=="
+    },
+    {
+      "name": "Angelica Olivas",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jwpQ/ywlMmj6dtQn5x/ueQ=="
+    },
+    {
+      "name": "Jesus Ontiveros",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c5S1d1DzMJMHLed5DSm39w=="
+    },
+    {
+      "name": "Barbara O'Riley",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V45k7fuV2YR1k/iEJeqFtQ=="
+    },
+    {
+      "name": "Leonardo Ortega",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MBeL+TLOFd7ejULBOz1coA=="
+    },
+    {
+      "name": "Leonel Ortega",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/11/2025",
+      "usta_id": "Aehl9b8s7fMCRXtF143oEg=="
+    },
+    {
+      "name": "Axel Ortiz",
+      "gender": "Male",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1bSbxBQEKLLstRjNB84jWg=="
+    },
+    {
+      "name": "Kayla Osorio",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "cy4wyqkRnTkYvxqIrsd2tw=="
+    },
+    {
+      "name": "Michael Padilla",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "4bqA7RIy8S+W29JwGozhqw=="
+    },
+    {
+      "name": "Adrian Padron",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "FoigFA8+Hp9HKwA5O0vnHQ=="
+    },
+    {
+      "name": "Joel Pallapati",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PT023OFwqYQk24kftcIoSg=="
+    },
+    {
+      "name": "Edgar Palomino",
+      "gender": "Male",
+      "city": "Mercedes",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2eZknJ+R+XLhu2rhYzRoGg=="
+    },
+    {
+      "name": "Brenda Paredes",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/13/2025",
+      "usta_id": "a8Oylt8+nvLWj0k8IaKwsg=="
+    },
+    {
+      "name": "Felicia Partida",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PgOgCSlJyHnWtKCytFUAbg=="
+    },
+    {
+      "name": "Carla Pearcy",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "OTUxV+wtn+PZITTk+mYAvg=="
+    },
+    {
+      "name": "Audrey Pekar",
+      "gender": "Female",
+      "city": "Lyford",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ldNj36ZCXa6LJPam4F/sLw=="
+    },
+    {
+      "name": "OLGA Pena de Moreno",
+      "gender": "Female",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y9bjWlwlVUfrUAVrsztVkw=="
+    },
+    {
+      "name": "Cecilia Pena",
+      "gender": "Female",
+      "city": "Alamo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Kox28S/iK9s6//Q0IPBZw=="
+    },
+    {
+      "name": "Christina Pena",
+      "gender": "Female",
+      "city": "Pharr",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iL/o/4WPWzhddJCbG44zZA=="
+    },
+    {
+      "name": "Edgar Pena",
+      "gender": "Male",
+      "city": "Pharr",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8xCBNxbMtZA57T1eCyxvZQ=="
+    },
+    {
+      "name": "RICHARD Pena",
+      "gender": "Male",
+      "city": "Weslaco",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zswi9HmrmugXHTeqWquwuA=="
+    },
+    {
+      "name": "Laura Perez- Reyes",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R2sKk7lawESfr9PYqUW3Ag=="
+    },
+    {
+      "name": "Alexandra Perez",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H+A9PmQSZd5mS6e42ueK4A=="
+    },
+    {
+      "name": "Celina Perez",
+      "gender": "Female",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KKcPyP3025/Jkb5B/giCDA=="
+    },
+    {
+      "name": "Deisy Perez",
+      "gender": "Female",
+      "city": "Pharr",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GDH/UPjnut+2TiQvnnvhAg=="
+    },
+    {
+      "name": "Jessica Perez",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "78EodzmGmY3ez/wjY2EjGw=="
+    },
+    {
+      "name": "J Perez-Almaguer",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jBBqp6Vw6Qk+dGuxrPIPng=="
+    },
+    {
+      "name": "Yolanda Perkins",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9zbaAXsiqwGc/c2mx2f62g=="
+    },
+    {
+      "name": "Christine Perlino",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/23/2025",
+      "usta_id": "7r0tbX8uKUJ6g/cqCYfvBg=="
+    },
+    {
+      "name": "Helene Picard Sanchez",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PbJLQ6On8cABY2dY/9iViw=="
+    },
+    {
+      "name": "Claudia Pimentel",
+      "gender": "Female",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oaLy8MyGe+XSQnhhF9hB0Q=="
+    },
+    {
+      "name": "Josie Pineda",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/sF87EeA+O6nBh/CYd0Ccw=="
+    },
+    {
+      "name": "Susan Pockrus",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rK9fKY0dBNVAWbczBQVzKA=="
+    },
+    {
+      "name": "Sylvia Pompa",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xPUAKjb5JJWaZIpgwfdhwg=="
+    },
+    {
+      "name": "Ricardo Portillo",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "hEUTMSdrQ1beMtZMxcs6zQ=="
+    },
+    {
+      "name": "Tyrone Powers",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "x6KSy03OLXhBUUzOxtnULA=="
+    },
+    {
+      "name": "Laura Prado",
+      "gender": "Female",
+      "city": "LA Feria",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vc1fml+59Hr+7uq6whBvWA=="
+    },
+    {
+      "name": "Jose Puente",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b6ZYBAMcW1QM0xI7mZzMCg=="
+    },
+    {
+      "name": "Luis Quintanilla",
+      "gender": "Male",
+      "city": "MISSION",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AiYgnpn8jIbdL7psxQTpkg=="
+    },
+    {
+      "name": "Kristian Quintero",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RV0808kFABv7J6nKS5RvVA=="
+    },
+    {
+      "name": "Ramiro Quintero",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fCz/8jR4fSCZruC77qOOxw=="
+    },
+    {
+      "name": "Terry Quirk",
+      "gender": "Male",
+      "city": "SOUTH PADRE ISLAND",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/1/2025",
+      "usta_id": "UkXdY3ajYzBTE7svG67WeQ=="
+    },
+    {
+      "name": "Irene Ramirez",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o5akksYIRUUEKbkf8RvVXA=="
+    },
+    {
+      "name": "Jaime Ramirez",
+      "gender": "Male",
+      "city": "Reynosa",
+      "state": "Tamaulipas",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s40+M+liK6Hvd0xm9R+fBg=="
+    },
+    {
+      "name": "Javier Ramirez",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QuuDtl14N9my76MYWmvkwA=="
+    },
+    {
+      "name": "Karla Ramirez",
+      "gender": "Female",
+      "city": "mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P1lEMUkeTFhUS4Q9JayOpw=="
+    },
+    {
+      "name": "Monica Ramirez",
+      "gender": "Female",
+      "city": "Mercedes",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P4h3kqeD5LT1LkSnxZWiEA=="
+    },
+    {
+      "name": "Aaron Ramones",
+      "gender": "Male",
+      "city": "Palmhurst",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UA1g9FJ/YudOR2WsYNdIDA=="
+    },
+    {
+      "name": "Catalina Ramos",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JFjHQOHrnSC+8s2/s7YbEQ=="
+    },
+    {
+      "name": "Juanita Ramos",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WJpFU878548h7/zIk9ibYQ=="
+    },
+    {
+      "name": "Ana Rangel",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FQXwsd7ME6L83ectQMmzmA=="
+    },
+    {
+      "name": "Bo Ranson",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aUJNN7Jo7+qp+A2BlY2gpw=="
+    },
+    {
+      "name": "Kristen Resendez",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "v7VLdp3SGcUhnrYSzCx+wg=="
+    },
+    {
+      "name": "ERICKA REYES DIAZ",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bDdxfqWv/kQO9pDAhbut+g=="
+    },
+    {
+      "name": "Mariana Reyes",
+      "gender": "Female",
+      "city": "Hidalgo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/6/2024",
+      "usta_id": "8PPIXREi8PHFoGaqCVhPEw=="
+    },
+    {
+      "name": "Anakaren Rios",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "bZHnrChASX/L2TNKGFyANg=="
+    },
+    {
+      "name": "Jack Rios",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/10/2025",
+      "usta_id": "2h0NMILtsSQQbQA9HPO16g=="
+    },
+    {
+      "name": "Alejandro Rivera",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MYzuchO70OSqGm//EUeMCA=="
+    },
+    {
+      "name": "Rick Rivera",
+      "gender": "Male",
+      "city": "San Juan",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dZ5VBDXeYq81Iq1KcyPkoQ=="
+    },
+    {
+      "name": "Andres Rodriguez",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bkJcBpDBH7SHZmmrhcnGHA=="
+    },
+    {
+      "name": "Angel Rodriguez",
+      "gender": "Male",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UYE5xDXSKH+1dwrFnzJqEg=="
+    },
+    {
+      "name": "Carlos Rodriguez",
+      "gender": "Male",
+      "city": "Edcouch",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+n5gzVWoTIy3FwN98YnroQ=="
+    },
+    {
+      "name": "David Rodriguez",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6S8eC+PMYgcukpxJscuR5A=="
+    },
+    {
+      "name": "Hiromy Rodriguez",
+      "gender": "Female",
+      "city": "Donna",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bzMSpjWfac6mzXvHyre3+w=="
+    },
+    {
+      "name": "Renata Rodriguez",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tcIllDvkKqrP4mpXcxfM+A=="
+    },
+    {
+      "name": "Sean Romero",
+      "gender": "Male",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "khJUrwLrEMtYfE93f/GxcQ=="
+    },
+    {
+      "name": "Isamarie Rosado",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bMO97hQLy5f4GswzRx+Mmg=="
+    },
+    {
+      "name": "Lucinda Rosignol",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VMhyftDcrxfDiQS1Hz6pPA=="
+    },
+    {
+      "name": "Abelardo Ruiz",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dSrWq/VA83YTEgxdu44Nug=="
+    },
+    {
+      "name": "Jennifer Ruiz",
+      "gender": "Female",
+      "city": "Los Fresnos",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "CYdy+BxDtjxF3/5Tq9ZUNw=="
+    },
+    {
+      "name": "Margo Russell",
+      "gender": "Female",
+      "city": "LOS FRESNOS",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2bfRMgxX6PwRkTfCPD977A=="
+    },
+    {
+      "name": "Judith Elena Saenz Figueroa",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jAgAJ5UfOSLR3Q8bsqH+8g=="
+    },
+    {
+      "name": "Beatriz Saenz",
+      "gender": "Female",
+      "city": "BROWNSVILLE",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DFGLuTDw5kN4PCL8wtjQMQ=="
+    },
+    {
+      "name": "Eddie Saenz",
+      "gender": "Male",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "hMQOHbZog+1vOM6PGmk/xA=="
+    },
+    {
+      "name": "Guillermo Saenz",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5ZmPALC2OD3mA+QuFTXAKg=="
+    },
+    {
+      "name": "John Saenz",
+      "gender": "Male",
+      "city": "Mcallen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/6/2025",
+      "usta_id": "tQkj2/lrOGy8n12dXIeqPA=="
+    },
+    {
+      "name": "Nora Indirita Saenz",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NoMTOEUL0VXt+g9bN/Iu3A=="
+    },
+    {
+      "name": "Zaida Saenz",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KpvCPCv5ExVbSgUy35UFYA=="
+    },
+    {
+      "name": "Asaad Salazar",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "rthqF2WBiWsYsvcdsnaVFw=="
+    },
+    {
+      "name": "Diego Salazar",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lUXRTYmRGFkrSqVKxVg0vA=="
+    },
+    {
+      "name": "Carlos Saldana",
+      "gender": "Male",
+      "city": "Roma",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rVRjZpg13Lh0MsF6VoHI9Q=="
+    },
+    {
+      "name": "Marco Salinas Segura",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aBeEhePeyiX24aUqv0+T+g=="
+    },
+    {
+      "name": "Anna Lee Salinas",
+      "gender": "Female",
+      "city": "San Juan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5lEe04u9HHfpmGHmbS0VBQ=="
+    },
+    {
+      "name": "Araceli Salinas",
+      "gender": "Female",
+      "city": "Pharr",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q/BaEPVEBIrHiul50hgMVQ=="
+    },
+    {
+      "name": "Araceli N Salinas",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BnSVFHUmpoviaUc9+cOYRQ=="
+    },
+    {
+      "name": "Anapaola Sanchez",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/18/2024",
+      "usta_id": "QAAD8dqqoV7PaLgWxBY9sw=="
+    },
+    {
+      "name": "Dalia Sanchez",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n8tfTzjoS/qAzXI+X52VHw=="
+    },
+    {
+      "name": "Eloy Sanchez",
+      "gender": "Male",
+      "city": "LA Feria",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FCKnhHTpf9sHEnYb3R6XwA=="
+    },
+    {
+      "name": "Emilio Sanchez",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/12/2025",
+      "usta_id": "XNSXkkrYauEdvWhJUayyqA=="
+    },
+    {
+      "name": "Jaylynn Sanchez",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/9/2024",
+      "usta_id": "WkJ77Efy/1GPiP2v2ihMjQ=="
+    },
+    {
+      "name": "Leticia Sanchez",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6VS8ibfvtJkmbtKZmq3BtQ=="
+    },
+    {
+      "name": "William Sandlin",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "KcmDClf73QvXLliTa3zI+A=="
+    },
+    {
+      "name": "Derek Sandoval",
+      "gender": "Male",
+      "city": "San Juan",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZYyxU+1G4JoaTNtMa/J90A=="
+    },
+    {
+      "name": "Miguel Santos",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pPYLju0xRGAd8q9jZACYUw=="
+    },
+    {
+      "name": "Vanessa Sarabia",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9o5ReuTctntw8N8xThlniA=="
+    },
+    {
+      "name": "Lilia Saracho",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "610OYXnI9mhxH/yQ34Tdmg=="
+    },
+    {
+      "name": "Stephaniel Saracho",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LI4ipXk+zMJQWVTO389W4g=="
+    },
+    {
+      "name": "Juan Sauceda",
+      "gender": "Male",
+      "city": "Raymondville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2dCF3GNS9gKma23btUCZRA=="
+    },
+    {
+      "name": "Elizabeth Scaief",
+      "gender": "Female",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GoWsZV9ZNVzthWqpKYKKSg=="
+    },
+    {
+      "name": "Mary Scaief",
+      "gender": "Female",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o+nxd3nuTFMwhpdwF0zIdg=="
+    },
+    {
+      "name": "Jacklyn Schallenberg",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "CeAsrwvenMYAhczCaVU8kA=="
+    },
+    {
+      "name": "Laura Segura",
+      "gender": "Female",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "++Lp+K/7vkPfR8tdxEWQpA=="
+    },
+    {
+      "name": "Diego Setien",
+      "gender": "Male",
+      "city": "Hidalgo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qREesqFjByYWIjYeDYXIqg=="
+    },
+    {
+      "name": "Linda Sheline",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VHn0kwKllMff/XTa71ajKw=="
+    },
+    {
+      "name": "Lidia Showing",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d8ibJlr+/skZ6GejwSN6Ng=="
+    },
+    {
+      "name": "Claudia Silberman",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QOwehHUt8wx0qAWPQaiVIw=="
+    },
+    {
+      "name": "Lizeth Sinecio",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "mYhCS4A1h40Hk2nCpFIQoA=="
+    },
+    {
+      "name": "Steven Smith",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "d+1E86iws9w="
+    },
+    {
+      "name": "Manuel Soberon IV",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "223sM44ucE1U2ITwNS4NBg=="
+    },
+    {
+      "name": "Julie Solis",
+      "gender": "Female",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6c24+p+2PO6EpIdNCjKw1A=="
+    },
+    {
+      "name": "Nathan Solis",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "10/6/2024",
+      "usta_id": "Co4NLA94gwzOiqQlfxArBw=="
+    },
+    {
+      "name": "Sam Sparks",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "m/XW0GQ+XFgKPTz8LEGcyw=="
+    },
+    {
+      "name": "Shannon Sparks",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l6oPzE1i4Q/I22Io9R3tNw=="
+    },
+    {
+      "name": "Kathy Stapleton",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "1pFeCEOLM2P6MUFm3m+mNw=="
+    },
+    {
+      "name": "Jenny Stewart",
+      "gender": "Female",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "NH+jfjmQo0xapZS4dhq3WQ=="
+    },
+    {
+      "name": "Deidra Tafolla",
+      "gender": "Female",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0X+0TW+N45oPXQcoxAT1XA=="
+    },
+    {
+      "name": "William Taliancich",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "UGGOXW56TzkLvAvgo38cfg=="
+    },
+    {
+      "name": "Juan Telles",
+      "gender": "Male",
+      "city": "Raymondville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kdpvbh8IWwdL0wCLmPBg7g=="
+    },
+    {
+      "name": "Veronica Tellez",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jeLmUhp4hNiPxDyd6HHqLw=="
+    },
+    {
+      "name": "Cynthia Thompson",
+      "gender": "Female",
+      "city": "HELOTES",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5IX9+0Lhu7YMy7UB2vqFjw=="
+    },
+    {
+      "name": "Bridgette Tolentino",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j2lKxdozrbeGZ8Vg9EMhbQ=="
+    },
+    {
+      "name": "Laura Torres",
+      "gender": "Female",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QdrLKEVUCLUiifg6MceRUg=="
+    },
+    {
+      "name": "Lizeth Torres",
+      "gender": "Female",
+      "city": "Alamo",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qOdI4ubUpkvPKc7XyUcSJQ=="
+    },
+    {
+      "name": "Rachel Torres",
+      "gender": "Female",
+      "city": "Edinburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vc5B8hpEDSTsKa/m358rnQ=="
+    },
+    {
+      "name": "Tabitha Torres",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "+UPiGHYvL6oDFLPspt/+Qg=="
+    },
+    {
+      "name": "Ivonne Tovar",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IgGBliQHBK3kAgigAysJPA=="
+    },
+    {
+      "name": "Stephen Truman",
+      "gender": "Male",
+      "city": "San Benito",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U3DtlDyEdBfeXmaYWQ2Hng=="
+    },
+    {
+      "name": "Paul Tyre",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OxeMnuCUysIGm5hlvxv6rg=="
+    },
+    {
+      "name": "Ximena Uresti",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "UvwEWu34PiMa4XF9Ts5dIw=="
+    },
+    {
+      "name": "Frida Uriza",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HNndPqsPbHol7XO1C5df4A=="
+    },
+    {
+      "name": "Sonia Vaisman",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iULyp7wI9wKa3iTXnxnPWA=="
+    },
+    {
+      "name": "Athena Vasquez",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "srsMKcHglmzgqK8E8StUOw=="
+    },
+    {
+      "name": "Blanca Vazquez",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oLD9LyVfH4dW2oK8xBX+Rg=="
+    },
+    {
+      "name": "Victor Vera",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/19/2024",
+      "usta_id": "PLB84lbKG1/IOwADRK3fSQ=="
+    },
+    {
+      "name": "Aaron Vera-Cerrate",
+      "gender": "Male",
+      "city": "Lima",
+      "state": "Lima",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/17/2024",
+      "usta_id": "5bfAnBTuV+0t4/Tv0bI4mQ=="
+    },
+    {
+      "name": "Fernando Vieto",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zCkd9HzBJ9+ayaxYRBbttg=="
+    },
+    {
+      "name": "Adriana Villarreal",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hrJBXx78rGySYXPosr6F+Q=="
+    },
+    {
+      "name": "Jaime Villarreal",
+      "gender": "Male",
+      "city": "Pharr",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X3i7+WwGFFttDJnq/l+RYw=="
+    },
+    {
+      "name": "Jorge Villarreal",
+      "gender": "Male",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/22/2024",
+      "usta_id": "wA2bvUWPFhMmjgY4gM/enQ=="
+    },
+    {
+      "name": "Margaret Villegas",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nc1jhzrdcKhGhon5MkbdPw=="
+    },
+    {
+      "name": "Frank Vos",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "cuUQgUkII01iGwQpwAg/NA=="
+    },
+    {
+      "name": "Kylie Wadkins",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1/ibnLlzFNB9N9zssUi4Dg=="
+    },
+    {
+      "name": "Sadler Ward",
+      "gender": "Female",
+      "city": "La Feria",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/6/2025",
+      "usta_id": "kzCRvrX8CbsTudNmVndyEw=="
+    },
+    {
+      "name": "Carson Wick",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wtKhCt9wf2i+vDkQ5OaEcA=="
+    },
+    {
+      "name": "JACK WICK",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PhsPmYCwGDcz9qebej/l4A=="
+    },
+    {
+      "name": "Denise Williams",
+      "gender": "Female",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OMrMkSwMYD79LZwQ3kYBaw=="
+    },
+    {
+      "name": "MARIENNE WONG",
+      "gender": "Female",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zXZ964Sd/gPp1/WTCPzssg=="
+    },
+    {
+      "name": "Mindy Yepez",
+      "gender": "Female",
+      "city": "SAN ANTONIO",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M6aVbWQkwlUnI+Rgmbksmw=="
+    },
+    {
+      "name": "John Yeupell",
+      "gender": "Male",
+      "city": "Harlingen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2HLFBioUIW877fw3N7DjKg=="
+    },
+    {
+      "name": "Emiliano Yzaguirre",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kik590RawG1TR7SR0orVSQ=="
+    },
+    {
+      "name": "Mauricio Yzaguirre",
+      "gender": "Male",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rhRP/47kTyZaB57xxGvCzQ=="
+    },
+    {
+      "name": "Gabriel Zarate",
+      "gender": "Male",
+      "city": "REYNOSA",
+      "state": "TAMAULIPAS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xmd4dqyP0PXt+MQv0/VafA=="
+    },
+    {
+      "name": "Edgar Jose Zavala Orozco",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZPUJh9NO+XlWZk92nJMG5A=="
+    },
+    {
+      "name": "Elda Zendejas",
+      "gender": "Female",
+      "city": "Mission",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "alv7Yjeb4ulrZLiaPUzpyQ=="
+    },
+    {
+      "name": "Sergio Zepeda",
+      "gender": "Male",
+      "city": "McAllen",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nb97d9W8FofZ1X+B7iJe/A=="
+    },
+    {
+      "name": "Shirley Zuniga",
+      "gender": "Female",
+      "city": "Brownsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JHlHEilBbTEqojTygP6C2g=="
+    }
+  ]
+}

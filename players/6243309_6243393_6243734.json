@@ -1,0 +1,537 @@
+{
+  "sectionId": "6243309",
+  "districtId": "6243393",
+  "areaId": "6243734",
+  "players": [
+    {
+      "name": "Gary Acton",
+      "gender": "Male",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "ENl9X+jZvVgN2Jek+wmPBg=="
+    },
+    {
+      "name": "Edwin Aguilar",
+      "gender": "Male",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "a1LLckmDV0NnUuyVveOZIw=="
+    },
+    {
+      "name": "Kristen Andrews",
+      "gender": "Female",
+      "city": "BRYAN",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zM5U/7r6buTgxlevgimwbA=="
+    },
+    {
+      "name": "Elizabeth Begley",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "20C07e93aPlwLcO07PI06Q=="
+    },
+    {
+      "name": "YingYing Blackburn",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/11/2025",
+      "usta_id": "fFdJRr1+IlKDSf8bZpvE2w=="
+    },
+    {
+      "name": "Sherry Bonds",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Rqfw8H55jEifS60Dw5ThQ=="
+    },
+    {
+      "name": "Chelsie Breaux",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M1+SAZ60IlEcWO+BLIZhlw=="
+    },
+    {
+      "name": "Ashlee Broadstreet",
+      "gender": "Female",
+      "city": "Iola",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6pmf5XH6f7dPn3Z9c6Q67w=="
+    },
+    {
+      "name": "Lori Brown",
+      "gender": "Female",
+      "city": "College Sta",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sGKd4T1pQwe1vIqVJOjrow=="
+    },
+    {
+      "name": "Sheri Brown",
+      "gender": "Female",
+      "city": "Madisonville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nE2Fx70k40o2fxcXbLMxJg=="
+    },
+    {
+      "name": "Kerri Cawley",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hEUTMSdrQ1YD/MSeDUCkjg=="
+    },
+    {
+      "name": "Patricia Davis",
+      "gender": "Female",
+      "city": "Iola",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fnq8/+J1isixIhXk8AeYwg=="
+    },
+    {
+      "name": "Ashley Doss",
+      "gender": "Female",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z+Lq6znbrctmLnagh+MnyQ=="
+    },
+    {
+      "name": "Sara Dutch",
+      "gender": "Female",
+      "city": "Franklin",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KOFcYqUfqIz/56tb/GrjmQ=="
+    },
+    {
+      "name": "Estela Feagin",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "ONMsU6s8k/RsgD1Pd11FnQ=="
+    },
+    {
+      "name": "Lindsay Greening",
+      "gender": "Female",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "G1k0Er4ddfy/Muz/i0lW2w=="
+    },
+    {
+      "name": "Mary Harrison",
+      "gender": "Female",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QRVmY1ZWJ5BQMtYvLPTdfA=="
+    },
+    {
+      "name": "Thomas Heath",
+      "gender": "Male",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/4/2024",
+      "usta_id": "MIBbIJ6BOQbXTUoJxLtBNw=="
+    },
+    {
+      "name": "Peter Howard",
+      "gender": "Male",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/23/2025",
+      "usta_id": "w/ISsXjKyfl8TYwfAHiGRg=="
+    },
+    {
+      "name": "Amy Hughes",
+      "gender": "Female",
+      "city": "Bellville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZHXHzGL9Y/V5nMRFboC4AQ=="
+    },
+    {
+      "name": "Madelyn Hughes",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "H4mSnfySsxMyFSc1aj59kA=="
+    },
+    {
+      "name": "Cherry Jackson",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ukZgLEHGn2+6Fz4Nn9FhjA=="
+    },
+    {
+      "name": "Katrina Jackson",
+      "gender": "Female",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VqIEjg+kDsCngah6dn6wUA=="
+    },
+    {
+      "name": "Maegan Jackson",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IbWyJCaZR3BNjYBohgcpFA=="
+    },
+    {
+      "name": "Roxie Johnson",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g270AqltmLvhGgniULfu0w=="
+    },
+    {
+      "name": "Jacob Kidd",
+      "gender": "Male",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "Un+tUInlJZhX+huoCT7K3w=="
+    },
+    {
+      "name": "Natalie Kidd",
+      "gender": "Female",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "TOpPBzqTB6BXrptMN9zanQ=="
+    },
+    {
+      "name": "Laura Kubiak",
+      "gender": "Female",
+      "city": "Normangee",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "WGOWNkGp3yFNjjjZy4gtdA=="
+    },
+    {
+      "name": "Candy Lischka",
+      "gender": "Female",
+      "city": "Bellville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "6GQir4Vk3TnTfKGCEJ8L5w=="
+    },
+    {
+      "name": "Abigail Martinez",
+      "gender": "Female",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "dj297AoCAUQsUxRw0cCmuw=="
+    },
+    {
+      "name": "Samuel Martinez",
+      "gender": "Male",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/9/2025",
+      "usta_id": "glhc00qV3XBwRshUUGgHeQ=="
+    },
+    {
+      "name": "Donna Miller",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rS7lm7T3Tef+fWA7sadN6A=="
+    },
+    {
+      "name": "Garrett Miller",
+      "gender": "Male",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "E9hLSvZWdrFopptwzb/lsg=="
+    },
+    {
+      "name": "Heather Novicke",
+      "gender": "Female",
+      "city": "Bellville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/1/2024",
+      "usta_id": "iRsPeqd8PA8+rbCX4kXMHQ=="
+    },
+    {
+      "name": "Jennifer Parks",
+      "gender": "Female",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K+kN1+htPycIZMaBRFvs+A=="
+    },
+    {
+      "name": "Debra Pate",
+      "gender": "Female",
+      "city": "Normangee",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "tGRZ6J2vhHZyae6y2StDgA=="
+    },
+    {
+      "name": "Carol Paull",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iEN38PzHqVOnsSTNpS9OgA=="
+    },
+    {
+      "name": "Dana Pendleton",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EVOGsMCxKqyykiABiK6Jwg=="
+    },
+    {
+      "name": "Marco Pereira",
+      "gender": "Male",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "AerP4UWitYlupc+8mbfhRg=="
+    },
+    {
+      "name": "Kendall Pierce",
+      "gender": "Male",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/16/2025",
+      "usta_id": "3ZL+VjIxe25L9BiiHI4OzQ=="
+    },
+    {
+      "name": "Marquis Pixley",
+      "gender": "Male",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "7EI9qNoHv5hQLha2Ac9KNw=="
+    },
+    {
+      "name": "Kristen Shepperd",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "btYMFsvfRm1ViNT3zNL4sw=="
+    },
+    {
+      "name": "Shay Simpson",
+      "gender": "Female",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mgHhYQYIYsp8nifb/xRfxw=="
+    },
+    {
+      "name": "Lydia Sims",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZTiYtAYo0LOFJJ9tJLFjnA=="
+    },
+    {
+      "name": "Matt Smith",
+      "gender": "Male",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "X/4yKbiER/RpGoH9ds2f2Q=="
+    },
+    {
+      "name": "Amanda Stephenson",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iCtip3cL7mXoxs/LnSyx/g=="
+    },
+    {
+      "name": "Vereleta Steward",
+      "gender": "Female",
+      "city": "COLLEGE STATION",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ehy7mQOEx2TsGDwt92Lqtw=="
+    },
+    {
+      "name": "Stacey Stuhrenberg",
+      "gender": "Female",
+      "city": "COLLEGE STATION",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "a9D8PvzF5uCrXsECGYE+vw=="
+    },
+    {
+      "name": "Cheyna Talley",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/22/2024",
+      "usta_id": "dZXcF7bMa1tKzfufYdJvFQ=="
+    },
+    {
+      "name": "Isaac Vergara",
+      "gender": "Male",
+      "city": "Belton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fCtYbjUCoQrA9zhs037tWw=="
+    },
+    {
+      "name": "John Walter",
+      "gender": "Male",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/4/2024",
+      "usta_id": "UyEucjTP4vQPASvZx3xUqQ=="
+    },
+    {
+      "name": "Kristina Walters",
+      "gender": "Female",
+      "city": "College Station",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "56rQj18SDy2fpbECwLo8Iw=="
+    },
+    {
+      "name": "Eric Zylman",
+      "gender": "Male",
+      "city": "Bryan",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "AMZDdHLqJWkYouuN5hg/Sg=="
+    }
+  ]
+}

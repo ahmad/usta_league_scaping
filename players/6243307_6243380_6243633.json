@@ -1,0 +1,5517 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243380",
+  "areaId": "6243633",
+  "players": [
+    {
+      "name": "Melanie Abernathy",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rtMTm8p8rrWoRfBEmw5ArA=="
+    },
+    {
+      "name": "Renee Adams",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/10/2024",
+      "usta_id": "OACIr3+iAlUP/4iloGmyhA=="
+    },
+    {
+      "name": "Debbie Adamson",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fp+HHuxxmVylxTdNwhE8pA=="
+    },
+    {
+      "name": "Linda Adcock",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9OY3qm0wx3HGhUDfgf/Kkg=="
+    },
+    {
+      "name": "Ally Adler",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZOi1MpvtLOKaWS1QGIqIgQ=="
+    },
+    {
+      "name": "Nancy Ager",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CXbWdSkxu0CWLJJqLaH9CA=="
+    },
+    {
+      "name": "Christine Allen",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1fKbxVevg0totubOGX1lQw=="
+    },
+    {
+      "name": "Danielle Allenbach",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wrSSlEV9eiQe+wjee8Nj+w=="
+    },
+    {
+      "name": "Melissa Almon",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "42E39fsGwzrQd3LdPAyFHQ=="
+    },
+    {
+      "name": "Rhonda Anderson",
+      "gender": "Female",
+      "city": "Cleveland",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AaZMQin6f6qxhGlBMHm6Zg=="
+    },
+    {
+      "name": "Beth Arends",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sf9wRateEPIGWVevKHshxA=="
+    },
+    {
+      "name": "April Arrington",
+      "gender": "Female",
+      "city": "Athens",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nwb+imvWMH9d5Ink9UH1XQ=="
+    },
+    {
+      "name": "Michelle Ashwood",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DVZ9D8UAxs6dE7W7Y5GxVw=="
+    },
+    {
+      "name": "Valerie Badillo",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MDleDxqOUDepjVkG/E6KWw=="
+    },
+    {
+      "name": "Robbie Bagley",
+      "gender": "Female",
+      "city": "MURRAYVILLE",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/27/2025",
+      "usta_id": "CtLFHme5EH7CrcJu34ePiA=="
+    },
+    {
+      "name": "Brandy Bailey",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UhRaMafg8uXthVGZSUsLPQ=="
+    },
+    {
+      "name": "Cindy Bailey",
+      "gender": "Female",
+      "city": "DAWSONVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KpuxjMceL3SmXd0JGMxn1A=="
+    },
+    {
+      "name": "Jamie Bak",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "erzHf+d+mta8i1phrnx+4A=="
+    },
+    {
+      "name": "Cindy Baker",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DNdm9/ASAeUF7FnfD6LdQQ=="
+    },
+    {
+      "name": "Malissa Baker",
+      "gender": "Female",
+      "city": "Duluth",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "zkxgnIdWTC/81dufzmrecA=="
+    },
+    {
+      "name": "Trina Ball",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2SuA+lHzF73CPVTgF7yFVA=="
+    },
+    {
+      "name": "Maridell Banks",
+      "gender": "Female",
+      "city": "Eatonton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b9lekqBHTdipqRi9SkohWw=="
+    },
+    {
+      "name": "Brandi Barber",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1jXT5nE91+Ux2tjv7QS+wQ=="
+    },
+    {
+      "name": "Diane Barnard",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JJ1zBURYcglM4zt88fAouw=="
+    },
+    {
+      "name": "Courtney Barnes",
+      "gender": "Female",
+      "city": "Clermont",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "on6Us9Y7uGGg84NgXHWZMA=="
+    },
+    {
+      "name": "Karen Bart",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A7CTlPxZ3D5ZOKpE3QZFWw=="
+    },
+    {
+      "name": "Marie Bartlett",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/6/2024",
+      "usta_id": "OcIU5Lg6qRNWKE9ve4v31A=="
+    },
+    {
+      "name": "Liz Barwig",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vEtB2Aouc3GkzuVohT/uCg=="
+    },
+    {
+      "name": "Alice Beach",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qRwzA71zypYoRhZEfoxv5g=="
+    },
+    {
+      "name": "Wanda Beard",
+      "gender": "Female",
+      "city": "Danielsville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LrcXZNtzAslEC9ZCRpI6lQ=="
+    },
+    {
+      "name": "Kim Beasley",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mCj2fzjc+ABQyvat/2IewA=="
+    },
+    {
+      "name": "Keri Beck",
+      "gender": "Female",
+      "city": "CUMMING",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XPMzfh/XIpVMBiZXWMtUTQ=="
+    },
+    {
+      "name": "Rhonda Beck",
+      "gender": "Female",
+      "city": "BUFORD",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wqHF+JKbLODhL1OTDfrb5A=="
+    },
+    {
+      "name": "Barbara Beirne",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "4aFFd14omTF//5hb5n1YyQ=="
+    },
+    {
+      "name": "Mary Bell",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EGAIpl6BCYn9e0/PORwXCQ=="
+    },
+    {
+      "name": "Maggie Bennett",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3SAGvH4ZuCNFQd89KFYv8w=="
+    },
+    {
+      "name": "Polly Bennett",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6hXpgkMsZ/Pyf9cJ2/1+0w=="
+    },
+    {
+      "name": "Brian Benson",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yi0VSw0gqmuBTFW/wk3IAg=="
+    },
+    {
+      "name": "Polly Benson",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZCxUo9+RGByriwxIcdoi2A=="
+    },
+    {
+      "name": "Jennifer Bestermann",
+      "gender": "Female",
+      "city": "BRASELTON",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rdPQG3cTtW4VC0EuvlMYnQ=="
+    },
+    {
+      "name": "Kathryn Bettencourt",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JnckmaIdhwLXiX28TwpZGQ=="
+    },
+    {
+      "name": "Patty Bettencourt",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "qztKKk2chx2EMFmnwFpnlw=="
+    },
+    {
+      "name": "Allison Bhandari",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z7Jd86U9asGQEj12X4B9mA=="
+    },
+    {
+      "name": "Arpit Bhoti",
+      "gender": "Male",
+      "city": "Alpharetta",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NiacVcoyPFnNLbeisDUTRQ=="
+    },
+    {
+      "name": "Peggy Blackmon",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6RuD4GaV/d6VJIXgbcOANw=="
+    },
+    {
+      "name": "Dori Blanchard",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dyDFxStH7KGYJDpsVCLnZA=="
+    },
+    {
+      "name": "Debra Bolzenius",
+      "gender": "Female",
+      "city": "Murrayville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "Spn5kvF6VjjtEwCnlR4VJw=="
+    },
+    {
+      "name": "MaryJane Bowler",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mc/x+e9snLX9ETmLojspYA=="
+    },
+    {
+      "name": "Susan Bradley",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MO4Geb6ragUuR3PFppBlVA=="
+    },
+    {
+      "name": "Patricia Brewer",
+      "gender": "Female",
+      "city": "FLOWERY BRANCH",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rvV5BNeFI6+bhkS/MvasTw=="
+    },
+    {
+      "name": "Lindsey Bristow",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jolupgINzsoC3FSWMkJRwg=="
+    },
+    {
+      "name": "Amy Britt",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/5/2025",
+      "usta_id": "f5UIc13OaRNoYuoyADrDbw=="
+    },
+    {
+      "name": "Tiffany Brix",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V7vrc1iUS5xkCUeyt1naTw=="
+    },
+    {
+      "name": "Dianne Brock",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xcqusCjcK/tzRIIFvpAa4w=="
+    },
+    {
+      "name": "Sherry Brock",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZRCmQdpzs6yYPb28OeYBjQ=="
+    },
+    {
+      "name": "Khanh Brown",
+      "gender": "Female",
+      "city": "PENDERGRASS",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c96YyoRL5TVREfJs2Yaxyw=="
+    },
+    {
+      "name": "Angie Bruce",
+      "gender": "Female",
+      "city": "HILTON HEAD ISLAND",
+      "state": "SC",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dM2iPIssSxeaV0m+/1q8BQ=="
+    },
+    {
+      "name": "Leisa Bruce",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ax2CXGtfR5MqHz86JHAeeg=="
+    },
+    {
+      "name": "Jill Bryce",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WZ3VvElqq2BCre5PH2SYFg=="
+    },
+    {
+      "name": "Renee Bullard",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1ZlG8SMExlzHCngSqBaD3A=="
+    },
+    {
+      "name": "Deatra Bureau",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+tpxVNpKgDnmCxzddOuYyg=="
+    },
+    {
+      "name": "Brenda Burke",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U6meF5zcEHpo2BbBfs5/qw=="
+    },
+    {
+      "name": "Lori Burke",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d4RWBddZqERxbg2qCHM93A=="
+    },
+    {
+      "name": "Stacey Bursinger",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+8oZ9pjL/X6vE2WA+GvRAQ=="
+    },
+    {
+      "name": "Jane Buturff",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PrUAtxz4YTLAPSqk23yBHw=="
+    },
+    {
+      "name": "Erica Cahoon",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0f3GH2Em3Vr3HTADc0MKJQ=="
+    },
+    {
+      "name": "Angela Cain",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ia8ecsE9O0VAnSjNE2stpQ=="
+    },
+    {
+      "name": "Scott Caldwell",
+      "gender": "Male",
+      "city": "Dahlonega",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qjtwQAMnAEcCId/XT7LNvw=="
+    },
+    {
+      "name": "Jeannine Callahan",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LGzVIfelE3XPk4i73XQbDw=="
+    },
+    {
+      "name": "Michelle Calvert",
+      "gender": "Female",
+      "city": "BRASELTON",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zmU3Nr2Tn6jYqIRi1USviQ=="
+    },
+    {
+      "name": "Susan Cangelosi",
+      "gender": "Female",
+      "city": "Isle Of Palms",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eUko4YPut26MkDxo4L/iWQ=="
+    },
+    {
+      "name": "Patsy Carey",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/1/2024",
+      "usta_id": "o2V7uZmnMpMoFQB3W1vzRQ=="
+    },
+    {
+      "name": "Linda Carpentier",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uo/DOHIa6omiE261Lg+ctQ=="
+    },
+    {
+      "name": "Diane Carr",
+      "gender": "Female",
+      "city": "Winder",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w9hqiBZYu77Lx6GW6QA4/w=="
+    },
+    {
+      "name": "Joy Carr",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Gj/8Cbdrg+2VUA0d1gxKcw=="
+    },
+    {
+      "name": "Robin Carr-Smith",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FfZXXlU5rUU7vmgByLMhPg=="
+    },
+    {
+      "name": "Amber Carter",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vdq1oqANJgHT9FAPG2w0uw=="
+    },
+    {
+      "name": "John Carter",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "3X/hJ3TRAXU="
+    },
+    {
+      "name": "Phyllis Case",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "irDxAFxHQV3x4jVtKvEsqA=="
+    },
+    {
+      "name": "Mary Casper",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zQkOOdmlv00fr2Nr/3kzMQ=="
+    },
+    {
+      "name": "Elizabeth Causey",
+      "gender": "Female",
+      "city": "Jasper",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d2l1kpf9lkpWOHq/rV3t7A=="
+    },
+    {
+      "name": "Tracy Cavaness",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JykNjhohXF2+/7LxI19V9A=="
+    },
+    {
+      "name": "Amy Chambers",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ehXayD/MjP6vh6acu/oZtA=="
+    },
+    {
+      "name": "Stuart Chambers",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "z1aPWQgCz0g2OddN95OFpA=="
+    },
+    {
+      "name": "Marla Chambless",
+      "gender": "Female",
+      "city": "Roswell",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gLhkcI0NySRFTBpXxCii4w=="
+    },
+    {
+      "name": "Colby Chastain",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/31/2024",
+      "usta_id": "Xxn3WCkQVciffJlLgtxTig=="
+    },
+    {
+      "name": "Kimberly Chastain",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iI4SemliDHAVDryiJtPZRQ=="
+    },
+    {
+      "name": "Carol Cheesman",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "XfulTBfkwOrxSEjAI47hTg=="
+    },
+    {
+      "name": "Gail Chester",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RYR1M3IcJcma9XaJIIgW/w=="
+    },
+    {
+      "name": "Diane Chilton",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nVuojxTlUU+j20Y4l8HaTw=="
+    },
+    {
+      "name": "Jaime Christian",
+      "gender": "Female",
+      "city": "Statham",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BC3zwe7C906ZDNoH7c3NJw=="
+    },
+    {
+      "name": "Mary Cialella-Smith",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "awMPfV0LJ3fVl0X1pjEUAA=="
+    },
+    {
+      "name": "Becky Clark",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x6EVVP7n3Kjbnmve1P7SMw=="
+    },
+    {
+      "name": "Cathy Cobb",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iZJx72jQjQRmEpuIQ5hVww=="
+    },
+    {
+      "name": "Eileen Cobb",
+      "gender": "Female",
+      "city": "DULUTH",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/JJROgZzzbvjylSuqaNcug=="
+    },
+    {
+      "name": "Lisa Coffee",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PReikY7pTyus1vayVIq5Ww=="
+    },
+    {
+      "name": "Jamie Collins",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "itZqD2rlW24RKnCkTEAMgQ=="
+    },
+    {
+      "name": "Paula Conner",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZRoKxoKMr45gfRWOhCqvEg=="
+    },
+    {
+      "name": "Harriet Connolly",
+      "gender": "Female",
+      "city": "Dahlonega",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CN4YxfS7RiXk4xDYf09Exw=="
+    },
+    {
+      "name": "Kathleen Corn",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bV9ZnjBgLwDtlUJqaOFRSg=="
+    },
+    {
+      "name": "Debbie Cortjens",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "yRWiG02pWuqfXJgZiSkPaA=="
+    },
+    {
+      "name": "Christopher Corwin",
+      "gender": "Male",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "QLeBWKVq9IlcWtB18JwLng=="
+    },
+    {
+      "name": "Elena Cosper",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vYzWTQEmKYkcxD4aq273jA=="
+    },
+    {
+      "name": "Sarah Creel",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/25/2025",
+      "usta_id": "suxcVspt3W/p9gAJITaGXQ=="
+    },
+    {
+      "name": "Anna Crockett",
+      "gender": "Female",
+      "city": "BRASELTON",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LXPjnmGDI8HrcdUpE9rJPA=="
+    },
+    {
+      "name": "Ellison Croft",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/19/2025",
+      "usta_id": "6FvtU084lbye6k96XHAn/A=="
+    },
+    {
+      "name": "April Crowe",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1ZCTkJtUohnxGf+dJDb/Uw=="
+    },
+    {
+      "name": "Marquita Cummings",
+      "gender": "Female",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SdxJZVTsiq3R+bjARU0jeg=="
+    },
+    {
+      "name": "Lori D'Adamio",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "1B9GT6Qaf1TGlQzeXrf68A=="
+    },
+    {
+      "name": "Chris Dalrymple",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7H49QPuHtRNfnUPRCfbrKw=="
+    },
+    {
+      "name": "Brent Danielson",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/23/2025",
+      "usta_id": "7r0tbX8uKUJB4qduLY1STA=="
+    },
+    {
+      "name": "Melissa Danielson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/18/2025",
+      "usta_id": "F/qvNv9icbn/nLk5yfK3qQ=="
+    },
+    {
+      "name": "Dallas Dante",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/7/2024",
+      "usta_id": "n6/qmZDXwegfePI+S/3FIg=="
+    },
+    {
+      "name": "Martha Darby",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LaALkesrr7CEGBXDukQf5w=="
+    },
+    {
+      "name": "Dan Davis",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2yxrGGA14REms11Qqrhd5g=="
+    },
+    {
+      "name": "Shawn Davis",
+      "gender": "Female",
+      "city": "Clarkesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e0D5HXBp0qlhnkJOVOAuzQ=="
+    },
+    {
+      "name": "Shelley Davis",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "RKoKQaDrCzGW8LFg60dM2Q=="
+    },
+    {
+      "name": "TJ Davis",
+      "gender": "Male",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ETDsnB8vpxzCNZWkXrh0eQ=="
+    },
+    {
+      "name": "Joy Dawson",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T4dQRyxtfHVc9o0Ov/BZGg=="
+    },
+    {
+      "name": "Sheri de Haan",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "azsB22sZ8/PChlc0BCj9FQ=="
+    },
+    {
+      "name": "Stacy de Rogatis",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lsX/AKAnH4mbXDWviE/+bA=="
+    },
+    {
+      "name": "Melissa Degroot",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VWalwWrIpYhjCez/9lp0xQ=="
+    },
+    {
+      "name": "Jill Deitz",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p/ue5t3MoR26n8DMsigVjQ=="
+    },
+    {
+      "name": "Andrea del Valle",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mW8+Cq2O765ogtKD9sIelA=="
+    },
+    {
+      "name": "Lisa Dempsey",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KxOGENitRfafYgF0nQdC3A=="
+    },
+    {
+      "name": "Ainsley Dennis",
+      "gender": "Male",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "z4BTKvCszwV3IahAo7/Wmg=="
+    },
+    {
+      "name": "Maxine Dennis",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NuI5YkVgPCRyYJBGCJ38hw=="
+    },
+    {
+      "name": "Janet Dibenedetto",
+      "gender": "Female",
+      "city": "BRASELTON",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vNhMTzMuJoHoiihJuUmVvw=="
+    },
+    {
+      "name": "Jean DiGravio",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ACxd6mWXke0jRx22hPaRUQ=="
+    },
+    {
+      "name": "Cheryl Dorfeld",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uwL+bzMnJhxXhevIc8AfCw=="
+    },
+    {
+      "name": "Monica Dowd",
+      "gender": "Female",
+      "city": "CALLAHAN",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0XKsTd9cCDq9VxB6ysDShA=="
+    },
+    {
+      "name": "Melissa Drake",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r4Lb9uEVzdgjDo4daIDkGg=="
+    },
+    {
+      "name": "Tary Drouault",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YyKBXxb1D/TZak+gRao+nQ=="
+    },
+    {
+      "name": "Jennifer Druse",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rncODJarpQHNXyDWH36JTQ=="
+    },
+    {
+      "name": "Mark Dubin",
+      "gender": "Male",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dQmKaSjY1cWm8UrAgFuHzw=="
+    },
+    {
+      "name": "Sherry Dubose",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HhMcEsid1ioo7/HAegOmOw=="
+    },
+    {
+      "name": "Barbara Dumont",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f7mKtL8EStnxCSG+urwp6g=="
+    },
+    {
+      "name": "Susan E King",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UX7tknMzfEQ5tymKm4vuFw=="
+    },
+    {
+      "name": "DeAnna Emborski",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/NbWmegh1y/cep6LwsY1lQ=="
+    },
+    {
+      "name": "Stephanie Engelerdt",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ChDvbPvkTnCZQ+lrrMEA8w=="
+    },
+    {
+      "name": "Chris Evans",
+      "gender": "Male",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/13/2025",
+      "usta_id": "cJSSJ1Zx9WO4GfAvTGYYFQ=="
+    },
+    {
+      "name": "Amy Ewers",
+      "gender": "Female",
+      "city": "Duluth",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "meGlSQUF6eJ4Kdtdt6P6Hg=="
+    },
+    {
+      "name": "Brian Fagan",
+      "gender": "Male",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "Iu19ja1iuZMgQi2gC1L1mw=="
+    },
+    {
+      "name": "Paula Fagan",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Iu19ja1iuZNyQ0+CqX9crw=="
+    },
+    {
+      "name": "Kathy Fauscett",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "49j+iOlqJ+SO+xH/G7w9Nw=="
+    },
+    {
+      "name": "Alyson Ferwerda",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BQvzVMLpDeMt9y7K0Blnow=="
+    },
+    {
+      "name": "Stephanie Figueroa",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s0Q+7xHZBXWCBD6SLQ0j5A=="
+    },
+    {
+      "name": "Lois Finlay",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "pdj8Kpap/WyTYhL4COfkNA=="
+    },
+    {
+      "name": "Kristine Fitts",
+      "gender": "Female",
+      "city": "BRASELTON",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mQPyXN9DxTzH7flxn8klbw=="
+    },
+    {
+      "name": "Carole Floyd",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wd1o6bfMwDRuqflYY51CBQ=="
+    },
+    {
+      "name": "Jamie Floyd",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J9xi54um5TEnZBavuXAskQ=="
+    },
+    {
+      "name": "Jenny Floyd",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "i2TCOv8RNvHEGtDCKKRuwQ=="
+    },
+    {
+      "name": "Deborah Flynn",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/23/2025",
+      "usta_id": "GtramYICwPpTw3szGpKnZw=="
+    },
+    {
+      "name": "Nancy Fogg",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WqsLVvVak5QbTcMwIo2NaQ=="
+    },
+    {
+      "name": "Pam Fordree",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sHkaht2gy5oxWv1VYm9HDw=="
+    },
+    {
+      "name": "Kay Forrest",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5QGlLiSttKRS/IyV9q9lXQ=="
+    },
+    {
+      "name": "Sheila Forrester",
+      "gender": "Female",
+      "city": "Auburn",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "oCOJQRjgSa5TwPbU8xdjiQ=="
+    },
+    {
+      "name": "Amie Foster",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EqTXwTRDknIE2sxcy287lw=="
+    },
+    {
+      "name": "Robin Foster",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N+VY2GKeLAANs3Wlmoo+KA=="
+    },
+    {
+      "name": "Sherri Frankum",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B7fXrGreNYSF1qBo6x92AA=="
+    },
+    {
+      "name": "Pam Freedman",
+      "gender": "Female",
+      "city": "DAWSONVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kbhqsMP8yzK/4KulPDJopQ=="
+    },
+    {
+      "name": "Bea Kay Freeh",
+      "gender": "Female",
+      "city": "Alpharetta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s8jY5UzG8bOOzu+IRf3QaQ=="
+    },
+    {
+      "name": "Martha Friedman",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PvVWI/LoabDWAijI+elG6Q=="
+    },
+    {
+      "name": "Suzanne Fries",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sjW4wxssNbyn77vgDeyIfA=="
+    },
+    {
+      "name": "Judith Fulk",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "atI64l56VI2c8fQ8XInYGg=="
+    },
+    {
+      "name": "Jennifer Fuller",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ei+G3d27UjkBbSG+6J2RoQ=="
+    },
+    {
+      "name": "Denise Fulton",
+      "gender": "Female",
+      "city": "Watkinsville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fSqo/VJlZ6+t8zM3EzFJ8Q=="
+    },
+    {
+      "name": "Russell Gaddis",
+      "gender": "Male",
+      "city": "JEFFERSON",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "CQDGnwAlfhOUY2yA5m8FoA=="
+    },
+    {
+      "name": "Taylor Gaddis",
+      "gender": "Female",
+      "city": "JEFFERSON",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7Mf2LgnZe3pAkJhKTVkxIA=="
+    },
+    {
+      "name": "Emily Gaddy",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "WvBMDuyhgiL2r/7yPm7Pkg=="
+    },
+    {
+      "name": "Phyllis Gailey",
+      "gender": "Female",
+      "city": "Dahlonega",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gl8ZpV6LaN3MiCfLIClG3g=="
+    },
+    {
+      "name": "Margaret Gaines",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "3/13/2025",
+      "usta_id": "RQqZkfF5WeEnq5axkH/pbQ=="
+    },
+    {
+      "name": "Ashley Gannon",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k8JXhHWx/uRZFXECWSj05Q=="
+    },
+    {
+      "name": "Amy Gardner",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C02qnRAh9iPUTXyeHmthNQ=="
+    },
+    {
+      "name": "Sandra Gardner",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/12/2024",
+      "usta_id": "B2KDqt+hV5Q/YvKP8EDS0Q=="
+    },
+    {
+      "name": "La Rue Gastley",
+      "gender": "Female",
+      "city": "Clarkesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P+sO3P82/Mq6yr14IXFOtA=="
+    },
+    {
+      "name": "Jason Gaston",
+      "gender": "Male",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uItp5MzYLX8s4scWct2VBg=="
+    },
+    {
+      "name": "Barbara Gauthier",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XXlB5CWg5ZZBW+nXHhesjw=="
+    },
+    {
+      "name": "Bill Gaynor",
+      "gender": "Male",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DT4fxcy3/ulgB9v1/KN5bg=="
+    },
+    {
+      "name": "Mary Geil",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+9L/lDfPJVWSN64loZFUqg=="
+    },
+    {
+      "name": "Marin Gerulski",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ogF9IiQDS/xwTXbB7txy6w=="
+    },
+    {
+      "name": "Dodi Getz",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NoP8NQc5ecEw8bJQoh3wdQ=="
+    },
+    {
+      "name": "Barbara Gilbert",
+      "gender": "Female",
+      "city": "Oakwood",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4XIdqrahGzhKuSgIUSLSTw=="
+    },
+    {
+      "name": "Molly Gilbreath",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "645v+XeORQhtnFB4IUa1JQ=="
+    },
+    {
+      "name": "Brian Gillespie",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "B+kDAHD954JvFE9QuLYlmg=="
+    },
+    {
+      "name": "Stephanie Gillespie",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P78ziGEeVBp7H1vqI+LAAw=="
+    },
+    {
+      "name": "Kim Gillon",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F3SKimFcb4DnliLM1oYmeg=="
+    },
+    {
+      "name": "April Giometti",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Nuz6HLMEmj8sxiEO3m6TA=="
+    },
+    {
+      "name": "Barbara Giometti",
+      "gender": "Female",
+      "city": "THE VILLAGES",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "pMG7h8NY2IxRMbglmCQ29g=="
+    },
+    {
+      "name": "Richard Giometti",
+      "gender": "Male",
+      "city": "THE VILLAGES",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p4dnsIUgtEjfNDXd8YqqVg=="
+    },
+    {
+      "name": "Kerry Gober",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "7ffRddrb55IaHWy8hlHdUw=="
+    },
+    {
+      "name": "Kelly Gomez",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bFFGJCSVb3WcALMvUTM4hQ=="
+    },
+    {
+      "name": "Joan Grabau",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xcl0lzpaHa0yxv/P87dh4g=="
+    },
+    {
+      "name": "Katie Grant",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ikj9NT5lZQCVvcqNmLYD+Q=="
+    },
+    {
+      "name": "Wanda Grant",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ymd5nL6KiFE0iDikIwjkBg=="
+    },
+    {
+      "name": "Karen Gratton",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nOAvDawMgGmAy+DjUXyK/g=="
+    },
+    {
+      "name": "Nancy Gravitt",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FiLzoDE4jKOt5wgopL/VAw=="
+    },
+    {
+      "name": "Gail Greene",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/jXPjGib98HZy+X6H4SmoA=="
+    },
+    {
+      "name": "Stephanie Greene",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y5AvKONa9pt7rpKrL7zcsA=="
+    },
+    {
+      "name": "Trey Greene",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "xsVWc4QU2AIOdH78LRAgBw=="
+    },
+    {
+      "name": "Patsy Greer",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sg65wRWh/uNdRMYAHRWlaA=="
+    },
+    {
+      "name": "Michele Gregory",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jOn0JaIPfqmJnltQV9Xhjg=="
+    },
+    {
+      "name": "Barbara Griffeth",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vj8B6JWund2IlnEX9U23kA=="
+    },
+    {
+      "name": "Petra Griffin",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0dnyYZsmK5t5+qe9+cUNUQ=="
+    },
+    {
+      "name": "Erin Grill",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WlbKE5MjLfTa9BCJJxafXw=="
+    },
+    {
+      "name": "Jennifer Grobeck",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "fPOBikXNMVU6RS9e5rmAtQ=="
+    },
+    {
+      "name": "Jon Grobeck",
+      "gender": "Male",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XyT+xgPO6nS3jlqFUfxQlQ=="
+    },
+    {
+      "name": "Alyssa Groover",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/6/2024",
+      "usta_id": "hB9uwuocBTYl7CGccxKnMA=="
+    },
+    {
+      "name": "Fran Habeeb",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nQiXpnGa81YteoFMx08HkQ=="
+    },
+    {
+      "name": "Paula Hand",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dtXDnmMn8wSvKn2PEkV57w=="
+    },
+    {
+      "name": "Suzanne Hanley",
+      "gender": "Female",
+      "city": "Talking Rock",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+RwcqBQfkz0oHriOgXrZYg=="
+    },
+    {
+      "name": "Kelly Harms",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "AD5NuATConncABJoC9CoCA=="
+    },
+    {
+      "name": "Kathy Harrie",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4/+FjQSnUA5ShgKPVjTocg=="
+    },
+    {
+      "name": "Candi Harris",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "50e6sra0O+aMf6OgCjVLMA=="
+    },
+    {
+      "name": "Lisa Harris",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/25/2023",
+      "usta_id": "Bt9FCf63BlxBldVjWtv0nA=="
+    },
+    {
+      "name": "Matt Hartman",
+      "gender": "Male",
+      "city": "CUMMING",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1EWjXNjZGzgaqtIQGDqIpQ=="
+    },
+    {
+      "name": "Jennifer Harvieux",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VCc+1Z7KtEbrCxiN5mVNLw=="
+    },
+    {
+      "name": "Theresa Heffernan",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EwCL7DW/j3yd1FqZ2XrONQ=="
+    },
+    {
+      "name": "Patti Hendrix-Brown",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7m9yVOntqfLUyuvLo2lQTA=="
+    },
+    {
+      "name": "Carmen Hermes",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tcdnJwAXDCJkRUcpnesXIg=="
+    },
+    {
+      "name": "Michele Hetzel",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TLzRPbiIFtCzmXWWLhMGMw=="
+    },
+    {
+      "name": "Rae Hewatt",
+      "gender": "Female",
+      "city": "DULUTH",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fzy9OqrWTf4EFB8568c/Kg=="
+    },
+    {
+      "name": "Christina Higgins",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "xi6IbWjkx4xjp/vfXPqH0A=="
+    },
+    {
+      "name": "Allison Hill",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x98A9/MjsPVScHtIYXQrgQ=="
+    },
+    {
+      "name": "Christi Hill",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/26/2025",
+      "usta_id": "EubE46zs5WBVdciiRLzpjg=="
+    },
+    {
+      "name": "Mikel Hill",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lr69pCbZp9YL9cX/CCOh2g=="
+    },
+    {
+      "name": "Gayle Hipple",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sn1QMyEv4Olx6qz+JUVBbA=="
+    },
+    {
+      "name": "Julie Hodges",
+      "gender": "Female",
+      "city": "FLOWERY BRANCH",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rm0cl7vIPgj5FNnzr/x8Uw=="
+    },
+    {
+      "name": "Paula Hoffman",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RMCGkvThPvvEkTx6d90Kqw=="
+    },
+    {
+      "name": "Lindsay Hofmann",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TcRSCxy5F2dSM3Pj/IXOOg=="
+    },
+    {
+      "name": "William Holcomb",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "NHm49OzH6TgH2q/RqERpHg=="
+    },
+    {
+      "name": "Ashley Hooie",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o1s44F0++qS8rOTVxn3Jkw=="
+    },
+    {
+      "name": "Ed Hoosh",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "4x3HiQiI2qLR0/jOBuARdQ=="
+    },
+    {
+      "name": "Pamela Hoosh",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tOd65EQ98v7cJt5Cr59O3w=="
+    },
+    {
+      "name": "Rene Hordines",
+      "gender": "Female",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vEtSh3+e6rceNcxrT+225A=="
+    },
+    {
+      "name": "Diane Horsley",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ceVrrHsbB9k1Yp6cw2Bkig=="
+    },
+    {
+      "name": "Sharon Hortenstine",
+      "gender": "Female",
+      "city": "Murrayville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Nn8lFkFjbI2dF7qWBitCQ=="
+    },
+    {
+      "name": "Anne Hotte Walls",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/17/2024",
+      "usta_id": "UNv1idYykknEBtbhQ+MmXg=="
+    },
+    {
+      "name": "Julie Hubbard",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FIGI43r/KNkr+X/CInDZIA=="
+    },
+    {
+      "name": "Shelly Hunt",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h8mUoW3Vt2US5RpC2Y3aJA=="
+    },
+    {
+      "name": "Jan Hunter",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HVfIBJ2f8R98e7KC3FHi6w=="
+    },
+    {
+      "name": "Angie Hutson",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EHkRzJb4DkdFkfjkDhNvTg=="
+    },
+    {
+      "name": "Judy Hyde",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "h02J3vDlaNTtytFcC1DHSQ=="
+    },
+    {
+      "name": "Alycea Hylton",
+      "gender": "Female",
+      "city": "Alpharetta",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fS0W5kZPC1bfkDbi/Lvs0w=="
+    },
+    {
+      "name": "Vaughn Imbornone",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b57kqcpudIvv57AThXOlAg=="
+    },
+    {
+      "name": "Lori Imhof",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ALMaka2znZi2PWDA+moR/w=="
+    },
+    {
+      "name": "Keri Ingmire",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/27/2025",
+      "usta_id": "5S4OBt34e2o/pEbv67VwBw=="
+    },
+    {
+      "name": "Dana Irwin",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "1h/Zj1Ef+QLqEOS/NcYQYw=="
+    },
+    {
+      "name": "Craig Jabloner",
+      "gender": "Male",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y7mOFKfB3A5SOFeYK++7WQ=="
+    },
+    {
+      "name": "Dawn Jabloner",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cJSSJ1Zx9WP511mYngEAmg=="
+    },
+    {
+      "name": "Pamela Jackson",
+      "gender": "Female",
+      "city": "Saint Helena Island",
+      "state": "SC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dYAKQ/hkY/6E+3AF3a49LQ=="
+    },
+    {
+      "name": "Erin Jacobs",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/30/2025",
+      "usta_id": "pc2aKvCuaRoG8JLDryjQ3w=="
+    },
+    {
+      "name": "Ginger Jakins",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YObNbVi/DMmyKUgREuFEUA=="
+    },
+    {
+      "name": "Barbara Jenkins",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DWM09mGQ1P5l0fvBQWi1Ww=="
+    },
+    {
+      "name": "Betty Jewett",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eWOt7WAOYOd5AXzNuVg0Jw=="
+    },
+    {
+      "name": "Stephanie Joedecke",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nOAvDawMgGmkERkHpQE30Q=="
+    },
+    {
+      "name": "Andy Johnson",
+      "gender": "Male",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0tEjIujqElFYAiGFF14X9A=="
+    },
+    {
+      "name": "Bethany Johnson",
+      "gender": "Female",
+      "city": "Dahlonega",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JVXXsC0gf+iSv03ISWgSRw=="
+    },
+    {
+      "name": "Brooke Johnson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dYD1085tsOEWOpNPM0aUCA=="
+    },
+    {
+      "name": "Janice Johnson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5jvlNJgiuEA/r9DfPDrmuA=="
+    },
+    {
+      "name": "Kimberly Johnson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wcLlFzAZv3Qco99Zbg+3hw=="
+    },
+    {
+      "name": "Grant Joneckis",
+      "gender": "Male",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "iSk2KTiCvimFNC7UZ7M6JQ=="
+    },
+    {
+      "name": "Lazonia Jordan",
+      "gender": "Female",
+      "city": "Duluth",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SKz4IykDwLLamNpWkXmPeg=="
+    },
+    {
+      "name": "Julie Katz",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aomuAw4FCBTL6NvNspO44A=="
+    },
+    {
+      "name": "Seth Katz",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wzn7SVsJ8CRDdv23PuyK9Q=="
+    },
+    {
+      "name": "Rosie Keller",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/1/2024",
+      "usta_id": "FGtMAGpmtNdJD8yYE9Rwzg=="
+    },
+    {
+      "name": "Linda Kellner",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "PPrVxjDZD4Ci6VWU9Src8Q=="
+    },
+    {
+      "name": "Peggy Kelso",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aVARoDclx5mYnJCLelMhLw=="
+    },
+    {
+      "name": "Claudia Kempen",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xB/riTV6wGow2fBZbSETPw=="
+    },
+    {
+      "name": "Kathy Kessler",
+      "gender": "Female",
+      "city": "DAWSONVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t/bV4YMHWQpXLkyQ57NesQ=="
+    },
+    {
+      "name": "Alene KIesel",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/10/2025",
+      "usta_id": "0ORu8GYdjNjo/CatslbWTg=="
+    },
+    {
+      "name": "Alison Kim",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PzAibz90T2+ggL3EwKh39w=="
+    },
+    {
+      "name": "Serena Kim",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rucL4BiafZsqTp0U4vQCNw=="
+    },
+    {
+      "name": "Susan Kim",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1C7C0kshQxwtIf6jF+l6Ww=="
+    },
+    {
+      "name": "Allison Kimbrell",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sS6eZVf0vdKaGMkP8CFUeA=="
+    },
+    {
+      "name": "Stacy King",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2aI3PwI+++sWm5LaLCUtyQ=="
+    },
+    {
+      "name": "Joan Kiser",
+      "gender": "Female",
+      "city": "Carnesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lCn9ICRTezrHweCBptPjiw=="
+    },
+    {
+      "name": "Randy Kmieciak",
+      "gender": "Male",
+      "city": "OAKWOOD",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "jU/VsscXX3qaXF3CFMvWmg=="
+    },
+    {
+      "name": "Angela Kneeburg",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/22/2025",
+      "usta_id": "gEOI3VX8H/fXCSUhdEX9Sg=="
+    },
+    {
+      "name": "Lisa Komanski",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tmjV+uJ/2u6z5OwBcXDJOQ=="
+    },
+    {
+      "name": "Karen Konsowitz",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "maDwJmZiN6y9F8Ozhva+Yg=="
+    },
+    {
+      "name": "Steven Kovach",
+      "gender": "Male",
+      "city": "DACULA",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HBVaj8yGixRIBBioBPaitA=="
+    },
+    {
+      "name": "Chrissy Kuhs",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "myLr4ewWIzsDTvuD7TYgNg=="
+    },
+    {
+      "name": "Rhonda Kupka",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8JW0phqK4LrNaIHwKRmf/A=="
+    },
+    {
+      "name": "Cathy Kupstas",
+      "gender": "Female",
+      "city": "FLOWERY BRANCH",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n5oV28KF33DMwW1qwe6nEA=="
+    },
+    {
+      "name": "Stacy Lacy",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EAXwpbIa8a7k9Qgu1atBAw=="
+    },
+    {
+      "name": "Ana Laidman",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aGc2ZXP1oX8WagFxqpkyKQ=="
+    },
+    {
+      "name": "Jane Lake",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vZNMe9K9rVk="
+    },
+    {
+      "name": "Alison Lamay",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ia8F6dTCJPyDHSBpRUgtow=="
+    },
+    {
+      "name": "Lisa Lancaster",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O23d3LysHt3s5NzA5K8nVg=="
+    },
+    {
+      "name": "Amy Lane",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mefGxaVWPuv8+Cx7XattsA=="
+    },
+    {
+      "name": "Debra Lanham",
+      "gender": "Female",
+      "city": "HOSCHTON",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t6dDy1PoLt6xBANO07FQRg=="
+    },
+    {
+      "name": "Cindy Latouf",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HF4qLu2CEfHmza3z7QDpPg=="
+    },
+    {
+      "name": "Darcey Latzsch",
+      "gender": "Female",
+      "city": "DAWSONVILLE",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NqvlvihfZLOZahmnT/DNyg=="
+    },
+    {
+      "name": "Bree Law",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y69bx5XhbokgatYCty2XJw=="
+    },
+    {
+      "name": "Elizabeth Lear",
+      "gender": "Female",
+      "city": "Atlanta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cdYtYca2CQ4/OxiniUICiA=="
+    },
+    {
+      "name": "Linde Leggett",
+      "gender": "Female",
+      "city": "Lilburn",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SknAVGFQPyKajEubdBeVog=="
+    },
+    {
+      "name": "Suzanne Lehman",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dtoWKghPua7iHwgWFiuI8g=="
+    },
+    {
+      "name": "Lisa Lepkofker",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lkb8Bu6Kdws7G0ypAykQ0Q=="
+    },
+    {
+      "name": "Sally Leugers",
+      "gender": "Female",
+      "city": "HOSCHTON",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UsbLLK9AcjmldB1NcN5P8g=="
+    },
+    {
+      "name": "Jeanne Lewis",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g1UICftXqhtdEDKXX2/KuA=="
+    },
+    {
+      "name": "Kara Lewis",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hU4e8elha2fPhP2PUq8lzA=="
+    },
+    {
+      "name": "Carlin Light",
+      "gender": "Female",
+      "city": "Alpharetta",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "zYK7g+f3SFPwS49djXsEoA=="
+    },
+    {
+      "name": "Darla Light",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tPsQH6t2hu7TCbEjo0eRNA=="
+    },
+    {
+      "name": "Angela Lindsay",
+      "gender": "Female",
+      "city": "Alpharetta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u2MCRiuHML7hNfZd5pAx9w=="
+    },
+    {
+      "name": "Cha' Lizdas",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rxVFA22pPxSuGPHi6Hp0uA=="
+    },
+    {
+      "name": "Jennifer Loggins",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gys4tcVQ13TEYejqf7HUxA=="
+    },
+    {
+      "name": "Wanda Loggins",
+      "gender": "Female",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6ke1ylB3gLJI7phwRTN5ng=="
+    },
+    {
+      "name": "Karen Long",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rhM52rl1NijNAH3J3KLtkw=="
+    },
+    {
+      "name": "Rosemarie Long",
+      "gender": "Female",
+      "city": "Oakwood",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U5fQwL4SHTDTUGNbjCeG5g=="
+    },
+    {
+      "name": "Danielle Luce",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nTgriI4PN0p7hRR3XMrX7A=="
+    },
+    {
+      "name": "Karen Lynn",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8eWcRqWKAytCUKSfZeFOkw=="
+    },
+    {
+      "name": "Thomas M Fowler",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "+otn9fLfz6dQto6caX+rag=="
+    },
+    {
+      "name": "TAMARA MAELLARO",
+      "gender": "Female",
+      "city": "BRASELTON",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6ZoUMsJryotC2x+0Zgamzg=="
+    },
+    {
+      "name": "Katharine Magahey",
+      "gender": "Female",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KJBXpOhAUjfKqs7PR2T1aQ=="
+    },
+    {
+      "name": "Temple Makuch",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s30SfCunnPtqa1KeP/sgZQ=="
+    },
+    {
+      "name": "Janeen Mangan",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kHfwplUHyGY1Gz5FEHoydw=="
+    },
+    {
+      "name": "Monica Marks",
+      "gender": "Female",
+      "city": "Porterdale",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jTk13NTZw9cr6YAtAey2zA=="
+    },
+    {
+      "name": "Earron Martin",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JRd/tVGrH62G9Sli2SB7/A=="
+    },
+    {
+      "name": "Sandra Martin",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8YVAd1L2IffcqEO0k1JYtQ=="
+    },
+    {
+      "name": "Adrienne Marting",
+      "gender": "Female",
+      "city": "HOSCHTON",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "JtfodOkMlkoKxXinc+nF1g=="
+    },
+    {
+      "name": "Stewart Mary Jo",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0I+ksrnGJBLgr9McyCquww=="
+    },
+    {
+      "name": "Sandy Massey",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9SeyH9M7ELmiSCb4UsrluQ=="
+    },
+    {
+      "name": "Donna Matthews",
+      "gender": "Female",
+      "city": "Hull",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XZ1oN1OpO0MhvcFlEgvhyQ=="
+    },
+    {
+      "name": "Jackie Mauldin",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9EDn4BW1HqpR4ri84ZXQ0g=="
+    },
+    {
+      "name": "Sue Mayer",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ikj9NT5lZQDsbz8F+vukiA=="
+    },
+    {
+      "name": "Sue Mayfield",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LmDdaFAyJchWobeZLoT5SA=="
+    },
+    {
+      "name": "Kathy Mayhew",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UZTbAIq7qNxmqAZ2vtMECw=="
+    },
+    {
+      "name": "Cathy Mc Kinnon",
+      "gender": "Female",
+      "city": "DAWSONVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JeE8NTn/wpCk1scoyKzcTg=="
+    },
+    {
+      "name": "Pamela McBride",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MgLUAEALf1i+0VjpTBw1tA=="
+    },
+    {
+      "name": "Lindsey McCamy",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l+B8t7EecdFdmedbvE8URg=="
+    },
+    {
+      "name": "Christine McClendon",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ykdIFwbirVgmlRI7abzGFg=="
+    },
+    {
+      "name": "Julie McCoy",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7H5h2n5B55T0zY8Q6w/0GQ=="
+    },
+    {
+      "name": "Shantha McDonald",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hXLfpIBooO8Z39Dqn9M26w=="
+    },
+    {
+      "name": "Lynn McGee",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YjgOoZErjJds70Jb0RIH3w=="
+    },
+    {
+      "name": "Bruce McGinley",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dnvf5pVsYVcdhToSgJnUow=="
+    },
+    {
+      "name": "Susan McHugh",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YUgvTq3uLXmcj1RYJpdzug=="
+    },
+    {
+      "name": "Stephanie McNair",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hrt6ZrGwrM3Vfy0DWSQ3Ow=="
+    },
+    {
+      "name": "Pam McNeilly",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/30/2025",
+      "usta_id": "iul2qUEOClfSd5x4CX8vSg=="
+    },
+    {
+      "name": "Sandy McQueen",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XscJ5p4Yay8DuQ5cizD4rg=="
+    },
+    {
+      "name": "Catherine Meadows",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PpbnkYMTsnK//ssPrzN0jw=="
+    },
+    {
+      "name": "Holly Meier",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/27/2025",
+      "usta_id": "XmHogS2tmfZxkU9tdc//3Q=="
+    },
+    {
+      "name": "Ann Mell",
+      "gender": "Female",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B5/oLCKe9vq+uFTu3CF8cA=="
+    },
+    {
+      "name": "Lesley Melson",
+      "gender": "Female",
+      "city": "Lula",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HEUEctEYy/msOghmwCww1w=="
+    },
+    {
+      "name": "Patricia Melton",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QBamldUj5CGXANKVZPmlRg=="
+    },
+    {
+      "name": "Suzy Mercker",
+      "gender": "Female",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "t8taPWmppb8skTwSTDLgBw=="
+    },
+    {
+      "name": "Rachel Meyer",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R9GzvdG7nULzxncxkrQpGw=="
+    },
+    {
+      "name": "Barb Miller",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RRJbx92sbmSuDGc44hTMMw=="
+    },
+    {
+      "name": "Deedee Miller",
+      "gender": "Female",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7BqKZ1vJiKkUH1a95tcrnQ=="
+    },
+    {
+      "name": "Karen Miller",
+      "gender": "Female",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "HuJdvi8YXN50y/R4yOoegg=="
+    },
+    {
+      "name": "Leslie Miller",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "17pIiT/0YQF1P2XiZ+fjHA=="
+    },
+    {
+      "name": "Mary Miller",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k417IEIuGA93cMyRU2nbvQ=="
+    },
+    {
+      "name": "Michaele Miller",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B17MCMwO6z3mcYneuWWnKg=="
+    },
+    {
+      "name": "Suzanne Miller",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dz7+OMNa7FNnvCjYu27lCg=="
+    },
+    {
+      "name": "Rena Millwood",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ycC/ZV6VevBKA1aoBlUqNQ=="
+    },
+    {
+      "name": "Helen Minor",
+      "gender": "Female",
+      "city": "JEFFERSON",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GuIVSkwDLUkQkVLpBzrShA=="
+    },
+    {
+      "name": "Bobby Moore",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vz8JOPSUqq9OlUEjUq9e0Q=="
+    },
+    {
+      "name": "Kenny Morgan",
+      "gender": "Male",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0NM8J/sDnv1tUzM4wYoZDQ=="
+    },
+    {
+      "name": "Betsy Morris",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VIsM7nGpGvPK3eCMsnpEjg=="
+    },
+    {
+      "name": "Michael Moses",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/6/2025",
+      "usta_id": "P85+yYj+lwziyhdgh5h9Dg=="
+    },
+    {
+      "name": "Jacquelyn Munsterman",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nQ5zXPy3r5YbVZxnh+V0Xw=="
+    },
+    {
+      "name": "Liz Murphy",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lckCo5DY/YtyHO/AcrebNQ=="
+    },
+    {
+      "name": "Jan Myers",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UkRlwT2h292N5peq4lCBeQ=="
+    },
+    {
+      "name": "Jane Myers",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T1ExNgM55rMQw6mPSiY3mw=="
+    },
+    {
+      "name": "Nancy Nash",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IiFTMDpQK+5kK05AbwZXGA=="
+    },
+    {
+      "name": "Rebecca Neal",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yz6YNbfOv2CDH8E+FoFfMA=="
+    },
+    {
+      "name": "Sherri Neese",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dFUjiQVVkHO63Nnx6hxoww=="
+    },
+    {
+      "name": "Randi Nelson",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q0cFNT3mrfYbIabpRbq5Gw=="
+    },
+    {
+      "name": "Jodi Nevels",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "LqsBSrP9fYifud3mrIBDCg=="
+    },
+    {
+      "name": "Jody Nieves",
+      "gender": "Female",
+      "city": "OAKWOOD",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zwRcJ5vP2zYQbifkD9IEBg=="
+    },
+    {
+      "name": "Meg Nivens",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "3y/sUVDFxXy3nXfm5vmfSw=="
+    },
+    {
+      "name": "Reid Nix",
+      "gender": "Male",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Aj/mQOrbkmjha6khyDmwfg=="
+    },
+    {
+      "name": "Ann Nixon",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gpySE1rcpcELsIZHAfFT8w=="
+    },
+    {
+      "name": "Tammy Nolan",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "OryRZWfzX3PUrZrasPYg1w=="
+    },
+    {
+      "name": "Jason Norris",
+      "gender": "Male",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "kknLoilopBGIsdyh5rnttQ=="
+    },
+    {
+      "name": "Jennifer Norris",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "oL1V965Pw9wEb+C0ejfsqQ=="
+    },
+    {
+      "name": "Paul Norris",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/20/2025",
+      "usta_id": "2huBPe7D5orN7K+6dfPS8A=="
+    },
+    {
+      "name": "AMANDA NORTON",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XUM4qGdDr2gKZ4YRWxjzKQ=="
+    },
+    {
+      "name": "Robert Norton",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "2xqB20zl6ByE+597CWh9Uw=="
+    },
+    {
+      "name": "Susan OBrien",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u/lvZEiHoa/JXJUvOFbZ7Q=="
+    },
+    {
+      "name": "Lynn Odum",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qT0ps9IPohnhu3WJ4FOOAw=="
+    },
+    {
+      "name": "Ann Olps",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xunWcLphnJBNz6kFbcRCAw=="
+    },
+    {
+      "name": "Connie-Sue Oriel",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gBNew5dKTH19zyqQgzFkng=="
+    },
+    {
+      "name": "Holly Owens",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "I7eRMRK70nj/7c6ZksTRUA=="
+    },
+    {
+      "name": "Traci Oxley",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/24/2025",
+      "usta_id": "Xaddntbh9q8CrQJAHlIIPQ=="
+    },
+    {
+      "name": "Nicole Painter",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "52kZcZAR7m5sSwgWjOqzuA=="
+    },
+    {
+      "name": "Jackie Palmer",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A6LpjUyJn+NAgbijZnugJQ=="
+    },
+    {
+      "name": "Ruth Parker",
+      "gender": "Female",
+      "city": "Atlanta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "14U3eVGfa0qMmVe/cfyAFg=="
+    },
+    {
+      "name": "Gloria Parr",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "I+Fzq301PXTY37bm/ICFMA=="
+    },
+    {
+      "name": "Barbara Pasko",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "eZ0N+ks+kBIGtEcBiKksFQ=="
+    },
+    {
+      "name": "Donna Patten",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6JPIjNnaVvErxmfqq1Q9iQ=="
+    },
+    {
+      "name": "Sarah Patten",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dp2ZiqQiTgnash9u63eoHQ=="
+    },
+    {
+      "name": "Sarah Patterson",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EgA0qLQE42+/kvoFxuuMhg=="
+    },
+    {
+      "name": "Holly Patton",
+      "gender": "Female",
+      "city": "Saint Simons Island",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "69Flekbmy7VILmvPre5qsg=="
+    },
+    {
+      "name": "Kathleen Pawson",
+      "gender": "Female",
+      "city": "HOSCHTON",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HH6+aABoxLlKrFcjas1ypg=="
+    },
+    {
+      "name": "Jan Pearce",
+      "gender": "Female",
+      "city": "Clayton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dgAXDesSH5G3zYvlinRoxw=="
+    },
+    {
+      "name": "Kingsley Peeples",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wxQWGMWNmcBjyL58rgPuKA=="
+    },
+    {
+      "name": "Farris Permenter",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+8oZ9pjL/X4ME/JVBg9YgQ=="
+    },
+    {
+      "name": "Chelsea Perrone",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/16/2025",
+      "usta_id": "s0K1DbDC+ISbD2AbvKMXGg=="
+    },
+    {
+      "name": "Grant Perry",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "6/61UBJbc/dc7Q669D1aXw=="
+    },
+    {
+      "name": "Kathleen Petro",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8dH3l0XwZ3DruWPx8Y1FQw=="
+    },
+    {
+      "name": "Ramona Phelps",
+      "gender": "Female",
+      "city": "Greensboro",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "qq/WcuOiB5/sRans7HzVQw=="
+    },
+    {
+      "name": "Teresa Pierce",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "nV6cVti1hUzQywfh8LUZcA=="
+    },
+    {
+      "name": "Dylan Pineda",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ehrUAkyADZT2ZQLFX6f+nA=="
+    },
+    {
+      "name": "Elcira Pinkerton",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fxJNnVz51iUwGJtoz0ABCQ=="
+    },
+    {
+      "name": "Jenny Poole",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WbDMH+p8hY3aJUdy8D015A=="
+    },
+    {
+      "name": "Amy Pope",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "58ZCeKzRXghR1mmoM+p50w=="
+    },
+    {
+      "name": "Jonathan Pope",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "Phln1YP2JlITla6XfWRCog=="
+    },
+    {
+      "name": "Karen Potts",
+      "gender": "Female",
+      "city": "Auburn",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8k0GTsLzSDji7GI66UQ6jg=="
+    },
+    {
+      "name": "Chilton Price",
+      "gender": "Male",
+      "city": "HOSCHTON",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9bewa75IrqCFA1LSqYrm1Q=="
+    },
+    {
+      "name": "Amy Quinn",
+      "gender": "Female",
+      "city": "Norcross",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cnnV2yntYFZU7TWMLOCfRw=="
+    },
+    {
+      "name": "Sarah Rabinowitz",
+      "gender": "Female",
+      "city": "Oakwood",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/6/2024",
+      "usta_id": "0jwLKOe9pLcKKC3UZ3cYVw=="
+    },
+    {
+      "name": "Brian Raper",
+      "gender": "Male",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "yg6L6z0hvuIX1DdieeiUhw=="
+    },
+    {
+      "name": "Tammy Raper",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Fb/IHViINOs1y6JetzHhnA=="
+    },
+    {
+      "name": "Cynthia Ratliff",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/17/2025",
+      "usta_id": "HsKGUr1j5QtsUUiVLD1NRg=="
+    },
+    {
+      "name": "Brigitte Reall",
+      "gender": "Female",
+      "city": "CUMMING",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZUeqAbhHSB9UEOeCL+Z9Jg=="
+    },
+    {
+      "name": "Sally Rector",
+      "gender": "Female",
+      "city": "Loganville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/11/2023",
+      "usta_id": "ouiX8SvCH6Awc5yxeYa72w=="
+    },
+    {
+      "name": "Amy Reed",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JVcEXCKBhJQUyuFb7iqcAg=="
+    },
+    {
+      "name": "Cindy Reed",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XIH93DhyMDjaCl5wWJ8qzw=="
+    },
+    {
+      "name": "Allyson Reeves",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HU2vLgyKCBD5vAlzFkeVBA=="
+    },
+    {
+      "name": "Jody Reeves",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S2B9uB0vQgmALoHf6g/ZdQ=="
+    },
+    {
+      "name": "Kim Reeves",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZRCbuxcXG89/ct5USCVDhA=="
+    },
+    {
+      "name": "Michelle Reeves",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y8zP7dgVxAZkQRkjSkxXVA=="
+    },
+    {
+      "name": "Christine Register",
+      "gender": "Female",
+      "city": "Watkinsville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9vn0NHsggZo3RFvHRdZhxg=="
+    },
+    {
+      "name": "Ashley Rentz",
+      "gender": "Female",
+      "city": "Athens",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XT3l/0AsEO9CzpdzR8/1VQ=="
+    },
+    {
+      "name": "Jill Richardson",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p5FN909rdmn8y5Jn482c5Q=="
+    },
+    {
+      "name": "Theresa Rigney",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "8PHjn7McgxQZH8dbmH3mgA=="
+    },
+    {
+      "name": "Bambi Riley",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "sU4MEC1i0SpRLzp/Cj0MPw=="
+    },
+    {
+      "name": "Kirstin Risse",
+      "gender": "Female",
+      "city": "FLOWERY BRANCH",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SXqkYEttKnF2bmT0KY4yWQ=="
+    },
+    {
+      "name": "Scottie Rittenberry",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "vX/NwDbBkdV8C+K7bA08/A=="
+    },
+    {
+      "name": "Jane Ritter",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1hZzBpjwgD2KMUUnN+Gbbw=="
+    },
+    {
+      "name": "Lynda Rollins",
+      "gender": "Female",
+      "city": "DAWSONVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cwrdFc5nY6kV3s7iHWDGxQ=="
+    },
+    {
+      "name": "Sharon Ross",
+      "gender": "Female",
+      "city": "Demorest",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Ev+NOJaOCImMC7knwJOig=="
+    },
+    {
+      "name": "Anne Rowe",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eTwkSMkSRs12tUY5SwF+pw=="
+    },
+    {
+      "name": "Kristen Roy",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "EQPmGUyf6ccl+3uWeMUatg=="
+    },
+    {
+      "name": "Heide Rudnick",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B2c+kJ1mF/cldDvX8Epy+g=="
+    },
+    {
+      "name": "Cheryl Russell",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TPaHF6guiku0pz9nmnlszA=="
+    },
+    {
+      "name": "Tracy Sammond",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8mIOLpj3b3gzi/mrO4h+8w=="
+    },
+    {
+      "name": "Eve Sartain",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mgkA1auupRTp0vIVVjPhow=="
+    },
+    {
+      "name": "Britt SAWYER",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cobzSRQzjidViEpuvhbx/g=="
+    },
+    {
+      "name": "Cathryn Sawyer",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zBRQOxY5Dyqbjn26mnf0kw=="
+    },
+    {
+      "name": "Elaine Schenck",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G57TSdWCmVSCt8u5usF/jQ=="
+    },
+    {
+      "name": "Lecretia Scondras",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "toqsS8BJIpC+F2AMPhottA=="
+    },
+    {
+      "name": "Jenn Seaton",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wqs4SS/woYzn5HhHSLNZ8g=="
+    },
+    {
+      "name": "Kimberly Sekulow",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GsBY3UdWgez+BuqRRADUJg=="
+    },
+    {
+      "name": "Anne Sepko",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zsoXfsOvfE8764BJK2hEPA=="
+    },
+    {
+      "name": "Molly Sexton",
+      "gender": "Female",
+      "city": "Macon",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hG7WWKI5TcSmUVJ6EotkjQ=="
+    },
+    {
+      "name": "Tricia Sexton",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WU8liKXSbTC0VSfW7MSdfA=="
+    },
+    {
+      "name": "Vickie Sexton",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lAW6qiVhCjwkI3EA6dLZ9w=="
+    },
+    {
+      "name": "Mai Shedd",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jKogmNRKoEiREiz0hx8tnQ=="
+    },
+    {
+      "name": "Donna Shewbert",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/25/2024",
+      "usta_id": "6QOp+9CYpPeOM36hLZamAA=="
+    },
+    {
+      "name": "Madison Shewbert",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pQz/gWv2jHAoKAMPImzvAw=="
+    },
+    {
+      "name": "Tony Shewbert",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "6EMzTYyATVXXiNBDr53JNA=="
+    },
+    {
+      "name": "Maribel Shields",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WoQf9+Vdi5gOgCLqRgSoWQ=="
+    },
+    {
+      "name": "Shawn Shields",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Sam2aWksq4lFs/mQm/lBQ=="
+    },
+    {
+      "name": "Susan Shishido",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "48QtTh1aWS9DMzlb0cS+Kg=="
+    },
+    {
+      "name": "Maggie Shultz",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Q+ybS5aml8/loXMWIR8gyA=="
+    },
+    {
+      "name": "Dawn Siebold",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PuH/9RYVkJxSbPx0OvuDWQ=="
+    },
+    {
+      "name": "Bonnie Sikorski",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bc1Z4oSjWYqXlxrc0+q+eg=="
+    },
+    {
+      "name": "Soomy Sim",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fRi8xiqMNR4RqqudyQQ9aA=="
+    },
+    {
+      "name": "Bobbie Gail Simpson",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6SwtY6FLXbg24d6vrT+Abw=="
+    },
+    {
+      "name": "Angie Sisk",
+      "gender": "Female",
+      "city": "DAWSONVILLE",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J5U+GdMSpsKxyfQT0ABarw=="
+    },
+    {
+      "name": "Christine Slate",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rIfTT6aXMmv1hjYCNFiIlA=="
+    },
+    {
+      "name": "David Sloan",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "7667bOeun9qjv2Mmm8UrTg=="
+    },
+    {
+      "name": "Steve Slowick",
+      "gender": "Male",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "3uyoczJyX4v+82HCj5bh1g=="
+    },
+    {
+      "name": "Terri Smiley",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "68C06yKePTQIlB6KtecXuQ=="
+    },
+    {
+      "name": "Amanda Smith",
+      "gender": "Female",
+      "city": "Dahlonega",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eHzY3Gjj0BcLfi+OfMmjhA=="
+    },
+    {
+      "name": "Becky Smith",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "79KEyKjLMzmedweGUYLC8g=="
+    },
+    {
+      "name": "Carroll Smith",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P1WnyEcm8Leqb31nGnm1yA=="
+    },
+    {
+      "name": "Debbie Smith",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZbFvb1qROSSgMt68sCIS7g=="
+    },
+    {
+      "name": "Leisa Smith",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FFCY+tbLcIvwWmSN2CD2UA=="
+    },
+    {
+      "name": "Natalie Smith",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IC9jx2tgztAoH1it9SNArA=="
+    },
+    {
+      "name": "Stacey Smith",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FVUhcpUGEHNkT8gQjlDsjA=="
+    },
+    {
+      "name": "Tracee Smith",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1uix4/pIyNe0AR+3ocb6ug=="
+    },
+    {
+      "name": "Susan Smithson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nKlgE7DjvjX0yTlifundsQ=="
+    },
+    {
+      "name": "Tina Smosny",
+      "gender": "Female",
+      "city": "Auburn",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EucHCYcX3Ve6vTRFI9qptA=="
+    },
+    {
+      "name": "Taryn Sobh",
+      "gender": "Female",
+      "city": "Sugar Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J8qFOUxiy7vgAMs/1P4+sQ=="
+    },
+    {
+      "name": "Shonda Sosebee",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mdfJONWVfyCl6GVnbpL7XA=="
+    },
+    {
+      "name": "Sandra Souther",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qIKXnal2hU4YA4wMPZa+fw=="
+    },
+    {
+      "name": "Joanna Stephenson",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ee9WmNwRoKkfUJoGsqxISw=="
+    },
+    {
+      "name": "Donna Still",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hnHILrAWyuwlvrMQhQV00Q=="
+    },
+    {
+      "name": "Lyn Stille",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/ZdQJue06uUljlq+1kAGQA=="
+    },
+    {
+      "name": "Mandi Stokes",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/7p30NGHy1MskI0jSj87wg=="
+    },
+    {
+      "name": "Cheryl Stone",
+      "gender": "Female",
+      "city": "Lula",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C1q68A2hETcCTgAxKvS1xw=="
+    },
+    {
+      "name": "Diana Stout",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J5NK8IrTN4aQKX9biTWP7A=="
+    },
+    {
+      "name": "Kristan Stroner",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1LZTSPxaSQppxArlKrVpuw=="
+    },
+    {
+      "name": "Donna Sullivan",
+      "gender": "Female",
+      "city": "FLOWERY BRANCH",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iZJjo1FqgxYc33cHVhvv4g=="
+    },
+    {
+      "name": "Karen Sullivan",
+      "gender": "Female",
+      "city": "Norcross",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h2harhXN/8LNSHq0qUdb1g=="
+    },
+    {
+      "name": "Gabrielle Tafoya",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3BPJZOS7jcaDogGMuEsBMQ=="
+    },
+    {
+      "name": "Hrishi Talwar",
+      "gender": "Male",
+      "city": "Alpharetta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VMf+updtYZGPWIDgc5pclA=="
+    },
+    {
+      "name": "Tina Tanco",
+      "gender": "Female",
+      "city": "LAWRENCEVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "sBdry6GoiPxqt50ld937mA=="
+    },
+    {
+      "name": "Nancy Tate",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "x8pwksC5wkaN7Qodm7LBfg=="
+    },
+    {
+      "name": "Susan Teel",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "zFKoeRQyGoBnsHt4aLIhLw=="
+    },
+    {
+      "name": "Lee Temple",
+      "gender": "Male",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hz0qTcE3vs+HH5hMNwl/sw=="
+    },
+    {
+      "name": "Ellen Thomas",
+      "gender": "Female",
+      "city": "Macon",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VmHmRq9NpQFQc86dGdrCNQ=="
+    },
+    {
+      "name": "Ali Thompson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tzsxQJoBan+qp+D+E8uxyA=="
+    },
+    {
+      "name": "Katherine Thomson",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HsNdmzrUYSMDW7vx77jJlw=="
+    },
+    {
+      "name": "Eleanor Timmons",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rlf8dp5j4ZNCTLh8mhXRNA=="
+    },
+    {
+      "name": "Karen Tinker",
+      "gender": "Female",
+      "city": "Conyers",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hWEMwr2vGR0e+pFZroKdHA=="
+    },
+    {
+      "name": "Martin Titus",
+      "gender": "Male",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "EJ2VMpRe0mf84TYJyHZF9g=="
+    },
+    {
+      "name": "Robert Triano",
+      "gender": "Male",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q85idonTgl588EQxw6Qwhg=="
+    },
+    {
+      "name": "Krista Tripp",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q+Bag8UfXMFzF4pr6uEAJw=="
+    },
+    {
+      "name": "Gail Tucker",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hFW7l+A/0pmi0Aztgh9hLQ=="
+    },
+    {
+      "name": "Lory Tuholski",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "YJD0F4SIvsHS9J0WsNl0Uw=="
+    },
+    {
+      "name": "Amy Turner",
+      "gender": "Female",
+      "city": "CLERMONT",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gqxu1RvZJ5NSNkVaFc2MXA=="
+    },
+    {
+      "name": "April Turoczi",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e1KjJ+RHnMUaqmP1BC59mQ=="
+    },
+    {
+      "name": "Della Twite",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LcZsC5pRik3cpGicaQywng=="
+    },
+    {
+      "name": "Greg Tyler",
+      "gender": "Male",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "M2pV1W2by3D5u9iqhh8dqg=="
+    },
+    {
+      "name": "Donna Uhl",
+      "gender": "Female",
+      "city": "Snellville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LWEoZcYQUwTKXrJC0eIrAQ=="
+    },
+    {
+      "name": "Debbie Underwood",
+      "gender": "Female",
+      "city": "Jefferson",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LNPUnsG4tc9Y7tyRhzIYjA=="
+    },
+    {
+      "name": "Tish Underwood",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "cPR95NikJ3LfUKyaNEfSew=="
+    },
+    {
+      "name": "Yvette van der Wiel",
+      "gender": "Female",
+      "city": "Greensboro",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Zd2RrjoJ4Jsqt+NdqoQIUQ=="
+    },
+    {
+      "name": "Jennie Vaughan",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PkE0xn+tWS4vtKlCTnhm5A=="
+    },
+    {
+      "name": "Vandana Venkatesh",
+      "gender": "Female",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "81McysgB4m7exi01qjcqgw=="
+    },
+    {
+      "name": "Kimberlie W Ensley",
+      "gender": "Female",
+      "city": "HOSCHTON",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j0W+I2+BIn9rRIzOHca5AQ=="
+    },
+    {
+      "name": "Tracy Wakefield",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "25+P156EXd/9DiVUHa9w8w=="
+    },
+    {
+      "name": "Michele Waller",
+      "gender": "Female",
+      "city": "GAINESVILLE",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AwlT89wk/z/PzGuPhC0++w=="
+    },
+    {
+      "name": "Gerald Walling",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "1COYeyetQ7SvLjWtmQx76Q=="
+    },
+    {
+      "name": "Linda Ward",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O081WSyfmc9ETQfe9Ve+7w=="
+    },
+    {
+      "name": "Lori Warren",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tDSp+HTSPUqdtL53zIELHw=="
+    },
+    {
+      "name": "Amanda Watkins",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RliupXDKVUAAhswjMsi98w=="
+    },
+    {
+      "name": "Jennifer Watson",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "anVKtqNF4KaL12vW9ucztA=="
+    },
+    {
+      "name": "Gary Watters",
+      "gender": "Male",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/28/2024",
+      "usta_id": "pW7dn6gYWXmzU76RnABs+A=="
+    },
+    {
+      "name": "Leslie Watters",
+      "gender": "Female",
+      "city": "Cumming",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wnOfasXJcEBwesPPM8p5FA=="
+    },
+    {
+      "name": "Sonya Watts",
+      "gender": "Female",
+      "city": "BRASELTON",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wj41wK6JeMFRmR61kc6CHQ=="
+    },
+    {
+      "name": "Sandra Weatherley",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "e89VXl6JYwUHnOCAuO2osQ=="
+    },
+    {
+      "name": "Davis Weaver",
+      "gender": "Male",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LbXYpnYYNa10g5bJidPUCA=="
+    },
+    {
+      "name": "Marvin Wendorf",
+      "gender": "Male",
+      "city": "Suwanee",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aSHzxyMkYIQzF47ZNnuZYQ=="
+    },
+    {
+      "name": "Linda Werren",
+      "gender": "Female",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sbt8IFtoSCnjHsEqpYrFFg=="
+    },
+    {
+      "name": "Joey West",
+      "gender": "Male",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "VSi8rIVwOo6Y/ForlxuSjQ=="
+    },
+    {
+      "name": "Judith West",
+      "gender": "Female",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uMp1uHYNt0q7xTF/AAnoww=="
+    },
+    {
+      "name": "Mary Ann West",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5qsvYoktZcWnDC2oCTEZWg=="
+    },
+    {
+      "name": "Meredith West",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yTvsFEo57dADKdmfkjZjmw=="
+    },
+    {
+      "name": "Debbie Westray",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HvH4/vJhsN58d2JZGz6hLA=="
+    },
+    {
+      "name": "Kathy White",
+      "gender": "Female",
+      "city": "Dawsonville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b8RwtyFzfgk5C+eGSOEBxw=="
+    },
+    {
+      "name": "Leslie White",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "brO+sVDtvNVi7dcx+5A4XA=="
+    },
+    {
+      "name": "Kerry Whitlock",
+      "gender": "Female",
+      "city": "Gillsville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hBWT9hI+tXviQXpN7NPUsg=="
+    },
+    {
+      "name": "Crystal Wilbanks",
+      "gender": "Female",
+      "city": "Dacula",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tzdcZ4NXTM4Aye0BhPM/ug=="
+    },
+    {
+      "name": "Amanda Wilcox",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mutMrX37D3ktjldz0mn0mQ=="
+    },
+    {
+      "name": "Debbie Wiley",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VO3617HoXZafuYxBOr/mwA=="
+    },
+    {
+      "name": "Pam Williams",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YB+miXIMPMJAiuGu5yIEKg=="
+    },
+    {
+      "name": "Bonnie-Lynne Wilson",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/25/2025",
+      "usta_id": "qtKpdA1WzisNhwIPL72jbg=="
+    },
+    {
+      "name": "Sue Winter",
+      "gender": "Female",
+      "city": "Flowery Branch",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bGy4PqlIfDkfITiaWvN+ug=="
+    },
+    {
+      "name": "Marrette Winters",
+      "gender": "Female",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0l0misE4elEHIzzY/BHqVg=="
+    },
+    {
+      "name": "Shana Wolfe",
+      "gender": "Female",
+      "city": "Oakwood",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Qtdt/LWHp6LroWUrmosR3A=="
+    },
+    {
+      "name": "Morgan Wood",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/30/2023",
+      "usta_id": "XTjHS/guQdh2Ev7yy8XseQ=="
+    },
+    {
+      "name": "Dancy Wynne",
+      "gender": "Female",
+      "city": "Gainesville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U3FSQJEiX+Y="
+    },
+    {
+      "name": "Minsoo Yeo",
+      "gender": "Male",
+      "city": "Buford",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "XbRzIyEt5xLry62h9Nv8Uw=="
+    },
+    {
+      "name": "Mary Younie",
+      "gender": "Female",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TPkJyfJiEC4sUXMVK6sv0Q=="
+    },
+    {
+      "name": "Matthew Ziesmer",
+      "gender": "Male",
+      "city": "Hoschton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "6epSFT+XhA4kjeIux4J2ww=="
+    },
+    {
+      "name": "NOREEN ZULAICA",
+      "gender": "Female",
+      "city": "Braselton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "71ANyavgHK7qQfL+Wena6g=="
+    }
+  ]
+}

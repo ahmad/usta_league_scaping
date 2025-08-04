@@ -1,0 +1,77 @@
+{
+  "sectionId": "6243306",
+  "districtId": "6243376",
+  "areaId": "6243585",
+  "players": [
+    {
+      "name": "Yoneko Buritica",
+      "gender": "Female",
+      "city": "Cerritos",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/16/2024",
+      "usta_id": "B8r6gRthXVYfOgbe+PXOSA=="
+    },
+    {
+      "name": "Peter Davis",
+      "gender": "Male",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/27/2024",
+      "usta_id": "Q1GA2EVlW2bMGw/TcD296A=="
+    },
+    {
+      "name": "Susan Daymude",
+      "gender": "Female",
+      "city": "Santa Clarita",
+      "state": "CA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qFckEtoG9y0QY8oQMqjUkw=="
+    },
+    {
+      "name": "Maria Fleet",
+      "gender": "Female",
+      "city": "Los Angeles",
+      "state": "CA",
+      "rating": "5.5",
+      "rating_type": "S",
+      "rating_date": "12/9/2024",
+      "usta_id": "0CCWOhCnolH4NCymFKz8xA=="
+    },
+    {
+      "name": "Ross Grant",
+      "gender": "Male",
+      "city": "Los Angeles",
+      "state": "CA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "DcFwKPxq1I7vkH2rMGXJiw=="
+    },
+    {
+      "name": "Laurie Lopez",
+      "gender": "Female",
+      "city": "LA Jolla",
+      "state": "CA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kwc5UnDjdUePbJ6n6vfDiA=="
+    },
+    {
+      "name": "Susan Williams",
+      "gender": "Female",
+      "city": "Portland",
+      "state": "OR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/27/2024",
+      "usta_id": "Q1GA2EVlW2ZSUzD23Fyu+g=="
+    }
+  ]
+}

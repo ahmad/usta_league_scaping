@@ -1,0 +1,4307 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243379",
+  "areaId": "6243616",
+  "players": [
+    {
+      "name": "Larry Abbott",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J+Nt0V+IguOpgbmbWc9BPQ=="
+    },
+    {
+      "name": "Sarah Abbott",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZJ4p25EitM7gKrYIUENmOA=="
+    },
+    {
+      "name": "Jim Abel",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/27/2024",
+      "usta_id": "R1xLbsHT3uIgzB6bLMvUUg=="
+    },
+    {
+      "name": "Alyn Adams",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "hfor9d6IhQyt/3qHbSAfBw=="
+    },
+    {
+      "name": "Jordan Adams",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g7Qyn5xhiSTQR9eJ8MK4QQ=="
+    },
+    {
+      "name": "Kelli Adkins",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/16/2024",
+      "usta_id": "RGniG/PSeWHQtEFg/8bAUg=="
+    },
+    {
+      "name": "Hannah Agudelo",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "99JosFSy8kTdXDvOQNLJXQ=="
+    },
+    {
+      "name": "Frances Anthony",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nyUdjBKZsfc1xZXqdWJQ7A=="
+    },
+    {
+      "name": "Liz Arnoult",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/3/2025",
+      "usta_id": "gyjw+Owy7LLupSnc3sjk9A=="
+    },
+    {
+      "name": "Austin Aycock",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/10/2025",
+      "usta_id": "JBH1ELRyAqu5+nGG7fyrVw=="
+    },
+    {
+      "name": "Emily Aycock",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2025",
+      "usta_id": "JBH1ELRyAqtXK7MIBPSOOA=="
+    },
+    {
+      "name": "Nikki Bacot",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q2Ae+VoKLe7w5yrxsgx2Gg=="
+    },
+    {
+      "name": "Ericson Bacsa",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ERvEOWuiHeNqxAKQ0h00NA=="
+    },
+    {
+      "name": "Jenny Baggs",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RNpI3bqGduTY+ONpCjb6KQ=="
+    },
+    {
+      "name": "Jeanne Bailey",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "I3pDP6QRAr3MKfaRAqtcNA=="
+    },
+    {
+      "name": "Joseph Bailey",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/30/2024",
+      "usta_id": "lnlKjDeu4TwcS2EwRvbsrw=="
+    },
+    {
+      "name": "Rylee Bailey",
+      "gender": "Female",
+      "city": "Trumann",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/28/2025",
+      "usta_id": "4xDReatmp8ZIkznyC+h5Cw=="
+    },
+    {
+      "name": "Lynnsey Baird",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/17/2024",
+      "usta_id": "j5GjkNqQCR99eKGjw9Vqiw=="
+    },
+    {
+      "name": "Himaja Balakrishnan",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZHEe1+Fe8JEmhSEKVC4xTg=="
+    },
+    {
+      "name": "Miranda Ballard",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/5/2024",
+      "usta_id": "RGniG/PSeWGDdejIc/obvA=="
+    },
+    {
+      "name": "Maggie Barnes",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iSPXPzXNUbrfqndmdDcl8g=="
+    },
+    {
+      "name": "Joe Barrett",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CdXdEmpa5MawV70dCaa3zw=="
+    },
+    {
+      "name": "Bill Becker",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/4/2025",
+      "usta_id": "W7Fgo1HURvEvuPmVphFzYQ=="
+    },
+    {
+      "name": "Kristie Becker",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/17/2024",
+      "usta_id": "j5GjkNqQCR/w0GMOPSlb8w=="
+    },
+    {
+      "name": "Aaron Bell",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Tr+1yk8g3cAYcD/a/dk/A=="
+    },
+    {
+      "name": "Alley Bell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pVi2UxNZP56HlRkGh98iSA=="
+    },
+    {
+      "name": "Sarah Bell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "FD0eQOgY0rLKP3GWITksGg=="
+    },
+    {
+      "name": "Kaylee Berry",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "izUpXs4DFMi9e6qcpdiHbg=="
+    },
+    {
+      "name": "Kevin Berry",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C27tPK8TQp2AKMI4d4njxw=="
+    },
+    {
+      "name": "Holly Bigham",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3y+rK6ICEQbbBYmifIQNIQ=="
+    },
+    {
+      "name": "James Bittle",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3zGuN5lFqP7bDZs79s+rsw=="
+    },
+    {
+      "name": "Jessica Blackburn",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jbtewf79oN4vfe6Ih+5Mkg=="
+    },
+    {
+      "name": "Theresa Book",
+      "gender": "Female",
+      "city": "Brookland",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "77fW936A+Ktquxp28hJIXw=="
+    },
+    {
+      "name": "Maddie Booth",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "szYekcDxSiNdAVrrLD5Pmg=="
+    },
+    {
+      "name": "Derek Bowman",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "iKkc/H0FyhjCPJCq4LapdQ=="
+    },
+    {
+      "name": "Lindsey Bowman",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sDmtut6KJ9tfhamgUWtaSQ=="
+    },
+    {
+      "name": "Jenny Box",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4CBGfCsQCLHVRIQ9rTCAQw=="
+    },
+    {
+      "name": "Ella Bradsher",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y96uzv24U0oeXHqs7wl/4w=="
+    },
+    {
+      "name": "Michael Brooks",
+      "gender": "Male",
+      "city": "LITTLE ROCK",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ITS+yx5MIFG8zODwkOKS9g=="
+    },
+    {
+      "name": "Amy Brown",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0TLiSgOISXAS6AWtYC1lAw=="
+    },
+    {
+      "name": "Ken Brown",
+      "gender": "Male",
+      "city": "Tuckerman",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i198DA/vvmD565jUFcAB1A=="
+    },
+    {
+      "name": "Amy Burnett",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "P2g6q61JlNRCwUfkwfSxLA=="
+    },
+    {
+      "name": "Melanie Burnett",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "E7hXERa9f3b/ngeMhYcfZw=="
+    },
+    {
+      "name": "Mary Leigh Burnette",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6kTDqO1lICe6zyJAPENA8Q=="
+    },
+    {
+      "name": "Brooke Burris",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "asl6pXhZkz9G36G2lFNcXg=="
+    },
+    {
+      "name": "Stephanie Burroughs",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ANM7/8g919OE0/n+CZAdKw=="
+    },
+    {
+      "name": "Rosemary Cabe",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7kMUyaSeG4wbbARdoby6+A=="
+    },
+    {
+      "name": "Barry Callahan",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GOxZDOc9v1nhFPEwiFowTw=="
+    },
+    {
+      "name": "Alex Camp",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/31/2024",
+      "usta_id": "Na1+QqojDzTu1nbluPj6pg=="
+    },
+    {
+      "name": "Kelly Carrick",
+      "gender": "Female",
+      "city": "Trumann",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "+68YvwRN49ZTF0ogs7WJDQ=="
+    },
+    {
+      "name": "Josh Carter",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BPy71Phfaq2iMHTQJwU9Kw=="
+    },
+    {
+      "name": "Niki Carver",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uvVXEFkuB+rNJyIebjlf4A=="
+    },
+    {
+      "name": "Lindsey Cato",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "uwGHpsczJZAb5oh0j+CCgg=="
+    },
+    {
+      "name": "William Chamberlin",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "6/9/2025",
+      "usta_id": "3YjluNZyn6xLrcZlNNrHNA=="
+    },
+    {
+      "name": "Hannah Chambers",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/23/2024",
+      "usta_id": "EbtQMQozU3qa1seCyVl25A=="
+    },
+    {
+      "name": "Jamie Chandler",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+3iIU+lPNAdU5uI8sMtZ7Q=="
+    },
+    {
+      "name": "Reginald Chandler",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lv8XEEHtLlJ/v7sd8/ijtw=="
+    },
+    {
+      "name": "Lynette Chastain",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/6/2025",
+      "usta_id": "GZRLKvoaHIZQCzRtrAfwTQ=="
+    },
+    {
+      "name": "Ashley Christian",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/30/2023",
+      "usta_id": "K8Tv1IBuq3bkin+scWy4qQ=="
+    },
+    {
+      "name": "Abigail Cissell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RthtuxYVv4auuMVWjqYHdQ=="
+    },
+    {
+      "name": "Shelley Cissell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kW1h06TdSAWO2dnFa7cXxg=="
+    },
+    {
+      "name": "Meredith Clark",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "zkrv/uoEDh6/mKeV8urRzQ=="
+    },
+    {
+      "name": "Renee Cobern",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r0adxPyRnMKV8m0ShbPW4w=="
+    },
+    {
+      "name": "Holley Cochran",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LVfhZGsU2KTciA/UepB3uw=="
+    },
+    {
+      "name": "Haley Cole",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "7kj0p5FRT9z/8HdjRim39Q=="
+    },
+    {
+      "name": "Melinda Collins",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rFuI5zApOvIIpvA22/QWpw=="
+    },
+    {
+      "name": "Charles Combs",
+      "gender": "Male",
+      "city": "Pocahontas",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MCcmMO8drfo8j5hmyVVT2Q=="
+    },
+    {
+      "name": "Blair Cook",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qqZX7Z/PC7v4khtdy4B5Bg=="
+    },
+    {
+      "name": "Crys Cook",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X7YNGuJrKM5VdnhNXu+cyg=="
+    },
+    {
+      "name": "Joe Cook",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JLAmX+6z4NUkK36igc/ggQ=="
+    },
+    {
+      "name": "Meredith Cook",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/21/2025",
+      "usta_id": "YiVD2kb7ARy4tnFifiG2Hg=="
+    },
+    {
+      "name": "Jena Copeland",
+      "gender": "Female",
+      "city": "BLYTHEVILLE",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nr4bYdrk10HdkthefsdrrA=="
+    },
+    {
+      "name": "Elizabeth Cox",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "96C5K7dPMsrauNz4uG11xA=="
+    },
+    {
+      "name": "Madeline Cox",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "qUaF7AnSQedF82nG8dQpFQ=="
+    },
+    {
+      "name": "Paige Cox",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "96C5K7dPMsoNK9WugUtm2A=="
+    },
+    {
+      "name": "Brooke Craine",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pQUwjpw+blL2wkIphPiRzg=="
+    },
+    {
+      "name": "Mary Criner",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q2Uuc5iYWpxiskFILiAf5g=="
+    },
+    {
+      "name": "Shannon Crocker",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "obIW69ZpIgxdFjPEcSsnPw=="
+    },
+    {
+      "name": "Jacob Cunningham",
+      "gender": "Male",
+      "city": "Paragould",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4sKTYudnEq2Jr8V7qaCiaw=="
+    },
+    {
+      "name": "Andrew Dallas",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2xLrnzhNBG4IDibPOxuU6g=="
+    },
+    {
+      "name": "Cherry Dallas",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K/EKJvW4MdOVVO4K+SWDhw=="
+    },
+    {
+      "name": "Richard Daniel",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1rAe5kKKSkznmLWvZGTAgA=="
+    },
+    {
+      "name": "Bailey Davis",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "67VwnnPXabq5ax9MrrFxXg=="
+    },
+    {
+      "name": "Jason Davis",
+      "gender": "Male",
+      "city": "Tyronza",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iZY+lr9fCgclfutWpaTWUQ=="
+    },
+    {
+      "name": "Napoleon Davis",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VWPSQrhAM0BDysXssJjYDg=="
+    },
+    {
+      "name": "Morgan Davis-Daniel",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d5NdjzVx69zsED04Yftv8w=="
+    },
+    {
+      "name": "Brandon DeGroat",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/26/2024",
+      "usta_id": "M5pyvgk7Jb+rqBLMvubx2g=="
+    },
+    {
+      "name": "Angela Deveney",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/5/2024",
+      "usta_id": "S1aVRJymF/f3QOPPqvr95A=="
+    },
+    {
+      "name": "Kylie DeVries",
+      "gender": "Female",
+      "city": "Harrisburg",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/23/2025",
+      "usta_id": "RGniG/PSeWGsHCwT1j/ZRQ=="
+    },
+    {
+      "name": "Brian Dickson",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LFFUQtjqXj+C4RSMHPoaPQ=="
+    },
+    {
+      "name": "Susa Digaetano",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kiUfeatNE/w6zeQl0Nm5eQ=="
+    },
+    {
+      "name": "Kailey Dowell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "j5GjkNqQCR+ktE3GpMq3sw=="
+    },
+    {
+      "name": "Jessica Duncan",
+      "gender": "Female",
+      "city": "JONESBORO",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GZRLKvoaHIYGbaN6GIgVHg=="
+    },
+    {
+      "name": "Andrew Dunham",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "borCdCJoIGc6WJH4kdJUxA=="
+    },
+    {
+      "name": "Cari Dunham",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k5itRnMHNlccJ26gJKx+Yw=="
+    },
+    {
+      "name": "Hunter Eaves",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4g6zRYgLuc8qkXrr3fnfow=="
+    },
+    {
+      "name": "Noah Echols",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/24/2025",
+      "usta_id": "GgvSbRrz/+2xLkeZUle9tQ=="
+    },
+    {
+      "name": "Heather Eggers",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3SlCxbx+VR0crgB3CynS+A=="
+    },
+    {
+      "name": "Tanya Ellington",
+      "gender": "Female",
+      "city": "Paragould",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E6gSEtHs0f+Om+iP6TVTDw=="
+    },
+    {
+      "name": "Dani Ennis",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "67VwnnPXabruM7QibtP9bg=="
+    },
+    {
+      "name": "Chris Evins",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KYKYluqqaod6iAKnTKAZqw=="
+    },
+    {
+      "name": "Wendy Evins",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bjXRiYwSmScFH8wyiov09A=="
+    },
+    {
+      "name": "Gloria Faircloth",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/14/2023",
+      "usta_id": "9Fyz9WKpzOa9WsJqXXcJaw=="
+    },
+    {
+      "name": "Jennifer Fancher",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xUvQxgD+HNl967Dt2iZiqg=="
+    },
+    {
+      "name": "Terry Fancher",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IhbcGJCKowIc9b58ZAEs+A=="
+    },
+    {
+      "name": "Angie Fegtly",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "quDwUmeC0I2bRomgtAXGiw=="
+    },
+    {
+      "name": "Kristen Ferguson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bsAr1b4bd6WBponHlRfUAw=="
+    },
+    {
+      "name": "Amanda Fletcher",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/18/2025",
+      "usta_id": "VTuJjAJXbj3GRt4BbTUvEA=="
+    },
+    {
+      "name": "Mike Fletcher",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "934hcTEufX90a1tHOdOuyA=="
+    },
+    {
+      "name": "Amy Flores",
+      "gender": "Female",
+      "city": "BONO",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LNXDr1/nFjrFw1IuiCpA+A=="
+    },
+    {
+      "name": "Tiffany Floyd",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sf8bzBIw+iV3fKK2cfwIOA=="
+    },
+    {
+      "name": "Kurt Folden",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Eie4/o6KEwmnl4AAJrAItA=="
+    },
+    {
+      "name": "Mandy Folden",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "TPdb2WrzsPOaGo1bHwZ4UQ=="
+    },
+    {
+      "name": "Maggie Frakes",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2025",
+      "usta_id": "at+iKm1bXdC9DHon0RdfNQ=="
+    },
+    {
+      "name": "Catherine Frans",
+      "gender": "Female",
+      "city": "JONESBORO",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mu34X9mBdffzXEBx/OvGBA=="
+    },
+    {
+      "name": "Kristen Franyutti",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/4/2025",
+      "usta_id": "ToMDDoKtDnFE6YFFvc1VSg=="
+    },
+    {
+      "name": "Hannah Fulmer",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Br/XXC+93blpf1KOcDEMQ=="
+    },
+    {
+      "name": "Jimmy Gaither",
+      "gender": "Male",
+      "city": "Brookland",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3wb2aMXbKqWCqEPKOnuucw=="
+    },
+    {
+      "name": "Jacqueline Gammill",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jRVXYPbSWY545nPIK3Ibhw=="
+    },
+    {
+      "name": "Brandon Gates",
+      "gender": "Male",
+      "city": "Tuckerman",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0xcwDJLzVVrGWSO7xRNdkw=="
+    },
+    {
+      "name": "John Gay",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mszh83Yg0g2lyTM0duYOxQ=="
+    },
+    {
+      "name": "Sara Gay",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rkFa8VOYMz+8WZpmIY5NgA=="
+    },
+    {
+      "name": "Amy Gibson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eO8TJ7LsovEtazCpvTOWIA=="
+    },
+    {
+      "name": "Erin Gibson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "s3xLSt/tzzK2WHywRintWA=="
+    },
+    {
+      "name": "Sarah Gifford",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GDinIGYzQsDqXjf9gTgEpQ=="
+    },
+    {
+      "name": "Donna Gilbert",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "je7llbJHaFk2pVe+2oE97A=="
+    },
+    {
+      "name": "Oscar Gilbert",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "7pYpBhIqjyE6uUHed+ieIA=="
+    },
+    {
+      "name": "Paige Gilbert",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "s3xLSt/tzzK6Ky/ecMfVyQ=="
+    },
+    {
+      "name": "Anthony Gilberto",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Kb1Qs3jqcrqWkFPzjpkYdA=="
+    },
+    {
+      "name": "Ashlee Gill",
+      "gender": "Female",
+      "city": "Brookland",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y7kj6jJ2Fz6i7YV8gj6Trw=="
+    },
+    {
+      "name": "Grant Goodart",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uZksbTH2ooCIDzwoLAvD/g=="
+    },
+    {
+      "name": "Molly Goodart",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZUYm4lfYQs0azq4kXtWqbA=="
+    },
+    {
+      "name": "Shallen Gorman",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/8/2025",
+      "usta_id": "WaaRGHKJjZA+GuKTrYsVaA=="
+    },
+    {
+      "name": "Kyoko Graham",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/19/2023",
+      "usta_id": "CSg9iNyHii0CQNeht6NkEA=="
+    },
+    {
+      "name": "Britney Greene",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "FGWdlm7jgp+iPDcCAzs3bQ=="
+    },
+    {
+      "name": "April Grove",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "QnmoE7lvQFMozjRe3jDvLw=="
+    },
+    {
+      "name": "Chad Grove",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/20/2024",
+      "usta_id": "QnmoE7lvQFNqqUIEL9a7AQ=="
+    },
+    {
+      "name": "Lauren Guadamuz",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gmHgJxS68Lz5qetXxwBrvA=="
+    },
+    {
+      "name": "Margaret Guinn",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "OLAerv4SOVqyezTKJq3NyA=="
+    },
+    {
+      "name": "Nick Guinn",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "c0wu1BvJyrKXY3q9Jgi+pw=="
+    },
+    {
+      "name": "Margo Hafner",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VQfqvpONW4JNbhKC9C/uHA=="
+    },
+    {
+      "name": "Jonathan Halford",
+      "gender": "Male",
+      "city": "Little Rock",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "whwTiEY1OsmSsbbHgRhtjQ=="
+    },
+    {
+      "name": "Ronald Halsrud",
+      "gender": "Male",
+      "city": "Cherokee Village",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "42m8PqesXq4EOiRim0rZ3A=="
+    },
+    {
+      "name": "Meghan Hammons",
+      "gender": "Female",
+      "city": "Trumann",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/8/2025",
+      "usta_id": "O/fhfedx+Y4eSUrgXpbTqA=="
+    },
+    {
+      "name": "Hayden Harmon",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/18/2025",
+      "usta_id": "bw58igndmSv4J2CfB8Yjdg=="
+    },
+    {
+      "name": "Tera Harpole",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/13/2024",
+      "usta_id": "SdxJZVTsiq2Zp0QEqVaAwA=="
+    },
+    {
+      "name": "Marvene Harrell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/31/2024",
+      "usta_id": "j5GjkNqQCR/m+az2yXsm8w=="
+    },
+    {
+      "name": "Jack Harrington",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0dHk/YzElq0QXdCL/pJp4g=="
+    },
+    {
+      "name": "Rebecca Harrington",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i1l6oqc+x988aFaS/Sv0sg=="
+    },
+    {
+      "name": "Emily Harris",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "pAW951UdeKI1FUobMwLP4g=="
+    },
+    {
+      "name": "Jarrett Harsson",
+      "gender": "Male",
+      "city": "Walnut Ridge",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/3/2024",
+      "usta_id": "lDqWngbkL0aPBQzacKaxxA=="
+    },
+    {
+      "name": "Susan Hart",
+      "gender": "Female",
+      "city": "PARAGOULD",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PUG8G0xH/hsgrVmULyyMhw=="
+    },
+    {
+      "name": "Matt Haustein",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XZIyt2dpYFBoJbccMOIlDQ=="
+    },
+    {
+      "name": "Danny Helms",
+      "gender": "Male",
+      "city": "West Ridge",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/2/2024",
+      "usta_id": "RIQ8FKeRBYiidVkP0Qb3XA=="
+    },
+    {
+      "name": "Eric Hensley",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/25/2024",
+      "usta_id": "kURXQxy1mIZ3FKFxjLp9nw=="
+    },
+    {
+      "name": "Chelsey Henson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pxw/dkVt69nX25Yy0rQ+ig=="
+    },
+    {
+      "name": "Kamri Herndon",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vl/7D18/bhxPhxm9pRBfig=="
+    },
+    {
+      "name": "Hope Higginbotham",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/10/2024",
+      "usta_id": "nKIbsd55NCsGNlYabMsM2g=="
+    },
+    {
+      "name": "Hadley Hilburn",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/1/2025",
+      "usta_id": "Bzdd3CQZOn5tjJ5Fsil59g=="
+    },
+    {
+      "name": "John Hill",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zSWAJU82ItUkcURXCmK2QA=="
+    },
+    {
+      "name": "Janelle Hocutt",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c01iR4PRuDXznRQCzUmdnw=="
+    },
+    {
+      "name": "Heather Holt",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oyJtkqiJrfp1H821RMug3Q=="
+    },
+    {
+      "name": "Todd Holt",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cz4eCCrAIj6MAZDJmRTizw=="
+    },
+    {
+      "name": "Eleanor Howell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/9/2025",
+      "usta_id": "CXKhPg1Lkn7a9juqaH+1Cg=="
+    },
+    {
+      "name": "Tamila Hoy",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/31/2024",
+      "usta_id": "zkrv/uoEDh5s/5Yo0trNxA=="
+    },
+    {
+      "name": "Vickie Huckaby",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "92KDKLiESEH5sYmQJ47c9g=="
+    },
+    {
+      "name": "Jonathan Huey",
+      "gender": "Male",
+      "city": "Trumann",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/12/2025",
+      "usta_id": "TSiV1eBkwEHn7QM9ydwzFQ=="
+    },
+    {
+      "name": "Mallorie Hughes",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tyJ6a24pqPO6sJDYiAP1rA=="
+    },
+    {
+      "name": "Harry Hurst",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tk8wVRZE+5kzcnM9N3Ws9g=="
+    },
+    {
+      "name": "Mallory Hurst",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b6ZYBAMcW1SIqGqVAKKFOw=="
+    },
+    {
+      "name": "Betty Hurt",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lxxnJwjo31VGnLWdQxwicQ=="
+    },
+    {
+      "name": "Rodger Hurt",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "nJSMQTK/MgXgaUB5nvDp6w=="
+    },
+    {
+      "name": "Bobbi Hydrick",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "vuNqsI2z7TQy47oSlGk1Fw=="
+    },
+    {
+      "name": "Leah McKee Hyneman",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/21/2024",
+      "usta_id": "cT5utosgOXuRmvGDPyxnIQ=="
+    },
+    {
+      "name": "Maleigh Inboden",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/8/2025",
+      "usta_id": "IJNPKpORljI4PGS9zYCJwA=="
+    },
+    {
+      "name": "Tabitha Inboden",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BiV4j4+AHsfiP9UKl7jHdw=="
+    },
+    {
+      "name": "Alyssa Ishmael",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/28/2024",
+      "usta_id": "MDeC8CrED5BJ553ificYLA=="
+    },
+    {
+      "name": "Randell Ishmael",
+      "gender": "Male",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/30/2024",
+      "usta_id": "u31SSuT6JU9rhJKrMACsGg=="
+    },
+    {
+      "name": "Monica Jansen",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TyndReOKwefdSDO/d1ZjLw=="
+    },
+    {
+      "name": "Jocelyn Johnson",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7a7oLX7xHVIk/NnPk2P7FA=="
+    },
+    {
+      "name": "Jordan Johnson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/11/2025",
+      "usta_id": "CeMHH+tsy0pgEjGDC9bHiw=="
+    },
+    {
+      "name": "Brandy Johnston",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bt/LdKuhsLZkT+DF/TVyxg=="
+    },
+    {
+      "name": "Carol Jones",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p/G0Is28JOjOSkPcdNgyuw=="
+    },
+    {
+      "name": "Donna Jones",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4zbX6bVkJUVEdB2emgI7Zw=="
+    },
+    {
+      "name": "Haley Jones",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g09UEeAbMM6tzcXDuYxOsA=="
+    },
+    {
+      "name": "Jett Jones",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NRXqhhLswCQ8sAhLZeJxRQ=="
+    },
+    {
+      "name": "Sheng Judilla",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2025",
+      "usta_id": "jHRo1NhypR2LmJHTjsmd3g=="
+    },
+    {
+      "name": "Mark Jumper",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kg3divok/Vy0+0/k+hqVrg=="
+    },
+    {
+      "name": "Robert Kaloghirou",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6VIqBYuRbwZlYSuFZTR/9w=="
+    },
+    {
+      "name": "Taylor Kaloghirou",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dtQc3tCoulFazxU7ulUlCQ=="
+    },
+    {
+      "name": "Kara Keith",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/31/2024",
+      "usta_id": "6ZHGdoFMGqwnXX9RDRjLRQ=="
+    },
+    {
+      "name": "Callie Kellums",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4q2XfNkf0BOcoZGI61IqFw=="
+    },
+    {
+      "name": "Jessica Kelly",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DtQ2HmYXh1iax+QcZYJndQ=="
+    },
+    {
+      "name": "Meghan Kenley",
+      "gender": "Female",
+      "city": "Lake City",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2024",
+      "usta_id": "OK358ZeELs+h9OF5AvwqJg=="
+    },
+    {
+      "name": "David Kerley",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qs/Q+UfdPVRONF9BR+Mb5A=="
+    },
+    {
+      "name": "Joan Khilling",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RDHQY+KhclApkZs/QoQltw=="
+    },
+    {
+      "name": "Colton Kibler",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K6PWwFn0HSGE4v/I8omWRg=="
+    },
+    {
+      "name": "Mallory Kibler",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RGniG/PSeWHi9vowkjChTA=="
+    },
+    {
+      "name": "Elizabeth Kincannon",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "/fcIbS2291JpvEtJWJlzOw=="
+    },
+    {
+      "name": "Kaylee King",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/29/2024",
+      "usta_id": "I3pDP6QRAr2PnwRcTB0/RQ=="
+    },
+    {
+      "name": "Preston King",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/10/2024",
+      "usta_id": "tYXEVhqy21Hg12nZMPBkrQ=="
+    },
+    {
+      "name": "Chandler Kirkwood Eaves",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/23/2025",
+      "usta_id": "MUxGnSD4NoqPmOZqiR/c/A=="
+    },
+    {
+      "name": "Hailey Knight",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "LNXDr1/nFjqf6o+Llk/g/Q=="
+    },
+    {
+      "name": "Anna Koch",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VCcWIEs9vykcgbtSAzTAKQ=="
+    },
+    {
+      "name": "John Koch",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "2tKQhEaLat1mH/9nnlr+aA=="
+    },
+    {
+      "name": "Alexandra Kosmitis",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7hqr8uqB50n3QgX39hXkhQ=="
+    },
+    {
+      "name": "Brandee Kyle",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mk30qZY3lD2Zw5KT+cPGhw=="
+    },
+    {
+      "name": "Cory Kyle",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mk30qZY3lD1+Yvl7CaWpbA=="
+    },
+    {
+      "name": "Dustin Lampkin",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bBK72js58cohwTHhdgyWLg=="
+    },
+    {
+      "name": "Mindy Lancaster",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XC6CLUXx+zGBKmhgtUVZxQ=="
+    },
+    {
+      "name": "Lauren Lance",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vLt/GVkWhiv6cwcvrysbwQ=="
+    },
+    {
+      "name": "Ellen Lawrence",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GZRLKvoaHIYHK3iW45Qnfg=="
+    },
+    {
+      "name": "Olivia Lawshe",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/24/2024",
+      "usta_id": "MHobRfRaF994IB2yA3IpIw=="
+    },
+    {
+      "name": "Joe Lee",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e00C0UKTd2A0aSfov8oOXA=="
+    },
+    {
+      "name": "Tamara Lee",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0mMvXK9wDrBHacP4P01/uQ=="
+    },
+    {
+      "name": "Katie Leonard",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/31/2024",
+      "usta_id": "diV5cAzyMwWqrBC/2ie3Kg=="
+    },
+    {
+      "name": "Shelly Little",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/jVEkFDl+heNAabveXFjGw=="
+    },
+    {
+      "name": "Tyler Lloyd",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/24/2025",
+      "usta_id": "jkBZsN7yMgEiUG7T3ZZ89Q=="
+    },
+    {
+      "name": "Jordan Loebach",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "I3pDP6QRAr1LWINc9G+Vsw=="
+    },
+    {
+      "name": "Nick Loebach",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/7/2024",
+      "usta_id": "7F75tz7WTyV7K6JiBPGfug=="
+    },
+    {
+      "name": "June Long",
+      "gender": "Female",
+      "city": "Harrisburg",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/12/2023",
+      "usta_id": "Psh+XHn0eVuBjrwxpVIkdg=="
+    },
+    {
+      "name": "Morgan Lovelace",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MOPQsBoNhYeeTj/3IvIMSg=="
+    },
+    {
+      "name": "Janeene Lynch",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/10/2024",
+      "usta_id": "e2SuPRiE36fjBLyUK9dLrg=="
+    },
+    {
+      "name": "Karen Lynch",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hLvbCkh5snwxxzBowx/1OA=="
+    },
+    {
+      "name": "Hannah Malone",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/6/2024",
+      "usta_id": "RGniG/PSeWEBNqbsQilujA=="
+    },
+    {
+      "name": "John Malone",
+      "gender": "Male",
+      "city": "Paragould",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "97bdIhoKOpDfZSyeNEtoNw=="
+    },
+    {
+      "name": "Alex Markum",
+      "gender": "Male",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+4oR3kSQbE5t4SacY4HExA=="
+    },
+    {
+      "name": "Kelsy Markum",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wBTNutvCOQd0FpNd3XMiYA=="
+    },
+    {
+      "name": "Drew Massey",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/7/2024",
+      "usta_id": "Bv1k82OxmuIjtjoPXVrX6A=="
+    },
+    {
+      "name": "Lindsay Massey",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/3/2025",
+      "usta_id": "5YEQNnfPIObmI9keUVIWAw=="
+    },
+    {
+      "name": "Daniel Massirer",
+      "gender": "Male",
+      "city": "EL DORADO",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RGniG/PSeWGs8nq7swyrfg=="
+    },
+    {
+      "name": "Brandon Mathis",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "fy9QD4EYUeRkl//nlaTVug=="
+    },
+    {
+      "name": "Madison Matthews",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UEwPImsGkEZ7hTf6b5YYRw=="
+    },
+    {
+      "name": "Steven Matthews",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bqrJdhoRxcJppBVSQGUzKQ=="
+    },
+    {
+      "name": "Beth McCartney",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/20/2024",
+      "usta_id": "QnmoE7lvQFPvqQwBLQK3Vg=="
+    },
+    {
+      "name": "Molly McCarty",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Fyz9WKpzOZIUbykP9lhfw=="
+    },
+    {
+      "name": "Chad McClain",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/UUAmbQDA9XsykRtqTkKag=="
+    },
+    {
+      "name": "Lauren McClain",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/UUAmbQDA9UZr83zbZ0j8A=="
+    },
+    {
+      "name": "Audra McClung",
+      "gender": "Female",
+      "city": "Trumann",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2024",
+      "usta_id": "GEn3lT9ijKflW8MoHqH++A=="
+    },
+    {
+      "name": "Clay Mcclung",
+      "gender": "Male",
+      "city": "Trumann",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/26/2024",
+      "usta_id": "/reSI3motO8hpLphtdOUlw=="
+    },
+    {
+      "name": "Easton McDaniel",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/25/2025",
+      "usta_id": "4EJOGfNnOCvsShxqofymHQ=="
+    },
+    {
+      "name": "Melissa McDaniel",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "6rQhyephQrjuvQt/rqxx9Q=="
+    },
+    {
+      "name": "Sharon McDaniel",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G5wKelRGeYAInPCRebbJfg=="
+    },
+    {
+      "name": "Von McDaniel",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "Z9RCADcYc3e/icWVwU+zuA=="
+    },
+    {
+      "name": "Michael McEuen",
+      "gender": "Male",
+      "city": "JONESBORO",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f64F85O/t10KnJjpnpLNDQ=="
+    },
+    {
+      "name": "Brittany McFadden",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HUWcfoHBmbcoIF/LskrycQ=="
+    },
+    {
+      "name": "Hannah McFadden",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uB8LXxbxLFYcRHAJD6iL8g=="
+    },
+    {
+      "name": "Jameson McFadden",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KvJ85rdMdtPm/bEn4MHiHA=="
+    },
+    {
+      "name": "Landon Mcfadden",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "2fwhZw+HxsjGiumZUqct+w=="
+    },
+    {
+      "name": "Samantha McFadden",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Yp83fj02mbQsb6AugvTsWA=="
+    },
+    {
+      "name": "Brian McFarlane",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1WDOdg2rY8zbE8lOkZ4nHA=="
+    },
+    {
+      "name": "Chloe McFarlane",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YZCr+qQAZm4PRi6NyhELng=="
+    },
+    {
+      "name": "Destiny McGee",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uxg6m9fofW+s+92Plw1cNw=="
+    },
+    {
+      "name": "Emanuel Mcgee",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7kMUyaSeG4x+6TenNF3N6A=="
+    },
+    {
+      "name": "Tevin McGee",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5L7VwM8MflgS9bh3zOY6mw=="
+    },
+    {
+      "name": "Claire Mellin",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xiQ5G8W3a1f8D6OhJDvlXQ=="
+    },
+    {
+      "name": "AnnaLisa Meredith",
+      "gender": "Female",
+      "city": "Harrisburg",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/1/2024",
+      "usta_id": "zkrv/uoEDh5DcpTDijgF5g=="
+    },
+    {
+      "name": "Preston Million",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7JuglYc3R4awKL1Vw/3r8w=="
+    },
+    {
+      "name": "Drew Milner",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/9/2024",
+      "usta_id": "sfEXct4R9TomkTeShDn4Jw=="
+    },
+    {
+      "name": "Rachel Milner",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sfEXct4R9ToaCYpWjw5Plw=="
+    },
+    {
+      "name": "Richard Milton",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rATvTrLu0YkIEymm7NT2lw=="
+    },
+    {
+      "name": "Sarah Milton",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XN7+NVjKgrqsflj0g21qVg=="
+    },
+    {
+      "name": "Sharika Minor",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "ovVtFvr1YPtX/1ZxV2RIRg=="
+    },
+    {
+      "name": "Hailey Mitchener",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZyLI1Fzd7bOLr7Dwiolzdw=="
+    },
+    {
+      "name": "Matthew Mitchener",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gRAQnQnSnZUgnsYqbI4aAQ=="
+    },
+    {
+      "name": "Autumn Moery",
+      "gender": "Female",
+      "city": "Brookland",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5CXUFkZoYh7+X/LqevH2XA=="
+    },
+    {
+      "name": "Leigh Montgomery",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "z3FMKDj4dabGRDNoWyL7Hg=="
+    },
+    {
+      "name": "MacY Montgomery",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/7/2024",
+      "usta_id": "zkrv/uoEDh5iknkdwqJJ/A=="
+    },
+    {
+      "name": "Kelly Dionne Moody Parker",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gm8GmwAOCa6ZyWwVJL4w8w=="
+    },
+    {
+      "name": "Evan Moore",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0p+OkDlGiJgv31RcTMbwrw=="
+    },
+    {
+      "name": "Baker Moseley",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "WpYZ8KFO//VbfXF3s8jTzw=="
+    },
+    {
+      "name": "Kimberly Moseley",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BrPMk9Iq6l2X+HJUQc/uFg=="
+    },
+    {
+      "name": "Deana Muegge",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gXPtAuq8DsBJqTFKl6ym8Q=="
+    },
+    {
+      "name": "Leslie Mullins",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/13/2025",
+      "usta_id": "t4bMZb/uYv56CPvN2FXPaQ=="
+    },
+    {
+      "name": "Peyton Mullins",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "x+ruP6ZJk7BMb0nYKSx+tQ=="
+    },
+    {
+      "name": "Scarlett Mullins",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZhM3tE0xbn9Fvc3zgoID2w=="
+    },
+    {
+      "name": "Chase Myers",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CENuiUpugPGuN6m1p6hgBQ=="
+    },
+    {
+      "name": "Michelle Myers",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c01iR4PRuDWqHwDfB8buvg=="
+    },
+    {
+      "name": "Andrew Nadzam",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "s5qc51+9WELc34E2OUUZMg=="
+    },
+    {
+      "name": "Arielle Nast",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2024",
+      "usta_id": "EbtQMQozU3qb5Ie6Hp7roQ=="
+    },
+    {
+      "name": "Cathy Naylor",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "JBH1ELRyAqudp4QBE8Ph/Q=="
+    },
+    {
+      "name": "Megan Neugebauer",
+      "gender": "Female",
+      "city": "Paragould",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2024",
+      "usta_id": "+2S1YEP3ifueO4lpBDgBEA=="
+    },
+    {
+      "name": "Sarah Newbern",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7a7oLX7xHVIxMhsoFvfN8A=="
+    },
+    {
+      "name": "Lori Nichols",
+      "gender": "Female",
+      "city": "BENTONVILLE",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UDlIMWUA3BRZX21bhlnSHg=="
+    },
+    {
+      "name": "Audrey Niell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nUqktTC6ZNA/zKvVG7AX2g=="
+    },
+    {
+      "name": "Karla Nortier",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rqkt8aylySpBtReQvf1IXg=="
+    },
+    {
+      "name": "Bethany Noto",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "7kMUyaSeG4xyd5VDPgICdA=="
+    },
+    {
+      "name": "Lauren Nunnally",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UG6cY857P39uIPRYEIb8Zw=="
+    },
+    {
+      "name": "David Owen",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UhHxtJb2KZnU3nWcunltiw=="
+    },
+    {
+      "name": "Ruth Owens",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZdOw0D4WGDW5CtDr8vAK2w=="
+    },
+    {
+      "name": "Jackie Pardew",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QdDeaM1RIv4IXNTWZMh8vA=="
+    },
+    {
+      "name": "WHITNEY Pardew",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D2JxqxWVOMCBiGozLIDCbg=="
+    },
+    {
+      "name": "Ali Parker",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7a7oLX7xHVKf86zSPTL0Tw=="
+    },
+    {
+      "name": "Lauren Parker",
+      "gender": "Female",
+      "city": "Harrisburg",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Eu1uMWwNym4UCoiPlWRuA=="
+    },
+    {
+      "name": "Paige Parnell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ULC62ch5j7nZWkEiyjvHvA=="
+    },
+    {
+      "name": "Olivia Pate",
+      "gender": "Female",
+      "city": "Brookland",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "ovVtFvr1YPslmTou9SmUmw=="
+    },
+    {
+      "name": "Connor Patrom",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/24/2024",
+      "usta_id": "zkrv/uoEDh64Zl8NixfArA=="
+    },
+    {
+      "name": "Tanner Patrom",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ku7H7ANaKQEdJIottt1HUA=="
+    },
+    {
+      "name": "Justin Patterson",
+      "gender": "Male",
+      "city": "Lepanto",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dnpd+7kfcND3hg83d/E7hA=="
+    },
+    {
+      "name": "Patrick Patterson",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ui0gac/Ycw6SB32SeqFKMw=="
+    },
+    {
+      "name": "Robby Patterson",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bVJQKyuHdDxI7CwFk2Utpw=="
+    },
+    {
+      "name": "Kirit Pendyala",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/30/2024",
+      "usta_id": "0nHhA+DlS8eVaDxCLRSiKw=="
+    },
+    {
+      "name": "Josue Perez",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HG2tJFzgaiM6VtTDQ3AGfQ=="
+    },
+    {
+      "name": "Tyler Peters",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/18/2025",
+      "usta_id": "nc4F6t/Kxh4Es1jN/WVcug=="
+    },
+    {
+      "name": "Michelle Pfriemer",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1UpzBwA1L6ES3SM20I6s0g=="
+    },
+    {
+      "name": "Jonathan Phillips",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ULuLoLeb0yWkEX3iCfJqsg=="
+    },
+    {
+      "name": "Leah Pierce",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZO9DlVJfaTWWnYudT5Pudg=="
+    },
+    {
+      "name": "Rheanne Pierson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CGol71oWdg+3PitLO1oEnQ=="
+    },
+    {
+      "name": "Maggie Playter",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9/ePGL4B0SAQw92PNvTh7w=="
+    },
+    {
+      "name": "Brad Popejoy",
+      "gender": "Male",
+      "city": "Trumann",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rUPQTwNMGhO2nvIaXuQvlw=="
+    },
+    {
+      "name": "Marieta Posey",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2024",
+      "usta_id": "WJIzKQnX03yyxAyjvmvlgg=="
+    },
+    {
+      "name": "Cody Powell",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ofqBKEE13G9qcgh9rAnCiA=="
+    },
+    {
+      "name": "Jordan Powell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ANM7/8g919Od7PEYw5ZFJw=="
+    },
+    {
+      "name": "Alan Preston",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "QNzuRQ1qL5T7HS/JUH7SxA=="
+    },
+    {
+      "name": "Lindsay Privett",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C/FuK4hJezpdMPJdIbpbog=="
+    },
+    {
+      "name": "Madeline Ragland",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "4kQV2t6RvcLs1vrykoZ0EA=="
+    },
+    {
+      "name": "Addy Ragsdale",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xKT2+dfcB61x0WRMNoQSng=="
+    },
+    {
+      "name": "Megan Ragsdale",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sUr2E3jubc7Q74YwN59XLQ=="
+    },
+    {
+      "name": "Emily Rainwater",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Fyz9WKpzOaV1K9+L1bmTA=="
+    },
+    {
+      "name": "Valerie Rainwater",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Hda4XgSp9t7RFLQXZsabw=="
+    },
+    {
+      "name": "William Ray",
+      "gender": "Male",
+      "city": "Paragould",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/27/2024",
+      "usta_id": "VFe88ZxGFU3Dv07Tl4tq7A=="
+    },
+    {
+      "name": "Michele Reba",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/23/2025",
+      "usta_id": "YiVD2kb7ARwJ1P4s1cV6Nw=="
+    },
+    {
+      "name": "Claude Rector",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6oRgN6xwrh6NE1K7kclTJQ=="
+    },
+    {
+      "name": "Danial Reed",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1UpzBwA1L6Gpp1WkPniwaQ=="
+    },
+    {
+      "name": "Jacob Reeves",
+      "gender": "Male",
+      "city": "BONO",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/6/2024",
+      "usta_id": "S9chEymsf+y4nzD200FVkA=="
+    },
+    {
+      "name": "Katie Reeves",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xt+N8JUowcLKgABDEbZinQ=="
+    },
+    {
+      "name": "Kristofer Richardson",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "QGnDSIIoT7DSJPWMzZqfjg=="
+    },
+    {
+      "name": "James Riles",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DcRikRFWq7jftblfOPc92w=="
+    },
+    {
+      "name": "Tracy Roberts",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wFauVqh6ez7HNDRy7+rCkQ=="
+    },
+    {
+      "name": "Holly Robertson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Kuk4lIyxXB/71YBIIQojgw=="
+    },
+    {
+      "name": "Whitney Robinson",
+      "gender": "Female",
+      "city": "Brookland",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/9/2024",
+      "usta_id": "j5GjkNqQCR+yI5iM4S0yhw=="
+    },
+    {
+      "name": "Rachael Rodery",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "CIwe32T9DO6jWMv+4GJHAQ=="
+    },
+    {
+      "name": "Abby Rogers",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eQrMFsS5v8diZmUcsscBfg=="
+    },
+    {
+      "name": "Jenny Rogers",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/27/2025",
+      "usta_id": "e5Yp/XmqSXRkG6n5IKM4RA=="
+    },
+    {
+      "name": "Margo Rogers",
+      "gender": "Female",
+      "city": "Brookland",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/26/2025",
+      "usta_id": "iyk3ORXTaH0iIDBrDLblSg=="
+    },
+    {
+      "name": "Stephanie Romero",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yaYnOEDEsW0dEDsqF+KcRw=="
+    },
+    {
+      "name": "Caroline Rose",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nZ47/OEHeQhMJMj4xmbkQg=="
+    },
+    {
+      "name": "John Ross",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "D06xPcnOED011D2WP0v9VQ=="
+    },
+    {
+      "name": "Meredith Ross",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/12/2024",
+      "usta_id": "j5GjkNqQCR+QdECg2yXeMQ=="
+    },
+    {
+      "name": "Stefanie Rouse",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/ey0+v3avZoDyD+CkR5Otg=="
+    },
+    {
+      "name": "Christopher Ryen",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/10/2024",
+      "usta_id": "2iwJLHkIx0xpNzWfuE8yAA=="
+    },
+    {
+      "name": "Ivan Sanchez",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/21/2024",
+      "usta_id": "vpRSd3SfFOp17x8jT4D6qw=="
+    },
+    {
+      "name": "Candace Sanders",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DrpOhz/wyRpSPBSc2zodLQ=="
+    },
+    {
+      "name": "Heath Sanders",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xiO7p4NDY/47ObkElyChLw=="
+    },
+    {
+      "name": "Jacob Sanders",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gfWDALwE9p1YbYc5AHRuAw=="
+    },
+    {
+      "name": "Danae Sandusky",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7kMUyaSeG4zsyPQiqeyoHQ=="
+    },
+    {
+      "name": "Kristen Scarlett",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7kMUyaSeG4zyKq2+T73TLg=="
+    },
+    {
+      "name": "Casey Schatzley",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WcUt+oPV4TxmG8gQ1dEB7w=="
+    },
+    {
+      "name": "Meghan Scott",
+      "gender": "Female",
+      "city": "Harrisburg",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7kMUyaSeG4yLkIrdEli3Vg=="
+    },
+    {
+      "name": "Andrea Seeman",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PazGb8sp1OLKQGbLFDsZ+Q=="
+    },
+    {
+      "name": "Taylor Settlemoir",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9kbGAMR6k6F57DISNsBp0Q=="
+    },
+    {
+      "name": "Daniel Sharp",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/27/2025",
+      "usta_id": "mJyki6Pxwyi70Ub85dc9iA=="
+    },
+    {
+      "name": "Jami Sharp",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/8/2024",
+      "usta_id": "Kfpeo8bmAtSsYzDHD3x9Mg=="
+    },
+    {
+      "name": "Paige Shelton",
+      "gender": "Female",
+      "city": "Manila",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c01iR4PRuDVuTbmhTi9KMg=="
+    },
+    {
+      "name": "Ashley Shepard",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BfXcVyNigB6eMKeZ7OtJng=="
+    },
+    {
+      "name": "Randy Shinabery",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C5Urft1MzU5ig9FAyRZAJQ=="
+    },
+    {
+      "name": "Andrew Shoffner",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9IH/88TX7yiOXZWkC/zYTQ=="
+    },
+    {
+      "name": "Calandra Short",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/UUAmbQDA9WFKJiN1LOv7Q=="
+    },
+    {
+      "name": "Laura Shotts",
+      "gender": "Female",
+      "city": "Paragould",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GZRLKvoaHIYTli0a0ZwqVA=="
+    },
+    {
+      "name": "Jackson Sills",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/26/2025",
+      "usta_id": "J25lK8MOM1wycfMP6oeXwg=="
+    },
+    {
+      "name": "Rylee Sisco",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "M9WwkJMkJZV4p4u6YkDR1Q=="
+    },
+    {
+      "name": "Hunter Smith",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HDPWH7/EQF7mViNUKrLDYA=="
+    },
+    {
+      "name": "Jamie Smith",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "4/3/2025",
+      "usta_id": "zyDAFWOB3fRYMQiH37xumw=="
+    },
+    {
+      "name": "Kirby Smith",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "adNM1LOOlntBKdm4i9gWDQ=="
+    },
+    {
+      "name": "Lauren Smith",
+      "gender": "Female",
+      "city": "Weiner",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/22/2024",
+      "usta_id": "AG2FldidSiox46xyFAnEQw=="
+    },
+    {
+      "name": "Linda Smith",
+      "gender": "Female",
+      "city": "Powhatan",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LWi0AkFcM0VsOqlRB4hTBw=="
+    },
+    {
+      "name": "Lori Smith",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7kMUyaSeG4whr9mZ/OIPww=="
+    },
+    {
+      "name": "Nan Smith",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "4h8vWHlzFmYkuHREopi0rA=="
+    },
+    {
+      "name": "Olivia Smith",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/16/2024",
+      "usta_id": "QM8tBAP4MqePqrF4qQw3iQ=="
+    },
+    {
+      "name": "Tara Smith",
+      "gender": "Female",
+      "city": "Black Oak",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0JDURALz7whAWp9OuZrvaA=="
+    },
+    {
+      "name": "Ashley Snider",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "LSPb9Buh4fP5NQ3nKuNUGQ=="
+    },
+    {
+      "name": "Erica Snider",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ku2k81HC/QpZX4d0mOiPaw=="
+    },
+    {
+      "name": "Steven Spack",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VhIIA4KQvEaYTBUbehSHYw=="
+    },
+    {
+      "name": "Dan Speer",
+      "gender": "Male",
+      "city": "JONESBORO",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xm3s8wIMXGOGwIKzPu9SXA=="
+    },
+    {
+      "name": "Leisa Spence",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "6ue1DC5zPUPsNROPe8PyBA=="
+    },
+    {
+      "name": "Katie Spencer",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "96C5K7dPMsqdrbov5jy4KA=="
+    },
+    {
+      "name": "Samantha Spillman",
+      "gender": "Female",
+      "city": "Beech Grove",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "j5GjkNqQCR9tlPapIYXbAQ=="
+    },
+    {
+      "name": "Allie Steenkamp",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zI9op4tq93Tm2M1uDcb97Q=="
+    },
+    {
+      "name": "Karysta Sturges",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "dXLw+9sktrjs8qjkwncGtg=="
+    },
+    {
+      "name": "Caitlin Sullins",
+      "gender": "Female",
+      "city": "Brookland",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/16/2024",
+      "usta_id": "j5GjkNqQCR96EUX7+yAjCw=="
+    },
+    {
+      "name": "Joe Sullins",
+      "gender": "Male",
+      "city": "Brookland",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "JOoisWSykrmMe5k9ARu2Pg=="
+    },
+    {
+      "name": "Michael Summers",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LjA8btZRBWoTP6CMNLQfuQ=="
+    },
+    {
+      "name": "Jeremy Taggart",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/7/2024",
+      "usta_id": "rUNNd2Q5cUHbffpCgMHebw=="
+    },
+    {
+      "name": "Kari Taylor",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "93GOFcTzXFR4FTA/l8DZgw=="
+    },
+    {
+      "name": "Cortni Thomas",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k09GcM7ErUKJNjry57dO1Q=="
+    },
+    {
+      "name": "Aarika Thompson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/28/2024",
+      "usta_id": "RGniG/PSeWG8Ignj1R8rCg=="
+    },
+    {
+      "name": "Mark Thompson",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "19ucD78bULG0mbW73fMwjA=="
+    },
+    {
+      "name": "Lydia Thornton",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/16/2024",
+      "usta_id": "GEn3lT9ijKei6wOArJHrlg=="
+    },
+    {
+      "name": "Wes Thornton",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/18/2024",
+      "usta_id": "Xbta4c0ViOn5sj5FsQgXdA=="
+    },
+    {
+      "name": "Don Threm",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6CMzwLSrc+4QHuwrrvTUJw=="
+    },
+    {
+      "name": "Kimberlee Tinsley Harrison",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/18/2025",
+      "usta_id": "krlqDf+OHewWFH8DIwk80Q=="
+    },
+    {
+      "name": "Arden Tolleson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O9RDiNuFX11gAkGYK2Z41Q=="
+    },
+    {
+      "name": "Joshua Tolleson",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "76C/OepI7CrK0Qg7HZejyQ=="
+    },
+    {
+      "name": "Nicole Townsend",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nLB36Cr/MpFWkTEaOvLwXQ=="
+    },
+    {
+      "name": "Mario Trimarchi",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/21/2024",
+      "usta_id": "QnmoE7lvQFNinUHxoWgOcw=="
+    },
+    {
+      "name": "Veronica Trimarchi",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/23/2024",
+      "usta_id": "EbtQMQozU3oYwPUyHduegQ=="
+    },
+    {
+      "name": "LINDSAY TROTTER",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c2jdJS7AWWIxMafDyIn2Cg=="
+    },
+    {
+      "name": "Brandon Tyson",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M8/OASM/ZI7pbl2q/NQbFA=="
+    },
+    {
+      "name": "Lori Tyson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M8/OASM/ZI4Qayb3w6tEWQ=="
+    },
+    {
+      "name": "Dylan Vance",
+      "gender": "Male",
+      "city": "JONESBORO",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sqxsrNkDnYKd71x7EAoqgw=="
+    },
+    {
+      "name": "Mollie Vance",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sqxsrNkDnYLIj0/w1OaWgw=="
+    },
+    {
+      "name": "Allison Vaughn",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RGniG/PSeWFLzQO9wEHvjg=="
+    },
+    {
+      "name": "Rob Veach",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gk/hkM+nkENI0irhBtcBbQ=="
+    },
+    {
+      "name": "Brittany Waddell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RvuXEGOC5Ic2bof+nxV9tw=="
+    },
+    {
+      "name": "Taylor Waddell",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "s3xLSt/tzzL8RIR4uVLhkA=="
+    },
+    {
+      "name": "Lindi Wade",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fYWOU4N5p0eK721KkiznLQ=="
+    },
+    {
+      "name": "Lisa Waggoner",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FPAe8sM7W+7do6AmJHQhWg=="
+    },
+    {
+      "name": "Katy Wagner",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u6Slkl2WdOK4vCWNrw5UTA=="
+    },
+    {
+      "name": "Courtney Watkins",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Va9QKEzf/hJ6GsrDVYm9eg=="
+    },
+    {
+      "name": "Tyler Watkins",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y2P/Sv3+87rjOaO71Hxa5A=="
+    },
+    {
+      "name": "Addison Weathers",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "biyHBNRUDUQEHI8UC0Ghng=="
+    },
+    {
+      "name": "Deanna Weaver",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "6GQir4Vk3Tnsq0gJdmZVSA=="
+    },
+    {
+      "name": "Hilary Wells",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/n6xlTvy/mexGargEfBi9A=="
+    },
+    {
+      "name": "Alyssa Wenger",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xxm9z3+Yo79iBTjBt4z3Sw=="
+    },
+    {
+      "name": "Lorie Whitby",
+      "gender": "Female",
+      "city": "Paragould",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VappZtKWQd61GIDhyCXUCQ=="
+    },
+    {
+      "name": "Jamie White",
+      "gender": "Female",
+      "city": "MARION",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a4aAvWD9gpTcOLf0lkY4/w=="
+    },
+    {
+      "name": "Tab Wildy",
+      "gender": "Male",
+      "city": "Manila",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/18/2024",
+      "usta_id": "nqq1zj1BtAvNpoTk2V13EA=="
+    },
+    {
+      "name": "Taylor Wildy",
+      "gender": "Female",
+      "city": "Manila",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/29/2024",
+      "usta_id": "I3pDP6QRAr3/E9AtZp6piw=="
+    },
+    {
+      "name": "Leah Willett",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4LGuJnxCNg1ATQFhhO/Qxg=="
+    },
+    {
+      "name": "Roger Williams",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w1QT5AWbqgltCJg4TSXWkQ=="
+    },
+    {
+      "name": "Caroline Wilson",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7kMUyaSeG4yGLkXAkjWhrw=="
+    },
+    {
+      "name": "Amanda Windmeyer",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zWF2XimlfZ/jCHGOl8erlg=="
+    },
+    {
+      "name": "Tristan Winters",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Fyz9WKpzOZ+9NT7GLEC4Q=="
+    },
+    {
+      "name": "Chamblee Witherspoon",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nn7Q/0+6RrKfxyKJIe5sqQ=="
+    },
+    {
+      "name": "Casey Worlow",
+      "gender": "Female",
+      "city": "Bono",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/6/2025",
+      "usta_id": "WhqcVUb+ZETvg8xC56DMTQ=="
+    },
+    {
+      "name": "Christy Wortham",
+      "gender": "Female",
+      "city": "Paragould",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G6P+xud5JK3pS8axS4wpQw=="
+    },
+    {
+      "name": "Heath Yarbrough",
+      "gender": "Male",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "06+R18aj6Zd0d2S7DsyBVw=="
+    },
+    {
+      "name": "Beth Young",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sfEXct4R9TpktUXxfjjhUA=="
+    },
+    {
+      "name": "Fen Yu",
+      "gender": "Female",
+      "city": "Jonesboro",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/19/2025",
+      "usta_id": "2SqaBhuiBVRAsmK5SuOZ7Q=="
+    },
+    {
+      "name": "Bin Zhang",
+      "gender": "Male",
+      "city": "State University",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rxIvY1ji+77QyJy6m2UT9Q=="
+    }
+  ]
+}

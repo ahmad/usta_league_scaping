@@ -1,0 +1,5127 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243383",
+  "areaId": "6243676",
+  "players": [
+    {
+      "name": "Ginna Abbey",
+      "gender": "Female",
+      "city": "Byhalia",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "axQIhiZcL0imFGuDIG3tOw=="
+    },
+    {
+      "name": "Alvin Abston",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "suf1s5jLcprc9r9DQilT4g=="
+    },
+    {
+      "name": "Dorian Abston",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2SqaBhuiBVRINK8C0XNb4Q=="
+    },
+    {
+      "name": "Alex Adair",
+      "gender": "Male",
+      "city": "New Albany",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "erAmTaYunD57l9ICAv5GTA=="
+    },
+    {
+      "name": "Christi Adams",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vqahXn0XR2g4cD9tbwmidg=="
+    },
+    {
+      "name": "John Adams",
+      "gender": "Male",
+      "city": "MEMPHIS",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/25/2025",
+      "usta_id": "u5UnNo3G92S73i9PcNgXMw=="
+    },
+    {
+      "name": "Paula Akers",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c2B710XxZO3IA9I3NAtCUA=="
+    },
+    {
+      "name": "Alfredo Ale",
+      "gender": "Male",
+      "city": "COLLIERVILLE",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4bq9XnHoR1ZwzqOAEr1yBQ=="
+    },
+    {
+      "name": "Claire Alerding",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/28/2024",
+      "usta_id": "cVuTmASMCSPhDWWeodmg/g=="
+    },
+    {
+      "name": "Ben Alexander",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "uJQpVClsI8rY1fu94fG5aw=="
+    },
+    {
+      "name": "Kristen Alexander",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gvRZY2tx0VEp9twmpI0YIw=="
+    },
+    {
+      "name": "Chad Alford",
+      "gender": "Male",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sUzoayo/fC9HKR8sXUEWEA=="
+    },
+    {
+      "name": "Mandy Alford",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sUzoayo/fC+4zmLzByyA6Q=="
+    },
+    {
+      "name": "Charles Allen",
+      "gender": "Male",
+      "city": "Helena",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R+oqybyNP6Ma6oLl0tI1sw=="
+    },
+    {
+      "name": "Sarah Allen",
+      "gender": "Female",
+      "city": "Helena",
+      "state": "AR",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "e2o5YOxKf/gIGJWmO51srg=="
+    },
+    {
+      "name": "Nicole Amaro",
+      "gender": "Female",
+      "city": "Cordova",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "11/21/2024",
+      "usta_id": "7M3sCC1xwyEIHWWZ2w4ZUQ=="
+    },
+    {
+      "name": "Jadyn Anderson",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "t03ISm8LqC/6L9p26lGzOA=="
+    },
+    {
+      "name": "Shelia Anderson",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "veynKIjoPus3o8GXINcwEA=="
+    },
+    {
+      "name": "ANITA ARBELAEZ",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I/q++6KdvEDEounbe7wHXA=="
+    },
+    {
+      "name": "Amy Arnell",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TwWtgBSbU3lCrwHfWku9ww=="
+    },
+    {
+      "name": "Tabitha Arrington",
+      "gender": "Female",
+      "city": "Horn Lake",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gam+YNbTHksXd/1UsPWqng=="
+    },
+    {
+      "name": "Margaret Baker",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ud3MGP39Tel6klKNXC0naA=="
+    },
+    {
+      "name": "Morgan Baker",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/23/2025",
+      "usta_id": "5FYxotcvfZkN1a3gERVnzA=="
+    },
+    {
+      "name": "Lindsay Banks",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hsjjXZE3hnkxojbdbDJd0Q=="
+    },
+    {
+      "name": "Ralph Banks",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/10/2025",
+      "usta_id": "s7yl6yti2cLflnMYejNeyw=="
+    },
+    {
+      "name": "Grace Bann",
+      "gender": "Female",
+      "city": "Cordova",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "be+BC2edcKgNk+r6iiyfXw=="
+    },
+    {
+      "name": "Eric Barnes",
+      "gender": "Male",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jp+U/LyaCCrcB3ROvWJnug=="
+    },
+    {
+      "name": "Krista Barnhart",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BNMWKs5a9LNrXEffyvvhWw=="
+    },
+    {
+      "name": "Natalie Barrett",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8Fn9Vxn+DvpCjFMsGTL6Cw=="
+    },
+    {
+      "name": "Robin Barringer",
+      "gender": "Female",
+      "city": "BYHALIA",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G1T8fvPA3WDsNrwW9qonJA=="
+    },
+    {
+      "name": "Kay Barron",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/1/2025",
+      "usta_id": "ZYo1UJa7ARYVOQMeRnjEaw=="
+    },
+    {
+      "name": "Allison Baskin",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cpg4uPjRTJ8A8S2FbpsSEA=="
+    },
+    {
+      "name": "Pam Beard",
+      "gender": "Female",
+      "city": "Sardis",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qRwzA71zypblDqPAlOH28A=="
+    },
+    {
+      "name": "Hallie Beasley",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UmHSpC22WIZkQt+qCDBgrA=="
+    },
+    {
+      "name": "Josh Belenchia",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qgQUPwU8h2V3tYp3zCOmhw=="
+    },
+    {
+      "name": "Katie Belenchia",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5jq9X89MsCsOe/wOw6l/Hw=="
+    },
+    {
+      "name": "Earl Bell III",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rhRP/47kTyYRzkLnMV9iKQ=="
+    },
+    {
+      "name": "Kate Bell",
+      "gender": "Female",
+      "city": "Tupelo",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X7YNGuJrKM7lHnQtWP6VeA=="
+    },
+    {
+      "name": "Cynthia Bigham",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3hnKCji1Qt5Y7eUKL986Hg=="
+    },
+    {
+      "name": "Holly Bigham",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3y+rK6ICEQbbBYmifIQNIQ=="
+    },
+    {
+      "name": "Melanie Billman",
+      "gender": "Female",
+      "city": "Biloxi",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z+IRuK0PXnue3OkoV7d+Gg=="
+    },
+    {
+      "name": "Cade Bishop",
+      "gender": "Male",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "OfiZSD6umi/tDbi3kXWL6A=="
+    },
+    {
+      "name": "Blakeney Black",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nj8MC1hskbeEawEBfYkq5w=="
+    },
+    {
+      "name": "Amelia Blanton",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Kd4JSRmd8uVeVMSlYgqG3w=="
+    },
+    {
+      "name": "Lauren Bloodworth",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NQNpgaNVZh5QS/i1MpPEpw=="
+    },
+    {
+      "name": "Ally Boggan",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GZn9J0g99WeMlPAuEjfKuw=="
+    },
+    {
+      "name": "Marylyle Boolos",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G8njVwlbEINSmoOv6g1ZKQ=="
+    },
+    {
+      "name": "Anna Catherine Boudreaux",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "Vvk/XH67eFMbSKAffFhJlw=="
+    },
+    {
+      "name": "Sarah Bowdon",
+      "gender": "Female",
+      "city": "SOUTHAVEN",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jUGy/zpv2kbHDBFrzvND3w=="
+    },
+    {
+      "name": "Ally Bowen",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "3tUYGHwYISVgZwr6xBdxgA=="
+    },
+    {
+      "name": "Terra Bowling",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NLLxNoEZ45FAtWCA/UAFkw=="
+    },
+    {
+      "name": "Bo Bowman",
+      "gender": "Male",
+      "city": "New Albany",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5mjQcTIvFRND2ZmmM18e9Q=="
+    },
+    {
+      "name": "Suzy Bowman",
+      "gender": "Female",
+      "city": "New Albany",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ix3yBCsO/HlNRpWSlGE7dQ=="
+    },
+    {
+      "name": "William Boyd",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/10/2025",
+      "usta_id": "SPpmdJSL7oVQ7ywQpJb7xA=="
+    },
+    {
+      "name": "Demetrius Boyland",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iG0VGUApNBv+Ez1ITNzfww=="
+    },
+    {
+      "name": "Dana Bray",
+      "gender": "Female",
+      "city": "Cordova",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rXG2ZA9F5QzfvFi5kH+ing=="
+    },
+    {
+      "name": "David Bray",
+      "gender": "Male",
+      "city": "Cordova",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oBQBQd5Vb2shEyeAq6ZAAg=="
+    },
+    {
+      "name": "Madeline Bray",
+      "gender": "Female",
+      "city": "Cordova",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "X8nKkLThdEC8kQqnQW3Agg=="
+    },
+    {
+      "name": "Ashley Brewer",
+      "gender": "Female",
+      "city": "Senatobia",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+wI+u7XFTXKXWjSoDZPBJQ=="
+    },
+    {
+      "name": "Beth Bringhurst",
+      "gender": "Female",
+      "city": "COLLIERVILLE",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3iWm5IelTdCcVxhYNUPBFQ=="
+    },
+    {
+      "name": "Brittany Brooks",
+      "gender": "Female",
+      "city": "Byhalia",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "K8xLBiTOv2PGR3O58RScdQ=="
+    },
+    {
+      "name": "Emily Brown",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XXivEzuEeY6S7AWJYf5caQ=="
+    },
+    {
+      "name": "John Browning",
+      "gender": "Male",
+      "city": "Belden",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C27tPK8TQp2pMk0wFNLMIQ=="
+    },
+    {
+      "name": "Sarah Buchanan",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I2hW93cw/Epv9FqSMHg+rQ=="
+    },
+    {
+      "name": "Renie Bumpous",
+      "gender": "Female",
+      "city": "Byhalia",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KYMuEXje6+xX3r0prixZnw=="
+    },
+    {
+      "name": "Rachel Burford",
+      "gender": "Female",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L42YDA1ys5J+yAsEo2mvRw=="
+    },
+    {
+      "name": "Angela Burkes",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nxW4KkkCeXmagVS/7EvkHQ=="
+    },
+    {
+      "name": "Tracey Butler",
+      "gender": "Female",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/18/2024",
+      "usta_id": "VVjbFcBh+IWj47rdWF8WjQ=="
+    },
+    {
+      "name": "Leslie Butts",
+      "gender": "Female",
+      "city": "Water Valley",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/29/2025",
+      "usta_id": "EYx7flgx4ojZOuavqFdT0w=="
+    },
+    {
+      "name": "Cristy Buziak",
+      "gender": "Female",
+      "city": "Cordova",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UvJo/mozJLV6zU48VopPXw=="
+    },
+    {
+      "name": "Paige Campbell",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wn1evVAXzRGxlbYl7aUieA=="
+    },
+    {
+      "name": "Marie Kyle Cannon",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kRW18+gpIn5KHS8/0rL8xA=="
+    },
+    {
+      "name": "Haley Carlson",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jUYDrIA66dCm5bxNl3rKWA=="
+    },
+    {
+      "name": "Jimmy Carr",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/2/2024",
+      "usta_id": "nEwSw+mpMZ+wZYK8LWD//w=="
+    },
+    {
+      "name": "Adam Casey",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aFLIews4RTfAGje1VlLXBA=="
+    },
+    {
+      "name": "Sonia Castany",
+      "gender": "Female",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y7bcoGdi/E5n1sQNU7Ntkg=="
+    },
+    {
+      "name": "Kendall Causey",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4wKv9hHALaiRtSUir0+Vjw=="
+    },
+    {
+      "name": "Rachel Causey",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PF7OXEQHr8NZFmPjWiMZbg=="
+    },
+    {
+      "name": "Kathie Cavette",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o1T611I1B6GP88RKXWht6A=="
+    },
+    {
+      "name": "Donnie Chambliss",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WKUP/TT2oej/Zv6E4BGoSw=="
+    },
+    {
+      "name": "Heather Chambliss",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WKUP/TT2oehFXu6Efo6ODA=="
+    },
+    {
+      "name": "Kevin Chapman",
+      "gender": "Male",
+      "city": "Tupelo",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yOcclPYR6anFkNIQHC398Q=="
+    },
+    {
+      "name": "Kristi Cherry",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oH1CGojPIhPH6nHs05o6ug=="
+    },
+    {
+      "name": "James Cizdziel",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OhAElbcGEN1oOwFuQG/Wng=="
+    },
+    {
+      "name": "Bill Clark",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pM0r8vIvCIJvFcg/kLiA1A=="
+    },
+    {
+      "name": "Emma Clark",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2024",
+      "usta_id": "GsRMtcp8YEsBFEhSBDUzew=="
+    },
+    {
+      "name": "Connie Clarkson",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/21/2025",
+      "usta_id": "Rtp2RFKSTGZGKjzety1I1A=="
+    },
+    {
+      "name": "Lauren Cleary",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "///uHKzJXMK4tvOwEXkS1A=="
+    },
+    {
+      "name": "Jeannette Clements",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qwXWIpN3GnA3h4OLnL9jOQ=="
+    },
+    {
+      "name": "Tommy Clements",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wQpWy0GYy1Q="
+    },
+    {
+      "name": "Madison Cleveland",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "K7kWV8z/jdcekvScP25Ceg=="
+    },
+    {
+      "name": "Shannon Cohn",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ASaD2aL70knTmUVApLfRLQ=="
+    },
+    {
+      "name": "Steve Coker",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UD4Hjbe4a5FDDo9iCLzVfw=="
+    },
+    {
+      "name": "Cynthia Coleman",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xWv3TKIp2ULN0X1MhjoYaA=="
+    },
+    {
+      "name": "Kecia Coleman",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JsCtAs8A77izth7piJ64JQ=="
+    },
+    {
+      "name": "Keegan Coleman",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/3/2024",
+      "usta_id": "8fIuoT2wqWbpqMfwZayHog=="
+    },
+    {
+      "name": "Leslie Coleman",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9Yq2GH6CLkiBezaJPQdf4w=="
+    },
+    {
+      "name": "Zane Coleman",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/6/2025",
+      "usta_id": "CI/kDo8f6yMVWnIX2IBYxg=="
+    },
+    {
+      "name": "Patrick Conrad",
+      "gender": "Male",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "/ejbBVDFoK8UHLD+ADCIug=="
+    },
+    {
+      "name": "Rebecca Conrad",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1BdGDZLacxr57i+RTYn17w=="
+    },
+    {
+      "name": "Edgar Contreras",
+      "gender": "Male",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hamh8FQ1Q3pLzaRLHiWGtA=="
+    },
+    {
+      "name": "Carrie Cook",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YJD0F4SIvsEPcN5ikwYM3g=="
+    },
+    {
+      "name": "Stan Cook",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "46kef2bOLx+kAAouT9CPhg=="
+    },
+    {
+      "name": "Daty Cooke",
+      "gender": "Female",
+      "city": "Cleveland",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dlQDYZtR7z13Tme9IZcYuA=="
+    },
+    {
+      "name": "Michelle Corbin",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/7/2025",
+      "usta_id": "UUfTBHyzk8QqiSMIBKhqrA=="
+    },
+    {
+      "name": "Carie Costello",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CATrb/iHrTIRCai5DjFdRg=="
+    },
+    {
+      "name": "Michie Cotton",
+      "gender": "Female",
+      "city": "Cleveland",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eR2P3lIi5FMq/Ueom/TpYQ=="
+    },
+    {
+      "name": "Jerry Keff Couch Jr",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HuJdvi8YXN7spP+j1zwVgA=="
+    },
+    {
+      "name": "Ashley Cox",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/30/2025",
+      "usta_id": "sOVQduptIf73fj4q2TlTow=="
+    },
+    {
+      "name": "Suzanne Prince Cox",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/19/2024",
+      "usta_id": "GPOBZcLEl60U1O7r6kHSBQ=="
+    },
+    {
+      "name": "Molly Coyne",
+      "gender": "Female",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mdVoGRH7HM5iPp7Nx7Dkug=="
+    },
+    {
+      "name": "Brittany Crain",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UXu3LR3CDi/Lyb5Ms/Ztng=="
+    },
+    {
+      "name": "Mari-Brian Crick",
+      "gender": "Female",
+      "city": "Greenwood",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/14/2025",
+      "usta_id": "ZZE9sHifmDb+hlQXQU8Kag=="
+    },
+    {
+      "name": "Jesse Cromwell",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "piHuLcy2ZLalB94o8Lyq1A=="
+    },
+    {
+      "name": "Jeff Crosby",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mdVoGRH7HM7f1LCQZaSX0A=="
+    },
+    {
+      "name": "Kathy Crowder",
+      "gender": "Female",
+      "city": "Cordova",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0j0gYOEfU4KBWtrILtgVPA=="
+    },
+    {
+      "name": "Hector Custode",
+      "gender": "Male",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+goZkmoVBY510O+owyztSg=="
+    },
+    {
+      "name": "Jenna Cutshall",
+      "gender": "Female",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q5vzE4QxFDi1uAJPvmK3pA=="
+    },
+    {
+      "name": "Charlie Darden",
+      "gender": "Male",
+      "city": "Cary",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "RVt4nxKz5DiLSn6i6xljHA=="
+    },
+    {
+      "name": "Beth Day",
+      "gender": "Female",
+      "city": "Littleton",
+      "state": "CO",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J0/WKyWRQg+55HOKGwTB+Q=="
+    },
+    {
+      "name": "Mary Day",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "Oc66QfHtKQDLBaxngbV7ug=="
+    },
+    {
+      "name": "Vonya Day",
+      "gender": "Female",
+      "city": "OLIVE BRANCH",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6K4tjOK0uT1zAVmlM1XBbg=="
+    },
+    {
+      "name": "Marco D'Emidio",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/15/2025",
+      "usta_id": "gb/a3B/doJ/ODcIqoUZIkg=="
+    },
+    {
+      "name": "Sharon Dertien",
+      "gender": "Female",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qMnk3UMooDxcUGUbeUk2eQ=="
+    },
+    {
+      "name": "Sonja Dickey",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W1ZFfvdo5o+pcqCM+9FVsA=="
+    },
+    {
+      "name": "Kacy Dixon",
+      "gender": "Female",
+      "city": "NESBIT",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "LTfA62S+xy1M6Qd00i2XdA=="
+    },
+    {
+      "name": "Paige Dodgen",
+      "gender": "Female",
+      "city": "Abbeville",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U+tle4FvxaF+WbaVou0NBQ=="
+    },
+    {
+      "name": "MOZART DOR",
+      "gender": "Male",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a5Rppe5DqsQmF8plI3R9SQ=="
+    },
+    {
+      "name": "Stacy Dorris",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oXMMwaQ6d97rK7I/18Z18A=="
+    },
+    {
+      "name": "Jason Downs",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HwfkNG0U5nrWL5fTTSWL7g=="
+    },
+    {
+      "name": "Lauren Downs",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K7kWV8z/jddiThSlPyqkaQ=="
+    },
+    {
+      "name": "Tammy Downs",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s2z8bmjB9BSTP3oVr8Xt4g=="
+    },
+    {
+      "name": "Jennifer Doyle",
+      "gender": "Female",
+      "city": "Lake Cormorant",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/8/2024",
+      "usta_id": "X/dQ2BCZycDieNQONqbnbA=="
+    },
+    {
+      "name": "Meredith Drumwright",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7OrrDxruwTvEDJSibR1pCg=="
+    },
+    {
+      "name": "Andrew Duff",
+      "gender": "Male",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E3E4cBGmi7nFJDCBZY0vug=="
+    },
+    {
+      "name": "Tracy Duff",
+      "gender": "Female",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QR/UAi1CORcKWfmjAUJ5QQ=="
+    },
+    {
+      "name": "Michael Duncan",
+      "gender": "Male",
+      "city": "TUPELO",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "qmGRZSNaoYQ5x1KfZo+aDg=="
+    },
+    {
+      "name": "Candace Dunlap",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "inonqCVZOZ3TcnOeUdFJuQ=="
+    },
+    {
+      "name": "Lacey Dunlap",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F93ImhZBuHrDETBFaqOqHA=="
+    },
+    {
+      "name": "Allyson Dyer",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NaNuxKIu/d1Gi4z5R5Wukg=="
+    },
+    {
+      "name": "Latasha Echols",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rTacaK3ps0R0029l30Gg/Q=="
+    },
+    {
+      "name": "John Edwards",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NJ8FTLTdKKP6m3mG6N4jEQ=="
+    },
+    {
+      "name": "James Elliott",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "ijl9r5z2AExB3DznPp/XLw=="
+    },
+    {
+      "name": "Jessica Elrod",
+      "gender": "Female",
+      "city": "NESBIT",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sMPXREPDpuaC/SV7mmgukg=="
+    },
+    {
+      "name": "Ethan Fairfield",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/3/2024",
+      "usta_id": "JLDW3TPIk3L9uLjHhWzHQw=="
+    },
+    {
+      "name": "Amy Farmer",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LLM944xIfq49EHWJAH99bA=="
+    },
+    {
+      "name": "MiHyang Faulks",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W0gFs3zSnu+T4W4UhbW3EQ=="
+    },
+    {
+      "name": "Jami Feinberg",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z7FquXVUFswoDgeaXmD9RQ=="
+    },
+    {
+      "name": "Joshua Feinberg",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tmiB2ZG/GXgBY3dWhEQjdg=="
+    },
+    {
+      "name": "Hunter Ferguson",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/16/2025",
+      "usta_id": "6vgizZLpnYysorUxN5KsrQ=="
+    },
+    {
+      "name": "Vicki Ferguson",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ykIs+Qwg52muT/JH/HMVpw=="
+    },
+    {
+      "name": "Jess Flanders",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DQ7wK21RfNo/AfoDLnzX+A=="
+    },
+    {
+      "name": "Shayni Fleming",
+      "gender": "Female",
+      "city": "Eads",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EcfhNvz6eNP8iiQZM3zh2g=="
+    },
+    {
+      "name": "Abby Flowers",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E15fiJYfsysh5g5QMk6qsw=="
+    },
+    {
+      "name": "Lesley Ford",
+      "gender": "Female",
+      "city": "Arlington",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CENvbrvXVl1q3Qok4H5Cug=="
+    },
+    {
+      "name": "Jeremy Foster",
+      "gender": "Male",
+      "city": "HOLCOMB",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8big2obVKa98xf84uOs3eg=="
+    },
+    {
+      "name": "Mary-Sada Foster",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JZrz8VYsGtfUJCvkd6PxnA=="
+    },
+    {
+      "name": "Murre Foster",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ov7KWPv0MJOTvIRzVskVyg=="
+    },
+    {
+      "name": "Claire Fowler",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1oWAMVsDIHI+Pfl05NigSA=="
+    },
+    {
+      "name": "MacKenzie Fowler",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sh0D6jAjqA7rxAYC5A3MHg=="
+    },
+    {
+      "name": "Elliott Frank",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/6/2024",
+      "usta_id": "8Q2bSwoLDiIynohC+KyXtA=="
+    },
+    {
+      "name": "Jamie Frank",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xd6rfA5vV3xYsVBFrJPgLg=="
+    },
+    {
+      "name": "Caroline Frazer",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qq5z7bLv5Sc7/IuW1ogC2Q=="
+    },
+    {
+      "name": "Donna Fullilove",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iZ/3kSW+vw6i8C7joiAZ4g=="
+    },
+    {
+      "name": "Heath Fullilove",
+      "gender": "Male",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iZ/3kSW+vw7sTZmUpziOeg=="
+    },
+    {
+      "name": "Landon Fullilove",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "eUHsC8DMJPCBmmTKyAU2zw=="
+    },
+    {
+      "name": "Nicole Fullilove",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MzVyChlV6FO/OTCebsDe1A=="
+    },
+    {
+      "name": "Emma Gaines",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/6/2024",
+      "usta_id": "XMP48tdSfHOaBEMyVA/D8w=="
+    },
+    {
+      "name": "Ben Galjour",
+      "gender": "Male",
+      "city": "Tupelo",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0Ooejpo5CV0QmHevULV6jw=="
+    },
+    {
+      "name": "Joel Gallagher",
+      "gender": "Male",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "sy/ddpePQobL9oky8ydS9Q=="
+    },
+    {
+      "name": "Tracy Gallagher",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/29/2024",
+      "usta_id": "yTktS25n/kF1SiODxmrzaA=="
+    },
+    {
+      "name": "Marley Gant",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jx1mJ6Gu7EA9rT7vgo5lwQ=="
+    },
+    {
+      "name": "Julia Gantz",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wACg4PymddFTa/jh7ul8Ew=="
+    },
+    {
+      "name": "Chris Garner",
+      "gender": "Male",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ivHRTeJAHM8+6KyGO2E5rg=="
+    },
+    {
+      "name": "Lindsey Garner",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RNnuzDUsKh64o9oKUZJOEQ=="
+    },
+    {
+      "name": "Andre George II",
+      "gender": "Male",
+      "city": "Lakeland",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XJIEdFk8MEjTP02OcwTmuA=="
+    },
+    {
+      "name": "Lori Gibbons",
+      "gender": "Female",
+      "city": "Marvell",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bBD7jmyHWWJ7+/JWmM6g9Q=="
+    },
+    {
+      "name": "Ellie Gibbs",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/14/2025",
+      "usta_id": "70zCkTpkM/XcbsoWOfORcA=="
+    },
+    {
+      "name": "Lynn Gibson",
+      "gender": "Female",
+      "city": "Myrtle",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CEXmdVfZGxeoqJ3X7HZ+0g=="
+    },
+    {
+      "name": "Tiffany Gililland",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vd6b/kJ+seDQohT/gif3bg=="
+    },
+    {
+      "name": "Riley Gill",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/22/2024",
+      "usta_id": "wEftLVVByfRh+P2MKTwSNw=="
+    },
+    {
+      "name": "Staci Gill",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oH1CGojPIhOjPKhjy9vHMw=="
+    },
+    {
+      "name": "Amy Gilmore",
+      "gender": "Female",
+      "city": "Brentwood",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SkVMXAlYv/14sBenvtrWhw=="
+    },
+    {
+      "name": "Emily Glahn",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C8C4cLrUFKLYUwxQ/IzYHw=="
+    },
+    {
+      "name": "Katie Gobbell",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "F93ImhZBuHrfvdKrH3tihQ=="
+    },
+    {
+      "name": "Grace Gober",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2024",
+      "usta_id": "jiciqSWl2bEUedYOHptLYg=="
+    },
+    {
+      "name": "Murrell Godfrey",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/8/2025",
+      "usta_id": "1aCSFzrVrJCWofyO/2M9Nw=="
+    },
+    {
+      "name": "Grant Goforth",
+      "gender": "Male",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qog6uPFYxeBvuubCmJfv7Q=="
+    },
+    {
+      "name": "Tracy Goforth",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/are8E+4x7+hzL54BlA9LQ=="
+    },
+    {
+      "name": "Cecilia Gold",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "7CgTYlOWois="
+    },
+    {
+      "name": "Carolyn Golding",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "+uX842cza8kYedaxMuxeWw=="
+    },
+    {
+      "name": "Nelli Golmeeva",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NsL5ic0oeabW3LBpka4NKg=="
+    },
+    {
+      "name": "Troy Gomez",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bJa3fF+zXw7rThDVjCQHnA=="
+    },
+    {
+      "name": "Nancy Goodwin",
+      "gender": "Female",
+      "city": "Byhalia",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oH1CGojPIhPy89gtbnsiCg=="
+    },
+    {
+      "name": "Noelle Goubeaux",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vvvSQk/wAloNsQLZsrCF/Q=="
+    },
+    {
+      "name": "Pamela Grafton",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sc80oLuGVd9mcrYG+TefmA=="
+    },
+    {
+      "name": "O'Keefe Graham",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zfiPWFsXVQPlrLwOWQk+iQ=="
+    },
+    {
+      "name": "Lily Gray",
+      "gender": "Female",
+      "city": "Brookhaven",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/2/2024",
+      "usta_id": "nq3VfPhJlCyee0GUGYPgyQ=="
+    },
+    {
+      "name": "Rivers Gray",
+      "gender": "Female",
+      "city": "Brookhaven",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/19/2025",
+      "usta_id": "YkMMlJvJftzqEaMF4xV2ZA=="
+    },
+    {
+      "name": "Emily Green",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wkyocCiNhgRfWmO0sLtRlw=="
+    },
+    {
+      "name": "Megan Green",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C6Ra/QoT3UVXx84G0fmIQw=="
+    },
+    {
+      "name": "Sarah Green",
+      "gender": "Female",
+      "city": "Brentwood",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "25ryfzbc/w52Y7S6UHWBtg=="
+    },
+    {
+      "name": "Aimee Gregg",
+      "gender": "Female",
+      "city": "Cordova",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zU6vmSIIqoS7TQtd2cFm5Q=="
+    },
+    {
+      "name": "Matthew Gregg",
+      "gender": "Male",
+      "city": "Cordova",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U+tle4FvxaFdRvvZ+AwmHQ=="
+    },
+    {
+      "name": "Shuler Griffin",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "Z5c2QBgEdE1JW5IEhLNbsQ=="
+    },
+    {
+      "name": "Laura Grimes",
+      "gender": "Female",
+      "city": "COLLIERVILLE",
+      "state": "TN",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "6/13/2025",
+      "usta_id": "BzlX8tn/cUdbP7cXMSWA+w=="
+    },
+    {
+      "name": "Missy Gulick",
+      "gender": "Female",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VviThNQsK9XvXm2hz4f/7g=="
+    },
+    {
+      "name": "Hala Hakim",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/8z0YzlAewrsOGk0lzTJ6Q=="
+    },
+    {
+      "name": "Martha Hall",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hw3nO6YslTsgOmMgkuF+Vw=="
+    },
+    {
+      "name": "Matt Hall",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "a8KtMCQPyq/e+DTta/kiFw=="
+    },
+    {
+      "name": "Devra Hampton",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C/ewluCuPNVp16iNA27Gng=="
+    },
+    {
+      "name": "Arlie Hanigan-Walters",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AOUMmhkO3XYjX/Hda/fNSQ=="
+    },
+    {
+      "name": "Yumi Hansen",
+      "gender": "Female",
+      "city": "Pontotoc",
+      "state": "MS",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "pjuSAzM6Jt7zA/vc62bXPw=="
+    },
+    {
+      "name": "Jeff Hardin",
+      "gender": "Male",
+      "city": "Greenwood",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ElX6WbRYlmLQiurQmuBI1A=="
+    },
+    {
+      "name": "Mark Hardin",
+      "gender": "Male",
+      "city": "Indianola",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K7GPKbcghZHM5rLoYuT2PA=="
+    },
+    {
+      "name": "Ramey Hardin",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YyAj66ong5FlzJg+Z/eiyw=="
+    },
+    {
+      "name": "Mike Hardwick",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/24/2024",
+      "usta_id": "4UJksPMIrO0T5U7oArccrg=="
+    },
+    {
+      "name": "Alan Hargett",
+      "gender": "Male",
+      "city": "Indianola",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JNcp6p6H/LT2+iHp7lo1mw=="
+    },
+    {
+      "name": "Priscilla Hawkins",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7VrdHZxXPg0Cw7QWp0VkRw=="
+    },
+    {
+      "name": "Patricia Hayes",
+      "gender": "Female",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7i/k6oVXdsBIuJ8VRMnPQw=="
+    },
+    {
+      "name": "John Heard",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0wn0FcNe63F5QPgMDIKuBw=="
+    },
+    {
+      "name": "Karen Hehir",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5S/iKF8zVkHp7Ec/11Jjuw=="
+    },
+    {
+      "name": "William Heidelberg",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "PKVzIOprRn8JvGKI5wLWmw=="
+    },
+    {
+      "name": "Michele Henley",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oTaVGFxHWN3QuHrfsu1SNw=="
+    },
+    {
+      "name": "Andrea Henry",
+      "gender": "Female",
+      "city": "Bartlett",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F3lBh3BgfBAajE4e+vBwPQ=="
+    },
+    {
+      "name": "Anita Herren",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z7FquXVUFsw8v6JhdzDOYA=="
+    },
+    {
+      "name": "Seth Herren",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aJebcqGTA7++Tadu2/IwMw=="
+    },
+    {
+      "name": "Debbie Herring",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3xXN13HkbkSaHD1dJvj5nA=="
+    },
+    {
+      "name": "Mckeever Heun",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ylG1rMI2u4fCLrc/OFqEFg=="
+    },
+    {
+      "name": "Rachel Heun",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b+VNVgqENRuqvwp4JUi+fA=="
+    },
+    {
+      "name": "Matthew Hicks",
+      "gender": "Male",
+      "city": "Greenwood",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cejXvGtwyOkVyO5DBiPbYQ=="
+    },
+    {
+      "name": "Trish Hicks",
+      "gender": "Female",
+      "city": "Greenwood",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "24B/X32NLYVPCcH96CV4UQ=="
+    },
+    {
+      "name": "Anne Higgins",
+      "gender": "Female",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "e1OwxEbkyBsnsCi/6l1hWA=="
+    },
+    {
+      "name": "Tracy Hill",
+      "gender": "Female",
+      "city": "Byhalia",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "939pibDqOGh3KkQQ0lmEug=="
+    },
+    {
+      "name": "Bryant Hirsberg",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "8/14/2023",
+      "usta_id": "MKrjTV0VEsc="
+    },
+    {
+      "name": "Mignon Hodges",
+      "gender": "Female",
+      "city": "Greenwood",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZtciHVp9MxzuiyZF7IhU1A=="
+    },
+    {
+      "name": "Owen Hodson",
+      "gender": "Male",
+      "city": "Coldwater",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "WJTAkEsnOIo1Mu6KFG9UvA=="
+    },
+    {
+      "name": "Greg Hollingsworth",
+      "gender": "Male",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0W12kxEJeZm6nPsOJzPy9w=="
+    },
+    {
+      "name": "Laura Hollis-Talley",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NZ4or0dBDgC9vZy9peehuA=="
+    },
+    {
+      "name": "Hannah Hopson",
+      "gender": "Female",
+      "city": "Hattiesburg",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "kWIaJSYBYWw/ERB7ILJoKg=="
+    },
+    {
+      "name": "Bryan Howell",
+      "gender": "Male",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "odFjx1OqxA9j1hQyf6UHeA=="
+    },
+    {
+      "name": "Keith Hudson",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bx2TSfcYGjRgFxebg/tmKw=="
+    },
+    {
+      "name": "Stacey Hyde",
+      "gender": "Female",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KYn2AiDDcQUsDHZaQg9kqA=="
+    },
+    {
+      "name": "Hannah Ivey",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RsLkXfATCIsvsvkLa5gaOw=="
+    },
+    {
+      "name": "Amanda James",
+      "gender": "Female",
+      "city": "Tishomingo",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ctsYYIaFMjdBjX/1d8bHpw=="
+    },
+    {
+      "name": "Joe Johnson",
+      "gender": "Male",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C6Ra/QoT3UWVZ9I6oEZkAQ=="
+    },
+    {
+      "name": "Madeline Johnson",
+      "gender": "Female",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4oxHUcYRQ8S86c+mgIOX5Q=="
+    },
+    {
+      "name": "Michael Johnson",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zcGjPF7eN9W6lpt3GGnmgQ=="
+    },
+    {
+      "name": "Pam Johnson",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CSL+WKTt15VVtXqPW3DKKA=="
+    },
+    {
+      "name": "David Johnston",
+      "gender": "Male",
+      "city": "NESBIT",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/18/2024",
+      "usta_id": "QhpuKf0PzDdKBQE+zFC5wA=="
+    },
+    {
+      "name": "Richard Johnston",
+      "gender": "Male",
+      "city": "Tupelo",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "795Et6DPOLBCQiUrN1cp1A=="
+    },
+    {
+      "name": "Donald Jones",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oyFGVsTAhFhXDNsjK1Jqeg=="
+    },
+    {
+      "name": "Karen Jones",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f+bntVFxlL9AtDkBYpWYUg=="
+    },
+    {
+      "name": "Candace Kautzky",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/17/2025",
+      "usta_id": "hl3FusxuiHT/tITkcOuVew=="
+    },
+    {
+      "name": "Matthew Keeler",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9/Ym/AEJkxHKcvVja//01w=="
+    },
+    {
+      "name": "Shelby Kennedy",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "jHxXtzikIPhfmqAF5YieJg=="
+    },
+    {
+      "name": "Kelly Kicker",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jncvNqEq32mXbkZgZGODmg=="
+    },
+    {
+      "name": "Angela Kiffin",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/4/2025",
+      "usta_id": "vqbIJHnMXhS8PHkR6CES8w=="
+    },
+    {
+      "name": "Layla Kiffin",
+      "gender": "Female",
+      "city": "Manhattan Beach",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xQetCmepN9RJzxOD/+gInw=="
+    },
+    {
+      "name": "Amy Killebrew",
+      "gender": "Female",
+      "city": "Grenada",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "BP/u0AxTKUbOF9ssbC0mZw=="
+    },
+    {
+      "name": "William Kitchens",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y70MeinnNv2F+5rvTZXvCQ=="
+    },
+    {
+      "name": "Jay Knight",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vEF9CNJETjtlF5yvrKkjCA=="
+    },
+    {
+      "name": "Missie Knight",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vEF9CNJETjsWt7bz9vY0LQ=="
+    },
+    {
+      "name": "William Koestler",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "TtGSc919TGpeXI9InYeUsQ=="
+    },
+    {
+      "name": "Adam Kraft",
+      "gender": "Male",
+      "city": "HERNANDO",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oXMMwaQ6d94mFz0FLEBcmw=="
+    },
+    {
+      "name": "Kelly Kuenzinger",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YEEb41ssJr0nD6cBNZhUtg=="
+    },
+    {
+      "name": "Kole KUSEK",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/19/2024",
+      "usta_id": "zydVCuZoiJ6fAW0O84jGqQ=="
+    },
+    {
+      "name": "Brad Lackey",
+      "gender": "Male",
+      "city": "Belden",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XJFHaV0IzHfd7K6xgFJILg=="
+    },
+    {
+      "name": "Amasa Lacy",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/qKQj/hZftm20Oj1nCCxVA=="
+    },
+    {
+      "name": "Damon Ladner",
+      "gender": "Male",
+      "city": "TUPELO",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sADQ0fNC/mjwpGvdcB2DFA=="
+    },
+    {
+      "name": "Kristen Lancaster",
+      "gender": "Female",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/11/2025",
+      "usta_id": "5CfFpBtKc085sAiSlcHWxQ=="
+    },
+    {
+      "name": "Kathryn Lance",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QacmQHTPyuQpVgEDO8MNmw=="
+    },
+    {
+      "name": "Jennifer Larkin",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eXuW/Q9tsZ5Yk00PAJOa1g=="
+    },
+    {
+      "name": "Mary Leary",
+      "gender": "Female",
+      "city": "Water Valley",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "K7nMbQP4IF+3v7F3X8OOmw=="
+    },
+    {
+      "name": "Caden LeBlanc",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "wT+QWIjD8TT5R76JlGE/iQ=="
+    },
+    {
+      "name": "ROBERT LEBLANC",
+      "gender": "Male",
+      "city": "HERNANDO",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "dsKk+W6yXT2geKvdmdIqzw=="
+    },
+    {
+      "name": "Carmen Lewis",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dz3DChO8qERqQnVe35fxFw=="
+    },
+    {
+      "name": "Hudson Lindsay",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/3/2025",
+      "usta_id": "oUTyzjXxJxSSJeCsiYdOZg=="
+    },
+    {
+      "name": "Rogers Crosse Lindsay",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/3/2025",
+      "usta_id": "SyWU6F+weHXRd3BD+z4bnw=="
+    },
+    {
+      "name": "Vicki Lindsay",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W7GaykDDyVegvIDFkN73Hg=="
+    },
+    {
+      "name": "Jody Lindsey",
+      "gender": "Male",
+      "city": "Tupelo",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m5RyHMyluwEPh35dp+6Edg=="
+    },
+    {
+      "name": "Stephen Lindsey",
+      "gender": "Male",
+      "city": "Water Valley",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sbyW/tnbsngIwWvn6AKqjQ=="
+    },
+    {
+      "name": "Ally Lloyd",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/30/2025",
+      "usta_id": "I4iInJvRcrcwkDvmo6OCkQ=="
+    },
+    {
+      "name": "Christine Loftin",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aPir+Aaky4BgeaJI04PtFQ=="
+    },
+    {
+      "name": "Gerry Logan",
+      "gender": "Male",
+      "city": "WATER VALLEY",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/30/2024",
+      "usta_id": "g9sbcS31GCZMc6WhJ8unZw=="
+    },
+    {
+      "name": "Griffin Lonardo",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xJeUy1tRpapqyQR/nUr/rw=="
+    },
+    {
+      "name": "Houstyn Loosier",
+      "gender": "Female",
+      "city": "Coldwater",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J9IhJ87G7YThf8mQ6pGFpA=="
+    },
+    {
+      "name": "Presleigh Loper",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/17/2025",
+      "usta_id": "Bp8FHp2NJ3GCOeXbe71h2A=="
+    },
+    {
+      "name": "Darlene Loprete",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Utq9XgF03cdTCc9t67LkA=="
+    },
+    {
+      "name": "Jennifer Lowrie",
+      "gender": "Female",
+      "city": "Senatobia",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0nMDgbiPeRKTTNYdBlynsA=="
+    },
+    {
+      "name": "Cynthia Loyd-Johnson",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/28/2024",
+      "usta_id": "kK1o5cg2dhiew1eP2GWWtA=="
+    },
+    {
+      "name": "Andrea Ludwig",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GJdcjVqgycJFVgbNlDPLnQ=="
+    },
+    {
+      "name": "Elizabeth Lyn",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sLiGbzeFNzYv1gDGfV3RTw=="
+    },
+    {
+      "name": "Lane Lyon",
+      "gender": "Female",
+      "city": "Greenwood",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vktr+O/ZvoJD7+Ozwb+JRA=="
+    },
+    {
+      "name": "Jennifer Magee",
+      "gender": "Female",
+      "city": "COLLIERVILLE",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/c+X8DAbCdJiAHbmzSADkA=="
+    },
+    {
+      "name": "Haley Mann",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "OEb94lTkB53i893lvHgR8g=="
+    },
+    {
+      "name": "Madelyn Marley",
+      "gender": "Female",
+      "city": "Clarksdale",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sDViJkRRH5eBOHGYdElSsg=="
+    },
+    {
+      "name": "Tammy Marshall",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G/jwLRx0QyPfHWAePpIajg=="
+    },
+    {
+      "name": "Chris Martin",
+      "gender": "Female",
+      "city": "Eads",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "s8tZRHxtxwNXx7cLQjuCNA=="
+    },
+    {
+      "name": "Penny Martin",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J7lcbbA83O62Wcn+b8Bhog=="
+    },
+    {
+      "name": "Ann Granville Maxey",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/12/2025",
+      "usta_id": "9hJgwrGXcXzgd7Za34l6XA=="
+    },
+    {
+      "name": "Yvette Mc Pherson",
+      "gender": "Female",
+      "city": "Leland",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U1xi4G0rB11wjcJmtlM40A=="
+    },
+    {
+      "name": "Michelle McAuley",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ikw/HzMjnZcUVb0f8QFGgQ=="
+    },
+    {
+      "name": "Alison Mcavoy",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YU9ZV0zEWadNVkeYvBy8wQ=="
+    },
+    {
+      "name": "Shannon McCalla",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9ZiiTqv/WPzTfphPmBpuVA=="
+    },
+    {
+      "name": "Michele McCay",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nkDMZX2067xZVtp3zNKkFg=="
+    },
+    {
+      "name": "Germain McConnell",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "hQ6lGy0N2guFW6uATK7+8g=="
+    },
+    {
+      "name": "Benjamin McCrory",
+      "gender": "Male",
+      "city": "Coldwater",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s6AVFxCbXGWl28GvKMjKMg=="
+    },
+    {
+      "name": "Kristi McCrory",
+      "gender": "Female",
+      "city": "Coldwater",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GlcgDbsVkboYR2u5s60prQ=="
+    },
+    {
+      "name": "Maggie McCullough",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7VrdHZxXPg3QQcqhpow4Eg=="
+    },
+    {
+      "name": "Heather Mcdonald",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZSdPPgisiPLtAkyVNrvbVg=="
+    },
+    {
+      "name": "Kimberly McDowell",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TtvPsMsEObOK/FJkoIUKHg=="
+    },
+    {
+      "name": "Maray McIntyre",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GG0Osh6vrRMcnbGduSEsmw=="
+    },
+    {
+      "name": "Loretta McKim",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uRVcT12NO57jLcAnmAWDHg=="
+    },
+    {
+      "name": "Michelle McKim",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nUqktTC6ZNBvJ8VYXwJeUQ=="
+    },
+    {
+      "name": "Sarah McKnight",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "nau5s2p1fK9BpXWZRhHgQg=="
+    },
+    {
+      "name": "Mary Ashley McNeely",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3+YhScTgTI7CddWQUxePqg=="
+    },
+    {
+      "name": "Kent McPherson",
+      "gender": "Male",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GWv9bVoyGvNBuOwMpJybwQ=="
+    },
+    {
+      "name": "Cindy Miller",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SvSvsEJXvHwzwQfbymGwpg=="
+    },
+    {
+      "name": "Marla Miller",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/9/2025",
+      "usta_id": "Ubp526HWCL7orS4/eLicvQ=="
+    },
+    {
+      "name": "Pam Miller",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iqGtDsJGVsJMpBm/sw7T1A=="
+    },
+    {
+      "name": "Amanda Mincey",
+      "gender": "Female",
+      "city": "Clarksdale",
+      "state": "MS",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bimV3c2dhtyNcSsJOHGtyw=="
+    },
+    {
+      "name": "Rebecca Mitchell",
+      "gender": "Female",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FqxEe4QcgE3b+A67jBAieg=="
+    },
+    {
+      "name": "Marti Montgomery",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MLri3GTABgryq0DLakL/4Q=="
+    },
+    {
+      "name": "Julie Moore",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jp+U/LyaCCpLQu6JGH29VQ=="
+    },
+    {
+      "name": "Mysti Moore",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/18/2025",
+      "usta_id": "Ya7zf43c5OeyWHrFY2eK6Q=="
+    },
+    {
+      "name": "Whitney Mowdy",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wHOdtmzEkVNzQ/UrXj7ZNw=="
+    },
+    {
+      "name": "Amy Mullens",
+      "gender": "Female",
+      "city": "Lyon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vYpyWcLEGw+eSXgGMzQqQQ=="
+    },
+    {
+      "name": "Christopher Murabito",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/25/2024",
+      "usta_id": "L7NJVrhY2RxHvhdxIhO61w=="
+    },
+    {
+      "name": "Daniel Murdoch",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vNH5pPCrBKF3SAOa8FKOiw=="
+    },
+    {
+      "name": "Carley Myrick",
+      "gender": "Female",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g6mKDQT4DGNrUj9K+FJ5ng=="
+    },
+    {
+      "name": "Mallie Nagle",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WPe0K95UbIfZqTnQnz1T0g=="
+    },
+    {
+      "name": "Maggie Neal",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/5/2025",
+      "usta_id": "N0vC5iArqwhWehe4173XOA=="
+    },
+    {
+      "name": "Tony Neal",
+      "gender": "Male",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "p0eRwlsSSYb11dzyrVjv3A=="
+    },
+    {
+      "name": "Glenn Neilson",
+      "gender": "Male",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/RmJ7ZJUCuhLfSak5YXSkQ=="
+    },
+    {
+      "name": "Brooke New",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/23/2025",
+      "usta_id": "Sn7nqfZ09cCHVgjNLaUJlQ=="
+    },
+    {
+      "name": "Carl Pete Nimrod",
+      "gender": "Male",
+      "city": "Greenville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/3/2025",
+      "usta_id": "vqbIJHnMXhSyCutrqc988Q=="
+    },
+    {
+      "name": "Jeff Norwood",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "DajeDS67z1kkC4egKU1HgA=="
+    },
+    {
+      "name": "Dinesh Nugegoda",
+      "gender": "Male",
+      "city": "Robinsonville",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/16/2023",
+      "usta_id": "4g6zRYgLuc9nFX2z8B6TYA=="
+    },
+    {
+      "name": "April Nunnally",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4X9FFb2oRwZO7XrT5t+fEg=="
+    },
+    {
+      "name": "Levi Nunnally",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/22/2025",
+      "usta_id": "OJpl2v1nKh/v7E9oyJI5Iw=="
+    },
+    {
+      "name": "Robert O'Bryan",
+      "gender": "Male",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qVTZ0bRv2uUCTxgynBXang=="
+    },
+    {
+      "name": "Christine Ohrberg",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z7FquXVUFsyMeUcADF/szQ=="
+    },
+    {
+      "name": "Paul Ohrberg",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KPXMJwc0N0TjEeCnAHPv+g=="
+    },
+    {
+      "name": "Freddy Ojeda",
+      "gender": "Male",
+      "city": "",
+      "state": "",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "10/20/2024",
+      "usta_id": "knlN4Civx/R3PDx4YqmBbw=="
+    },
+    {
+      "name": "Stephanie Oliver",
+      "gender": "Female",
+      "city": "Clarksdale",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g2VOlqm33sndDX5NMir8TA=="
+    },
+    {
+      "name": "Nicole Omeliantschuk",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jp+U/LyaCCq4MejMdrXr1Q=="
+    },
+    {
+      "name": "Bill Oswalt",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "JGRZUoBxc/Ou1Ei2mzTadg=="
+    },
+    {
+      "name": "Amanda Overton",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7O8dJM4hZm8Wq2gDDGC1Hw=="
+    },
+    {
+      "name": "Jennifer Pacileo",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f6p4QkHuis914IePH2Ossg=="
+    },
+    {
+      "name": "Kristen Palmer",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/16/2025",
+      "usta_id": "Zus/bI8cN1FqSd0R5dmSiQ=="
+    },
+    {
+      "name": "Marta Panickar",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sJnEW6NhIGH4NhWGKDhs5w=="
+    },
+    {
+      "name": "Praveen Panickar",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sJnEW6NhIGEIJG5K0GskUg=="
+    },
+    {
+      "name": "Ashleigh Parker",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P2zzQVy7RJh+N2cV8rBkhw=="
+    },
+    {
+      "name": "Charlotte Parks",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i1l6oqc+x9+vXRMBxsHEJA=="
+    },
+    {
+      "name": "Lee Parks",
+      "gender": "Male",
+      "city": "Coldwater",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NWlg4J3i1n2jkJA6hwzUcg=="
+    },
+    {
+      "name": "Susan Patrone",
+      "gender": "Female",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v4ZvF6XoUDBtE+Ys+PHDPg=="
+    },
+    {
+      "name": "Danielle Paxton",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/11/2025",
+      "usta_id": "ONMsU6s8k/Q5ToplXVkVNw=="
+    },
+    {
+      "name": "Angela Payne",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VB7wUBuKQtbw4map9OP8Qg=="
+    },
+    {
+      "name": "Thomas Peacock",
+      "gender": "Male",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1u0dD/waewXdE+Q47u/Jvg=="
+    },
+    {
+      "name": "Robert Peebles",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eRCzC99AfrEb3/eA3yj95g=="
+    },
+    {
+      "name": "Patrick Perry",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jykY+sS0BvV1vD/pJhXJqw=="
+    },
+    {
+      "name": "JoAnna Person",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "strzMYwXcrKrELDici29+Q=="
+    },
+    {
+      "name": "Samantha Phillips",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "62gBMG3dGp1M0EWZLrpolg=="
+    },
+    {
+      "name": "Michael Pinson",
+      "gender": "Male",
+      "city": "Belzoni",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RzuIxwj1NLCZMcS9rnT8aA=="
+    },
+    {
+      "name": "Morgan Pippen",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yg70Id7w/vo0gfRIex7jDw=="
+    },
+    {
+      "name": "Dee Pitawanakwat",
+      "gender": "Female",
+      "city": "Lakeland",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PT3mJmdMqbIpACiJtR4Jsw=="
+    },
+    {
+      "name": "Camille Pittman",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VECFYzZJMcI5/7DrpRk9hQ=="
+    },
+    {
+      "name": "Kati Pittman",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cquJKKoOPuah22Xx5dPDFQ=="
+    },
+    {
+      "name": "Dylan Plumlee",
+      "gender": "Male",
+      "city": "COLDWATER",
+      "state": "MS",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "5/20/2025",
+      "usta_id": "nHRn82zTGbCEvaQJCLAPpw=="
+    },
+    {
+      "name": "Julie Plumlee",
+      "gender": "Female",
+      "city": "COLDWATER",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0CFMbHBtWM28jZdR9L6uzw=="
+    },
+    {
+      "name": "Tracy Pope",
+      "gender": "Female",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lXOq/EQOE3iOvldoppx8nA=="
+    },
+    {
+      "name": "Anna Porter",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/28/2025",
+      "usta_id": "9Xm1aXRu66/Z+zUbYfkQhA=="
+    },
+    {
+      "name": "Ruth Potter",
+      "gender": "Female",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Dl/+4nx9c9ncftdknPp3Ag=="
+    },
+    {
+      "name": "Kathlene Poulelis",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RcqMO03EUbrq1+b0bj8VjQ=="
+    },
+    {
+      "name": "Peter Poulelis",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JLsEtVejGHjW+IHK9eBk+g=="
+    },
+    {
+      "name": "Brent Powell",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/2/2024",
+      "usta_id": "+LBajAI2JOzFNmljP0d6vw=="
+    },
+    {
+      "name": "Felicia Powell",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "4/23/2025",
+      "usta_id": "V8AbEeN5WyzjZGlZ5taWWg=="
+    },
+    {
+      "name": "Laura Powell",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "RcqMO03EUbrzShUeLSgMGw=="
+    },
+    {
+      "name": "Logan Power",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/19/2024",
+      "usta_id": "rUxz9e0GicAkvTKknqC74g=="
+    },
+    {
+      "name": "Whitney Price",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "7/17/2025",
+      "usta_id": "Ii0ysxj8HKgbLin6piUCzg=="
+    },
+    {
+      "name": "Christy Prine",
+      "gender": "Female",
+      "city": "Cleveland",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+gFJXD18bmVS/MF0bWEhAg=="
+    },
+    {
+      "name": "Jill Pulliam",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NpbvLzG2Nvbjy48BFiIyLQ=="
+    },
+    {
+      "name": "Brian Quinn",
+      "gender": "Male",
+      "city": "Tupelo",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pxR3db8g4YTO/vVvOSiGFg=="
+    },
+    {
+      "name": "Rachel Rainey",
+      "gender": "Female",
+      "city": "New Albany",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H//GkeUhvSsz5NHChU+YPg=="
+    },
+    {
+      "name": "Narendra Ravinootala",
+      "gender": "Male",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mo3eziBuzwrHk3ehs9nAiQ=="
+    },
+    {
+      "name": "David Reed",
+      "gender": "Male",
+      "city": "Belden",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T14/n1ao2fL0VDAiXqPFqQ=="
+    },
+    {
+      "name": "Kristi Rice",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H/b4zl1AdadZuP3TxvhRPw=="
+    },
+    {
+      "name": "Autumn Rich",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r1K2LihLrmGXLJYPDm968w=="
+    },
+    {
+      "name": "Corey Richter",
+      "gender": "Male",
+      "city": "COLLIERVILLE",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vBl9BJl1nH6y2oFF/xRWww=="
+    },
+    {
+      "name": "Rollin Riggs",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OyTXCDIKt0Lk7ZxvnIa4+g=="
+    },
+    {
+      "name": "Mary Claire Rippee",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/29/2025",
+      "usta_id": "t9SygRfF/c2Utdkv7CcNqA=="
+    },
+    {
+      "name": "Ashley Roberson",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8HaGlaFhEKdvIcpjzxCIYA=="
+    },
+    {
+      "name": "Tammy Robertson",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aj6pd4GpXJeoWVY0oET3hg=="
+    },
+    {
+      "name": "Frank Robilio",
+      "gender": "Male",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Lfv2PNcTAb/WC/lJ12iHA=="
+    },
+    {
+      "name": "Patti Robilio",
+      "gender": "Female",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/8/2024",
+      "usta_id": "u7fpJ9CUC9JkDnVvwE1xPQ=="
+    },
+    {
+      "name": "Maricela Robles-Murguia",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "weXdghxOza3A7YuO3LShKw=="
+    },
+    {
+      "name": "Bailey Rodgers",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WbD+nRb+QRbPKczDHhEgwQ=="
+    },
+    {
+      "name": "Diana Roedel",
+      "gender": "Female",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LqS2BGTxXoD4+kvxgZXZYw=="
+    },
+    {
+      "name": "Christopher Rogers",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rbqusM5Hdfgnc1uUkuBijQ=="
+    },
+    {
+      "name": "Tracy Rogers",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QCaRwZ8NDNof08cJjHF3qg=="
+    },
+    {
+      "name": "Malcolm Roland",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OIcR1uongbZYgkzihfdaUQ=="
+    },
+    {
+      "name": "Cristi Ross",
+      "gender": "Female",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DFI9etuxpZ+eNwN1tfgeKQ=="
+    },
+    {
+      "name": "Melanie Rucker",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xoTi5yiZ+elwdtPfnilk/Q=="
+    },
+    {
+      "name": "Michael Rude",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FZ59YGVZVXIyhxJH4gCOFw=="
+    },
+    {
+      "name": "Gary Russell",
+      "gender": "Male",
+      "city": "TUPELO",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5zib0Jce6IL2ubkSRgPgEA=="
+    },
+    {
+      "name": "Natalie Ryan",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "12/4/2024",
+      "usta_id": "l10LJCy7hhUnQ6uGWs3FSQ=="
+    },
+    {
+      "name": "Cathy Sabbatini",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "UvPlk4bUyh0ngH+aLTaNUA=="
+    },
+    {
+      "name": "Ansh Sampat",
+      "gender": "Male",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "UkRlwT2h290sZQVOIHnw/w=="
+    },
+    {
+      "name": "Darshan Sampat",
+      "gender": "Male",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UBQq0K8KHoP1ixU+pcB25Q=="
+    },
+    {
+      "name": "Lou Ann Sanders",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PzRVIuinRxe6cw3/GTfpBg=="
+    },
+    {
+      "name": "Matt Sanders",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uA2MnoUPpxVryPfh7ZqUHw=="
+    },
+    {
+      "name": "Lindsey Sandifer",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "x9ZQE+GsVTCTMCOWtK31+g=="
+    },
+    {
+      "name": "Karen Sandridge",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aCroL/bkG1NnG80Lt8pNqQ=="
+    },
+    {
+      "name": "Heather Sappenfield",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "7/23/2025",
+      "usta_id": "S6DWpcP9EZ8uBV5XS2xlMA=="
+    },
+    {
+      "name": "Terry Shinall",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/24/2025",
+      "usta_id": "mBzO90m3SWEBNUqQd9ky7A=="
+    },
+    {
+      "name": "Steve Shipman",
+      "gender": "Male",
+      "city": "Abbeville",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/2/2025",
+      "usta_id": "UIXtkf7R7Co2EktKzDA4DA=="
+    },
+    {
+      "name": "Katherine Shook",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "9/18/2023",
+      "usta_id": "ns2tn/9d9yYKc5tkUZV9VA=="
+    },
+    {
+      "name": "Cashe Shows",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/18/2025",
+      "usta_id": "d/ENo9f7CYL0IhaJUvSx7A=="
+    },
+    {
+      "name": "Emily Shows",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/22/2025",
+      "usta_id": "PzAibz90T2/EWqFrhZitMA=="
+    },
+    {
+      "name": "Shelly Shows",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6DSRGj0QUFkpJSMQS1gt9A=="
+    },
+    {
+      "name": "Kristi Sides",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u/lCkKggrhlm7uFdRIji/A=="
+    },
+    {
+      "name": "Troy Sides",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5vtXC87IJHJuTa8vxL0b3A=="
+    },
+    {
+      "name": "Hazel Simmons",
+      "gender": "Female",
+      "city": "Horn Lake",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/23/2025",
+      "usta_id": "ULd4iuKgJgwOfOEO+2zAYA=="
+    },
+    {
+      "name": "Patrick Simmons",
+      "gender": "Male",
+      "city": "Horn Lake",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "raO0hGebar+iNuiuF8Zaew=="
+    },
+    {
+      "name": "Jorianne Siskin",
+      "gender": "Female",
+      "city": "Arlington",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s8tZRHxtxwM+uKi+5S4i8A=="
+    },
+    {
+      "name": "Kurt Smalley",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "oiXS/RNQkB8q/x3aamDQmg=="
+    },
+    {
+      "name": "Tammy Smalley",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oiXS/RNQkB/yI0c0XGDiCA=="
+    },
+    {
+      "name": "Holly Smart",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xzBpetref1LO686pb3mWmg=="
+    },
+    {
+      "name": "Campbell Smith",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QfMw6f4Hh3FBlFqF6FA8jQ=="
+    },
+    {
+      "name": "Christa Smith",
+      "gender": "Female",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/27/2025",
+      "usta_id": "FkunYOXGLxYMeqHcyhWXzg=="
+    },
+    {
+      "name": "Jason Smith",
+      "gender": "Male",
+      "city": "Tupelo",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VEqtA3+FTDyPiRbBgAdGrg=="
+    },
+    {
+      "name": "Matthew Sparks",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/12/2025",
+      "usta_id": "E/btt5G0uMyRqRD4AoY6pw=="
+    },
+    {
+      "name": "Melanie Sparks",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aqMPOrWCbv/4fuQAcXMhMA=="
+    },
+    {
+      "name": "Suzanne Speltz",
+      "gender": "Female",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PXHWVBpSCsQETO7jO7KPQw=="
+    },
+    {
+      "name": "Savannah Spence",
+      "gender": "Female",
+      "city": "CABOT",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/8/2025",
+      "usta_id": "Se/ZcCrampxnMQD/boynAw=="
+    },
+    {
+      "name": "Bentli Spicer",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/14/2025",
+      "usta_id": "7W9zMpSYr52LKCwpTggjgQ=="
+    },
+    {
+      "name": "Jared Spicer",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PsQVUNHCSI2yPLjifecuyQ=="
+    },
+    {
+      "name": "Jennie Spicer",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/23/2025",
+      "usta_id": "PKj4fVCJAXxPKPR/pYlcig=="
+    },
+    {
+      "name": "LaMonda Stanford",
+      "gender": "Female",
+      "city": "Grenada",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VU94Oy62BYSeiOD8A0UPww=="
+    },
+    {
+      "name": "Katherine Steele",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8GdiAdjyEUqEH2jMG+7B+A=="
+    },
+    {
+      "name": "Jon Stembridge",
+      "gender": "Male",
+      "city": "Saltillo",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5mOAABu2rXBnKSy5zWKh4A=="
+    },
+    {
+      "name": "Cami Stone-Hill",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "MS",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BUu2zG/wj+eZtmsFKRR/tA=="
+    },
+    {
+      "name": "Paul Strickland",
+      "gender": "Male",
+      "city": "NESBIT",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TjYuY/bEKFESy3OWDxmzIQ=="
+    },
+    {
+      "name": "Lee Ann Stubbs",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/26/2024",
+      "usta_id": "2A1BSICrWZItAC6csS//OQ=="
+    },
+    {
+      "name": "Josh Sullivan",
+      "gender": "Male",
+      "city": "Tupelo",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eQSrj3EJh3aEy0yEMDgzcQ=="
+    },
+    {
+      "name": "Jeff Summers",
+      "gender": "Male",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YKqxKST5mtxDBvsRnn6B3w=="
+    },
+    {
+      "name": "Kimberly Tarsi",
+      "gender": "Female",
+      "city": "Nesbit",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5q5kllPVm4ot8LE9MewafA=="
+    },
+    {
+      "name": "Adam Taylor",
+      "gender": "Male",
+      "city": "Belden",
+      "state": "MS",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "OLIGw4tWMkk/h1PealY/JA=="
+    },
+    {
+      "name": "Jeremy Taylor",
+      "gender": "Male",
+      "city": "Tupelo",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/8/2025",
+      "usta_id": "J6ZDc6lVNid17+xKhIbuSw=="
+    },
+    {
+      "name": "Roni Terry",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nd06PSQglFnOeyKdk6Vzlw=="
+    },
+    {
+      "name": "Anne Thielemier",
+      "gender": "Female",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eNWyT0h7SPAsQAI6oeOU4g=="
+    },
+    {
+      "name": "Caitlin Thomas",
+      "gender": "Female",
+      "city": "Water Valley",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rPv4LSvA7PTJ8EU5r/P6BQ=="
+    },
+    {
+      "name": "Presley Thomas",
+      "gender": "Female",
+      "city": "Water Valley",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/16/2024",
+      "usta_id": "xpvaAX5q2pb+osckmhybxQ=="
+    },
+    {
+      "name": "Robin Thomas",
+      "gender": "Female",
+      "city": "Arlington",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ht74Fen6RSM/51+ymKWt9A=="
+    },
+    {
+      "name": "Jamie Thurman",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "knY2RE+RiKsCQsXbxdW7kA=="
+    },
+    {
+      "name": "Kristi Thurman",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "knY2RE+RiKtIhjPBhc6S0w=="
+    },
+    {
+      "name": "Kent Toler",
+      "gender": "Male",
+      "city": "Inverness",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wOeOGg9n8lJc65aIaTYL3Q=="
+    },
+    {
+      "name": "Brandi Tomlinson",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "RcqMO03EUbr8WNZU5NJ+5A=="
+    },
+    {
+      "name": "Reed Toms",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/4/2024",
+      "usta_id": "fZ+gksM8T2F0RmpF2GOKdw=="
+    },
+    {
+      "name": "Shelby Toole",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mk30qZY3lD0SNsuEknT2iw=="
+    },
+    {
+      "name": "Marin Touchstone",
+      "gender": "Female",
+      "city": "OLIVE BRANCH",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YJr/73YDoTgzuuPGsYwVaA=="
+    },
+    {
+      "name": "Amanda Tyrone",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tOpf2YjpiOLZZyHw4xqbJg=="
+    },
+    {
+      "name": "Cyndi Underwood",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/BmSST+nufzWuTKV2/GBgQ=="
+    },
+    {
+      "name": "Alison van Brocklin",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NAqfW+pZ//RJYbX02K8Z0g=="
+    },
+    {
+      "name": "Semmes van Brocklin",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Taua7dxFnfGz3MzD0g+/Cg=="
+    },
+    {
+      "name": "La Shara Varnell-Smith",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g6sOzPSL5tM8bLmnm9aQEA=="
+    },
+    {
+      "name": "Jerry Vaughn",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dh9gJ0Vy8sSRiHIh9Ky2SA=="
+    },
+    {
+      "name": "Aimee Verheeck",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "9jqfWHkHL2voUWDQSyy/4g=="
+    },
+    {
+      "name": "WENDY Vines",
+      "gender": "Female",
+      "city": "Walls",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RbbKceTDqBrzKwa2DKNwdA=="
+    },
+    {
+      "name": "Niven Walker",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ccv2H1KThL+MJSjbiiIFRg=="
+    },
+    {
+      "name": "Peyton Walker",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/25/2023",
+      "usta_id": "NCPPmOrANLK6Db47OfD2Hg=="
+    },
+    {
+      "name": "Debbie Walker-Hulette",
+      "gender": "Female",
+      "city": "Eads",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7prO1HzlX2jq19wmhibhaQ=="
+    },
+    {
+      "name": "Brian Walkington",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/8/2025",
+      "usta_id": "JXvtsd6vKaAXwkCxpbxsNA=="
+    },
+    {
+      "name": "Limual Walpole",
+      "gender": "Male",
+      "city": "Germantown",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "NGtDkCnS93kSr/t2PjHdaw=="
+    },
+    {
+      "name": "Christopher Ward",
+      "gender": "Male",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NsR28KfuT7zDV3Y8uBWdzQ=="
+    },
+    {
+      "name": "Jill Ward",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2mVjamC9q79NKWivBxrg8Q=="
+    },
+    {
+      "name": "Vanessa Washington",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W1ZFfvdo5o+LVHC8PeKK/g=="
+    },
+    {
+      "name": "Amy Webb",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LMKttuLgjTNsxS0u0+UHvw=="
+    },
+    {
+      "name": "Jenny Webster",
+      "gender": "Female",
+      "city": "Collierville",
+      "state": "TN",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "lRaMDYOmB9cVC5JTNXLqVA=="
+    },
+    {
+      "name": "Hillary Welton",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lpYbOljzE2GDso4INpDBKA=="
+    },
+    {
+      "name": "Sandy Wheeler",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Sx2M9jGxlSxLwwWFMxajCA=="
+    },
+    {
+      "name": "Josh Whelan",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/18/2024",
+      "usta_id": "WVEKf1VJeiOUaYucKY7xrw=="
+    },
+    {
+      "name": "Mary Kate Whelan",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qo/YefYuiu1lREhP2i6c8g=="
+    },
+    {
+      "name": "Stephanie White",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/GVk0NMMuxmp5ew0nsGzPQ=="
+    },
+    {
+      "name": "Michelle Whitten",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mdJ5GQMRty9C0AfoG0naKw=="
+    },
+    {
+      "name": "Ashley Wilkinson",
+      "gender": "Female",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "32+rqFff4SBuzYX+YoMVzg=="
+    },
+    {
+      "name": "Emily Williams",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/28/2024",
+      "usta_id": "HssxrdXAh6BzNYqUuofiWA=="
+    },
+    {
+      "name": "Kim Williams",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3gGpIluAbp3gLICz+QT8FA=="
+    },
+    {
+      "name": "Kimberly Williams",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "/O0LpESXsBKoXm3UA+mfeg=="
+    },
+    {
+      "name": "Mike Williams",
+      "gender": "Male",
+      "city": "Menlo Park",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nrh0a35ZC9jWYEG+lcRpMQ=="
+    },
+    {
+      "name": "Celeste Wilson",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WorUrnp8ivzWUqhIppF9/Q=="
+    },
+    {
+      "name": "Lisa Wingo",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vr1zkpjqc91H7TUuaEZvCg=="
+    },
+    {
+      "name": "William Winstead",
+      "gender": "Male",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r7X/wa7EpW6qN0OEbZ1WFg=="
+    },
+    {
+      "name": "Jonathan Wiseman",
+      "gender": "Male",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/26/2025",
+      "usta_id": "+PNZMl5PJwn9r3Qv64XCKw=="
+    },
+    {
+      "name": "Lauren Wiuff",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T+M/4RqMFX0ft7hdkawZ3g=="
+    },
+    {
+      "name": "George Wolf",
+      "gender": "Male",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ciUeAbvsAEuk/pZgDf5PsQ=="
+    },
+    {
+      "name": "Celia Wood",
+      "gender": "Female",
+      "city": "OXFORD",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GCuYAi/Ta85qUdnXlJdymA=="
+    },
+    {
+      "name": "Deanna Wood",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/16/2025",
+      "usta_id": "k7txRuCqWJzGbneLQworCQ=="
+    },
+    {
+      "name": "Aimee Worsham",
+      "gender": "Female",
+      "city": "Batesville",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IdkBlrASdrq+Rsul+KDC6w=="
+    },
+    {
+      "name": "Jennifer Wright",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HPpOrEq29faxSX8nnYRu/Q=="
+    },
+    {
+      "name": "Ana Yambrek",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cENpQNcLW4yvx6RAm7XxnA=="
+    },
+    {
+      "name": "Sara Yarrow",
+      "gender": "Female",
+      "city": "Memphis",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RoFiVpj3Rnd3YeiWYGYeMw=="
+    },
+    {
+      "name": "Justin Yelverton",
+      "gender": "Male",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GUELkOmXDjn3D+39ZwKujA=="
+    },
+    {
+      "name": "Amy Young",
+      "gender": "Female",
+      "city": "Tunica",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2tGPemgju8zd+jAIYTpAzw=="
+    },
+    {
+      "name": "Gwyn Young",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8S3JO26eRCWKMbuhrzQySA=="
+    },
+    {
+      "name": "Kelly Young",
+      "gender": "Female",
+      "city": "Tupelo",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lLPzDIcxnzkeaZKvCeml9Q=="
+    },
+    {
+      "name": "Paula Young",
+      "gender": "Female",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/8/2024",
+      "usta_id": "ANsT2JxpD1d2NOiw68mo3g=="
+    },
+    {
+      "name": "Shea Young",
+      "gender": "Female",
+      "city": "Hernando",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jp+U/LyaCCpEN0FKRqcldw=="
+    },
+    {
+      "name": "Tim Youngblood",
+      "gender": "Male",
+      "city": "Oxford",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/21/2025",
+      "usta_id": "iXy/CmqaROhNWsnYwFKzDQ=="
+    },
+    {
+      "name": "Kim Yount",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "10/13/2024",
+      "usta_id": "jOrzYfF4YDPmiTf4EeDmJA=="
+    },
+    {
+      "name": "Yongqin Zhang",
+      "gender": "Female",
+      "city": "Southaven",
+      "state": "MS",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7snrtb5FDLaWiIvWoBTxhQ=="
+    }
+  ]
+}

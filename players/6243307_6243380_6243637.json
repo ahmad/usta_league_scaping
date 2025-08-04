@@ -1,0 +1,757 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243380",
+  "areaId": "6243637",
+  "players": [
+    {
+      "name": "Margaret-Sarah Alexander",
+      "gender": "Female",
+      "city": "Blue Ridge",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8b6miYRFWrmNSPxOGSudog=="
+    },
+    {
+      "name": "Cathy Amos",
+      "gender": "Female",
+      "city": "Hiawassee",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PbM1JfqQNVY5UPWZWOQDuw=="
+    },
+    {
+      "name": "Jana Andringa",
+      "gender": "Female",
+      "city": "Big Canoe",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5ELFVV754apZE+pMFeR82Q=="
+    },
+    {
+      "name": "Karen Baker",
+      "gender": "Female",
+      "city": "Blairsville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "35ix3P7A69cn5CQUtKL6tA=="
+    },
+    {
+      "name": "Norma-Jean Baxter",
+      "gender": "Female",
+      "city": "Blairsville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/29/2024",
+      "usta_id": "7WGrFQt+gbGL7alT7YzC/g=="
+    },
+    {
+      "name": "Shawn Beyer",
+      "gender": "Female",
+      "city": "BIG CANOE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/24/2025",
+      "usta_id": "CnXIWZtfsHpXrBoopkzxRQ=="
+    },
+    {
+      "name": "Lynn Blanchard",
+      "gender": "Female",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "GYqWVu8E4h1+03xJ7xBQTQ=="
+    },
+    {
+      "name": "Allyson Brantley",
+      "gender": "Female",
+      "city": "Mineral Bluff",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "z+7b2Fz8/GoWQX+Eth1V5Q=="
+    },
+    {
+      "name": "Dee Campbell",
+      "gender": "Female",
+      "city": "Alpharetta",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/1ONgvpFvKU9JoiWijV2Sw=="
+    },
+    {
+      "name": "Holly Cannon",
+      "gender": "Female",
+      "city": "Young Harris",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YKM+ULb51RypEzm16tChfw=="
+    },
+    {
+      "name": "Nancy Cantrell",
+      "gender": "Female",
+      "city": "Cherry Log",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "zAKCCQULzqhF50DVqAMblQ=="
+    },
+    {
+      "name": "Jessica Carson",
+      "gender": "Female",
+      "city": "BIG CANOE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/1/2025",
+      "usta_id": "3rE9PrFat3xubdUMgIYBkw=="
+    },
+    {
+      "name": "Ann Coston",
+      "gender": "Female",
+      "city": "Tampa",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QyO7Zt1aZrCCvvw7pQEEWQ=="
+    },
+    {
+      "name": "Jeanne Crawford",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/8/2025",
+      "usta_id": "t0KTvhZgCD0Zy7FcEB51YA=="
+    },
+    {
+      "name": "Jo-Ann Crawford",
+      "gender": "Female",
+      "city": "Big Canoe",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "414Jbq6Xx12JKU59TGzY/A=="
+    },
+    {
+      "name": "Stacy Crawford",
+      "gender": "Female",
+      "city": "ELLIJAY",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/8/2024",
+      "usta_id": "Wh+nm+tzOAPrLyKz5mqVXQ=="
+    },
+    {
+      "name": "Rachelle Cronje",
+      "gender": "Female",
+      "city": "Blairsville",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "yi52DsBHEkpssjjteA+CJA=="
+    },
+    {
+      "name": "Kay Cruickshank",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/10/2025",
+      "usta_id": "Vby6dHwxSNsrYicVY2Tc2Q=="
+    },
+    {
+      "name": "Maria D'Alessandro",
+      "gender": "Female",
+      "city": "BLUE RIDGE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/13/2024",
+      "usta_id": "5XocGJ2XeCLYXcuTUkV3BQ=="
+    },
+    {
+      "name": "Gail Deluca",
+      "gender": "Female",
+      "city": "Blairsville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TMfqiul0MkwBw+zZqR6XyA=="
+    },
+    {
+      "name": "Jackie Duncan",
+      "gender": "Female",
+      "city": "Big Canoe",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "BglMJfE8tV4P0OEIRFqf+Q=="
+    },
+    {
+      "name": "Kim Duval",
+      "gender": "Female",
+      "city": "Blairsville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M2Z0brh/q6/gEe38fT8KVg=="
+    },
+    {
+      "name": "Wendy Edwards",
+      "gender": "Female",
+      "city": "YOUNG HARRIS",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/4/2025",
+      "usta_id": "EAsd6hu/FOxJdViwpBfltw=="
+    },
+    {
+      "name": "Denise Eilers",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/14/2024",
+      "usta_id": "lSUYS3Hqs3dH5WAEHCFr8Q=="
+    },
+    {
+      "name": "Courtenay Emacio",
+      "gender": "Female",
+      "city": "Milton",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/28/2025",
+      "usta_id": "IieLZuvhq1qx7EGMMSgjvA=="
+    },
+    {
+      "name": "Gail Fargason",
+      "gender": "Female",
+      "city": "Marble Hill",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "z8P9cW+oGyG85Y/JG+UiOw=="
+    },
+    {
+      "name": "Martha Forlines",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "64mBoFCypa6HtVA5MWRUaA=="
+    },
+    {
+      "name": "Linda Gebert",
+      "gender": "Female",
+      "city": "BUCHANAN",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "9ac9zmt4PvstfbJx2OG8og=="
+    },
+    {
+      "name": "Cynthia Gray",
+      "gender": "Female",
+      "city": "Woodstock",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "2L2Z8xx9/p5zxRTLxh2MYw=="
+    },
+    {
+      "name": "Rebecca Harrell",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/21/2025",
+      "usta_id": "s6zbFOqBxbVC2NJfGWd27g=="
+    },
+    {
+      "name": "Julie Harris",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/7/2023",
+      "usta_id": "5KgFyoExTh0vYKGLHt3uPA=="
+    },
+    {
+      "name": "Connie Hinton",
+      "gender": "Female",
+      "city": "Blairsville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "BrUbFyONE4GGcsaM8yFnlQ=="
+    },
+    {
+      "name": "Jacqueline Hughes",
+      "gender": "Female",
+      "city": "Blairsville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UuFkTnFVGVz9hHzc6uYZ6Q=="
+    },
+    {
+      "name": "Sheila Jett",
+      "gender": "Female",
+      "city": "HAYESVILLE",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ICmCVD4ZLg+FFqO8ebI8Pg=="
+    },
+    {
+      "name": "Deborah Kelley",
+      "gender": "Female",
+      "city": "MORGANTON",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2024",
+      "usta_id": "TgHYnueHcaTs3xYkq3DEog=="
+    },
+    {
+      "name": "Jane Kelly",
+      "gender": "Female",
+      "city": "DECATUR",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "q2eiT9sb5f0VKYZ9MT43VQ=="
+    },
+    {
+      "name": "Lucy Kerman",
+      "gender": "Female",
+      "city": "HIAWASSEE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/23/2024",
+      "usta_id": "/zinFurEwnEghkhLYltJNQ=="
+    },
+    {
+      "name": "Yan Key",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j9MRdG1DGwiseZB/PzqPvQ=="
+    },
+    {
+      "name": "Alana Kolifrath",
+      "gender": "Female",
+      "city": "Morganton",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/30/2024",
+      "usta_id": "Traw3aFHyeKcYJkORqO65A=="
+    },
+    {
+      "name": "Patty Lee",
+      "gender": "Female",
+      "city": "Coolidge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tuflsKK6srBN7HPAklwWIw=="
+    },
+    {
+      "name": "Sue Lowe-watters",
+      "gender": "Female",
+      "city": "Jasper",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "wtzcZepQ3qcQSTbkvBBiBg=="
+    },
+    {
+      "name": "Heather Luzier",
+      "gender": "Female",
+      "city": "BIG CANOE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/28/2025",
+      "usta_id": "d/rlgq0oPKrMCME5lmeP2A=="
+    },
+    {
+      "name": "Diana Mahaney",
+      "gender": "Female",
+      "city": "Big Canoe",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "BEBptKrVaPBVcOl0Sw4blg=="
+    },
+    {
+      "name": "Karen Matthews",
+      "gender": "Female",
+      "city": "Young Harris",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9ph6RbruAaFVHCGKUxvGtg=="
+    },
+    {
+      "name": "Lauren McCormick",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "Ac7LK4pXfrmndriMH8G/JA=="
+    },
+    {
+      "name": "Jacqueline Medeiros",
+      "gender": "Female",
+      "city": "Mineral Bluff",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/25/2025",
+      "usta_id": "tu9xQZa46qQmAVMvxaJnrg=="
+    },
+    {
+      "name": "Paola Mitchell",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/20/2024",
+      "usta_id": "bCKiv6QqNI/QDaMGBpCffQ=="
+    },
+    {
+      "name": "Dori Mitchen",
+      "gender": "Female",
+      "city": "Murphy",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WZjKAgmwj+QE7ZJOoPYkKg=="
+    },
+    {
+      "name": "Shawn Morrill",
+      "gender": "Female",
+      "city": "ELLIJAY",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "281wbntfJV7ejtemj/xfFw=="
+    },
+    {
+      "name": "Judy Munson",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/12/2024",
+      "usta_id": "L6XN0KjLsznFjAMndIfGZQ=="
+    },
+    {
+      "name": "Sue Noreuil",
+      "gender": "Female",
+      "city": "Talking Rock",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NchXZdB3GcZJ0DRPwzgDWA=="
+    },
+    {
+      "name": "Claudette Parker",
+      "gender": "Female",
+      "city": "BIG CANOE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/20/2025",
+      "usta_id": "0LMHT8hWAltBRywsoZastQ=="
+    },
+    {
+      "name": "Tamara Pearson",
+      "gender": "Female",
+      "city": "Brasstown",
+      "state": "NC",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LPVWH8pvxoTjmujKtEm7Kw=="
+    },
+    {
+      "name": "Carol Peterson",
+      "gender": "Female",
+      "city": "Blairsville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+uivUlZv+6kY6vZAggyYwQ=="
+    },
+    {
+      "name": "Sharon Petrey",
+      "gender": "Female",
+      "city": "Big Canoe",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "G5qt2VQDbYaPchFOlwEhdA=="
+    },
+    {
+      "name": "Mary Beth Poncin",
+      "gender": "Female",
+      "city": "Hayesville",
+      "state": "NC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5LW2qHtxCqdSKIb8Iov+8g=="
+    },
+    {
+      "name": "Melanie Powell",
+      "gender": "Female",
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "ds7MV+WmWVEqZiErjLuuDQ=="
+    },
+    {
+      "name": "Elisha Reasor",
+      "gender": "Female",
+      "city": "ELLIJAY",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TZRSKEOBxQmcGe1UU8rxcA=="
+    },
+    {
+      "name": "Donita Riggs",
+      "gender": "Female",
+      "city": "Young Harris",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/28/2024",
+      "usta_id": "UQ3/2t9ovWJf6eB07cevpA=="
+    },
+    {
+      "name": "Lisa Rodgers",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/29/2025",
+      "usta_id": "oOLk3cWPgTmoiGBij+FBYQ=="
+    },
+    {
+      "name": "Susan Ross",
+      "gender": "Female",
+      "city": "Blairsville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AK1thtarFqY5xqXw7y2H3Q=="
+    },
+    {
+      "name": "Wendy Sapp",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "f8W7vcncJA/SKENubWFKaQ=="
+    },
+    {
+      "name": "Darra Schmidt",
+      "gender": "Female",
+      "city": "ATLANTA",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eP7BPUKQtslzXj6uWQaalw=="
+    },
+    {
+      "name": "Lori Shiffman",
+      "gender": "Female",
+      "city": "Big Canoe",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/23/2025",
+      "usta_id": "M9Pc2R+3uhEOoIXU3nVhnA=="
+    },
+    {
+      "name": "Melanie Stevens",
+      "gender": "Female",
+      "city": "BLAIRSVILLE",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "BVn+JFnnxs4ZkkCDMvCKZw=="
+    },
+    {
+      "name": "Donna Symons",
+      "gender": "Female",
+      "city": "Jasper",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/17/2025",
+      "usta_id": "CeAsrwvenMYRP0BUKhJwQQ=="
+    },
+    {
+      "name": "Christie Tucker",
+      "gender": "Female",
+      "city": "Ellijay",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+8Rc4ams1hTonKJz7HfElQ=="
+    },
+    {
+      "name": "Patty Tynes",
+      "gender": "Female",
+      "city": "Mineral Bluff",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3p0gkBnBGETQIPgrm6aKcA=="
+    },
+    {
+      "name": "Sarah Venable",
+      "gender": "Female",
+      "city": "Big Canoe",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "FbkrE3z4zL75Qk//XKRONQ=="
+    },
+    {
+      "name": "Therese Welch",
+      "gender": "Female",
+      "city": "BIG CANOE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2025",
+      "usta_id": "rWmxq2DG7/uBZGCimENYmA=="
+    },
+    {
+      "name": "Nancy Wentz",
+      "gender": "Female",
+      "city": "Knoxville",
+      "state": "TN",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IllLkizC0AYbB+34EH5q9w=="
+    },
+    {
+      "name": "Anita Wicklund",
+      "gender": "Female",
+      "city": "BLAIRSVILLE",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "/VuuKLvKpssIvKYN/MyL2A=="
+    },
+    {
+      "name": "Nicole Williams",
+      "gender": "Female",
+      "city": "MARBLE HILL",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "F+Do7DFQuAeH5R8D/dqBtQ=="
+    },
+    {
+      "name": "Deena Wilson",
+      "gender": "Female",
+      "city": "Big Canoe",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/19/2025",
+      "usta_id": "7FKbfH51UNVapfMQG6+LBw=="
+    },
+    {
+      "name": "Sheila Wilson",
+      "gender": "Female",
+      "city": "Blue Ridge",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aYqxsIfshBkD86wsIYRpUg=="
+    }
+  ]
+}

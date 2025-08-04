@@ -1,0 +1,997 @@
+{
+  "sectionId": "6243304",
+  "districtId": "6243367",
+  "areaId": "6243567",
+  "players": [
+    {
+      "name": "Kathy Alexander",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PoMAGjL9NSCdP7BSVxDWdg=="
+    },
+    {
+      "name": "Kathy Anderson",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Z7JqUdeYng23oDHLsz6jEA=="
+    },
+    {
+      "name": "Stephanie Barton",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CDExbWzNiI185vXd+tpOpg=="
+    },
+    {
+      "name": "Jody Benz",
+      "gender": "Female",
+      "city": "Bismarck",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rbClGb9R413N4pnQjafuTw=="
+    },
+    {
+      "name": "Kris Bickett",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xX51J24+nL4pvXpmEmkWWA=="
+    },
+    {
+      "name": "Diann Bolonchuk",
+      "gender": "Female",
+      "city": "SIOUX FALLS",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "2/19/2025",
+      "usta_id": "8x1nClIwt9dgC6isru9LHg=="
+    },
+    {
+      "name": "Julie Bosch",
+      "gender": "Female",
+      "city": "Bismarck",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/20/2025",
+      "usta_id": "reUwKyqz783KkaRvp379YQ=="
+    },
+    {
+      "name": "Nina Braun",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "aVRz67rWlTWT+/z/exSa/w=="
+    },
+    {
+      "name": "Annie Bussler",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "flMuRNtlpxMgHaxzkFHwCw=="
+    },
+    {
+      "name": "Tara Carlson",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/9/2025",
+      "usta_id": "VJF4rZ8/yqetoOduWyoirw=="
+    },
+    {
+      "name": "Leigha Carsrud",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wnTlwzVKKkzu2rlU/jWmlQ=="
+    },
+    {
+      "name": "Tiffany Cholez",
+      "gender": "Female",
+      "city": "GILLETTE",
+      "state": "WY",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "aXjO2c/mv9nLDIErigRUlQ=="
+    },
+    {
+      "name": "Danelle Conrad",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "d9UeToKZuMcNZJxr+3qedg=="
+    },
+    {
+      "name": "Kibbe Conti",
+      "gender": "Female",
+      "city": "Hill City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dcG1l5gHOYI6cnUbjZmmBg=="
+    },
+    {
+      "name": "Angie Cutler",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kxSWD0aSZEU6Kyshtsu21w=="
+    },
+    {
+      "name": "Laura Davies",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fdM3jDq3u/UP4OigucWVpQ=="
+    },
+    {
+      "name": "Kristin Dehler",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I79CMeZOaLsaQ0iTi3jXeA=="
+    },
+    {
+      "name": "Jodi DePree",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C8qY3Ld7FT1TXjKLUQz5pg=="
+    },
+    {
+      "name": "Carissa Dice",
+      "gender": "Female",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IcJOgBUiORWY6a+zRbxtkQ=="
+    },
+    {
+      "name": "Milidi Dickenson",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5npPbOwQsBBywYCiCKTpeQ=="
+    },
+    {
+      "name": "Lisa Dorsey",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/7/2024",
+      "usta_id": "31tzCp3m0yda9K7TtzchPg=="
+    },
+    {
+      "name": "Cathy Durkin",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zyavE1DU52v1+QKbRCVXAw=="
+    },
+    {
+      "name": "Abbey Ellison",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pg0wwfcZwCMbiVHhFw+wBw=="
+    },
+    {
+      "name": "Julie Evans",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UT3PTlzdx+vf5790XviRTA=="
+    },
+    {
+      "name": "Shawna Evans",
+      "gender": "Female",
+      "city": "Spearfish",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zeZAKZGdju3QO0fOCnLuXw=="
+    },
+    {
+      "name": "Janie Ewing",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/7/2025",
+      "usta_id": "0Xkjfqw/Q7N18fhG/naS+w=="
+    },
+    {
+      "name": "Debbie Fenske",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1o1n0+Jl3OYSE4ufAa+u2Q=="
+    },
+    {
+      "name": "Mary Helen Flanery",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8LKqKI3FjSuahWsQZDNxJQ=="
+    },
+    {
+      "name": "Rochelle Flynn",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JBFMW/PXluF2qbKa9eX3OA=="
+    },
+    {
+      "name": "Tracy Frost",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bs6gCbpE1atoojcc2rzBhQ=="
+    },
+    {
+      "name": "Maren Gaul",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hpXEnpHjuCC91WmqJlxbXw=="
+    },
+    {
+      "name": "Kathy Gillette",
+      "gender": "Female",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "ybQQJ0QpQSxptasTHE6X9Q=="
+    },
+    {
+      "name": "Yuliya Grassby",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gOl8aaRoIoXIRG6krw6j+A=="
+    },
+    {
+      "name": "Brie Groves",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2ur1RuuYXKOUkfY69ejgkg=="
+    },
+    {
+      "name": "Janet Gundersen-Powers",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HTakEaMqaQTAo2tEZnzzEw=="
+    },
+    {
+      "name": "Kristy Hamar",
+      "gender": "Female",
+      "city": "Bismarck",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/8/2024",
+      "usta_id": "VxItDdMt+4Kb3mwcBPQQMA=="
+    },
+    {
+      "name": "LANAE HAMBLET",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KzdFIXJCHJryBCr6UGWhqA=="
+    },
+    {
+      "name": "Liz Hamburg",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pI3yp6VS9+DzI1jZVRQRMg=="
+    },
+    {
+      "name": "Angela Hanson",
+      "gender": "Female",
+      "city": "Black Hawk",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "0hIv6EQ45BJ1r1f40LZadA=="
+    },
+    {
+      "name": "Lori Hanson",
+      "gender": "Female",
+      "city": "Hermosa",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DnG4rb4l7lp2daURBBDJTQ=="
+    },
+    {
+      "name": "Patricia Hinrichs",
+      "gender": "Female",
+      "city": "SIOUX FALLS",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xF+BUfdGjrcGoOQPE/pgEA=="
+    },
+    {
+      "name": "NIcole Hoogestraat",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KCbmUwz28s8pGnPy737QeA=="
+    },
+    {
+      "name": "Alysia Hudson",
+      "gender": "Female",
+      "city": "RAPID CITY",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6H1dOYlSMgMfvMB57kV98w=="
+    },
+    {
+      "name": "Lisa Katzenstein",
+      "gender": "Female",
+      "city": "Black Hawk",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "RfOHnX2fMK7M6nyQldlQuw=="
+    },
+    {
+      "name": "Lori Keller",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YEwfYbs+8xtJlAyDZbxfZw=="
+    },
+    {
+      "name": "Sally Kenner",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OrN9IBmRsy7ltVv0xTOcVw=="
+    },
+    {
+      "name": "Lisa Krebs",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "Cq6dsQh6o7m9M27F/ZbgVA=="
+    },
+    {
+      "name": "Alison Krumm",
+      "gender": "Female",
+      "city": "Bismarck",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Hg4OWeVVA0iWRYJKfdqwPQ=="
+    },
+    {
+      "name": "Kerri Lee",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S8CnqSskQVZCkm8pSHu/Vg=="
+    },
+    {
+      "name": "Kimberly Lucas",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7fOSvy/zTUzO2gBEkeRmPA=="
+    },
+    {
+      "name": "Kristin Marsh",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dpXM+H6K7AizWs3g6a4Zug=="
+    },
+    {
+      "name": "Lori Martin",
+      "gender": "Female",
+      "city": "Bismarck",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GGlVHP+/PGFJvQpYV3voXA=="
+    },
+    {
+      "name": "Kara Mills",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lf/I4dEhb4iMTwnHqia6fw=="
+    },
+    {
+      "name": "Melissa Morasch",
+      "gender": "Female",
+      "city": "Bismarck",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4pg3GzNuWoRC4sWvQjsfMg=="
+    },
+    {
+      "name": "Cari Mortimer",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A77Yc9RLN8iKgYs2lkmGdA=="
+    },
+    {
+      "name": "Brenda Murphey",
+      "gender": "Female",
+      "city": "Black Hawk",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "llBZcpFWEPKHpKv23W1xmg=="
+    },
+    {
+      "name": "Carmen Nelson",
+      "gender": "Female",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/16/2025",
+      "usta_id": "mAM5+5pKhVL3K4MfZQRthQ=="
+    },
+    {
+      "name": "Terri O'Clair",
+      "gender": "Female",
+      "city": "Bismarck",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SpJZhzwtK2M69JGLHzk7NQ=="
+    },
+    {
+      "name": "Melanie Ogle",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uCdl5ODT1HnYDbUqm3yUkQ=="
+    },
+    {
+      "name": "Tsende Parkin",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7hhjFc0WUXmkrTJ9Qi0N/w=="
+    },
+    {
+      "name": "Heather Peschel",
+      "gender": "Female",
+      "city": "Horace",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZMwBDzt5bEt4rNnO9M+YNA=="
+    },
+    {
+      "name": "Teresa Postma",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "miR/ZLs7wmCqWRPAIEtoJQ=="
+    },
+    {
+      "name": "Celeste Ramos",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "esrVkjNFoFwIUlNQj58h4w=="
+    },
+    {
+      "name": "Kelsey Rausch",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pVHvwwijGeRGY2QjNUDgqw=="
+    },
+    {
+      "name": "Claire Reilly-Allen",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "p7Bm2cZz4fm5tf+AiCjeEQ=="
+    },
+    {
+      "name": "Cynthia Robertson",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+UPiGHYvL6pAWhFKETB5Ew=="
+    },
+    {
+      "name": "Anne-Marie Rolando",
+      "gender": "Female",
+      "city": "Spearfish",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JpIgcdFedRphhhbc1Q7eMQ=="
+    },
+    {
+      "name": "Valerie Ronning",
+      "gender": "Female",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vzwLCP+/HG9PoNZnNPogmw=="
+    },
+    {
+      "name": "Erin Rup",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/15/2025",
+      "usta_id": "ZwwKisCiO4AzcRFLbXhh9A=="
+    },
+    {
+      "name": "Rexann Sachs",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D51fgsaclaYLAI+PmtH4tA=="
+    },
+    {
+      "name": "Kate Salkowski",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "lw3qfQAOBruCdi3Vl/1BZw=="
+    },
+    {
+      "name": "Mary Sayler",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w5RPtd4XY52etghJGkS1nA=="
+    },
+    {
+      "name": "Amy Scanlon",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zo0zu+Ba9hM3hWZDTLNmqQ=="
+    },
+    {
+      "name": "Antje Schreurs",
+      "gender": "Female",
+      "city": "Baltic",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O/mjXSXkQSB3oBCeRRo3lw=="
+    },
+    {
+      "name": "Carrie Schubring",
+      "gender": "Female",
+      "city": "Mount Pleasant",
+      "state": "WI",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "UWpMkhpQvxaaoLQ7Ys7u2g=="
+    },
+    {
+      "name": "Erika Seamayer",
+      "gender": "Female",
+      "city": "Desoto",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pea21Bfk4jibc+PCgns50Q=="
+    },
+    {
+      "name": "Tori Sheets",
+      "gender": "Female",
+      "city": "RAPID CITY",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/4sVs6l7zLovEtvG49hWTw=="
+    },
+    {
+      "name": "Christine Shellenbarger",
+      "gender": "Female",
+      "city": "Fargo",
+      "state": "ND",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Uybo1pS4hVgyci5LQYkOA=="
+    },
+    {
+      "name": "Katie Slingsby",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UZM8VJWv6BxJfvMoFtINXQ=="
+    },
+    {
+      "name": "Heidi Snider",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y23D2M/nsj3hJbHZI8XUUw=="
+    },
+    {
+      "name": "Janet Stearns",
+      "gender": "Female",
+      "city": "RAPID CITY",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AuLDIr2rcF+00IEtTYLYhg=="
+    },
+    {
+      "name": "Lynne Steinley",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5Humh9GgQjTMjl9mB4M+YQ=="
+    },
+    {
+      "name": "Roxanne Stevens",
+      "gender": "Female",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "XF2+oTHo+jRzYQQRWLNTTQ=="
+    },
+    {
+      "name": "Clarissa Stinson",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "s+oSpoNqUO8gtfqAzmGm1w=="
+    },
+    {
+      "name": "Angela Summers",
+      "gender": "Female",
+      "city": "Chanhassen",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FwkS5bjauSvliVLz/lPRcA=="
+    },
+    {
+      "name": "Krista Thomas",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "IbGa+LT5rxQUmP1biL0bWA=="
+    },
+    {
+      "name": "Jessica Turner",
+      "gender": "Female",
+      "city": "Bismarck",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/15/2025",
+      "usta_id": "Ic535uv8XYUsLZAVSlpUEg=="
+    },
+    {
+      "name": "Judy Vidal",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gQGyCPOXljbevi5x7T3aBg=="
+    },
+    {
+      "name": "Jeanne Wagner",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZodYkdpPRxeMy+IDOD71qw=="
+    },
+    {
+      "name": "Paige Wagner",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uVRa4tY5MQVopu915FoQ7w=="
+    },
+    {
+      "name": "Cindi Wanek",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gBgyP1rTeo7HN5L7F3nhcQ=="
+    },
+    {
+      "name": "Dawn Wattenhofer",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Plb8SYzi4ayyk98/CAqHMA=="
+    },
+    {
+      "name": "Lucinda Weaver",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "GDLohe58HYUeWkBXYnSZKg=="
+    },
+    {
+      "name": "Summer Whillock",
+      "gender": "Female",
+      "city": "RAPID CITY",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BqFx3DgIgqFotH5L8H0m3Q=="
+    },
+    {
+      "name": "Jeanne Wing",
+      "gender": "Female",
+      "city": "Rapid City",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iNio8KQrg4IKbuhef3+LBA=="
+    },
+    {
+      "name": "Gerty Wyatt",
+      "gender": "Female",
+      "city": "Spearfish",
+      "state": "SD",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "crrIukzNNMZXwUDs7hreoA=="
+    },
+    {
+      "name": "Beth Zander",
+      "gender": "Female",
+      "city": "Bismarck",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "by6o7N/T/1bVxOViWodenA=="
+    },
+    {
+      "name": "Elizabeth Ziegler",
+      "gender": "Female",
+      "city": "Mandan",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/23/2025",
+      "usta_id": "z6OTJ/4favYTDKxqNGF0iA=="
+    },
+    {
+      "name": "Ronda Zupi",
+      "gender": "Female",
+      "city": "West Fargo",
+      "state": "ND",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ena29wnLpP+FoG4F+il+gw=="
+    }
+  ]
+}

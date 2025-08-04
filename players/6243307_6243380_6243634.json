@@ -1,0 +1,1757 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243380",
+  "areaId": "6243634",
+  "players": [
+    {
+      "name": "Jessica Adams",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/4yMlr9abZ6w/PDcAABJLg=="
+    },
+    {
+      "name": "Karen Alberto",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DAf6y3BXwMz0uGDTWJm7Gw=="
+    },
+    {
+      "name": "Maurice Allgrove",
+      "gender": "Male",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "xEaJfMG8o7y/845uaormxQ=="
+    },
+    {
+      "name": "Amarion Anderson",
+      "gender": "Male",
+      "city": "Pelham",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mazwmttcl6NDKAcMuxTtuw=="
+    },
+    {
+      "name": "Chris Anglin",
+      "gender": "Male",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SYzOBeC92dd9l8VJDfFh5A=="
+    },
+    {
+      "name": "Cindy Anglin",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2GEndblqc3S+Gps7xkhM2A=="
+    },
+    {
+      "name": "Yvette Armstrong",
+      "gender": "Female",
+      "city": "LEESBURG",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aW6N+pePp+kHJ39s8o3T8g=="
+    },
+    {
+      "name": "Tyler Autry",
+      "gender": "Female",
+      "city": "Meigs",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "66kDSGpCXC7707xBuBTeoQ=="
+    },
+    {
+      "name": "Jessica Bahorski",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JgKJPgC4n6oV+egQ9lFeMA=="
+    },
+    {
+      "name": "Donald Barber",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Y8kG1uyq6/10wXsgUWnE/g=="
+    },
+    {
+      "name": "Karan Barber",
+      "gender": "Female",
+      "city": "Graceville",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xL4yuzPig8kBG/4VnGkjjA=="
+    },
+    {
+      "name": "Thomas Barber",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3n8jW7yh231FTI88ESVTUw=="
+    },
+    {
+      "name": "Joan Bassett",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PZ27gBiVBtIFEH6MK3h3Wg=="
+    },
+    {
+      "name": "Candace Beauvais",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "deyFFaHvGtuYA0PxTKZCKQ=="
+    },
+    {
+      "name": "Angela Bell",
+      "gender": "Female",
+      "city": "Blakely",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BqNHHqNCiyv/wO8gVRyZpA=="
+    },
+    {
+      "name": "Banks Bell",
+      "gender": "Male",
+      "city": "Blakely",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/13/2024",
+      "usta_id": "uojCapVNYRSmNEu3lAzIVw=="
+    },
+    {
+      "name": "Gina Bell",
+      "gender": "Female",
+      "city": "Cairo",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Xmo73gXWY2LZoyESSlF7vg=="
+    },
+    {
+      "name": "Brian Bellamy",
+      "gender": "Male",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gTPGM3Ye+7Q0oAHUpiVtsg=="
+    },
+    {
+      "name": "William Birdsong",
+      "gender": "Male",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Yrv6OPBLMOA8V8rKsGL/pg=="
+    },
+    {
+      "name": "Amy Bowles",
+      "gender": "Female",
+      "city": "Doerun",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xdoO52RWjn122vC3c+nw1A=="
+    },
+    {
+      "name": "Beth Briggs",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "KcVxFnt6KjV36ZG+HGytGg=="
+    },
+    {
+      "name": "Jennifer Britt",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DKsiBLJxcWdYiWEBvqnzZQ=="
+    },
+    {
+      "name": "Michelle Brooks",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/24/2025",
+      "usta_id": "pT1zcs0YXl10PWnEFqbarA=="
+    },
+    {
+      "name": "Anna Brown",
+      "gender": "Female",
+      "city": "Cobb",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U3iztBb3dmGFk+UKOWPK2g=="
+    },
+    {
+      "name": "Savannah Brown",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/1/2024",
+      "usta_id": "q9CsJ4Sz8X254iKKGO4rFg=="
+    },
+    {
+      "name": "Kaylee Grace Buchanan",
+      "gender": "Female",
+      "city": "BAINBRIDGE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/21/2025",
+      "usta_id": "/4A+HAUObLuBg/9rLk2Odg=="
+    },
+    {
+      "name": "Nicholas Buchanan",
+      "gender": "Male",
+      "city": "BAINBRIDGE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/24/2025",
+      "usta_id": "N/96Y8l6YIGV/i1Btc5OyA=="
+    },
+    {
+      "name": "April Bush",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xcmZbYDd13uZV0CGLhdJNA=="
+    },
+    {
+      "name": "Ashley Bush",
+      "gender": "Female",
+      "city": "Columbus",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "HgUVmd0Z4m4EqXg37McEpw=="
+    },
+    {
+      "name": "Becky Bush",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NHy5eRiXVBWGlVGllUXdtA=="
+    },
+    {
+      "name": "Brandi Byce",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iG0VGUApNBsQt4EuzNR9Qg=="
+    },
+    {
+      "name": "Sherry Cady",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KJov8H0lIrA4o13OQ0OKrQ=="
+    },
+    {
+      "name": "Royce Cannington",
+      "gender": "Male",
+      "city": "Iron City",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "2dcFWSJtz85HFgysmLIAag=="
+    },
+    {
+      "name": "Sheryl Cannington",
+      "gender": "Female",
+      "city": "Iron City",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ny4+OB1a93fnntNx4HcBfA=="
+    },
+    {
+      "name": "Coy Chambers",
+      "gender": "Male",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4MJTYRJurubdpl4Y29U/rA=="
+    },
+    {
+      "name": "Rosina Cherry",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qUaF7AnSQedvHqymxGpOLQ=="
+    },
+    {
+      "name": "Linda Cleveland",
+      "gender": "Female",
+      "city": "Colquitt",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WCdC5XE+GvaVKYDTMlSr0w=="
+    },
+    {
+      "name": "Tracey Cohen",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h4CNOCCVOQ+FpW6TV2hgGg=="
+    },
+    {
+      "name": "Terri Coleman",
+      "gender": "Female",
+      "city": "LEESBURG",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4QOLt4bqpeG7YghqRIEHCQ=="
+    },
+    {
+      "name": "Catherine Cooper",
+      "gender": "Female",
+      "city": "Monticello",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Tx/wtineDsFRs3nC/Asa3A=="
+    },
+    {
+      "name": "Leigh Cooper",
+      "gender": "Female",
+      "city": "Blakely",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y3ICZDGUluMVmHZ6faYXtA=="
+    },
+    {
+      "name": "Kelley Corbari",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OcJTIHfzsGXFSzlYc5GY1Q=="
+    },
+    {
+      "name": "Darrell Cox",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "VGwe6WSsAPSCBqwofY/TnA=="
+    },
+    {
+      "name": "Layne Cox",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZRsAZlG9Hb/fFVk1kVTv8A=="
+    },
+    {
+      "name": "Niki Cox",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1jzPCUsuft0QYSXuAr1FzA=="
+    },
+    {
+      "name": "Babs Coyle",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2m/sbCXbcqrsAFcZroc0/Q=="
+    },
+    {
+      "name": "Carie Crowley",
+      "gender": "Female",
+      "city": "Dothan",
+      "state": "AL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RdxN85n+ZRR71BuilMyb9A=="
+    },
+    {
+      "name": "Kimberly Curry",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8j6VHIyQ2Z4zEG/UoKlncg=="
+    },
+    {
+      "name": "Thomas Curry",
+      "gender": "Male",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+1p9exx5RBpWrtJMQQ/Kug=="
+    },
+    {
+      "name": "Victoria Curtis",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jG8DTs/50EGhRXQi0jCdXA=="
+    },
+    {
+      "name": "Darryl Davidson",
+      "gender": "Male",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "4/25/2024",
+      "usta_id": "QTCERfv9GvG6Dnd2FBV+yQ=="
+    },
+    {
+      "name": "Jeff Davis",
+      "gender": "Male",
+      "city": "Newton",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vIcjDmP4043DxRvfue/e4Q=="
+    },
+    {
+      "name": "LaDonna Delk",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KudAZ5Fc8n8nosRb4RSmTQ=="
+    },
+    {
+      "name": "JaneMarie Dinnerman",
+      "gender": "Female",
+      "city": "Adel",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/DqLlgvModSXPLuJO4GPQg=="
+    },
+    {
+      "name": "Meghan Edgar",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hEyIpOW2jgAevPSJnDULLQ=="
+    },
+    {
+      "name": "Sheila Edwards",
+      "gender": "Female",
+      "city": "Climax",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kZ43x4TGyxr2P14S5QY5KA=="
+    },
+    {
+      "name": "Lori Elliott",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8/y7yKRs21Ozq2iKn82TlA=="
+    },
+    {
+      "name": "Julie Espy",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iic1tuZrfhGr3i193dgGfQ=="
+    },
+    {
+      "name": "Michelle Eubanks",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VfBGY7LKogOxBDNz23MSPw=="
+    },
+    {
+      "name": "Melanie Feliz",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WbsLHqFnVOXTfS3foYjeIg=="
+    },
+    {
+      "name": "Elizabeth Ford",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/7/2024",
+      "usta_id": "EErcMDRfg33Ttn4kA7tmCA=="
+    },
+    {
+      "name": "Kent Forrester",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "T9CjySCPZgrY5FLF3xcILQ=="
+    },
+    {
+      "name": "Bokshim Fox",
+      "gender": "Female",
+      "city": "Americus",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "xKoI1Qb1a2TsBW7OY9CjXQ=="
+    },
+    {
+      "name": "Lisa Franson",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hT4Zu4Y/YUMl9TYEq73bbA=="
+    },
+    {
+      "name": "Gretchen Fricks",
+      "gender": "Female",
+      "city": "Valdosta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "8/21/2023",
+      "usta_id": "1hS/suoZNDL5a63Ke5YiKQ=="
+    },
+    {
+      "name": "Teresa Geiger",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "LUMeb1obkdkOj9Bj+VsGlw=="
+    },
+    {
+      "name": "Irene Gleason",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "87F7cm+6SA+dYb4KP8HvLQ=="
+    },
+    {
+      "name": "Cameron Godwin",
+      "gender": "Male",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/18/2025",
+      "usta_id": "aAKR70h29tBIfcOWUSYASg=="
+    },
+    {
+      "name": "Merritt Godwin",
+      "gender": "Female",
+      "city": "THOMASVILLE",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4dHpS4Ip01Y2fk5mCc99/Q=="
+    },
+    {
+      "name": "Susan Goodwin",
+      "gender": "Female",
+      "city": "Monticello",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RrOk3FoIQgXpA39VJUxoww=="
+    },
+    {
+      "name": "Anna Gray",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iZY+lr9fCgcltEOji7pQDQ=="
+    },
+    {
+      "name": "Jane Gray",
+      "gender": "Female",
+      "city": "ALBANY",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZRofHCrvg3jF6LDmTeTReg=="
+    },
+    {
+      "name": "Maria Green",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P/3iENs17A0THLbPg0Dx/A=="
+    },
+    {
+      "name": "Jordan Griffin",
+      "gender": "Male",
+      "city": "WASHINGTON",
+      "state": "DC",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JsiDN9N3tNofwm9OprR21g=="
+    },
+    {
+      "name": "Tammy Griffin",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/30/2024",
+      "usta_id": "NJM0jYFz7mT3RsWHA4kqKg=="
+    },
+    {
+      "name": "Tom Griffin",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YIP613009PuJ9zvBseEhnw=="
+    },
+    {
+      "name": "Patricia Griffith",
+      "gender": "Female",
+      "city": "Americus",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u8M9Oo9HNOG+DVdphrNEHw=="
+    },
+    {
+      "name": "Nikki Hall",
+      "gender": "Female",
+      "city": "Fitzgerald",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "omt/fV4AQasuwk9bHXeKVA=="
+    },
+    {
+      "name": "Alden Harrison",
+      "gender": "Male",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "MaIv1yE8p/PPDoAmxLKmvg=="
+    },
+    {
+      "name": "George Thomas Harrison",
+      "gender": "Male",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ircjad8iKEdqojo9ykSsaA=="
+    },
+    {
+      "name": "Thomas Harrison",
+      "gender": "Male",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "ircjad8iKEcZE5MxBpUL0w=="
+    },
+    {
+      "name": "Susie Hartzog",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bzCNn8rPTjXT6H6S7Oq4GQ=="
+    },
+    {
+      "name": "Becca Harville",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DV1XAjpVCcwMi9qmU5ORaQ=="
+    },
+    {
+      "name": "Becky Heard",
+      "gender": "Female",
+      "city": "Brinson",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/7/2024",
+      "usta_id": "TRL8CBUZOSJJ8ADp/7YG9Q=="
+    },
+    {
+      "name": "Carol Heard",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3oxKsUvQHYSrgRtrKERhGg=="
+    },
+    {
+      "name": "Glenn Heard",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SnWcnBHmbU7n+9jALontfg=="
+    },
+    {
+      "name": "Lacie Heard",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "njVfElqrzTF9tJOhdQgf7Q=="
+    },
+    {
+      "name": "April Helms",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "5Gmc3uH+HifS9KWDmybvug=="
+    },
+    {
+      "name": "Melinda Henley",
+      "gender": "Female",
+      "city": "DAWSON",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RnJws7pEG0zzh5Mln/k3jA=="
+    },
+    {
+      "name": "Gina Herring",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pi2BiD2QZfA7A8J5wNpmWA=="
+    },
+    {
+      "name": "Courtney HIlliard",
+      "gender": "Female",
+      "city": "Pelham",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VhhFjXRwW3MnS2CRZXIYjg=="
+    },
+    {
+      "name": "Erica Hilliard",
+      "gender": "Female",
+      "city": "PELHAM",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "OR6hdoEH6PyV9mrGhipFXw=="
+    },
+    {
+      "name": "Matthew Hilliard",
+      "gender": "Male",
+      "city": "PELHAM",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ooQaWl+jwJjQNhpYrI3x5w=="
+    },
+    {
+      "name": "Neal Hilliard",
+      "gender": "Male",
+      "city": "Pelham",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KuIV2uz8QmNrKgAvZlBwxw=="
+    },
+    {
+      "name": "Nichole Hilliard",
+      "gender": "Female",
+      "city": "Pelham",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/17/2025",
+      "usta_id": "QERkExX/W7tP2hkZHWFtgg=="
+    },
+    {
+      "name": "Tracee Hodges",
+      "gender": "Female",
+      "city": "Inlet Beach",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r7e/BrZaaAMwrSNIrgAnIw=="
+    },
+    {
+      "name": "Charlie Holliday",
+      "gender": "Female",
+      "city": "Leesburg",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6J3tZkDmsX17gIhOcvv56w=="
+    },
+    {
+      "name": "Hallie Holton",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8UHbo789xDwCxX/2+GZufw=="
+    },
+    {
+      "name": "Alyssa Howell",
+      "gender": "Female",
+      "city": "Pelham",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "YJFwgJCvtGECX1tctyFnfQ=="
+    },
+    {
+      "name": "Neil Howell",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "wHlcnFCjoKSdz1B82MrB2g=="
+    },
+    {
+      "name": "Jessica Huffman",
+      "gender": "Female",
+      "city": "Moultrie",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2024",
+      "usta_id": "78c29Vi1WW+UVkAQjAfcmw=="
+    },
+    {
+      "name": "Jeri Hughes",
+      "gender": "Female",
+      "city": "Cobb",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R/dHZTwywLu0QEEcWCywnA=="
+    },
+    {
+      "name": "Billy Inlow",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "10/1/2024",
+      "usta_id": "4Phd4AJ0rJoT7TxB33/GzA=="
+    },
+    {
+      "name": "Stone Inlow",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "TFlQwAIvKuH/0BG8YEmvbw=="
+    },
+    {
+      "name": "Terry Inlow",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "9/4/2024",
+      "usta_id": "7eIhEbcUBxaFwMIhSUrqcQ=="
+    },
+    {
+      "name": "Melissa Johnson",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YkJW+Ia4rx+W6ILXL6dY1g=="
+    },
+    {
+      "name": "Tiffany Jones",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cqcbg7/T1PS2pmIyPSQJBQ=="
+    },
+    {
+      "name": "Ashley Keen",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "iYkRyCktxIuYkE3aVjLYlw=="
+    },
+    {
+      "name": "Lucy Kelley",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5SQG8XmI+huxDryCUy7qWQ=="
+    },
+    {
+      "name": "Cathy Kendall",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fbpV6ZtAOXt/LcvW0nZkXw=="
+    },
+    {
+      "name": "Genia Kimmel",
+      "gender": "Female",
+      "city": "Whigham",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3j1ubM1JytX3/BO0VYxfNg=="
+    },
+    {
+      "name": "Jennifer Kjellerup",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q0xXsuYeosoTuwQrPuu1Kg=="
+    },
+    {
+      "name": "Ashley Kunkle",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "WKpszPsT/9A0wz2uj86Ufg=="
+    },
+    {
+      "name": "Joan Lake",
+      "gender": "Female",
+      "city": "Leesburg",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PUeDdaod4rgO4X25YLqKAQ=="
+    },
+    {
+      "name": "Jason Lanier",
+      "gender": "Male",
+      "city": "Pelham",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "8b6miYRFWrkHAxOZuuCYRg=="
+    },
+    {
+      "name": "Anna Lee",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+ljlamuPR+TKQASL2zB74g=="
+    },
+    {
+      "name": "Patty Lee",
+      "gender": "Female",
+      "city": "Coolidge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tuflsKK6srBN7HPAklwWIw=="
+    },
+    {
+      "name": "Lee Lemay",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/26/2025",
+      "usta_id": "+x+mXl5ucTLl5kOGFCpMrg=="
+    },
+    {
+      "name": "Fang Liang",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4sO49d2X97i68t7z1Jat3w=="
+    },
+    {
+      "name": "Susan Logan",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "10/31/2024",
+      "usta_id": "Lc6UxTkf1sthlfxnI+aLGA=="
+    },
+    {
+      "name": "JILL MATNEY",
+      "gender": "Female",
+      "city": "Moultrie",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "dGi1QQGEgV6ywKP6/bChwA=="
+    },
+    {
+      "name": "Stephen Mayfield",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hdcteC1LeO/7EOdfk/adNw=="
+    },
+    {
+      "name": "Joe McGlincy",
+      "gender": "Male",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GLtyxwPGbtMB4KL7lp228Q=="
+    },
+    {
+      "name": "GIna McKenzie",
+      "gender": "Female",
+      "city": "Pelham",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wmH5kFE7cvDgpTF87IuYCA=="
+    },
+    {
+      "name": "Vic McNease",
+      "gender": "Male",
+      "city": "Colquitt",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0iLMzREWZ+hUehaJQ2xebg=="
+    },
+    {
+      "name": "Andres Najera",
+      "gender": "Male",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q2kZY2rOJGQ0CdbpS7LiuA=="
+    },
+    {
+      "name": "Bob Nunnery",
+      "gender": "Male",
+      "city": "Jakin",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QT5tOsl7pqtoenYzcWUQQw=="
+    },
+    {
+      "name": "Susan O'Neal",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pmTu6fq1F33PXb2Vsgxf2g=="
+    },
+    {
+      "name": "Joan Overman",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0QlOWICnfXMHZeJMbBrOyw=="
+    },
+    {
+      "name": "Carson Parker",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Pxc70tW4Jgx5yCWFOgdf6w=="
+    },
+    {
+      "name": "Holly Perryman",
+      "gender": "Female",
+      "city": "Hartsfield",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+Uq86CTyCmL7gLJ1rYXNoA=="
+    },
+    {
+      "name": "Cole Pollock",
+      "gender": "Male",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/19/2025",
+      "usta_id": "BGvN/4qdaJrBk7cj8kJnBQ=="
+    },
+    {
+      "name": "April Powell",
+      "gender": "Female",
+      "city": "Brinson",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IDQ6DBofJC9xTdH6qG/T/Q=="
+    },
+    {
+      "name": "Jennifer Powell",
+      "gender": "Female",
+      "city": "Valdosta",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BKLU+THW9PY="
+    },
+    {
+      "name": "Candice Pruett",
+      "gender": "Female",
+      "city": "Augusta",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wiKapbVKTrQFY77Amq3adw=="
+    },
+    {
+      "name": "Ellen Rainey",
+      "gender": "Female",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KDualLtW9XFBHfaP4jV1Xg=="
+    },
+    {
+      "name": "Jamie Reese",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ek5QgAxYHIv+6i1Quky3SQ=="
+    },
+    {
+      "name": "Catherine Reid",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i1bT/rIZUIDikJuwVQJv5w=="
+    },
+    {
+      "name": "Mattie Rogers",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/15/2025",
+      "usta_id": "EB3t1AipYgQbmW05or8l8Q=="
+    },
+    {
+      "name": "Kay Rowland",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PfMDw1gFrx3EW9uJNsPHJA=="
+    },
+    {
+      "name": "Elaine Rudd",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "at3r59CU6iZSqcCCWEL/0A=="
+    },
+    {
+      "name": "Suzi Rush-Kraft",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/iuDwFv6v6Q2CP6gnzaBbw=="
+    },
+    {
+      "name": "Mariann Sabolic",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OeiLYeVtE3Vo0bFxNDRgqw=="
+    },
+    {
+      "name": "Paige Saunders",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zACC7urL3tKZT4uYSexAag=="
+    },
+    {
+      "name": "Beverly Shippey",
+      "gender": "Female",
+      "city": "ALBANY",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eTHa9VxBSRxb+qTEbessbw=="
+    },
+    {
+      "name": "Carol Shiver",
+      "gender": "Female",
+      "city": "Camilla",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "szpB4yTi79ZqOvCe+b/NkQ=="
+    },
+    {
+      "name": "Greyson Shiver",
+      "gender": "Male",
+      "city": "PELHAM",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "gAz2QasOq64MH2ehsdLQww=="
+    },
+    {
+      "name": "Abbey Sinyard",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/11/2025",
+      "usta_id": "Y50W8oUwyemhIfpuDSdo5A=="
+    },
+    {
+      "name": "Laura Sinyard",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "YhjhRLWDDYjgmTARJ+Vm8g=="
+    },
+    {
+      "name": "Laura Siskey",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2024",
+      "usta_id": "tPTxaipsGhTF77ttvNSojg=="
+    },
+    {
+      "name": "Jacob Smith",
+      "gender": "Male",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "k2fI4V7XGccI1ip8TZPDow=="
+    },
+    {
+      "name": "Sydnee Smith",
+      "gender": "Female",
+      "city": "MILLEDGEVILLE",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ue04gm7Pq4ONkanO7WeuDg=="
+    },
+    {
+      "name": "Maria Stratton",
+      "gender": "Female",
+      "city": "Monticello",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "m7Z1bvw6tjXM7Eyw8R/ekw=="
+    },
+    {
+      "name": "Brian Szwarc",
+      "gender": "Male",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "24q5k9KrFYTr42B++0dMPA=="
+    },
+    {
+      "name": "Colin Szwarc",
+      "gender": "Male",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/12/2025",
+      "usta_id": "gBbX/8vWhLEtCH+BFA1PjA=="
+    },
+    {
+      "name": "Tricia Szwarc",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "k/UhbwjGMtHR7rjsLcsWvQ=="
+    },
+    {
+      "name": "Nanci Tankersley",
+      "gender": "Female",
+      "city": "Ocilla",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MVc3TM3OkJLgbBHFylLEjw=="
+    },
+    {
+      "name": "Amy Thomas",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2Vbff7ZUl8LvXEInmmqifg=="
+    },
+    {
+      "name": "Kim Thriffiley",
+      "gender": "Female",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YcpMTO4lLtrk6sLq7gBJcw=="
+    },
+    {
+      "name": "Rhonda Tullos",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kWuJ73F4n2n1XXw4mNK0rw=="
+    },
+    {
+      "name": "Renee Vaughn",
+      "gender": "Female",
+      "city": "Hartsfield",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/X51wYK2x8iJn9ce3EL2Nw=="
+    },
+    {
+      "name": "Beth Vecchioli",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RWAbEm6Lm74Xhlo0qWDWgw=="
+    },
+    {
+      "name": "David Ware",
+      "gender": "Male",
+      "city": "Whigham",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1Q6ECsW2EnztSoh5Zbo2OA=="
+    },
+    {
+      "name": "Claire Webb",
+      "gender": "Female",
+      "city": "Bainbridge",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TQCOmBVfyK9fCxOwR5E5eg=="
+    },
+    {
+      "name": "Clayton Wells",
+      "gender": "Male",
+      "city": "Colquitt",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/14/2025",
+      "usta_id": "RiUT/2bm+Jtit3+2ZX3EOg=="
+    },
+    {
+      "name": "Rhonda Wells",
+      "gender": "Female",
+      "city": "Colquitt",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e5i7sdcV0qYRfKhgSNjbVw=="
+    },
+    {
+      "name": "Bri Whigham",
+      "gender": "Female",
+      "city": "TALLAHASSEE",
+      "state": "FL",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "lzNaZzp+L6d+6yKoVktQ3w=="
+    },
+    {
+      "name": "Bonita White",
+      "gender": "Female",
+      "city": "Pelham",
+      "state": "GA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0qGgMBSb0W0U7bYoqw7VqA=="
+    },
+    {
+      "name": "Kristen Whitfield",
+      "gender": "Female",
+      "city": "Meigs",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ynx2yID8+qwqMbNiGLM6Yg=="
+    },
+    {
+      "name": "Jennifer Winegardner",
+      "gender": "Female",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gYk47IDKpnZo9Hompi4aMw=="
+    },
+    {
+      "name": "Dale Wing",
+      "gender": "Male",
+      "city": "Thomasville",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q/Im6mDWkodNcAhscnPXUg=="
+    },
+    {
+      "name": "Edmund Wood",
+      "gender": "Male",
+      "city": "San Diego",
+      "state": "CA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "ClGZ4RYoxqVSWuTCma1sMA=="
+    },
+    {
+      "name": "Carol Wright",
+      "gender": "Female",
+      "city": "Albany",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/1/2025",
+      "usta_id": "YGpP1X4sOTXdatYK5wjCgA=="
+    },
+    {
+      "name": "Austin York",
+      "gender": "Male",
+      "city": "Moultrie",
+      "state": "GA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "9/9/2024",
+      "usta_id": "Gwt/fbB/65n2PnEOUBXPsA=="
+    },
+    {
+      "name": "Bobby York",
+      "gender": "Male",
+      "city": "Tallahassee",
+      "state": "FL",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "TravjwSE+OBKuTpc8Zlbmw=="
+    }
+  ]
+}

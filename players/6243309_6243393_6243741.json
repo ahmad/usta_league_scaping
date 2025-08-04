@@ -1,0 +1,4887 @@
+{
+  "sectionId": "6243309",
+  "districtId": "6243393",
+  "areaId": "6243741",
+  "players": [
+    {
+      "name": "Jillian Abernathy",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aIYMSVgP1Hl+kOndn+/zDA=="
+    },
+    {
+      "name": "Jane Adams",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iDELfDX1o50/3tsZs72rNQ=="
+    },
+    {
+      "name": "Jeanne Adams",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BYAFX7llRRjlpznUOQEfbg=="
+    },
+    {
+      "name": "Jade Aduddell",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0HY1VuOEYm1gLK5CozijNQ=="
+    },
+    {
+      "name": "Patrick Alexander",
+      "gender": "Male",
+      "city": "Kilgore",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dWBGs41nUsNjcGzyboUsbg=="
+    },
+    {
+      "name": "Rene Alzuro",
+      "gender": "Male",
+      "city": "Elkhart",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "piNS+WSSrjmx4Gxdkny7/A=="
+    },
+    {
+      "name": "Mark Ambrosius",
+      "gender": "Male",
+      "city": "Gladewater",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E6r3ND97CtIZ5iWCDhEraQ=="
+    },
+    {
+      "name": "Alan Anderson",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/9/2024",
+      "usta_id": "oCEdWafAJ4fakkDFxxNZ/Q=="
+    },
+    {
+      "name": "Billy Anderson",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bYdItuHcPM8jPKPlFSGzww=="
+    },
+    {
+      "name": "Valerie Anderson",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oCEdWafAJ4dJDLS0diwN7w=="
+    },
+    {
+      "name": "Lauren Arnold",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hEXcd03volGe1+wn8ofPwQ=="
+    },
+    {
+      "name": "Slade Austin",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "+k3dIh7sMrfMm+fYWc3xeQ=="
+    },
+    {
+      "name": "Micah Avance",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "yCd1hDov6kk8vcnrO3H6qg=="
+    },
+    {
+      "name": "Rhonda Awalt",
+      "gender": "Female",
+      "city": "CHANDLER",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NFuai4Gycg/SzbNRNII4qQ=="
+    },
+    {
+      "name": "Samuel Baker",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TZxc6vy5vljw1gh5ZzPRpA=="
+    },
+    {
+      "name": "Tonya Baker",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CtTa0kZHWxecl7U/wP3e1Q=="
+    },
+    {
+      "name": "Jane Ball",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rCmX4finUhKiqMjGkMYMSA=="
+    },
+    {
+      "name": "Melissa Barrett",
+      "gender": "Female",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iA8FfQkp0wSP68ngIZbejw=="
+    },
+    {
+      "name": "Allison Bass",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UDKPlF/6vopn3JWfI9oUHA=="
+    },
+    {
+      "name": "Sharon Beall",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jd8/DXjWsS9kweaGPug6nw=="
+    },
+    {
+      "name": "Patti Bean",
+      "gender": "Female",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CcIEU8Pvh3VcE9vNU8VGJA=="
+    },
+    {
+      "name": "Hannah Beard",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/16/2025",
+      "usta_id": "6j/YMNWmHTn5NMTlyK0KXQ=="
+    },
+    {
+      "name": "Lori Bearden",
+      "gender": "Female",
+      "city": "LAMAR",
+      "state": "CO",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wkfqq+q+c3RN1Z0SmkFbBA=="
+    },
+    {
+      "name": "Camille Becton",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "C2OiZ/+IRTLXuR/M3oPvWQ=="
+    },
+    {
+      "name": "Cindy Behm",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ymmBi151q2hbth7t9vPHTQ=="
+    },
+    {
+      "name": "Fernando Benitez",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3iejvYQGKERde1MOgQdhtQ=="
+    },
+    {
+      "name": "Edie Bergeron",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cgHIpso8ND5nSUu+REwlgw=="
+    },
+    {
+      "name": "Becky Berry",
+      "gender": "Female",
+      "city": "LONGVIEW",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "csr6j5sFEI6MPdIHe1QYtg=="
+    },
+    {
+      "name": "Laurie Billings",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j0xaNZJByfg7qAeAfijYTg=="
+    },
+    {
+      "name": "Buck Birdsong",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WtMPbJuMItPN1+8z5YRUGw=="
+    },
+    {
+      "name": "Greg Bishop",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UXmnBjzYxC39pjSjgCdqSw=="
+    },
+    {
+      "name": "Daryl Bitting",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ct5JIZtVJDP4Zf5GAaUQQQ=="
+    },
+    {
+      "name": "Tami Bitting",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6DQv/8E3hbcP1mep/mcGEw=="
+    },
+    {
+      "name": "Chesle Blair",
+      "gender": "Female",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iCXlN2uj/XbpIXqbcv8Q/w=="
+    },
+    {
+      "name": "Chris Blair",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "9/11/2024",
+      "usta_id": "tvtraj3sKBD1VwI71PjMTA=="
+    },
+    {
+      "name": "Julie Blavier",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pit6Yn08HHIAxihdAYaREg=="
+    },
+    {
+      "name": "Kasey Boatright",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+nl4EQYlJZLDTcg8oKqoVA=="
+    },
+    {
+      "name": "Andrea Booth",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "12/6/2024",
+      "usta_id": "8nITS9Eeruaq/qH4YQm6+g=="
+    },
+    {
+      "name": "Kristina Borden",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "LD7LWM2RjAW34qPDLYnwBg=="
+    },
+    {
+      "name": "Brandon Bowles",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XCSRC7QOdMQd9EiJrzmnvw=="
+    },
+    {
+      "name": "Gary Bowles",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fJN7VVsbz4MZi9GTiIdy1w=="
+    },
+    {
+      "name": "Karen Braaten",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i86IxjRPUsiwPPwNoKygbw=="
+    },
+    {
+      "name": "Brent Bradberry",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ivHRTeJAHM/Ygoia6odnAw=="
+    },
+    {
+      "name": "Jerry Brauner",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "NJv0TqkEEeER234Ot7ueiQ=="
+    },
+    {
+      "name": "Sushama Brimmer",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bclLnIpIvuDjf/o/pfqBpw=="
+    },
+    {
+      "name": "Channey Brosang",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "nOxkZFiCMDGHq6BYvK5H4g=="
+    },
+    {
+      "name": "Yvette Brunette",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Wda1RQtIj6xIudEcnyuv6A=="
+    },
+    {
+      "name": "Sherry Bryant",
+      "gender": "Female",
+      "city": "Marshall",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0wFpejoWgG4AVUaeXcz9hw=="
+    },
+    {
+      "name": "David Bryce",
+      "gender": "Male",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "0mhYd4s/L161Wz96FwhtYA=="
+    },
+    {
+      "name": "Ashleigh Buchanan",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YNapovLam2OcHwF0teH7+w=="
+    },
+    {
+      "name": "Bobby Burch",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "11/10/2024",
+      "usta_id": "PM7+EOBYULN1ksY69JgmGQ=="
+    },
+    {
+      "name": "Shelby Burkett",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yKo28eH7pgDK/5kQ7/gnpA=="
+    },
+    {
+      "name": "Eugene Cady",
+      "gender": "Male",
+      "city": "Kilgore",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6FeAPGu9PdiRbFlPIBGqxw=="
+    },
+    {
+      "name": "Steven Campbell",
+      "gender": "Male",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "80o/icNmOwV4tXyZiKarCQ=="
+    },
+    {
+      "name": "Caleb Canter",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lq1Gq0m21QkPAYjJsF5+YQ=="
+    },
+    {
+      "name": "Robin Carroll",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qb4g5FqmCB05Bcph7Xo7sg=="
+    },
+    {
+      "name": "Jason Carruthers",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "qzGHv5pEEGafWGBQRgol0Q=="
+    },
+    {
+      "name": "Cathy Carter",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WV9RF+kuNKqW+ArE92FIuw=="
+    },
+    {
+      "name": "Julie Caswell",
+      "gender": "Female",
+      "city": "Hallsville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZZE9sHifmDY597cW+Ln8Lg=="
+    },
+    {
+      "name": "Laura Cauthen",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "w9+uQVKiJZ1yAJ+rpohUNg=="
+    },
+    {
+      "name": "Jonathan Cauthron",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "eFoRAgtRat2mJ4T8QE9uag=="
+    },
+    {
+      "name": "LeiLani Chatterton",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "bv8j/tFMOykeuK9IDgJXIw=="
+    },
+    {
+      "name": "Dawn Clark",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/3/2024",
+      "usta_id": "95CY4IYg3QatERIZMoVl9w=="
+    },
+    {
+      "name": "Tyler Clark",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/18/2023",
+      "usta_id": "LtGuklYwyouF9yvxeEohoQ=="
+    },
+    {
+      "name": "Jon-Michael Cline",
+      "gender": "Male",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "YAW8gANiUW10aL/dBMF/vA=="
+    },
+    {
+      "name": "Hillary Cole",
+      "gender": "Female",
+      "city": "Hallsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JJtej6ZU2h4fnYxzvsFNsw=="
+    },
+    {
+      "name": "Richard Cole",
+      "gender": "Male",
+      "city": "Montalba",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/13/2024",
+      "usta_id": "PyxUbQnLc+8XBVtzDCCVlA=="
+    },
+    {
+      "name": "Robert Cole",
+      "gender": "Male",
+      "city": "Hallsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/29/2025",
+      "usta_id": "h9fWWRo8FHDkS/7LIF+1EA=="
+    },
+    {
+      "name": "Cindy Coleman",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SjVA65r+Z4n0rstdI6LEWw=="
+    },
+    {
+      "name": "David Collings",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7g94nRnjkqmcQKwN+0b3yQ=="
+    },
+    {
+      "name": "Jo Ann Compton",
+      "gender": "Female",
+      "city": "EUSTACE",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0P0ccH/Behh5XqLYYNdu1A=="
+    },
+    {
+      "name": "Debbie Conner",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bbaQY27pdVdLCeCCE39TGw=="
+    },
+    {
+      "name": "Eli Cook",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MyRYpfLBK7swO9o/lQCvYw=="
+    },
+    {
+      "name": "Karen Cook",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M2ZlJGcNKhob8exy4T6JGw=="
+    },
+    {
+      "name": "Tim Cooley",
+      "gender": "Male",
+      "city": "Henderson",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "4/2/2025",
+      "usta_id": "0quUh4D4PqbBx4mWBkTxUA=="
+    },
+    {
+      "name": "Bing Corpier",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "2/4/2025",
+      "usta_id": "aINjJFy0INL3GrdEmEOZ5A=="
+    },
+    {
+      "name": "Lori Corpier",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OnNPuahtKhIArGswejgYEQ=="
+    },
+    {
+      "name": "Eduardo Corvera",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hszxIuf5P+PZHSw/WxzRwQ=="
+    },
+    {
+      "name": "Johnna Cosentino",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "58flE8HHhwU3Tk6MTRqUOg=="
+    },
+    {
+      "name": "Candace Couch",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pUSbPXzNIIfaTeFWz3laPQ=="
+    },
+    {
+      "name": "Ken Coulon",
+      "gender": "Male",
+      "city": "Jacksonville",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XdA7NAhiydirVAx/YxM0gg=="
+    },
+    {
+      "name": "Stephen Courtright",
+      "gender": "Male",
+      "city": "Winona",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "TLn7MhLdPvuFdhMVGt/hHQ=="
+    },
+    {
+      "name": "Tricia Courtright",
+      "gender": "Female",
+      "city": "Winona",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TLn7MhLdPvtexDQFvJRQlA=="
+    },
+    {
+      "name": "Kensie Cowden",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wtoFsm2J7glSAmCgyftAkw=="
+    },
+    {
+      "name": "Kelli Cromer",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Oe0eYS6EPznWDDsikxdQHQ=="
+    },
+    {
+      "name": "Stacy Cromer",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0+GMQdZiiKLJWZh30D/Fmw=="
+    },
+    {
+      "name": "Sassy Crookshanks",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ruqJfPz8N1ACJ7X231gMNw=="
+    },
+    {
+      "name": "Ashley Crutchfield",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/4/2025",
+      "usta_id": "/atXO9ZrUcw9Rx0gnRlGrg=="
+    },
+    {
+      "name": "Lauren Cruz",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Nrh0a35ZC9jZddDvl4uECA=="
+    },
+    {
+      "name": "Patricia Dailey",
+      "gender": "Female",
+      "city": "Henderson",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hq3RYNyrkeAH6wO9ZgSnHQ=="
+    },
+    {
+      "name": "Rob Dailey",
+      "gender": "Male",
+      "city": "Henderson",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hq3RYNyrkeDfEDtoszIPqQ=="
+    },
+    {
+      "name": "Cathy Davis",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q26g9WoOtoxxVmQyFariPg=="
+    },
+    {
+      "name": "Rhonda Davis",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9jQaXn3UcQVqnYo5NDrCBg=="
+    },
+    {
+      "name": "Susan Davis",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AfV+IeXxuWYTwFe4d/RdLg=="
+    },
+    {
+      "name": "Thelford Davis",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/27/2024",
+      "usta_id": "x2kSvB3ISVm5zUwAh8xnYw=="
+    },
+    {
+      "name": "Erna de Boer",
+      "gender": "Female",
+      "city": "Chandler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8bTxrHlMcl52pOMM1jw2aw=="
+    },
+    {
+      "name": "Ted Debbs",
+      "gender": "Male",
+      "city": "Rusk",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EwXZ7FY2dTWNNpXA67KAnw=="
+    },
+    {
+      "name": "Beth Dennis",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c9ulcjJy97ad3pMDeYpU8A=="
+    },
+    {
+      "name": "Joseph Dennis",
+      "gender": "Male",
+      "city": "WHITEHOUSE",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "TJflQCBY8psr+6UQHKSakA=="
+    },
+    {
+      "name": "Linda Dickens",
+      "gender": "Female",
+      "city": "Palestine",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/6/2025",
+      "usta_id": "H03riEKcUp8ECOhJmHmFJA=="
+    },
+    {
+      "name": "Andrew Dixon",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "BRa5RUtJmZXUywHXUq0k0Q=="
+    },
+    {
+      "name": "Luke Donley",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/19/2025",
+      "usta_id": "geo9BYcl/NoGGCdb7jpCOg=="
+    },
+    {
+      "name": "Trent Dorough",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l16PzcmOIEEDEXsOAuUtKA=="
+    },
+    {
+      "name": "Thomas Dougherty",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "2/17/2025",
+      "usta_id": "qguwC2Mb3IQvc4KQXBuD4g=="
+    },
+    {
+      "name": "Katherine Doughten",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/14/2025",
+      "usta_id": "OJ6nahgKvH/YW7rUxVEQig=="
+    },
+    {
+      "name": "Aaron Douglas",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "F9UwVcKHgdNDo+fwSvhjjg=="
+    },
+    {
+      "name": "Lisa Douglas",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M3LUeBLq7I3l/NHQXEk/fg=="
+    },
+    {
+      "name": "Sheri Douglas",
+      "gender": "Female",
+      "city": "Lindale",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ugq4uOuM4SKlqPfnryxNrw=="
+    },
+    {
+      "name": "Isabelle Duarte",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "XAvQqN96xzEipmkOXWOlLw=="
+    },
+    {
+      "name": "Vivien Duarte",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3WgvzvEa2knvzbmuBEhnyA=="
+    },
+    {
+      "name": "Mary Duke",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "qnW4pBMtvhxGiFPIJQzdvQ=="
+    },
+    {
+      "name": "Rebecca Dunn",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "+wvhs2DBpWUGf0KmBGR/qQ=="
+    },
+    {
+      "name": "Shawn Dunn",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/20/2025",
+      "usta_id": "dUuVkx93ifYKB0kj1piJTw=="
+    },
+    {
+      "name": "William Dunwoody",
+      "gender": "Male",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "gbEcDAzfzruULNtp3Pu/eg=="
+    },
+    {
+      "name": "Mary Dyess",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uiv6V4FJjKYtHzXvf9r1dw=="
+    },
+    {
+      "name": "Ikey Eason",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HU2vLgyKCBANWFwuFmTqnw=="
+    },
+    {
+      "name": "Laura Easterling",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zvrKUtTwTPk0qgdDM7YyfQ=="
+    },
+    {
+      "name": "Robin Edgemon",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZompEm040R2NprRpUKTIkQ=="
+    },
+    {
+      "name": "Henry Ejianya",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qZszUC7dI3pYxohVpCa2DQ=="
+    },
+    {
+      "name": "Hannah Estes",
+      "gender": "Female",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BElcpWv5JAGO6gT/SCnmGg=="
+    },
+    {
+      "name": "Allison Ewert",
+      "gender": "Female",
+      "city": "BULLARD",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5A4BHkn1yisDhA8iDrUIEg=="
+    },
+    {
+      "name": "Ronald Fadal",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/12/2025",
+      "usta_id": "m/XW0GQ+XFiRsvf2mQTNTg=="
+    },
+    {
+      "name": "Kathleen Fain",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KaKVndrprf1bfdcdeMg/Ng=="
+    },
+    {
+      "name": "Johnny Fasang",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CoffUAJo6azT0/2Y6wlDRg=="
+    },
+    {
+      "name": "Nancy Fasang",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "anwl1QWKjNZNlpyULCAANg=="
+    },
+    {
+      "name": "Mathis Fender",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "8/15/2024",
+      "usta_id": "Kwc5UnDjdUfJRPSesTzPxg=="
+    },
+    {
+      "name": "Michael Fleming",
+      "gender": "Male",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NUzeGOR/UHxUWEsPK8l4bg=="
+    },
+    {
+      "name": "Crissy Forrest",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "3/2/2025",
+      "usta_id": "3yi3dNbNR3mjvEE/RecY4g=="
+    },
+    {
+      "name": "Brian Foster",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "5m5ca50FOybfiC/bRtakpw=="
+    },
+    {
+      "name": "Kristi Foster",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tdTNMnDSnfLQ0LrLDxtVqA=="
+    },
+    {
+      "name": "Pierre Fourie",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n8tfTzjoS/oX+FmKgbVRPg=="
+    },
+    {
+      "name": "Aileen Francisco",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sjOp+cHn9t4FNQ4Xk0ttkw=="
+    },
+    {
+      "name": "Holly Freeman",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gjuZsW5vXuMrRce1I03hbA=="
+    },
+    {
+      "name": "Yvette Freeman",
+      "gender": "Female",
+      "city": "Sunnyvale",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P3EuFe2Zx/CWqMExUhyLZg=="
+    },
+    {
+      "name": "David Frost",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aN9UQalqR/3SS97gCShSlQ=="
+    },
+    {
+      "name": "Brian Gadek",
+      "gender": "Male",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/13/2025",
+      "usta_id": "UpYHTYDoULZ6bakMivrVSw=="
+    },
+    {
+      "name": "Jennifer Gadek",
+      "gender": "Female",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yf9xZXkuKwjj9JpqrL760w=="
+    },
+    {
+      "name": "Scott Garner",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "NdPP5jbK8AKcUhfCmzEfmg=="
+    },
+    {
+      "name": "Dan Gaskell",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kq/FO/qYxfkVNIHqW4nInw=="
+    },
+    {
+      "name": "Candice Gast Wilcox",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GX7TIr9NayXND+bAjl3OXQ=="
+    },
+    {
+      "name": "Joe Glenn",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "DETt9DxEW7GBYevw84z4oQ=="
+    },
+    {
+      "name": "Kathryn Glenn",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qlvTikxGHQ/R52kJN0M1yQ=="
+    },
+    {
+      "name": "Jennifer Gray",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9I1WLiyNQbIdpp4Sy7WguQ=="
+    },
+    {
+      "name": "Jennifer Green",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mTcyvHdH49a+QGAm6Nb5UQ=="
+    },
+    {
+      "name": "Yumiko Green",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZDYGaB2YOfJpjJ4p/3tGNQ=="
+    },
+    {
+      "name": "Jo Ann Grooms",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6Yjb6apSc587dECAbLLhhQ=="
+    },
+    {
+      "name": "Amy Guthrie",
+      "gender": "Female",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/10/2024",
+      "usta_id": "mG1eG8akwodqgtWQvcDhQg=="
+    },
+    {
+      "name": "Brant Guthrie",
+      "gender": "Male",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b+knCScK8zjOYdD+CyNXDQ=="
+    },
+    {
+      "name": "Clay Hamil",
+      "gender": "Male",
+      "city": "Montalba",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "gTlPsGrmFotowSpruz5mtg=="
+    },
+    {
+      "name": "Jill Hamil",
+      "gender": "Female",
+      "city": "Montalba",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eRGICprz3lZckn0V1H6JlQ=="
+    },
+    {
+      "name": "Holly Hamilton",
+      "gender": "Female",
+      "city": "Henderson",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E6qn1G+klejNRscCjws12A=="
+    },
+    {
+      "name": "Joel Hancox",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "6/2/2025",
+      "usta_id": "tv2YYsaAHW0v1EEuDQOJBg=="
+    },
+    {
+      "name": "Lucero Harris",
+      "gender": "Female",
+      "city": "LONGVIEW",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/17/2025",
+      "usta_id": "r4d536BjkpUWY1RUeALRTw=="
+    },
+    {
+      "name": "Shelby Hart",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EDiL2m2p7Aw5mQknk8oU1g=="
+    },
+    {
+      "name": "Charles Hassell",
+      "gender": "Male",
+      "city": "Rusk",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S+zfz2PS1a7EziLzM64ItQ=="
+    },
+    {
+      "name": "Kimberly Havens",
+      "gender": "Female",
+      "city": "Lindale",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "seGF3M0otl+vgCFGb8DOtQ=="
+    },
+    {
+      "name": "Stella Haynes",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tYhBwgo5iSkwZhbJtFBYeg=="
+    },
+    {
+      "name": "Olivia Heaton",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eSrhi9+UtKSwGFM0I0pgzQ=="
+    },
+    {
+      "name": "Taylor Heaton",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KIzAPmShY2lgTqYrg+h7lA=="
+    },
+    {
+      "name": "Peter Heckmann",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vcMVVsfV14TeB+AUSSekdA=="
+    },
+    {
+      "name": "Katie Heimer",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7yjaGj1IIBU5tA0X4ZwQEQ=="
+    },
+    {
+      "name": "Dina Heithoff",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZRjQ7Z5oxt/j10AAbSXY5A=="
+    },
+    {
+      "name": "Jessica Helgesen",
+      "gender": "Female",
+      "city": "WHITEHOUSE",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9jAOGKkD7ZZTNxU/odcR2g=="
+    },
+    {
+      "name": "Anne Hembree",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Mor98/T4TtubrKB2bQuyag=="
+    },
+    {
+      "name": "Kimberly Henry",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TyZ9i8tUj80W9ELVVt733Q=="
+    },
+    {
+      "name": "Mario Hernandez",
+      "gender": "Male",
+      "city": "NORTH RICHLAND HILLS",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5IvYWS6i2SGcmowNwyiP3A=="
+    },
+    {
+      "name": "Amber Herrin",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/0sHC1ZJYigM3tGEJlI/Xw=="
+    },
+    {
+      "name": "Craig Hickerson",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "T1gqzM/uCE4Vs+DLvlPLZw=="
+    },
+    {
+      "name": "Barbara Hickey",
+      "gender": "Female",
+      "city": "Elysian Fields",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9PgQGNmedVMJ8o6ZjAfADA=="
+    },
+    {
+      "name": "Kamryn Hightower",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "xiHVEBTO0i9KirvzDlu8BQ=="
+    },
+    {
+      "name": "Heather Hill",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Y1BT99LlUarUUXRSr3BEBA=="
+    },
+    {
+      "name": "Katy Hill",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fvTb0okrYI/01u4WTfkgtg=="
+    },
+    {
+      "name": "Lisa Hinshaw",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "jGONaPkdLC3Zcsk8XAKDZg=="
+    },
+    {
+      "name": "Glenda Hinsley",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "toOQKILQiKTTzrtKtdbnTw=="
+    },
+    {
+      "name": "Courtney Hodge",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1OQEUTplxUA1oUzXuGMW6A=="
+    },
+    {
+      "name": "Kelly Hodge",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QJTDRyJHBtl2euZ/DzdDlA=="
+    },
+    {
+      "name": "Judy Hooks",
+      "gender": "Female",
+      "city": "Arp",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XFVgk0bsJdiVkEEnwc+HEw=="
+    },
+    {
+      "name": "Cody Hopkins",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/17/2025",
+      "usta_id": "UzhmP6p3VHWffbkKUKgxMw=="
+    },
+    {
+      "name": "Samuel Hopkins",
+      "gender": "Male",
+      "city": "Jacksonville",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "tTTjYHKM9jjtOeQTlBDKCg=="
+    },
+    {
+      "name": "Cynthia Horsley",
+      "gender": "Female",
+      "city": "Marshall",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "MDlHvHEs7WrFZwPVuf3yEw=="
+    },
+    {
+      "name": "Bobby Howard",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e5E1zwlyBAxs52I/YDgAFQ=="
+    },
+    {
+      "name": "Monica Hudspeth",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YGHkEKL1e7Css1f7OTTNTQ=="
+    },
+    {
+      "name": "Dawson Huffstuttler",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "I0LCLQZar5URGwNFQLHcjw=="
+    },
+    {
+      "name": "Kathy Huffstuttler",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j/hWLlWyb8HRRvSJTq3mBg=="
+    },
+    {
+      "name": "Kristi Huskey",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QFZ5CLEt1soDm4SHEzgu3A=="
+    },
+    {
+      "name": "Hilary Hymer",
+      "gender": "Female",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FtKAtdqJm/pTLlRY+zyEIQ=="
+    },
+    {
+      "name": "Russell Ivey",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+4GPI6rdaFaAIAZEb2gMCA=="
+    },
+    {
+      "name": "Dee Ivy",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/P9to3skCbiQfhOvVGaxwA=="
+    },
+    {
+      "name": "Charlotte Jackson",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rKBMl3VSUOW/pSGcnmqUzQ=="
+    },
+    {
+      "name": "Debbie Jackson",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J3GGmmH2jjvnDWn4dIP4yg=="
+    },
+    {
+      "name": "Melissa Jackson",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "U/nlLcSRDsT44aY+iqdKiA=="
+    },
+    {
+      "name": "Mario Jakovljevic",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aPir+Aaky4DgX7tejmjRbw=="
+    },
+    {
+      "name": "Simone James",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RQqvE01HBpyARTvDPYVjOw=="
+    },
+    {
+      "name": "Teresa Jasinski",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LYs1Phco0cuzrncxPJ30NA=="
+    },
+    {
+      "name": "Erin Jasper",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "v6wO5hK+wPvS8uAcyYtJ4A=="
+    },
+    {
+      "name": "Karla Jester",
+      "gender": "Female",
+      "city": "Holly Lake Ranch",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jPPxc1KgjarRyBOUpcWO7g=="
+    },
+    {
+      "name": "Celina Johnson",
+      "gender": "Female",
+      "city": "Lindale",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "11/18/2024",
+      "usta_id": "EAxHG1VIvbkjd9+W0xTpPw=="
+    },
+    {
+      "name": "Farrah Johnson",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/16/2025",
+      "usta_id": "bIFz+EHsR3UBVkkjsVD6uA=="
+    },
+    {
+      "name": "Jill Johnson",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qpcSBxWKfFKvBLo+3Af5Zw=="
+    },
+    {
+      "name": "Tracy Johnson",
+      "gender": "Male",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "zKQd7WkiyMbrMFnS/pegzQ=="
+    },
+    {
+      "name": "Amy Johnston",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "3HWZ/fWW8Y/mtapKEiDN2w=="
+    },
+    {
+      "name": "Jennifer Johnston",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "f9n3AnLhzd/XSIr8ryMPgQ=="
+    },
+    {
+      "name": "Kelly Johnston",
+      "gender": "Male",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2023",
+      "usta_id": "YJFwgJCvtGHECvHu8WSB1g=="
+    },
+    {
+      "name": "Phyllis Jolley Smith",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "oRoaHGhG1BWrbj5sCnXnNQ=="
+    },
+    {
+      "name": "Jackie Jones",
+      "gender": "Female",
+      "city": "Ben Wheeler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZtMmsysZ/3HBcSoU68sWKw=="
+    },
+    {
+      "name": "Kevin Jones",
+      "gender": "Male",
+      "city": "Harleton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0dVy9R6/xETf/RyApXw9sg=="
+    },
+    {
+      "name": "Traci Jones",
+      "gender": "Female",
+      "city": "Harleton",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/2/2024",
+      "usta_id": "H6lmdwjQ0H4h3uludtvq6Q=="
+    },
+    {
+      "name": "Cara Jordan",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8VIfsT/bHpEIpy7iyPwsaQ=="
+    },
+    {
+      "name": "Wes Jordan",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/30/2024",
+      "usta_id": "/JOIzGqoCO8u5wegYOWhSg=="
+    },
+    {
+      "name": "Deedee Keener",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rmEVfZWUf60t11Yn4PA7cA=="
+    },
+    {
+      "name": "Dominic Keim",
+      "gender": "Male",
+      "city": "Winchester",
+      "state": "KY",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "AjlWvL0D4BylS7uw4ODihg=="
+    },
+    {
+      "name": "Amy Kennedy",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8FIlNd55eruA+XAyCaDMRw=="
+    },
+    {
+      "name": "Robert Kennedy",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/fYzIG/l99dYnk9n+ujO8g=="
+    },
+    {
+      "name": "Ivan Kholodnyy",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/16/2025",
+      "usta_id": "JOcG0i39vHpP6v0qL60woA=="
+    },
+    {
+      "name": "Ryan Killough",
+      "gender": "Male",
+      "city": "Pittsburg",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CG5ofL7Uo8dDiU5tl2MhOw=="
+    },
+    {
+      "name": "Victoria Kinsland",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/17/2025",
+      "usta_id": "Fba2ZsdcS0SIYrlIxNZJJw=="
+    },
+    {
+      "name": "Jamie Kirby",
+      "gender": "Female",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0+TsKWFvV1olA9qfqjiPpw=="
+    },
+    {
+      "name": "Christine Kjosa",
+      "gender": "Female",
+      "city": "Lindale",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Cn6yYZmb4RzSUGY+NnSNFQ=="
+    },
+    {
+      "name": "Mary Knight",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "l4idJr/J90rfynu64JErwg=="
+    },
+    {
+      "name": "Katherine Koeffler",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/13/2024",
+      "usta_id": "W4zRuWIcc3gjqSdBjnwFKA=="
+    },
+    {
+      "name": "Mary Kolder",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GgXVCe4nzINDNE9xujLSdw=="
+    },
+    {
+      "name": "Matthew Koop",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/13/2025",
+      "usta_id": "/gCBG8emaKNI72xa9fHkoQ=="
+    },
+    {
+      "name": "Aimee Krog",
+      "gender": "Female",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wd9ZHSrbShYan71WfZ9scQ=="
+    },
+    {
+      "name": "Kathy Lamb",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "1nrDhtbedzeWEw2E/uQ7bw=="
+    },
+    {
+      "name": "Kacie Lambeth",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/20/2025",
+      "usta_id": "ST/7q2AQCaaat0aF2mG5yg=="
+    },
+    {
+      "name": "Kacy Land",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "68FIn7veZPDupjcgYKT3Gw=="
+    },
+    {
+      "name": "Indira Lanka",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "36GRCdufvRDHHot3zKmF1A=="
+    },
+    {
+      "name": "Laura LaToof",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/6/2024",
+      "usta_id": "HaJk51g2KZ+kSyCRhvSvng=="
+    },
+    {
+      "name": "Robby Leach",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DMng8gWRZsb5W35g55H3/Q=="
+    },
+    {
+      "name": "Jenny Leavitt",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2025",
+      "usta_id": "qY7Br7iXO1UNjb3Ww7p2WQ=="
+    },
+    {
+      "name": "Rachel Ledbetter",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J03CsDeYwMTqGSx2k3yjgw=="
+    },
+    {
+      "name": "Caroline Lee",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uRTfFmt2rDNU0sHkbBMZqA=="
+    },
+    {
+      "name": "Shera-Donne Lee",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "Ko7U3aCX+kaigtPpzNjSJA=="
+    },
+    {
+      "name": "Todd Lee",
+      "gender": "Male",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "nfT1xsqvIGW/QgazWd+dhQ=="
+    },
+    {
+      "name": "Leah Leifer",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "teWPFCkLN7FeAEnHhC6nYw=="
+    },
+    {
+      "name": "Hannah Leitner",
+      "gender": "Female",
+      "city": "Henderson",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/11/2024",
+      "usta_id": "/Ul7jFKd3qZBUCLJvJJ59w=="
+    },
+    {
+      "name": "Margaret Leitner",
+      "gender": "Female",
+      "city": "Henderson",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/Ul7jFKd3qZqjoCjGKIdpQ=="
+    },
+    {
+      "name": "Mark Leitner",
+      "gender": "Male",
+      "city": "Henderson",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UpUgtnVRQGrATSV/dggycg=="
+    },
+    {
+      "name": "Sherrie Lewis",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "8bu6cD4XC+ZRkANN5P4RmQ=="
+    },
+    {
+      "name": "Tiffany Lewis",
+      "gender": "Female",
+      "city": "Gladewater",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/21/2025",
+      "usta_id": "Wq+fYQOhPFQfQrlxxREkhw=="
+    },
+    {
+      "name": "Jaime Lezama",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hYrnUkc56Q1CXoQC8noO9Q=="
+    },
+    {
+      "name": "Glenda Lindekugel",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5XgwNSHKsybA/tVya//nUA=="
+    },
+    {
+      "name": "Shannon Line",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xEZ8obSuj08wZO4jGTogGA=="
+    },
+    {
+      "name": "Katy Link",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/21/2025",
+      "usta_id": "dssJV/PB5Uk5utQUBDPTNA=="
+    },
+    {
+      "name": "Yan Liu",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qPZXRcOB42lhrI9SBkseMw=="
+    },
+    {
+      "name": "Ryan Locker",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "lxM9sVszwMawDgU6unbx1Q=="
+    },
+    {
+      "name": "Charles Looney",
+      "gender": "Male",
+      "city": "Texas",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/7/2025",
+      "usta_id": "9rUdfNCgf+TtygvUsvp2Cg=="
+    },
+    {
+      "name": "Lisa Losack",
+      "gender": "Female",
+      "city": "Chandler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TylnoTTU73+i/6vfJz+x1Q=="
+    },
+    {
+      "name": "Deesa Loving",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hnXbNbS39E+e+y7roS9Dmg=="
+    },
+    {
+      "name": "James Lowden",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/29/2025",
+      "usta_id": "h978V/UhxXSOiW39TQgzgA=="
+    },
+    {
+      "name": "Kathleen Lowdermilk",
+      "gender": "Female",
+      "city": "Grand Saline",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EwXZ7FY2dTXwwHzuDTMFbQ=="
+    },
+    {
+      "name": "Deborah Lowe",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XuSnJkIs+zu7l+kdOrmUpw=="
+    },
+    {
+      "name": "Nichole Lowe",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "CjNmyX0dNofEeV3XJCO0UA=="
+    },
+    {
+      "name": "Rob Lowe",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "C4lFXiPWZYBnEtmBGMv9Iw=="
+    },
+    {
+      "name": "Nancy Lowrance",
+      "gender": "Female",
+      "city": "BULLARD",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "O+K76U3X9SrYi8RozQI9eg=="
+    },
+    {
+      "name": "Shannon Lutmer",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GX7TIr9NayUk/GkUgR8bbQ=="
+    },
+    {
+      "name": "Jody Madding",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eGOeQRtDamExVWDaHrc/nQ=="
+    },
+    {
+      "name": "Joyce Mallory",
+      "gender": "Female",
+      "city": "Lindale",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vVQBQh/Q424cqXBeecj3Ug=="
+    },
+    {
+      "name": "Lesley Manuel",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tQQgm00qs6tkIqGM2/cIiQ=="
+    },
+    {
+      "name": "Deonna Margraves",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/28/2025",
+      "usta_id": "hbmwwfuL8/XxxBvHKQ2tZw=="
+    },
+    {
+      "name": "Matthew Marshall",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RWlORIJAIFWxEgEWeYZ1UA=="
+    },
+    {
+      "name": "Karen Martell",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "CoLTQH60bPv+4TbRbjzdtA=="
+    },
+    {
+      "name": "Crystal Martin",
+      "gender": "Female",
+      "city": "BULLARD",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GEGku/7PbzdJnVbO+K8huw=="
+    },
+    {
+      "name": "Nina Martin",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Lj6ClWwPML9ou+Yk45bTTw=="
+    },
+    {
+      "name": "Edgar Martinez",
+      "gender": "Male",
+      "city": "Fort Worth",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tUT0BI3SikRWhC7alV66TQ=="
+    },
+    {
+      "name": "Fabio Martinez",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4ZLl+RPghdo+0UPZYnj3DA=="
+    },
+    {
+      "name": "Lacy Mattek",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DatPfohS/qpzjUcBbWpOEQ=="
+    },
+    {
+      "name": "Amelia Maxwell",
+      "gender": "Female",
+      "city": "White Oak",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iXTEdb29drr7NAYIk3KSLA=="
+    },
+    {
+      "name": "Judy Mayberry",
+      "gender": "Female",
+      "city": "Canton",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3JVcs9FRDcxNOJ0n6MkUtA=="
+    },
+    {
+      "name": "Dayna Mayer",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sM4YHHzAnBDkQuHLhElPSA=="
+    },
+    {
+      "name": "Lauren Mayer",
+      "gender": "Female",
+      "city": "Midlothian",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "5/23/2025",
+      "usta_id": "SpkGRKhChHABbUPEY4ZHSw=="
+    },
+    {
+      "name": "Mallory Mayne",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pUFZOTeqWVp9D/spkab/VQ=="
+    },
+    {
+      "name": "Kaylee McAlister",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s/ERV7m913pHBOWWMj8+0A=="
+    },
+    {
+      "name": "Jamye McAlister-Rodgers",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4sKTYudnEq0qtLYYScCalw=="
+    },
+    {
+      "name": "Cynthia McAndrew",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tAokxDDQoZxxADLXxoZoVQ=="
+    },
+    {
+      "name": "Thom McBride",
+      "gender": "Male",
+      "city": "Palestine",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jMOGI3KXG2FrJlSpi18Cow=="
+    },
+    {
+      "name": "Mike Mcburney",
+      "gender": "Male",
+      "city": "Rockport",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JmEE3jXszUIQRgYv/p+Xyw=="
+    },
+    {
+      "name": "Janet McClung",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rv0tTWrM5VAkueSjewcUjA=="
+    },
+    {
+      "name": "Becky McCord",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/22/2025",
+      "usta_id": "gKU8vl1ytehCtxvcGukIkQ=="
+    },
+    {
+      "name": "Lisa McCrary",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+gNlQ2miBRFLM9t7wGDciw=="
+    },
+    {
+      "name": "Sharyn McElmurry",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "Cr16VaeLKz/53XcxA/khFg=="
+    },
+    {
+      "name": "Janna McGehee",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O5xDp9ve/qZxKj/NYbHAWw=="
+    },
+    {
+      "name": "Angie McHann",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "88L0in3j8AjsVqJ5Iph3lA=="
+    },
+    {
+      "name": "Ashley McIntyre",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "O902jt15ueth4+E5fij3Cg=="
+    },
+    {
+      "name": "Debra McKinley",
+      "gender": "Female",
+      "city": "Lindale",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SwbKMH2ab6qFaecL3uYTmw=="
+    },
+    {
+      "name": "Chris Mclarry",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "2w7JB5yT6L++Lieph/amRw=="
+    },
+    {
+      "name": "Connie McMillin",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "D8BmN4+czifl98JiDh6rTg=="
+    },
+    {
+      "name": "Felicity Mekala",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tXjfSltgPGHbHPVmJnvkWA=="
+    },
+    {
+      "name": "Pedro Mena",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EkPERcLgqRU7rIvNEMNKNg=="
+    },
+    {
+      "name": "Carlos Mendoza",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "8/3/2024",
+      "usta_id": "vCK425mLY78cDu83RwoQiQ=="
+    },
+    {
+      "name": "Barry Metz",
+      "gender": "Male",
+      "city": "Kilgore",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/5/2025",
+      "usta_id": "X45Xv8azYmlvgvQMSkw6Bg=="
+    },
+    {
+      "name": "Kelly Michaels",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KhSt9PUbxjCt5pUFC11/pQ=="
+    },
+    {
+      "name": "Jim Middleton",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yeV76GlHv8Hp6AymK0/7jQ=="
+    },
+    {
+      "name": "Suzanne Middleton",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WURyNvDcXApm3w3vo4TjXg=="
+    },
+    {
+      "name": "Andrew Midkiff",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KaWDbYQSzTzZ0OwlsuTe3A=="
+    },
+    {
+      "name": "Adrianne Miller",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Fi2bhnVdbUTYs0gf1RYCOA=="
+    },
+    {
+      "name": "Jeff Miller",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/30/2024",
+      "usta_id": "Fi2bhnVdbUTA95fYkmdCag=="
+    },
+    {
+      "name": "Linda Miller",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LKVdq4aIJF06XEF3I804XQ=="
+    },
+    {
+      "name": "Amy Mills",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kw41oiboGi5iYOhJrXYWMQ=="
+    },
+    {
+      "name": "Jeffrey Mills",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/18/2024",
+      "usta_id": "df7JTfis30KTNoMtDOvAeg=="
+    },
+    {
+      "name": "Mechele Mills",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/18/2024",
+      "usta_id": "CwjZjfPI78j+mG9Bhh2Reg=="
+    },
+    {
+      "name": "Paul Min",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6HMgnQVp3CBp0rpH85E2Wg=="
+    },
+    {
+      "name": "Sonya Minnerly",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wX0k1/Ftz61nsja2pJd1mw=="
+    },
+    {
+      "name": "Polly Mirsky",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+mwrW8OgwhIFXAI7ctp1Wg=="
+    },
+    {
+      "name": "Pete Molina",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WsEwMuxXSGURTwu+ZYReQg=="
+    },
+    {
+      "name": "Eric Montgomery",
+      "gender": "Male",
+      "city": "Diana",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gBaC1C3GzJzeG0vF494+8w=="
+    },
+    {
+      "name": "Paul Morris",
+      "gender": "Male",
+      "city": "Henderson",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JYPQcG7LeBvLSMvO8y1B0A=="
+    },
+    {
+      "name": "Callie Morton",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cBCobf1kfLCpP6brHGwH4A=="
+    },
+    {
+      "name": "Skip Morton",
+      "gender": "Male",
+      "city": "HALLSVILLE",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sS6eZVf0vdL98PlWBvE0FQ=="
+    },
+    {
+      "name": "Tricia Murphy",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "qIPMBpgcWzua60vGwF4eSw=="
+    },
+    {
+      "name": "Barbara Murray",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0wGZILLUnE8hy0y6YgA+eQ=="
+    },
+    {
+      "name": "Dylon Neal",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "6/28/2024",
+      "usta_id": "z4KaMrNiG2G5oI2mrqrGfQ=="
+    },
+    {
+      "name": "Lum Newburn IV",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/20/2025",
+      "usta_id": "UQOVOK4imH1V0q/UC8ZOag=="
+    },
+    {
+      "name": "Al Newill",
+      "gender": "Male",
+      "city": "Holly Lake Ranch",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O285jG2UTH9LawJQvgcNtg=="
+    },
+    {
+      "name": "Yvonne Newman",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nTGNcyMNn/YR0Oki3XmFMQ=="
+    },
+    {
+      "name": "Alina Nietsche Pereira",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "n94UfAkKaKfZteHNhJQX+A=="
+    },
+    {
+      "name": "William Norton",
+      "gender": "Male",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "XmS+reOAftD8sHiQxzwlfA=="
+    },
+    {
+      "name": "Diana Norwood",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J2mzn7NXMtWj8/0KnIkISg=="
+    },
+    {
+      "name": "Anastasiya Nosova",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "r2qWda6iZXVf/Rq+Vsn/kw=="
+    },
+    {
+      "name": "Michelle Null",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CENuiUpugPEyVyKw+3r0oQ=="
+    },
+    {
+      "name": "Christina Nunez",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xm5EDtbUq7h9/xeo9iz7Yw=="
+    },
+    {
+      "name": "Manuel Nunez",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/25/2024",
+      "usta_id": "sPjiciAOLdicr/KoOf52KA=="
+    },
+    {
+      "name": "Brandon Odom",
+      "gender": "Male",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jNrvQD+lVAh2HjmKbzf/aA=="
+    },
+    {
+      "name": "Sarah Oellermann",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fMs/MEMxcxdRY1KJdzktUQ=="
+    },
+    {
+      "name": "Grant E Oepkes",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "b1Hrt35Ub0qXuGExiwCyDA=="
+    },
+    {
+      "name": "Jeff Olds",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "+I8enm/3Qi/PJnDRJeNlSA=="
+    },
+    {
+      "name": "John Olwell",
+      "gender": "Male",
+      "city": "Farmington",
+      "state": "MN",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "y8GdaGS4lNnJtKpP/ep3HA=="
+    },
+    {
+      "name": "ALONSO OSORIO",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "2/2/2025",
+      "usta_id": "AZeXK4Y9d31WrJo0KgJ3vQ=="
+    },
+    {
+      "name": "Gabriel Oxler",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "T",
+      "rating_date": "12/31/2024",
+      "usta_id": "EMTgfK6/jifCZboIIwvQnQ=="
+    },
+    {
+      "name": "Kimberly Park",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TxutoUZajp7p/GKM48ccwg=="
+    },
+    {
+      "name": "Bill Parker",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QdVqHeFO3FMoTJ1Q/tHlzQ=="
+    },
+    {
+      "name": "Lana Parker",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KZ7HUKmyjJXSlypuKGe5WA=="
+    },
+    {
+      "name": "Jeff Parnell",
+      "gender": "Male",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "11/16/2024",
+      "usta_id": "QnLyeKC7lPKw4+FvvzLPzA=="
+    },
+    {
+      "name": "Mark Patheal",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0KKda053gFkG5fuSOruxEg=="
+    },
+    {
+      "name": "James Pelfrey",
+      "gender": "Male",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "AnUyXGDNK1ssk9UunmceLA=="
+    },
+    {
+      "name": "Dawson Penn",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/22/2025",
+      "usta_id": "OVKxfbhoaH+z4VfjZf14kA=="
+    },
+    {
+      "name": "Lucas Pereira",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "6/3/2025",
+      "usta_id": "pPoDqBXMk9UqJlw3Z6BnEg=="
+    },
+    {
+      "name": "David Perkins",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "5/26/2025",
+      "usta_id": "JqOzg9T1VlyWI49qK285zA=="
+    },
+    {
+      "name": "Dorothy Peterson",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZNoMD929vUGFJQT4gDlfCw=="
+    },
+    {
+      "name": "Jill Phelps",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "R2IAfhEvqaUFFIDAZa8j+g=="
+    },
+    {
+      "name": "Leah Philley",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "lb0dhGRAwbhVGsuEtRgIQg=="
+    },
+    {
+      "name": "Sarah Phillips",
+      "gender": "Female",
+      "city": "FLINT",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "6/1/2025",
+      "usta_id": "ADB7ZCb8p5kKV5Ga1qPDjg=="
+    },
+    {
+      "name": "Pam Phinny",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9SgCJVgZZTGY1WuOCNtXXQ=="
+    },
+    {
+      "name": "Cheryl Pierce",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9kbGAMR6k6F1L/NpI3TUmw=="
+    },
+    {
+      "name": "Ellen Pierce",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uKCDmouqzilHVz2vU3p3uA=="
+    },
+    {
+      "name": "KP Pierce",
+      "gender": "Female",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/1/2025",
+      "usta_id": "UYWmRq7yS2VTV3QVYYL2KA=="
+    },
+    {
+      "name": "Francisco Pineda Ramirez",
+      "gender": "Male",
+      "city": "Chandler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "vpGI/83XZx4OoYobaCCisg=="
+    },
+    {
+      "name": "Leanne Pool",
+      "gender": "Female",
+      "city": "Hallsville",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eYIGXBYNk09XhPZ7eu/UKQ=="
+    },
+    {
+      "name": "Chanda Porter",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ObAhsTy5U6YYBwfmfw1Rtw=="
+    },
+    {
+      "name": "Tiffany Porter",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/1/2025",
+      "usta_id": "7bfUks/peVnrsWwVtnod/g=="
+    },
+    {
+      "name": "Rick Quevedo",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "W1wSbvuI/9VhgBN4et7Erw=="
+    },
+    {
+      "name": "Stephanie Quevedo",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "JiPE5BUOUc0BMl5iFugidQ=="
+    },
+    {
+      "name": "Alex Quinones",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "n/IoQyAL5ab3AV0aa86vRg=="
+    },
+    {
+      "name": "David Rainwater",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u/yRyNyjG2B116nncZAIgw=="
+    },
+    {
+      "name": "Benjamin Randall",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "CiTQgzizrcxruALWF/BEhg=="
+    },
+    {
+      "name": "Srinivas Rangu",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "psWXmOLTVIdGjw9JV5WYcQ=="
+    },
+    {
+      "name": "Brianna Rawlings",
+      "gender": "Female",
+      "city": "Griffin",
+      "state": "GA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DR+ObyZQw1FFcEi8ssoo0A=="
+    },
+    {
+      "name": "Sean Ray",
+      "gender": "Male",
+      "city": "Athens",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "rKK1kpMT6Xzz7yC9ES7o5g=="
+    },
+    {
+      "name": "Sherry Ray",
+      "gender": "Female",
+      "city": "Brownsboro",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "4/4/2024",
+      "usta_id": "soYIB7zROGQV+fe9MAw1zg=="
+    },
+    {
+      "name": "Laura Rectenwald",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/19/2025",
+      "usta_id": "tpjuwmWCc9PNg9n7IDRJ8g=="
+    },
+    {
+      "name": "Scott Rectenwald",
+      "gender": "Male",
+      "city": "Marshall",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/25/2025",
+      "usta_id": "udUMQRoNtwHF6piqzupwMA=="
+    },
+    {
+      "name": "Veena Reddy",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BRwtD3TRluX/H97jmQd2XQ=="
+    },
+    {
+      "name": "Tanya Redic",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/30/2025",
+      "usta_id": "yF4GTQkniJhr5oL1cODKEg=="
+    },
+    {
+      "name": "Ashley Reed",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OI/jkx0L38fGjqB+/Xf1Yg=="
+    },
+    {
+      "name": "MaryBeth Reeves",
+      "gender": "Female",
+      "city": "Marshall",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "0sfCJvp9YgqxOMgzBxAuEA=="
+    },
+    {
+      "name": "Jackie Reily",
+      "gender": "Female",
+      "city": "Bedford",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "snnPIqC0tTE="
+    },
+    {
+      "name": "Sandra Reily",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OONezNHJH7aWj5eS9Qdgdw=="
+    },
+    {
+      "name": "Linda Resnik",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pEoDoyJRzHeO8bFpaPjsrA=="
+    },
+    {
+      "name": "Theresa Reynolds",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+oxWbIs2IvNmG42XybqrzA=="
+    },
+    {
+      "name": "Nathaniel Rhyne",
+      "gender": "Male",
+      "city": "Bullard",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/28/2025",
+      "usta_id": "wWLJu3KrrMQ+vyCJA6tDFQ=="
+    },
+    {
+      "name": "Debra Richardson",
+      "gender": "Female",
+      "city": "Waskom",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9PgQGNmedVOXDkuvjhvuOg=="
+    },
+    {
+      "name": "Avery Riley",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "cySWI7goDe9V08xl8H8pew=="
+    },
+    {
+      "name": "Karen Ritch",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "P+X0SQ7N6IK35Iaq0Ax1Qw=="
+    },
+    {
+      "name": "Kurt Ritch",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "H4V6ozuhscC+twM5X7jSyg=="
+    },
+    {
+      "name": "Machelle Robbins",
+      "gender": "Female",
+      "city": "LONGVIEW",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "G/sqz4QgE2nMSTctIgogkg=="
+    },
+    {
+      "name": "Kristi Roberson",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ma+7GEXm6phwbD0Rrwh9nw=="
+    },
+    {
+      "name": "Megan Roberts",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "5/7/2025",
+      "usta_id": "jN38pC5+ZcGcPuT9TgnH9w=="
+    },
+    {
+      "name": "Shuku Roberts",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gRElbXWn1fWtclfyhBD2fw=="
+    },
+    {
+      "name": "Meg Robertson",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wN/qHMByXD0QaseJocmgEg=="
+    },
+    {
+      "name": "Janice Rogers",
+      "gender": "Female",
+      "city": "Wills Point",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bHWlFL+ZIJG5/E0EgbuIrg=="
+    },
+    {
+      "name": "Clara Ross",
+      "gender": "Female",
+      "city": "Judson",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rCQjYOY37zMMeT+J47rBIw=="
+    },
+    {
+      "name": "Melinda Ross",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2nYErUy3Lo6BE5IoLvoMIw=="
+    },
+    {
+      "name": "MacY Ruark",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "eCNFS/hSIN8wOEUQqCC2vg=="
+    },
+    {
+      "name": "Angie Russell",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "2aW1nVTlwO5WlHffJaxMAQ=="
+    },
+    {
+      "name": "Alex Ryser",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vZVxrwFjAYFNalp2wfEO9g=="
+    },
+    {
+      "name": "Tina Saczek",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "iDELfDX1o5329kVk6E4jiA=="
+    },
+    {
+      "name": "Lianne Sanchez",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6yEwUsc9kTJu26M5ycqUjQ=="
+    },
+    {
+      "name": "Karla Santillana Fernandez",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "SA29KP7SwdBuIDGuYaFzRA=="
+    },
+    {
+      "name": "Jeremiah Santschi",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yL1ej3XLg16Q7s+TZIFEaQ=="
+    },
+    {
+      "name": "Pavan Saridena",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "6/15/2025",
+      "usta_id": "KdqX1s7PqlCDxn7WGc8hTA=="
+    },
+    {
+      "name": "Jennifer Sawyer",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lGcuxf8QaHNXAGBCaEF4WQ=="
+    },
+    {
+      "name": "Todd Sawyer",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "8Lbl8lg/SKuahA8ljninFg=="
+    },
+    {
+      "name": "Patty Schnittker",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1TMc98TI82Al055ic7UoOA=="
+    },
+    {
+      "name": "Erin Schroeder",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "jH+tONbKUgtUShVT4xvHzw=="
+    },
+    {
+      "name": "Martha Schulz",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/27/2024",
+      "usta_id": "V2owdoRmWm3L63Fd5fWiaQ=="
+    },
+    {
+      "name": "Matthew Schulz",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/4/2025",
+      "usta_id": "EA7TdoVbSLA20Y04diuVSA=="
+    },
+    {
+      "name": "Susan Searight",
+      "gender": "Female",
+      "city": "MINEOLA",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "aIG6OdMPmOGwH30kAL3pjg=="
+    },
+    {
+      "name": "Michael Sessions",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hblZZUJL24p+KYuHMlYDdA=="
+    },
+    {
+      "name": "Toni Sharp",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "O2zOuNoWTQvozrshk3f6aA=="
+    },
+    {
+      "name": "Kevin Shelley",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Bntlz61oHZnunlreleuBuQ=="
+    },
+    {
+      "name": "Mary Shelmire",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hJ5mBYxI2qV2zBBx7VH8qA=="
+    },
+    {
+      "name": "Cici Shelton",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "jhmzSn3hA3NdpRO2tLcDUw=="
+    },
+    {
+      "name": "Andrew Sherrell",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/24/2025",
+      "usta_id": "HfuA76rwfFfkai10JF8dXw=="
+    },
+    {
+      "name": "Jaclyn Sherrell",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EMaNOSU2PFEhPAlhx+RE+A=="
+    },
+    {
+      "name": "Beth Short",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qWrxBVrnNhzBL050nq42Iw=="
+    },
+    {
+      "name": "Abygail Silva",
+      "gender": "Female",
+      "city": "Sulphur Springs",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "RGNzibuzziO6Ao8xjIEtFQ=="
+    },
+    {
+      "name": "Alisa Simmons",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XMheUTZ3Y8HZXwrNFSTKYg=="
+    },
+    {
+      "name": "Alison Simmons",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "TKM7j06oPa5dHhcbEa0vxA=="
+    },
+    {
+      "name": "Chris Singer",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "bMMIiiRsujT2LXUwfJJshw=="
+    },
+    {
+      "name": "Rebekah Singleton",
+      "gender": "Female",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7qQqNc74Y9w9Zjoh+/qfpg=="
+    },
+    {
+      "name": "Ann Skogerboe",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/23/2024",
+      "usta_id": "4+uk58nWbTW0FwKEQsr7ww=="
+    },
+    {
+      "name": "Emily Skoog",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/26/2025",
+      "usta_id": "chBTyQEKibxYKgPAp5kF3Q=="
+    },
+    {
+      "name": "Hunter Skoog",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "kzCRvrX8Cbu1vywzzcTbAg=="
+    },
+    {
+      "name": "J T Slaughter",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Io/vUuhe8Bm3ZRH9GkYAfg=="
+    },
+    {
+      "name": "Jeff Smith",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "10/28/2024",
+      "usta_id": "F3gjufE2zmoOa3HJXPvkYQ=="
+    },
+    {
+      "name": "Jennifer Smith",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/23/2025",
+      "usta_id": "MF/uB4W+qBSNn5mS+E9YAg=="
+    },
+    {
+      "name": "Jennifer Smith",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "4SAjCYCYDlhdjBzpkOpP4g=="
+    },
+    {
+      "name": "Kathryn Smith",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/23/2025",
+      "usta_id": "zJK3Om1UC+wd19OhHEAsgw=="
+    },
+    {
+      "name": "Nobel Smith",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/29/2025",
+      "usta_id": "4y4NRP7W8PDo9JWRw4gNgA=="
+    },
+    {
+      "name": "Peggy Smith",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qs4IJFmKS9wjo4TOwHvyNA=="
+    },
+    {
+      "name": "David Socia",
+      "gender": "Male",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/4/2025",
+      "usta_id": "w6PvDr/Xn2QJwUrr0d2xIg=="
+    },
+    {
+      "name": "Katie Socia",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OI/jkx0L38e893UkuUweXQ=="
+    },
+    {
+      "name": "John Spellman",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "Q7TY3Ejwi2gbszAV8EcNbQ=="
+    },
+    {
+      "name": "Penny Spellman",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bDrvH8qlD9t/sSFVgBohtw=="
+    },
+    {
+      "name": "John Spence",
+      "gender": "Male",
+      "city": "Forney",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zSuhlqP6owzBxrXsUl253Q=="
+    },
+    {
+      "name": "Morgan Spicer",
+      "gender": "Female",
+      "city": "Jacksonville",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "HJwmQJthCDJGXaWFVotsLQ=="
+    },
+    {
+      "name": "Andria Stein",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WadmU+n67O/NfsxNSGJ9fw=="
+    },
+    {
+      "name": "Jeffrey Stein",
+      "gender": "Male",
+      "city": "EDGEWOOD",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "7/17/2024",
+      "usta_id": "eZtmRyefGJxGpTFFDnMDYw=="
+    },
+    {
+      "name": "Heather Surholt",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sNXOTovp8FRe/hkUbK4dFg=="
+    },
+    {
+      "name": "Koleson Sutsch",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "6/5/2025",
+      "usta_id": "EA7TdoVbSLDDJYbM7YEDVQ=="
+    },
+    {
+      "name": "Neal Sutton",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kV0EhnAy4HTZ2RtdLfa0yw=="
+    },
+    {
+      "name": "Brooke Swann",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E+ZaBpmT1GKC4EKaJK6iVg=="
+    },
+    {
+      "name": "Ryan Sword",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "524hYhaXGlX3dJ7SHXwWjg=="
+    },
+    {
+      "name": "Soong Tam",
+      "gender": "Male",
+      "city": "HOUSTON",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2024",
+      "usta_id": "6jGNQTCdktzshRC1nhNLjg=="
+    },
+    {
+      "name": "Shawna Tankersley",
+      "gender": "Female",
+      "city": "BULLARD",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "D8BmN4+czidvgH02idF/xg=="
+    },
+    {
+      "name": "Diane Tauscher",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9fTSeDJK+7TY0ssrFtfV2g=="
+    },
+    {
+      "name": "Breanna Taylor",
+      "gender": "Female",
+      "city": "Lindale",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "5/5/2025",
+      "usta_id": "TiYEIdl8BVbRWoOBSz08bQ=="
+    },
+    {
+      "name": "Reeda Taylor",
+      "gender": "Female",
+      "city": "Marshall",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2FUN0D163afnEGjOy3XTfg=="
+    },
+    {
+      "name": "Reannine Teer",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "6/13/2024",
+      "usta_id": "c+5OgqoqV+E+yW/Ypu1uBw=="
+    },
+    {
+      "name": "Cheryl Terry",
+      "gender": "Female",
+      "city": "Lindale",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kph75cCQbJ4ySb/5t6hovg=="
+    },
+    {
+      "name": "Sarah Teves",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UkqhXH6cryqctTFagmjGYg=="
+    },
+    {
+      "name": "Kami Thompson",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "7sX/tgQseZPCEIdxVQsZtQ=="
+    },
+    {
+      "name": "Martha Thompson",
+      "gender": "Female",
+      "city": "Big Sandy",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9XN6oV0xWdZykgO8qTwfUQ=="
+    },
+    {
+      "name": "Sunny Thompson",
+      "gender": "Female",
+      "city": "Marshall",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4XBCH0LswNZ1ucgd83asCA=="
+    },
+    {
+      "name": "Suzy Trimble",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YZEF07Z+xx9FcB3VkKc92g=="
+    },
+    {
+      "name": "Judy Tschirhart",
+      "gender": "Female",
+      "city": "Troup",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "7/17/2025",
+      "usta_id": "kyQnB22Lwku7iNeVCUpCtw=="
+    },
+    {
+      "name": "Meridith Twaddell",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "4gGf8gplsKBcGp3NX8GeBQ=="
+    },
+    {
+      "name": "Tim Twaddell",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "xiWNLuJOUS1naLqWA/J2vA=="
+    },
+    {
+      "name": "Cheryl Upchurch",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "orh+LoqH6yvvtmJ0svw8EA=="
+    },
+    {
+      "name": "Dannie Urban",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qP9sLs5TmKb5kfo6pPvrkA=="
+    },
+    {
+      "name": "Erick van Zyl",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "5.0",
+      "rating_type": "M",
+      "rating_date": "12/31/2024",
+      "usta_id": "6FvtU084lbz5fH9rgxLH5w=="
+    },
+    {
+      "name": "Traci Velvin",
+      "gender": "Female",
+      "city": "Athens",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A1JWqN48w+dJ4eiEuOgkPg=="
+    },
+    {
+      "name": "TORY VEY",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VMJglaQ9LVaQAa8guKMeDw=="
+    },
+    {
+      "name": "Sandee Volatile",
+      "gender": "Female",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FG4VRtkvhbbLHJolKVT5Wg=="
+    },
+    {
+      "name": "Khail Volhov",
+      "gender": "Male",
+      "city": "Canton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "5/31/2025",
+      "usta_id": "E8TWKMk2EvygGhp/09Xy8g=="
+    },
+    {
+      "name": "Dawn von Eschenbach",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "E9uuuUSPNVmOEIcEUDcKdA=="
+    },
+    {
+      "name": "Tuan Vu",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "5/22/2025",
+      "usta_id": "jJjmgs9wNYaftvslAAbDNw=="
+    },
+    {
+      "name": "Bill Walker",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hSlBOQF0dGSThc2zFWe+ow=="
+    },
+    {
+      "name": "Traci Wallis",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EuquJczWbsNqpbt2g1ZIEg=="
+    },
+    {
+      "name": "Steve Walsh",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "5/15/2024",
+      "usta_id": "ntOJynVZXC7DAxuMHETdKA=="
+    },
+    {
+      "name": "Debra Washmon",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TQbpqnYX/3LwJzoQfxJnxA=="
+    },
+    {
+      "name": "Matthew Watson",
+      "gender": "Male",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "12/27/2024",
+      "usta_id": "xQc1XyZ1651jZxhFNBjrew=="
+    },
+    {
+      "name": "Kristin Werner",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "eIIz+G6h4Q/do4UKXOM1Yg=="
+    },
+    {
+      "name": "Kandy Wharton",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V5p01O3bBb3wV7yNBo+Q1g=="
+    },
+    {
+      "name": "Blair Wheeler",
+      "gender": "Female",
+      "city": "Dallas",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/QFLPQRkR/syzoOjjm5NPw=="
+    },
+    {
+      "name": "Kathleen Wheeler",
+      "gender": "Female",
+      "city": "Harleton",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gYmnbJZ7h32TP80LRZqILw=="
+    },
+    {
+      "name": "Randy Wheeler",
+      "gender": "Male",
+      "city": "Harleton",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "InKiQs9YH9DcyJKFK1nA7g=="
+    },
+    {
+      "name": "Jennifer White",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "swWHsfWC7M4pEWM7YxkDUA=="
+    },
+    {
+      "name": "Tracy White",
+      "gender": "Male",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yktcDnUHInmNUmtgOk4K7A=="
+    },
+    {
+      "name": "Lauren Whitus",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "lLPzDIcxnzlhKuXkgtyXMA=="
+    },
+    {
+      "name": "Travis Wilcox",
+      "gender": "Male",
+      "city": "Judson",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "G3luSPsz9zGME/LBoxhh6w=="
+    },
+    {
+      "name": "Cynthia Wilder",
+      "gender": "Female",
+      "city": "Dallas",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "XlBI68qt4D+89A736JGXUg=="
+    },
+    {
+      "name": "Jimmy Williams",
+      "gender": "Male",
+      "city": "Flint",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MyRYpfLBK7swV/PR3RJOIA=="
+    },
+    {
+      "name": "Scott Williams",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "kYevGm2X73K//QnGxW42BQ=="
+    },
+    {
+      "name": "Sherry Willis",
+      "gender": "Female",
+      "city": "BULLARD",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "nu//Nwte1AMmH3SMd4yjNA=="
+    },
+    {
+      "name": "Bruce Wilson",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "3/5/2025",
+      "usta_id": "xw1cJM8u+D2BsP3us1c8oQ=="
+    },
+    {
+      "name": "Stephanie Wilson",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "2.5",
+      "rating_type": "S",
+      "rating_date": "3/27/2025",
+      "usta_id": "SX3V2tAatA29lYCilzlMBw=="
+    },
+    {
+      "name": "Melanie Winans",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GX7TIr9NayXxGbiCMZB61A=="
+    },
+    {
+      "name": "Zachary Winans",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "KO+q0K75IK0CsQg0iiVXwg=="
+    },
+    {
+      "name": "Nathan Winegar",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "3/1/2025",
+      "usta_id": "d/K2XKdaSBFWyeEOf1kAOQ=="
+    },
+    {
+      "name": "Joseph Woelkers",
+      "gender": "Male",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2/pfScyRSkhSKn2kcJ1s2w=="
+    },
+    {
+      "name": "Marcela Woodall",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J3SBT67FwQl1fgNDckt2/w=="
+    },
+    {
+      "name": "MARGARET WRIGHT",
+      "gender": "Female",
+      "city": "Longview",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5g6/sS7U1iIbw6UUXNf4Hw=="
+    },
+    {
+      "name": "Ashlea Wupperman",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qLqJqmMH+WdcwBKA3e7dzw=="
+    },
+    {
+      "name": "Sharon Wynne",
+      "gender": "Female",
+      "city": "Tyler",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/9/2025",
+      "usta_id": "yT8nog7WJGL/o2JGRqCzRA=="
+    },
+    {
+      "name": "David Youngblood",
+      "gender": "Male",
+      "city": "Whitehouse",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2be+2ddpmOhsTV62vqiJ5A=="
+    },
+    {
+      "name": "Snizhana Zhdanova",
+      "gender": "Female",
+      "city": "TYLER",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F2l8SfKCCTvWx98/kbLSzQ=="
+    },
+    {
+      "name": "Matthew Zimmerer",
+      "gender": "Male",
+      "city": "Eustace",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sdZHlSiI7vbRSSywtE3XNA=="
+    }
+  ]
+}

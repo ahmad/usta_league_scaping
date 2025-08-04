@@ -1,0 +1,2677 @@
+{
+  "sectionId": "6243307",
+  "districtId": "6243382",
+  "areaId": "6243670",
+  "players": [
+    {
+      "name": "Vallery Albritton",
+      "gender": "Female",
+      "city": "Alexandria",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "/RkH3lTTxtMi6sR0OZgC3w=="
+    },
+    {
+      "name": "Vickey Alleman",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/15/2024",
+      "usta_id": "qkCo1u8v+5voVt7RHqI9ew=="
+    },
+    {
+      "name": "Paul Anderson",
+      "gender": "Male",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rXpDNfel7Fei9DEB+ReVhg=="
+    },
+    {
+      "name": "Debby Andrepont",
+      "gender": "Female",
+      "city": "Opelousas",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hzHaSmN5+HimUN68B6rDUA=="
+    },
+    {
+      "name": "Pat Ardoin",
+      "gender": "Female",
+      "city": "Opelousas",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j8sLPdGAaaWjiZF9EtarMg=="
+    },
+    {
+      "name": "Chris Ashbaker",
+      "gender": "Male",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vDKwIkOyLZrgVeNcC3MOpg=="
+    },
+    {
+      "name": "Mary Ayres",
+      "gender": "Female",
+      "city": "Leland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N7A4a+cvPTbUBjcGGKiSSQ=="
+    },
+    {
+      "name": "Marval Bailiff",
+      "gender": "Male",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zeVdIpOEiaVt9Zt35TeeZg=="
+    },
+    {
+      "name": "Jean Baldwin",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JX2+IPcYbkkQc0YY68A3FQ=="
+    },
+    {
+      "name": "Sally Banta",
+      "gender": "Female",
+      "city": "Point Clear",
+      "state": "AL",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kVyaxmBneioHhf9fiJYI9w=="
+    },
+    {
+      "name": "Laretta Barrow",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/10/2025",
+      "usta_id": "kpWm/pmdoZSgU3aMfHSPdw=="
+    },
+    {
+      "name": "Bonnie Beaullieu",
+      "gender": "Female",
+      "city": "Scott",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "90SuUXQHUgJUQ70c/9LmRw=="
+    },
+    {
+      "name": "Bonnie Bell",
+      "gender": "Female",
+      "city": "Jenks",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bkAkjytaM+u7+nD+kP1Raw=="
+    },
+    {
+      "name": "Gene Benoit",
+      "gender": "Male",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0xpNysfXZkqet83BE/6oUg=="
+    },
+    {
+      "name": "Toni Benoit",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kABP0hGuIbbzbmdcjFdI0g=="
+    },
+    {
+      "name": "Cassie Bergeson",
+      "gender": "Female",
+      "city": "MANDEVILLE",
+      "state": "LA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "o62/McEPRG2aRS7rUCfJsg=="
+    },
+    {
+      "name": "Barbara Bloomer",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s1DwR9jtLRu005DiHh294Q=="
+    },
+    {
+      "name": "Dan Bokros",
+      "gender": "Male",
+      "city": "Pearl",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0oOZvyEdVufeFCNMHm8EuA=="
+    },
+    {
+      "name": "Jim Bourgeois",
+      "gender": "Male",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hw0ZVv1zbQD9ZyOSmHdF8A=="
+    },
+    {
+      "name": "Lucille Bourgeois",
+      "gender": "Female",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "yDW3pSCvwMlYkR7N+xtOmg=="
+    },
+    {
+      "name": "Jeanine Bourque",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "1/6/2024",
+      "usta_id": "1NCvCetDdmVpTUwD9cIVSA=="
+    },
+    {
+      "name": "Nita Bowers",
+      "gender": "Female",
+      "city": "Alexandria",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6GhrTH2GBL7j/AnjSvWBsA=="
+    },
+    {
+      "name": "Sharon Boyd",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s/KXJ6E/PkLEq7igfopjpg=="
+    },
+    {
+      "name": "Debbie Boykin",
+      "gender": "Female",
+      "city": "Leland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "putPZhH1umzdzvCiwE6odQ=="
+    },
+    {
+      "name": "Pam Brandner",
+      "gender": "Female",
+      "city": "Slidell",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "L6mtYf9QEfa8nW5OMstVEA=="
+    },
+    {
+      "name": "Elizabeth Brinson",
+      "gender": "Female",
+      "city": "Metairie",
+      "state": "LA",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "4/28/2025",
+      "usta_id": "Bz2BoNg7GzQwDubMuF81bQ=="
+    },
+    {
+      "name": "Carol Broglio",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2024",
+      "usta_id": "1xL3e9hriVA9OCjghm+ebQ=="
+    },
+    {
+      "name": "Sondra Broussard",
+      "gender": "Female",
+      "city": "Tylertown",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ZqVK1iBoOVVpOpFO+/vAGg=="
+    },
+    {
+      "name": "Delma Brown",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "kY5rM7cURCVcRpbMr5Q1+w=="
+    },
+    {
+      "name": "Vivian Brown",
+      "gender": "Female",
+      "city": "New Iberia",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Oc/cnI628FQ="
+    },
+    {
+      "name": "James Bruno",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "BdddBXZBg41xedMXNaJgUg=="
+    },
+    {
+      "name": "Cherri Buckley",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SRrjJZ8fewnPQq8KTRoBiw=="
+    },
+    {
+      "name": "Brent Bueche",
+      "gender": "Male",
+      "city": "Walker",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "FB8JWO8Cs6SValFTmj0iOA=="
+    },
+    {
+      "name": "Claire Burgess",
+      "gender": "Female",
+      "city": "Sulphur",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Q6u12Lu5+Nk3jXOxpjorcg=="
+    },
+    {
+      "name": "Deborah Burgess",
+      "gender": "Female",
+      "city": "Rayville",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gog/m9wbzATcL+KW27LTYA=="
+    },
+    {
+      "name": "Robert Burleson",
+      "gender": "Male",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "M3O5DtiP4z3Xm3ceVhPqDg=="
+    },
+    {
+      "name": "Brian Burns",
+      "gender": "Male",
+      "city": "Youngsville",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zj3pymnSX+tWRlIi2Xw0SA=="
+    },
+    {
+      "name": "Susan Burton",
+      "gender": "Female",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0xzXPX0FccqguLhcy6fUyw=="
+    },
+    {
+      "name": "Reuben Byrd",
+      "gender": "Male",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "+UHHZWxE4/7p6vCTXMYMcQ=="
+    },
+    {
+      "name": "Kimberly Calamari",
+      "gender": "Female",
+      "city": "Slidell",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7nVsMlsE5bpzudpyrHv2ig=="
+    },
+    {
+      "name": "Bonnie Canfield",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2FEIMsNIcQeZARfUppPCYQ=="
+    },
+    {
+      "name": "Tammy Cannon",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xvS/6Ghm0RWQvmp7GHHfFw=="
+    },
+    {
+      "name": "Belinda Canonico",
+      "gender": "Female",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "q1RJcPaTq8kJ0AB+peZRcA=="
+    },
+    {
+      "name": "Clare Ashby Carpenter",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sWhWvZJjrv6DRYt2Bld/MQ=="
+    },
+    {
+      "name": "Eugene Cassanova",
+      "gender": "Male",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "I/3x98U4ckOOHOdooNabOQ=="
+    },
+    {
+      "name": "Linda Causey",
+      "gender": "Female",
+      "city": "Ruston",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fxbDMibRj7pupmzouRvarA=="
+    },
+    {
+      "name": "Joanne Chambers",
+      "gender": "Female",
+      "city": "Hot Springs Village",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "sKCBOq7L0zSwS0SWLWCkQQ=="
+    },
+    {
+      "name": "Theresa Champagne",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "9/10/2024",
+      "usta_id": "BwmW/9QgJJMy51q+pPW3dQ=="
+    },
+    {
+      "name": "Nicole Charbonnet",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "5/26/2025",
+      "usta_id": "G6awa2g0f3UbfHb49sOF6w=="
+    },
+    {
+      "name": "Bobbie Childress",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "6d5+NzK4BJwT/KcJa0Fcig=="
+    },
+    {
+      "name": "Barbara Claiborne",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "OBmM/2sllT0sQk+8opI74w=="
+    },
+    {
+      "name": "Cheryl Clayton",
+      "gender": "Female",
+      "city": "Ridgeland",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "mM7vK1Gk/Da4oSCeddGC4Q=="
+    },
+    {
+      "name": "Elaine Clayton",
+      "gender": "Female",
+      "city": "Hot Springs Village",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "2HS7Gubk3N1RWGWFbGS1qA=="
+    },
+    {
+      "name": "Marsha Cobb",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KmVRmfo7eu1fDg6L8hBirQ=="
+    },
+    {
+      "name": "Kaye Cochran",
+      "gender": "Female",
+      "city": "Mooringsport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "109dXyXZzPmCLZDJQm7m7A=="
+    },
+    {
+      "name": "Sheila Collins",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/9/2024",
+      "usta_id": "11SwNuM7ufJDlCN2QT4s4Q=="
+    },
+    {
+      "name": "Llewellyn Coon",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pmOXWfkyAdyBbw3K2q/HJQ=="
+    },
+    {
+      "name": "Alan Cox",
+      "gender": "Male",
+      "city": "Benton",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kFSrLbqp81/QQrCvnvTTIA=="
+    },
+    {
+      "name": "Bonnie Cox",
+      "gender": "Female",
+      "city": "Benton",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "NnSKW9I9WRNcOfmJKMdQsA=="
+    },
+    {
+      "name": "Jason Crockett",
+      "gender": "Male",
+      "city": "LAFAYETTE",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "3dMU/gM203K8SZuVWvOJww=="
+    },
+    {
+      "name": "Herbert Crum",
+      "gender": "Male",
+      "city": "Springdale",
+      "state": "AR",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "W0ZjuaoGwT50zx9pwyHkeg=="
+    },
+    {
+      "name": "Vivienne Culver",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JKof8BfB5rA5xJJ9Zmep0g=="
+    },
+    {
+      "name": "Madeline Cummer",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tw5qr9JQD4Si2xWx6Xcvlg=="
+    },
+    {
+      "name": "David Dabadie",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LWi0AkFcM0XONQzON8zWMg=="
+    },
+    {
+      "name": "Larry Darnell",
+      "gender": "Male",
+      "city": "Olive Branch",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "4/14/2025",
+      "usta_id": "LC5BFFxjAw4g5xGEv0Uf5w=="
+    },
+    {
+      "name": "Karen Deer",
+      "gender": "Female",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oj2dP+HxydfGe0ngtfqd5Q=="
+    },
+    {
+      "name": "Nancy Devers",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "QKcu0Ctw/8zOdjTx6Hgb4g=="
+    },
+    {
+      "name": "Tim Devraj",
+      "gender": "Male",
+      "city": "Mandeville",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xBvl1Tovyw05wSEX2pJWIQ=="
+    },
+    {
+      "name": "Barbara Dillon",
+      "gender": "Female",
+      "city": "Flowood",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "g6tqqvQPbln5CHRBNHTqCQ=="
+    },
+    {
+      "name": "Tony Dodson",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "SkvIk6+ESalq9qtFfhlPww=="
+    },
+    {
+      "name": "Michael Doles",
+      "gender": "Male",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gmnv5ds4l/K5Qg7+H2zuvw=="
+    },
+    {
+      "name": "John Donadieu",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "CH1ogMqyx8M8st5vHyVRQw=="
+    },
+    {
+      "name": "Bonnie Dorman",
+      "gender": "Female",
+      "city": "Hot Springs Village",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/1/2025",
+      "usta_id": "wl12+HhjM+9X4UQgLyHcaA=="
+    },
+    {
+      "name": "William Douglass",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EfW0wKIoSDauQtQwprUBxQ=="
+    },
+    {
+      "name": "Virginia Eddleman",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0mSRg+iJpR4="
+    },
+    {
+      "name": "Judy Edington",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/3/2025",
+      "usta_id": "V3XsRPS0ba5DSwokzU56bw=="
+    },
+    {
+      "name": "Muir Edney",
+      "gender": "Male",
+      "city": "MANDEVILLE",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2022",
+      "usta_id": "//SuFTD9qqqqxt7E6sLY3g=="
+    },
+    {
+      "name": "Jon Eenigenburg",
+      "gender": "Male",
+      "city": "BATON ROUGE",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/VEt2AG+nnvHyfFi+8lglQ=="
+    },
+    {
+      "name": "Travis Eiermann",
+      "gender": "Male",
+      "city": "WALKER",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/4/2025",
+      "usta_id": "UsJoaCsz/GTm2TSOZ3Gbmw=="
+    },
+    {
+      "name": "Marilyn Emfinger",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3S0p1pGV7OHPPBEdPFVCcg=="
+    },
+    {
+      "name": "Susan Erhardt",
+      "gender": "Female",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "SgRhDxbqceFiNrMI3S7kVg=="
+    },
+    {
+      "name": "Sarah Evans",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "h0QW8bZHpv6ZX05+oqtOYw=="
+    },
+    {
+      "name": "Rosemary Farrell",
+      "gender": "Female",
+      "city": "Hot Springs Village",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2024",
+      "usta_id": "ZKmrLUFD162XF8x1EowI+Q=="
+    },
+    {
+      "name": "David Farris",
+      "gender": "Male",
+      "city": "Brandon",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5cU/3/xuFBTHHIBIz7YVmw=="
+    },
+    {
+      "name": "Mary Felder",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qmKG3tt4W8pgcA5iiKJP0A=="
+    },
+    {
+      "name": "Peter Feringa",
+      "gender": "Male",
+      "city": "Covington",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "xP8qS+UlI7euKUrwQR3Lww=="
+    },
+    {
+      "name": "Pat Ferry",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "i76Vrm+bMzaX5Jnj9IR3Ew=="
+    },
+    {
+      "name": "Alice Finton",
+      "gender": "Female",
+      "city": "Hot Springs Village",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/24/2025",
+      "usta_id": "XbUqLpttKtUktThYyXfyHw=="
+    },
+    {
+      "name": "Giovanna Fioretti",
+      "gender": "Female",
+      "city": "Lake Charles",
+      "state": "LA",
+      "rating": "5.5",
+      "rating_type": "C",
+      "rating_date": "7/16/2025",
+      "usta_id": "/YmSOcKCQyuu3Rt7kYMN3g=="
+    },
+    {
+      "name": "Victoria Fisher",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "5mcweXJlx0e0GMrhoDxLyw=="
+    },
+    {
+      "name": "Christopher Fitzgerald",
+      "gender": "Male",
+      "city": "Denham Springs",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "LxMj/UX9z06zAtU0mniCtw=="
+    },
+    {
+      "name": "Barbara Fitz-Hugh",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/2/2025",
+      "usta_id": "bFB/Lz3oFn/DimWuwP351Q=="
+    },
+    {
+      "name": "Frances Flores-Odom",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "S+CrxRBtVlTJCV2OD+H60w=="
+    },
+    {
+      "name": "Margaret Fontenot",
+      "gender": "Female",
+      "city": "Eunice",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "uEuG/vtgTEXla9acXQpPqA=="
+    },
+    {
+      "name": "Marlene Fontenot",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MDvLqqkbdYzCfPCcWwefWg=="
+    },
+    {
+      "name": "Sharon Fontenot",
+      "gender": "Female",
+      "city": "Opelousas",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/8/2024",
+      "usta_id": "GToQYOTsFdvlAdIeZ4RoZw=="
+    },
+    {
+      "name": "Libby Ford",
+      "gender": "Female",
+      "city": "Jonesville",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "DvuN7pLaO6k0pX7dYfq2yg=="
+    },
+    {
+      "name": "Margaret Fudickar",
+      "gender": "Female",
+      "city": "Ferriday",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "mz7pSwSKd7L+TdqRrc7pLw=="
+    },
+    {
+      "name": "Eleanor Funderburk",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RUgdIc1FvJ0kJ6ZOaJUHJg=="
+    },
+    {
+      "name": "David Gazeley",
+      "gender": "Male",
+      "city": "Madisonville",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gVcRbRdSPYKpBRD/32e8JA=="
+    },
+    {
+      "name": "Oscar Gomez Imhof",
+      "gender": "Male",
+      "city": "Mandeville",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "12/7/2024",
+      "usta_id": "VdMxdkVjFMRzvVfEmIsxpw=="
+    },
+    {
+      "name": "Jonathan Goodwin",
+      "gender": "Male",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "G7jYKHkpZoPzKa4ENbDmkg=="
+    },
+    {
+      "name": "Celia Graham",
+      "gender": "Female",
+      "city": "Winona",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "GW/FSYZfI1Q4b05h3+pjow=="
+    },
+    {
+      "name": "Dianne Graham",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "slQWVxIRi0A="
+    },
+    {
+      "name": "Scott Graves",
+      "gender": "Male",
+      "city": "Broussard",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "kL8Ep+1d4L3VgxeVxQ2eRg=="
+    },
+    {
+      "name": "Peggy Grooms",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/26/2024",
+      "usta_id": "ZCpU0BZ8OixkweJ/Hrk/QQ=="
+    },
+    {
+      "name": "Pam Haley",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Y//PuivZ89zvLgNy8v1PQ=="
+    },
+    {
+      "name": "Albert Hardison",
+      "gender": "Male",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "DsiPk5qGxCMhT4n8f+GqPg=="
+    },
+    {
+      "name": "Beth Harper",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/11/2024",
+      "usta_id": "WlLDuzseMb35nA5SfJfkXw=="
+    },
+    {
+      "name": "Trecia Harris",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "f1LhNdSZFDPoiRKHRfDWyA=="
+    },
+    {
+      "name": "James Henry",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WgBKTUINgEw88Y0B5V2Tgg=="
+    },
+    {
+      "name": "Kevin Hester",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "htRmiRUZZg5O20ftutO0fg=="
+    },
+    {
+      "name": "Paula Hibbs",
+      "gender": "Female",
+      "city": "HOT SPRINGS VILLAGE",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/4/2025",
+      "usta_id": "gbt6uXCqadisVRQxWCG27A=="
+    },
+    {
+      "name": "Carla Hildebrand",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dOEg7U3aq02KNfEe5BuYqw=="
+    },
+    {
+      "name": "Nadia Hitzman",
+      "gender": "Female",
+      "city": "Covington",
+      "state": "LA",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "3/24/2025",
+      "usta_id": "aPhL1eaf1k45giNOJ5MRKA=="
+    },
+    {
+      "name": "Ricky Holder",
+      "gender": "Male",
+      "city": "Texarkana",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7FKbfH51UNVYb1Z4Dk/28Q=="
+    },
+    {
+      "name": "Eddie Holman",
+      "gender": "Male",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RPRgCxtYkuV9jhc1brULCw=="
+    },
+    {
+      "name": "My-Anh Holmes",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "5/9/2025",
+      "usta_id": "LdtfnbQrzOrvGviX50kV3g=="
+    },
+    {
+      "name": "Connie Holoman",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "imZcUDyMbasGODFcJQaUuA=="
+    },
+    {
+      "name": "Sandra Huguet",
+      "gender": "Female",
+      "city": "Carencro",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QSHQ7uSFTqxOHzy4BCddqg=="
+    },
+    {
+      "name": "Vicky Hunt",
+      "gender": "Female",
+      "city": "Hot Springs Village",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/20/2024",
+      "usta_id": "NECshen//sLOxFUaTmyNtQ=="
+    },
+    {
+      "name": "Stan Hvostik",
+      "gender": "Male",
+      "city": "Marietta",
+      "state": "GA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "SiPDJKFx6dp2y+ucsVS5LA=="
+    },
+    {
+      "name": "Catherine Jacobs",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "/O44LQyXGm77n2la4uWi+A=="
+    },
+    {
+      "name": "Jimmy Johnson",
+      "gender": "Male",
+      "city": "Brookhaven",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "YOutX7P1c88WqgCrggbiqQ=="
+    },
+    {
+      "name": "Robbie Johnson",
+      "gender": "Male",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tqiRoZgwHAnZ4ucWZgwGRw=="
+    },
+    {
+      "name": "Sally Joiner",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/WCue0XedJb25adQr5LunQ=="
+    },
+    {
+      "name": "Jeff Josa",
+      "gender": "Male",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "r5lXfnf/0bnEvg5JCgNQ1Q=="
+    },
+    {
+      "name": "Mary Karas",
+      "gender": "Female",
+      "city": "River Ridge",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5HNcW3fWooczyQs5P5Asog=="
+    },
+    {
+      "name": "Jan Keen",
+      "gender": "Female",
+      "city": "Canyon Lake",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "zxLaz31z94usXEBGVVjGYQ=="
+    },
+    {
+      "name": "Jenny Keeton",
+      "gender": "Female",
+      "city": "Hot Springs Village",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/28/2024",
+      "usta_id": "2cqgdDjFI7VeFTyeVC5YoA=="
+    },
+    {
+      "name": "Phil Kerig",
+      "gender": "Male",
+      "city": "BOERNE",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RY7wYne1FLHCyM2rbFUxRw=="
+    },
+    {
+      "name": "Sonia Killen",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "eHOjnt3eobB04k3p7aop2A=="
+    },
+    {
+      "name": "Becky Koll",
+      "gender": "Female",
+      "city": "Natchitoches",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9Qy/jzsHIOPo9tm57uHLJA=="
+    },
+    {
+      "name": "Ruth Larimer",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "N6LLhGpf1l2gYsQ39zrYIQ=="
+    },
+    {
+      "name": "Chip Layton",
+      "gender": "Male",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/11/2025",
+      "usta_id": "sY+EUosyjiCiIRsCUGXtpw=="
+    },
+    {
+      "name": "Brad Lazaro",
+      "gender": "Male",
+      "city": "MANDEVILLE",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "dcshTeBZEFBkz9wTRk+uYg=="
+    },
+    {
+      "name": "Billy Leach",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kfezbOAePWb2pbluZB4aUA=="
+    },
+    {
+      "name": "Robert Lecky",
+      "gender": "Male",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/31/2025",
+      "usta_id": "DvrmwRuXtezDWqBf591Vbw=="
+    },
+    {
+      "name": "Deborah Lee",
+      "gender": "Female",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UhYDNKtulJ/y4ANIgfYUqw=="
+    },
+    {
+      "name": "Anita Leggett",
+      "gender": "Female",
+      "city": "Youngsville",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "n5TmEAUUYeqPfMAV7vAV0g=="
+    },
+    {
+      "name": "Jose Len",
+      "gender": "Male",
+      "city": "BATON ROUGE",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RtGnq/f6sRllQ4lsh3w0lQ=="
+    },
+    {
+      "name": "Ann Lessiter Wallace",
+      "gender": "Female",
+      "city": "SHREVEPORT",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vqa1MUmjFZDpYRemduEOaw=="
+    },
+    {
+      "name": "Robert Lettow",
+      "gender": "Male",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "VK/MLrrFbMATtTk9tWRZvQ=="
+    },
+    {
+      "name": "Suzanne Lewis",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "u4CkVqbUpOREow+TTtjHNg=="
+    },
+    {
+      "name": "Kim Libersat",
+      "gender": "Female",
+      "city": "Abbeville",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "9bZC4b0EnwRrHk20jrZXCQ=="
+    },
+    {
+      "name": "James Liford",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "3Mv/FFDxaWdj9BGCHnmQMA=="
+    },
+    {
+      "name": "Lisa Liner",
+      "gender": "Female",
+      "city": "Benton",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ry1d59eeyWUQZJpXJL3+FQ=="
+    },
+    {
+      "name": "Yvette Lott",
+      "gender": "Female",
+      "city": "Summit",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ucTDzyf/SNTMGCsi6rLHlQ=="
+    },
+    {
+      "name": "Kathleen Lowdermilk",
+      "gender": "Female",
+      "city": "Grand Saline",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "EwXZ7FY2dTXwwHzuDTMFbQ=="
+    },
+    {
+      "name": "Danny Maggio",
+      "gender": "Male",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2022",
+      "usta_id": "x6ADAQVt8wMkld5EzcJw8g=="
+    },
+    {
+      "name": "Tiffany Mann",
+      "gender": "Female",
+      "city": "Metairie",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "jyTjecKJ3ykSZWXvDQjIjA=="
+    },
+    {
+      "name": "Nancy Marcello",
+      "gender": "Female",
+      "city": "Metairie",
+      "state": "LA",
+      "rating": "0.0",
+      "rating_type": "None",
+      "rating_date": "",
+      "usta_id": "jApbrQOQc1IbhnHXz/PavQ=="
+    },
+    {
+      "name": "Charles Marionneaux",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Py1GB7IIc1sK5rvUWjzBdw=="
+    },
+    {
+      "name": "Bo Markovic",
+      "gender": "Male",
+      "city": "Mandeville",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7hPZDDv9lfkxwzpS3GeY9w=="
+    },
+    {
+      "name": "Glenda Martin",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IZNr6Ihl6vF/1ucuYYzUCg=="
+    },
+    {
+      "name": "Shirley Martin",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kPHiEBO50q8H4y0Xs2TqaA=="
+    },
+    {
+      "name": "Pat Masters",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hsR7niVI701W9aLtO/7qTw=="
+    },
+    {
+      "name": "Rebecca Mayo",
+      "gender": "Female",
+      "city": "Pineville",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IykRxtJQbUN9EI+jMYSJZQ=="
+    },
+    {
+      "name": "Ann Mc Intyre",
+      "gender": "Female",
+      "city": "Houston",
+      "state": "TX",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gitxNAu4bLM="
+    },
+    {
+      "name": "Becky McCain",
+      "gender": "Female",
+      "city": "Monroe",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "WzZWXYAvxbRkPUWfmqFcUg=="
+    },
+    {
+      "name": "M Theresa McConnell",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rF1Gru0SGVrGPO3XrqC2TA=="
+    },
+    {
+      "name": "Georgia McCotter",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mq8HpRPu8C+0dryAqo7BSw=="
+    },
+    {
+      "name": "Kevin McCotter",
+      "gender": "Male",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "TdUHewhhUr+0PlecyAiVhQ=="
+    },
+    {
+      "name": "Becky McFarlain",
+      "gender": "Female",
+      "city": "Bossier City",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Jj/jbXqTYvrRYc+TOeBytQ=="
+    },
+    {
+      "name": "Donna McGee",
+      "gender": "Female",
+      "city": "West Monroe",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gYbFCwj4gWiBtpyQ5rgimA=="
+    },
+    {
+      "name": "Ann Melius",
+      "gender": "Female",
+      "city": "Metairie",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wJU55SoMAsY7Lc4vHQjhWg=="
+    },
+    {
+      "name": "Drew Meyers",
+      "gender": "Male",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "1/24/2025",
+      "usta_id": "s5TIVxDMQCOUZp9Dzsjy1w=="
+    },
+    {
+      "name": "Dianne Miles",
+      "gender": "Female",
+      "city": "Edwards",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "BI1BHxcre/w="
+    },
+    {
+      "name": "Indi Mire Faught",
+      "gender": "Female",
+      "city": "LaCombe",
+      "state": "LA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "7/16/2025",
+      "usta_id": "cyN+QT37UX0L0a+wgyD6Lw=="
+    },
+    {
+      "name": "William Mitchell",
+      "gender": "Male",
+      "city": "Gulfport",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6ODj0ZRaWD0sks2hAwVikw=="
+    },
+    {
+      "name": "Jeanne Moak",
+      "gender": "Female",
+      "city": "Ridgeland",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pe20f+ZdxTgT6kZCWzt+ig=="
+    },
+    {
+      "name": "Meredith Montgomery",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "A8dJE7UG97hrqzSMYuMAdA=="
+    },
+    {
+      "name": "Cathy Moore",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "rO0BKnFxW18ToM2rWp5v2g=="
+    },
+    {
+      "name": "Allyson Morris",
+      "gender": "Female",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "9/23/2024",
+      "usta_id": "WOg6u1WLqKWWEOcy2mZq4Q=="
+    },
+    {
+      "name": "Barbara Morris",
+      "gender": "Female",
+      "city": "Jackson",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Ikr00M0EsillNM2vs4uNyg=="
+    },
+    {
+      "name": "Frank Mueller",
+      "gender": "Male",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "J+8HOijdVCJJuGJWsBHInA=="
+    },
+    {
+      "name": "Philippa Mueller",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2023",
+      "usta_id": "eS4kNIBR7VAv4lz31tAdLw=="
+    },
+    {
+      "name": "Frank Natal",
+      "gender": "Male",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FoDzHCjsETmbe7h70vm/7A=="
+    },
+    {
+      "name": "Debbie Nealy",
+      "gender": "Female",
+      "city": "Ennis",
+      "state": "MT",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/21/2025",
+      "usta_id": "zQaBFvUVNSCnl1ItLAkDJQ=="
+    },
+    {
+      "name": "Charlie Neumann",
+      "gender": "Male",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "cV+Pmgn9pysDhDzGTOxffw=="
+    },
+    {
+      "name": "Patty Newton",
+      "gender": "Female",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "1pR9xwYAWbV2aS8kO+gxXg=="
+    },
+    {
+      "name": "Jane Oliver",
+      "gender": "Female",
+      "city": "Greenville",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "c2z3Z3rjCj8O6wrJww927Q=="
+    },
+    {
+      "name": "Merrilyn Onisko",
+      "gender": "Female",
+      "city": "NEW ORLEANS",
+      "state": "LA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "rX/n3FZAzhsZ3+xvtdzEbw=="
+    },
+    {
+      "name": "Kenny Otillio",
+      "gender": "Male",
+      "city": "Mandeville",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "6pLGfVCmRVm6Zcd9HUdhjQ=="
+    },
+    {
+      "name": "Niamh Packer",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "gfWDALwE9p0Lwe+m9bSbOA=="
+    },
+    {
+      "name": "Doris Panzica",
+      "gender": "Female",
+      "city": "Brookhaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9Z9I/SnyuCY75ptbc3wReQ=="
+    },
+    {
+      "name": "Rachel Patterson",
+      "gender": "Female",
+      "city": "Calhoun",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "b54RQRp7Cx7dWQDLfuDgbw=="
+    },
+    {
+      "name": "Cynthia Payne",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pg6WeXjccODl4WowMDrHCQ=="
+    },
+    {
+      "name": "Michael Pearson",
+      "gender": "Male",
+      "city": "Benton",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pvV3GJWyCXfzlPpnBosx8w=="
+    },
+    {
+      "name": "Terry Peel",
+      "gender": "Female",
+      "city": "Spring Branch",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0OsNUz6CSawiz2ICBV6Afw=="
+    },
+    {
+      "name": "Jacques Peltier",
+      "gender": "Male",
+      "city": "Madisonville",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "9vTzSbYPKoYC/HWjKdPTnw=="
+    },
+    {
+      "name": "Gary Pennywell",
+      "gender": "Male",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "j8utax7iqvfeKkjNdGxPUA=="
+    },
+    {
+      "name": "David Peralta",
+      "gender": "Male",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ax7qQOVDGMkZ8t2pE4X+tg=="
+    },
+    {
+      "name": "Sheila Pernici",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "MlRAZYAIN3ftsbtoxdX1Aw=="
+    },
+    {
+      "name": "James Phillips",
+      "gender": "Male",
+      "city": "Haughton",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "P0vyymnQMCZzLSO53pxZgg=="
+    },
+    {
+      "name": "Frances Pitman",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hy4GiGvK0hgc9ZjvYPW/Qw=="
+    },
+    {
+      "name": "Lawrence Pittman",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "/guDt5JU9RvJioEp369BpA=="
+    },
+    {
+      "name": "Judy Placer",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+GLFKI7CH5Pt6xSC/4bt0A=="
+    },
+    {
+      "name": "George Plaxco",
+      "gender": "Male",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "vFRi7fohB6veK7YtmVdPsA=="
+    },
+    {
+      "name": "Leonard Plitt",
+      "gender": "Male",
+      "city": "Gulfport",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "51Ab+7LBU1kbkIRdYlDzsA=="
+    },
+    {
+      "name": "Ben Pok",
+      "gender": "Male",
+      "city": "Youngsville",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "RoFZH+s0haNhsC77RSPd9w=="
+    },
+    {
+      "name": "Peggy Polk",
+      "gender": "Female",
+      "city": "Silver Creek",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "obGoF10ap869BU4d27RcrA=="
+    },
+    {
+      "name": "Katherine Pou",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "12/23/2024",
+      "usta_id": "FOxSZeCwpQ0Wifa8E6Dc3A=="
+    },
+    {
+      "name": "Maryanne Pranikoff",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "KBR34b1LgsAZeT0EItCQEA=="
+    },
+    {
+      "name": "Kitty Prejean",
+      "gender": "Female",
+      "city": "Abbeville",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "mqNHc/qQSL6hBBbx5bFDIg=="
+    },
+    {
+      "name": "Joann Privitello",
+      "gender": "Female",
+      "city": "Hot Springs National Park",
+      "state": "AR",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "IAnn8pflTbYmxKRaMJOTXg=="
+    },
+    {
+      "name": "Francis Pugh",
+      "gender": "Female",
+      "city": "Jonesville",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "QNiw8iYLkSWGI1MIHHXA/A=="
+    },
+    {
+      "name": "Joseph Puhekker",
+      "gender": "Male",
+      "city": "Abbeville",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "s+uDqeUAZIsyweqw8xeKuw=="
+    },
+    {
+      "name": "Joseph Purpera",
+      "gender": "Male",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/5/2024",
+      "usta_id": "UkUUU69ICRFXTHNSE1rMKQ=="
+    },
+    {
+      "name": "Judy Quimby",
+      "gender": "Female",
+      "city": "Ferriday",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xW6EmQKqS0I0RcfEtTgikw=="
+    },
+    {
+      "name": "Madeline Raymond",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "JGbyFFLMivo9nf2mRRNXEw=="
+    },
+    {
+      "name": "Susan Reed",
+      "gender": "Female",
+      "city": "Ferriday",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "7GVvzONGUGsBa4VyTo8BIg=="
+    },
+    {
+      "name": "Tina Roberts",
+      "gender": "Female",
+      "city": "McComb",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Qpc3jT/wkLUFchmrPTdNWQ=="
+    },
+    {
+      "name": "Cindy Robin",
+      "gender": "Female",
+      "city": "Jeanerette",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qYZrfysVF2Z/R0zqCM5j7Q=="
+    },
+    {
+      "name": "Kim Roddy",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "5.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "UDQGE+vLQekLNd/VRUbxHw=="
+    },
+    {
+      "name": "Judy Ross",
+      "gender": "Female",
+      "city": "Leland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "FEXUJqlN4IimofmkbMdMAQ=="
+    },
+    {
+      "name": "Jeffrey Roth",
+      "gender": "Male",
+      "city": "Covington",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "sqAhCcwGroWUxof9pjPLPg=="
+    },
+    {
+      "name": "Rosemary Rushing",
+      "gender": "Female",
+      "city": "Tylertown",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "oN30Fis+p5uIOT9zsrDDKw=="
+    },
+    {
+      "name": "Barbara Rushton",
+      "gender": "Female",
+      "city": "Madison",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "wkD/z5GJJSqAChqaYT59tw=="
+    },
+    {
+      "name": "Brent Saba",
+      "gender": "Male",
+      "city": "Madisonville",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "xsdW3ODACgd8JCALkRM15A=="
+    },
+    {
+      "name": "Brandon Sattler",
+      "gender": "Male",
+      "city": "Eunice",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "M8ueVp3Nats="
+    },
+    {
+      "name": "JOHN SATTLER",
+      "gender": "Male",
+      "city": "Eunice",
+      "state": "LA",
+      "rating": "4.0",
+      "rating_type": "S",
+      "rating_date": "4/25/2024",
+      "usta_id": "/wNgu5OFLFu1SVROepQ0sg=="
+    },
+    {
+      "name": "Stan Schmid",
+      "gender": "Male",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Hh7EsszwNOw7uhCutz1jRA=="
+    },
+    {
+      "name": "John Schweitzer",
+      "gender": "Male",
+      "city": "Zachary",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vv39xluI3FpuaiRvS/1qPQ=="
+    },
+    {
+      "name": "Carol Scott",
+      "gender": "Female",
+      "city": "Cleveland",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "F9rBswTtyGQOhZCb+zZYFg=="
+    },
+    {
+      "name": "Scott Sevin",
+      "gender": "Male",
+      "city": "Austin",
+      "state": "TX",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Rruv/mubUk1U1P1JNhbIzw=="
+    },
+    {
+      "name": "John Seymore",
+      "gender": "Male",
+      "city": "Converse",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pDdiG3F2dd92ylRDJqce2g=="
+    },
+    {
+      "name": "Terry Shinn",
+      "gender": "Female",
+      "city": "Benton",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "tQLJEYmjSEeHdqAdpfW0nA=="
+    },
+    {
+      "name": "Kathy Simon",
+      "gender": "Female",
+      "city": "Kaplan",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "vGJu71QkFEO7hcVbnpNXAQ=="
+    },
+    {
+      "name": "Tracy Simpson",
+      "gender": "Female",
+      "city": "Alexandria",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Vq3Ce4R8Oji0BTM8nq7ADw=="
+    },
+    {
+      "name": "Dinah Singer",
+      "gender": "Female",
+      "city": "Winnsboro",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "0U315ZeARa/lgLwapVKytQ=="
+    },
+    {
+      "name": "Gloria Smith",
+      "gender": "Female",
+      "city": "Princeton",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "slOQr7Mekhw5ATDjS36dWA=="
+    },
+    {
+      "name": "Michele Smith",
+      "gender": "Female",
+      "city": "Tulsa",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "qcBijt+85t6uH9cfgiQ0cQ=="
+    },
+    {
+      "name": "Sharon Smith",
+      "gender": "Female",
+      "city": "Benton",
+      "state": "LA",
+      "rating": "2.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "5LbCspQxJVDnJrI5NXh28w=="
+    },
+    {
+      "name": "Molly Sooter",
+      "gender": "Female",
+      "city": "Pineville",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "csXeGhwSzzYLUYuM5kAHJQ=="
+    },
+    {
+      "name": "Mason Spencer",
+      "gender": "Male",
+      "city": "Windcrest",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "A",
+      "rating_date": "12/31/2024",
+      "usta_id": "TRJDYoHh4BdYlgFCQelXAQ=="
+    },
+    {
+      "name": "Therina Steenkamp",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "5.0",
+      "rating_type": "S",
+      "rating_date": "10/26/2023",
+      "usta_id": "UQRhKlBCTwKexVXsMiGsOA=="
+    },
+    {
+      "name": "Karen Stelly",
+      "gender": "Female",
+      "city": "Welsh",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Aqmag92ygWkR+X9rVDSHxw=="
+    },
+    {
+      "name": "Larry Stevens",
+      "gender": "Male",
+      "city": "Crystal Springs",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "8/17/2023",
+      "usta_id": "LMgPD2XzC0bsl/pnpg9UGg=="
+    },
+    {
+      "name": "Joey Stroble",
+      "gender": "Male",
+      "city": "Ridgeland",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "E5wk03vhwArvvSvUye6TOg=="
+    },
+    {
+      "name": "Anna Stutes",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/24/2025",
+      "usta_id": "xw85knhCIPHO1NPpejWyGA=="
+    },
+    {
+      "name": "Jim Sukiennik",
+      "gender": "Male",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "q3Zt1ZQe5DiqU21y+yvIaQ=="
+    },
+    {
+      "name": "Leanne Summers",
+      "gender": "Female",
+      "city": "Brookhaven",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "kyHuhGiO9CH/ZyzRdxi4lQ=="
+    },
+    {
+      "name": "Ann Swearingen",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hrr1pyD9jepk238MEK9uPw=="
+    },
+    {
+      "name": "Judy Tabor",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "+rk1LM4Rvot5lck1iqvi4g=="
+    },
+    {
+      "name": "Kathryn Talbot",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "bujFQOazAjm9EN6sHoyLdQ=="
+    },
+    {
+      "name": "Reeda Taylor",
+      "gender": "Female",
+      "city": "Marshall",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2FUN0D163afnEGjOy3XTfg=="
+    },
+    {
+      "name": "Lionel Theriot",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "hxHD3jvTH0VidTK25A3QJQ=="
+    },
+    {
+      "name": "Parry Thomas",
+      "gender": "Male",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "1/18/2024",
+      "usta_id": "AY8f2XrXEVDDjvj0ofAmig=="
+    },
+    {
+      "name": "Bruce Thompson",
+      "gender": "Male",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ePLe3VfAX2xGnLvYYKQZsQ=="
+    },
+    {
+      "name": "Nina Tomlinson",
+      "gender": "Female",
+      "city": "Vicksburg",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "pffW8At56II="
+    },
+    {
+      "name": "Suzannah Townsend",
+      "gender": "Female",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "rating": "4.5",
+      "rating_type": "S",
+      "rating_date": "3/9/2025",
+      "usta_id": "9r3bmRoH1SP9JNY2kqWCqg=="
+    },
+    {
+      "name": "Douglas Vaughn",
+      "gender": "Male",
+      "city": "Biloxi",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "ahskE3WmVwe2fVy3UYuG4w=="
+    },
+    {
+      "name": "Rosemary Vernor",
+      "gender": "Female",
+      "city": "San Antonio",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "fiNo0VC5d37LKNSbHMrnxw=="
+    },
+    {
+      "name": "Regina Viator",
+      "gender": "Female",
+      "city": "New Iberia",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "68FiCeMT8X0xxTShFJnCFQ=="
+    },
+    {
+      "name": "Marie Voorhies",
+      "gender": "Female",
+      "city": "Lafayette",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "2/18/2025",
+      "usta_id": "y99jQExIjS3g3+rnRaTObg=="
+    },
+    {
+      "name": "Sallie Walker",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "V6EfqoJVRo7W965J4ICfiA=="
+    },
+    {
+      "name": "Gwen Walls",
+      "gender": "Female",
+      "city": "BIXBY",
+      "state": "OK",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "PDRQjz0Er9ivxZiJzqFhjA=="
+    },
+    {
+      "name": "Bob Walters",
+      "gender": "Male",
+      "city": "Madison",
+      "state": "MS",
+      "rating": "3.5",
+      "rating_type": "S",
+      "rating_date": "2/17/2025",
+      "usta_id": "HaUZo1h3i6HJg4XWkz4NhA=="
+    },
+    {
+      "name": "Cheryl Webster",
+      "gender": "Female",
+      "city": "New Orleans",
+      "state": "LA",
+      "rating": "4.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "VtXrArSk71QssJi385Axvg=="
+    },
+    {
+      "name": "Barbara West",
+      "gender": "Female",
+      "city": "Madison",
+      "state": "MS",
+      "rating": "4.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "B6I5go+Cjz3zCm66UsMkwg=="
+    },
+    {
+      "name": "Patty Whaley",
+      "gender": "Female",
+      "city": "Kaplan",
+      "state": "LA",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "gwgYxKgiKcxSmuerG2xxbg=="
+    },
+    {
+      "name": "James Whitney",
+      "gender": "Male",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2023",
+      "usta_id": "o2Wos8yKYfi+n3PXSgQu7A=="
+    },
+    {
+      "name": "Sandra Williamson",
+      "gender": "Female",
+      "city": "Shreveport",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "S",
+      "rating_date": "1/6/2025",
+      "usta_id": "i3zMRe25ELAEWN5zeqvPqw=="
+    },
+    {
+      "name": "Sheila Wilson",
+      "gender": "Female",
+      "city": "Boerne",
+      "state": "TX",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "2AWmNhceLx5Tx9EVVKmZYg=="
+    },
+    {
+      "name": "Tod Wilson",
+      "gender": "Male",
+      "city": "Boerne",
+      "state": "TX",
+      "rating": "3.5",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "Gsw5P4wV0caLkmmg4ngnoQ=="
+    },
+    {
+      "name": "Ann Wimberly",
+      "gender": "Female",
+      "city": "Ringgold",
+      "state": "LA",
+      "rating": "3.0",
+      "rating_type": "C",
+      "rating_date": "12/31/2024",
+      "usta_id": "e2OQAZDAFbpKxu6j0YO1nA=="
+    }
+  ]
+}
